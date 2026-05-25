@@ -1,11 +1,14 @@
 {
+  "codex_cli": "codex-cli 0.133.0-alpha.1",
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-Carlos.local",
+  "last_completed_jobs": [
+    "20260525T012344-handshake-personal-codex",
+    "20260525T012657-auditoria-telegram-contexto-global",
+    "20260525T012658-auditoria-puente-git-y-worker-personal"
+  ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "role": "personal-xh",
   "status": "available",
-  "last_job_id": "20260525T012344-handshake-personal-codex",
-  "last_result": "results/20260525T012344-handshake-personal-codex.result.md",
-  "codex_cli": "codex-cli 0.133.0-alpha.1",
-  "updated_at": "2026-05-25T01:25:58-03:00"
+  "updated_at": "2026-05-25T01:28:31-03:00"
 }
