@@ -79,7 +79,11 @@
     "20260525T123025-presentaciones-pilot-pack",
     "20260525T124108-ai-tools-pilot-prioritization",
     "20260525T124108-artifactdraft-implementation-review",
-    "20260525T124108-telegram-quality-scorecard"
+    "20260525T124108-telegram-quality-scorecard",
+    "20260525T124545-clinica-corpus-gates-backlog-v2",
+    "20260525T124546-reels-cmp-next-editorial-options",
+    "20260525T124718-radares-source-recovery-playbook",
+    "20260525T124718-tesis-protocolo-datos-y-material-audiovisual"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
@@ -88,5 +92,5 @@
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T12:44:47-03:00"
+  "updated_at": "2026-05-25T12:49:11-03:00"
 }
