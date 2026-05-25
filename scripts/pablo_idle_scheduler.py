@@ -311,6 +311,7 @@ id: {job_id}
 assignee: personal-xh
 model: gpt-5.5-xh
 created_at: {now().isoformat(timespec="seconds")}
+front: {item["front"]}
 no_external_actions: true
 no_secrets: true
 status: pending
