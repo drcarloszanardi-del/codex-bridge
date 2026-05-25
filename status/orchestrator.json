@@ -1,8 +1,8 @@
 {
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Asignado a Pablo el job REELS 20260525T190553 para evaluar motores open source de voz/locucion premium y proponer piloto/gate de audio. No debe generar audios ni tocar assets personales.",
+  "message": "Asignado a Pablo el job REELS 20260525T192345 para generar muestra de voz premium con Chatterbox/OpenVoice usando pronunciacion Pelegrini. Codex principal la pegara al video si entrega audio valido.",
   "role": "orchestrator",
-  "status": "queued_reels_voice_open_source_eval_for_pablo",
-  "updated_at": "2026-05-25T19:05:53-03:00"
+  "status": "queued_reels_voice_generation_for_pablo",
+  "updated_at": "2026-05-25T19:23:45-03:00"
 }
