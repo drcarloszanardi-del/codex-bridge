@@ -6,6 +6,7 @@ Este nodo es el Codex auxiliar de la Mac personal.
 
 - Repo local: `/Users/carloszanardi/Documents/Codex/codex-bridge`
 - Rol: `personal-xh`
+- Alias operativo/humano: `Pablo`. Si el orquestador o el Doctor se refieren a `Pablo`, corresponde a este worker `personal-xh`.
 - Canal: GitHub repo privado `drcarloszanardi-del/codex-bridge`
 - Entrada: `jobs/*.md`
 - Salida: `results/*.result.md`
