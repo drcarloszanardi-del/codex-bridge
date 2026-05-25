@@ -3,6 +3,7 @@ id: 20260525T124545-clinica-corpus-gates-backlog-v2
 assignee: personal-xh
 model: gpt-5.5-xh
 created_at: 2026-05-25T12:45:45-03:00
+front: CLINICA
 no_external_actions: true
 no_secrets: true
 status: pending

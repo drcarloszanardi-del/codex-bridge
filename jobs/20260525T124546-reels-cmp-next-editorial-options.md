@@ -3,6 +3,7 @@ id: 20260525T124546-reels-cmp-next-editorial-options
 assignee: personal-xh
 model: gpt-5.5-xh
 created_at: 2026-05-25T12:45:46-03:00
+front: REELS
 no_external_actions: true
 no_secrets: true
 status: pending
