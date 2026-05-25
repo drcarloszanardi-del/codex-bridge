@@ -1,8 +1,8 @@
 {
-  "front": "CODEX-OPS",
+  "front": "REELS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Fase 4 en cola: sintesis ejecutiva, propuestas clinicas, corpus oficial, router Telegram, tool routing, scorecards, ObraCash backup-only, tesis y reels CMP. Orquestador integrara decisiones.",
+  "message": "Pablo idle verificado; nuevo job asignado: 20260525T163832-reels-cmp-standard-ultimo-video-y-locucion.",
   "role": "orchestrator",
-  "status": "queued_phase4_decision_artifacts",
-  "updated_at": "2026-05-25T02:11:05-03:00"
+  "status": "queued_reels_cmp_standard_for_pablo",
+  "updated_at": "2026-05-25T16:39:05-03:00"
 }
