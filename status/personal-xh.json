@@ -36,10 +36,14 @@
     "20260525T021032-radar-scorecards-inmobiliaria-instrumental-v1",
     "20260525T021048-obra-cash-backup-integrity-runbook-no-content",
     "20260525T021049-reels-cmp-premium-pipeline-qa-v1",
-    "20260525T021049-tesis-research-ops-protocol-v1"
+    "20260525T021049-tesis-research-ops-protocol-v1",
+    "20260525T084316-bridge-claim-expiration-release-proposal-v1",
+    "20260525T084316-clinica-integration-checklist-route-guard-fixtures-v2",
+    "20260525T084316-dashboard-simple-flujo-codex-24x7-v1",
+    "20260525T084316-telegram-codex-direct-router-observability-mvp-v2"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T03:51:15-03:00"
+  "updated_at": "2026-05-25T08:52:07-03:00"
 }
