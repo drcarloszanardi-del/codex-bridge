@@ -1,0 +1,795 @@
+1
+00:00:01,730 --> 00:00:05,110
+
+[Música]
+
+2
+00:00:05,110 --> 00:00:05,120
+[Música]
+ 
+
+3
+00:00:05,120 --> 00:00:07,349
+[Música]
+Oye si estás cansado de escuchar agentes
+
+4
+00:00:07,349 --> 00:00:07,359
+Oye si estás cansado de escuchar agentes
+ 
+
+5
+00:00:07,359 --> 00:00:09,230
+Oye si estás cansado de escuchar agentes
+de ia que te resuelven la vida por todos
+
+6
+00:00:09,230 --> 00:00:09,240
+de ia que te resuelven la vida por todos
+ 
+
+7
+00:00:09,240 --> 00:00:11,390
+de ia que te resuelven la vida por todos
+lados y todavía no sabes lo que es uno
+
+8
+00:00:11,390 --> 00:00:11,400
+lados y todavía no sabes lo que es uno
+ 
+
+9
+00:00:11,400 --> 00:00:13,390
+lados y todavía no sabes lo que es uno
+Este vídeo es para ti Y es que todo el
+
+10
+00:00:13,390 --> 00:00:13,400
+Este vídeo es para ti Y es que todo el
+ 
+
+11
+00:00:13,400 --> 00:00:14,829
+Este vídeo es para ti Y es que todo el
+mundo está hablando de ag gente gente
+
+12
+00:00:14,829 --> 00:00:14,839
+mundo está hablando de ag gente gente
+ 
+
+13
+00:00:14,839 --> 00:00:16,510
+mundo está hablando de ag gente gente
+por aquí a gente por acá y nadie te
+
+14
+00:00:16,510 --> 00:00:16,520
+por aquí a gente por acá y nadie te
+ 
+
+15
+00:00:16,520 --> 00:00:18,590
+por aquí a gente por acá y nadie te
+especifica lo que es verdad Pues mira te
+
+16
+00:00:18,590 --> 00:00:18,600
+especifica lo que es verdad Pues mira te
+ 
+
+17
+00:00:18,600 --> 00:00:22,230
+especifica lo que es verdad Pues mira te
+lo cuento un agente es un sistema que
+
+18
+00:00:22,230 --> 00:00:22,240
+lo cuento un agente es un sistema que
+ 
+
+19
+00:00:22,240 --> 00:00:24,310
+lo cuento un agente es un sistema que
+entiende e interpreta su entorno
+
+20
+00:00:24,310 --> 00:00:24,320
+entiende e interpreta su entorno
+ 
+
+21
+00:00:24,320 --> 00:00:26,790
+entiende e interpreta su entorno
+mediante sensórica Y es capaz de actuar
+
+22
+00:00:26,790 --> 00:00:26,800
+mediante sensórica Y es capaz de actuar
+ 
+
+23
+00:00:26,800 --> 00:00:30,470
+mediante sensórica Y es capaz de actuar
+sobre él es decir una conga una rumba
+
+24
+00:00:30,470 --> 00:00:30,480
+sobre él es decir una conga una rumba
+ 
+
+25
+00:00:30,480 --> 00:00:32,950
+sobre él es decir una conga una rumba
+es un agente porque entiende del entorno
+
+26
+00:00:32,950 --> 00:00:32,960
+es un agente porque entiende del entorno
+ 
+
+27
+00:00:32,960 --> 00:00:35,990
+es un agente porque entiende del entorno
+en sensórica y sabe actuar sobre él y
+
+28
+00:00:35,990 --> 00:00:36,000
+en sensórica y sabe actuar sobre él y
+ 
+
+29
+00:00:36,000 --> 00:00:38,150
+en sensórica y sabe actuar sobre él y
+esto que nos ha traído Open Ai los de
+
+30
+00:00:38,150 --> 00:00:38,160
+esto que nos ha traído Open Ai los de
+ 
+
+31
+00:00:38,160 --> 00:00:40,990
+esto que nos ha traído Open Ai los de
+char gpt vale que se llama operator que
+
+32
+00:00:40,990 --> 00:00:41,000
+char gpt vale que se llama operator que
+ 
+
+33
+00:00:41,000 --> 00:00:43,470
+char gpt vale que se llama operator que
+está ahora mismo available para los que
+
+34
+00:00:43,470 --> 00:00:43,480
+está ahora mismo available para los que
+ 
+
+35
+00:00:43,480 --> 00:00:45,950
+está ahora mismo available para los que
+tenemos la suscripción de 200 taril al
+
+36
+00:00:45,950 --> 00:00:45,960
+tenemos la suscripción de 200 taril al
+ 
+
+37
+00:00:45,960 --> 00:00:48,709
+tenemos la suscripción de 200 taril al
+mes Sí sí al mes 200 dolorosos euros
+
+38
+00:00:48,709 --> 00:00:48,719
+mes Sí sí al mes 200 dolorosos euros
+ 
+
+39
+00:00:48,719 --> 00:00:49,990
+mes Sí sí al mes 200 dolorosos euros
+Pues al menos nos han premiado
+
+40
+00:00:49,990 --> 00:00:50,000
+Pues al menos nos han premiado
+ 
+
+41
+00:00:50,000 --> 00:00:51,430
+Pues al menos nos han premiado
+habilitándose
+
+42
+00:00:51,430 --> 00:00:51,440
+habilitándose
+ 
+
+43
+00:00:51,440 --> 00:00:54,229
+habilitándose
+cómo funciona y para qué sirve así que
+
+44
+00:00:54,229 --> 00:00:54,239
+cómo funciona y para qué sirve así que
+ 
+
+45
+00:00:54,239 --> 00:00:56,310
+cómo funciona y para qué sirve así que
+ponte cómodo que allá vamos primero
+
+46
+00:00:56,310 --> 00:00:56,320
+ponte cómodo que allá vamos primero
+ 
+
+47
+00:00:56,320 --> 00:00:58,549
+ponte cómodo que allá vamos primero
+hecho lo típico que te dicen de vamos a
+
+48
+00:00:58,549 --> 00:00:58,559
+hecho lo típico que te dicen de vamos a
+ 
+
+49
+00:00:58,559 --> 00:01:00,630
+hecho lo típico que te dicen de vamos a
+buscar algo y entonces le he dicho Oye
+
+50
+00:01:00,630 --> 00:01:00,640
+buscar algo y entonces le he dicho Oye
+ 
+
+51
+00:01:00,640 --> 00:01:03,229
+buscar algo y entonces le he dicho Oye
+búscame un ordenador potente de unos 64
+
+52
+00:01:03,229 --> 00:01:03,239
+búscame un ordenador potente de unos 64
+ 
+
+53
+00:01:03,239 --> 00:01:05,270
+búscame un ordenador potente de unos 64
+GB de ram pero que tenga una gráfica
+
+54
+00:01:05,270 --> 00:01:05,280
+GB de ram pero que tenga una gráfica
+ 
+
+55
+00:01:05,280 --> 00:01:07,190
+GB de ram pero que tenga una gráfica
+superior a una 4080 que es la que tengo
+
+56
+00:01:07,190 --> 00:01:07,200
+superior a una 4080 que es la que tengo
+ 
+
+57
+00:01:07,200 --> 00:01:09,469
+superior a una 4080 que es la que tengo
+yo y entonces se me ha puesto a buscar y
+
+58
+00:01:09,469 --> 00:01:09,479
+yo y entonces se me ha puesto a buscar y
+ 
+
+59
+00:01:09,479 --> 00:01:11,870
+yo y entonces se me ha puesto a buscar y
+como veis enciende el entorno abre un
+
+60
+00:01:11,870 --> 00:01:11,880
+como veis enciende el entorno abre un
+ 
+
+61
+00:01:11,880 --> 00:01:14,149
+como veis enciende el entorno abre un
+buscador y se pone a buscar Buscar
+
+62
+00:01:14,149 --> 00:01:14,159
+buscador y se pone a buscar Buscar
+ 
+
+63
+00:01:14,159 --> 00:01:16,030
+buscador y se pone a buscar Buscar
+buscar ha estado un buen rato vale Esto
+
+64
+00:01:16,030 --> 00:01:16,040
+buscar ha estado un buen rato vale Esto
+ 
+
+65
+00:01:16,040 --> 00:01:19,109
+buscar ha estado un buen rato vale Esto
+va a cámara rápida pa pa pa pa Y fíjate
+
+66
+00:01:19,109 --> 00:01:19,119
+va a cámara rápida pa pa pa pa Y fíjate
+ 
+
+67
+00:01:19,119 --> 00:01:21,109
+va a cámara rápida pa pa pa pa Y fíjate
+Qué bueno Cómo va buscando buscando se
+
+68
+00:01:21,109 --> 00:01:21,119
+Qué bueno Cómo va buscando buscando se
+ 
+
+69
+00:01:21,119 --> 00:01:23,550
+Qué bueno Cómo va buscando buscando se
+mete en PC componentes tal va viendo
+
+70
+00:01:23,550 --> 00:01:23,560
+mete en PC componentes tal va viendo
+ 
+
+71
+00:01:23,560 --> 00:01:26,429
+mete en PC componentes tal va viendo
+unas webs otras Amazon bla bla y hasta
+
+72
+00:01:26,429 --> 00:01:26,439
+unas webs otras Amazon bla bla y hasta
+ 
+
+73
+00:01:26,439 --> 00:01:28,149
+unas webs otras Amazon bla bla y hasta
+que al final encuentran un ordenador que
+
+74
+00:01:28,149 --> 00:01:28,159
+que al final encuentran un ordenador que
+ 
+
+75
+00:01:28,159 --> 00:01:29,910
+que al final encuentran un ordenador que
+la verdad es que es muy potente está
+
+76
+00:01:29,910 --> 00:01:29,920
+la verdad es que es muy potente está
+ 
+
+77
+00:01:29,920 --> 00:01:32,590
+la verdad es que es muy potente está
+superb y dice Oye pero no tiene una
+
+78
+00:01:32,590 --> 00:01:32,600
+superb y dice Oye pero no tiene una
+ 
+
+79
+00:01:32,600 --> 00:01:35,149
+superb y dice Oye pero no tiene una
+tarjeta superior a esta y digo Sabes qué
+
+80
+00:01:35,149 --> 00:01:35,159
+tarjeta superior a esta y digo Sabes qué
+ 
+
+81
+00:01:35,159 --> 00:01:37,350
+tarjeta superior a esta y digo Sabes qué
+No entiendo tanto de tarjetas vale pero
+
+82
+00:01:37,350 --> 00:01:37,360
+No entiendo tanto de tarjetas vale pero
+ 
+
+83
+00:01:37,360 --> 00:01:39,710
+No entiendo tanto de tarjetas vale pero
+he visto cómo ha ido de lado a lado
+
+84
+00:01:39,710 --> 00:01:39,720
+he visto cómo ha ido de lado a lado
+ 
+
+85
+00:01:39,720 --> 00:01:42,510
+he visto cómo ha ido de lado a lado
+entendiendo el entorno esto se parece
+
+86
+00:01:42,510 --> 00:01:42,520
+entendiendo el entorno esto se parece
+ 
+
+87
+00:01:42,520 --> 00:01:45,030
+entendiendo el entorno esto se parece
+mucho a programas que he usado
+
+88
+00:01:45,030 --> 00:01:45,040
+mucho a programas que he usado
+ 
+
+89
+00:01:45,040 --> 00:01:47,149
+mucho a programas que he usado
+anteriormente como selenium o autotouch
+
+90
+00:01:47,149 --> 00:01:47,159
+anteriormente como selenium o autotouch
+ 
+
+91
+00:01:47,159 --> 00:01:49,789
+anteriormente como selenium o autotouch
+que entendiendo las coordenadas de un
+
+92
+00:01:49,789 --> 00:01:49,799
+que entendiendo las coordenadas de un
+ 
+
+93
+00:01:49,799 --> 00:01:52,190
+que entendiendo las coordenadas de un
+entorno lo programaba para actuar sobre
+
+94
+00:01:52,190 --> 00:01:52,200
+entorno lo programaba para actuar sobre
+ 
+
+95
+00:01:52,200 --> 00:01:54,030
+entorno lo programaba para actuar sobre
+él en este caso la gente está
+
+96
+00:01:54,030 --> 00:01:54,040
+él en este caso la gente está
+ 
+
+97
+00:01:54,040 --> 00:01:56,350
+él en este caso la gente está
+reconociendo mediante identificación de
+
+98
+00:01:56,350 --> 00:01:56,360
+reconociendo mediante identificación de
+ 
+
+99
+00:01:56,360 --> 00:01:59,190
+reconociendo mediante identificación de
+imágenes etcétera lo que es el entorno y
+
+100
+00:01:59,190 --> 00:01:59,200
+imágenes etcétera lo que es el entorno y
+ 
+
+101
+00:01:59,200 --> 00:02:01,550
+imágenes etcétera lo que es el entorno y
+está actuando sobre él por eso es un
+
+102
+00:02:01,550 --> 00:02:01,560
+está actuando sobre él por eso es un
+ 
+
+103
+00:02:01,560 --> 00:02:04,190
+está actuando sobre él por eso es un
+agente Y entonces he dicho Bueno voy a
+
+104
+00:02:04,190 --> 00:02:04,200
+agente Y entonces he dicho Bueno voy a
+ 
+
+105
+00:02:04,200 --> 00:02:06,230
+agente Y entonces he dicho Bueno voy a
+pasar de lo típico en lugar de eso me
+
+106
+00:02:06,230 --> 00:02:06,240
+pasar de lo típico en lugar de eso me
+ 
+
+107
+00:02:06,240 --> 00:02:07,830
+pasar de lo típico en lugar de eso me
+voy a poner a jugar con él a un escape
+
+108
+00:02:07,830 --> 00:02:07,840
+voy a poner a jugar con él a un escape
+ 
+
+109
+00:02:07,840 --> 00:02:09,949
+voy a poner a jugar con él a un escape
+room y es muy divertido Porque fíjate
+
+110
+00:02:09,949 --> 00:02:09,959
+room y es muy divertido Porque fíjate
+ 
+
+111
+00:02:09,959 --> 00:02:11,830
+room y es muy divertido Porque fíjate
+Cómo va pasando de lado a lado va
+
+112
+00:02:11,830 --> 00:02:11,840
+Cómo va pasando de lado a lado va
+ 
+
+113
+00:02:11,840 --> 00:02:13,750
+Cómo va pasando de lado a lado va
+interpretando los sitios Y aunque
+
+114
+00:02:13,750 --> 00:02:13,760
+interpretando los sitios Y aunque
+ 
+
+115
+00:02:13,760 --> 00:02:15,430
+interpretando los sitios Y aunque
+llevamos un buen rato jugando y le voy
+
+116
+00:02:15,430 --> 00:02:15,440
+llevamos un buen rato jugando y le voy
+ 
+
+117
+00:02:15,440 --> 00:02:17,550
+llevamos un buen rato jugando y le voy
+dando pistas de lo que quiero que haga
+
+118
+00:02:17,550 --> 00:02:17,560
+dando pistas de lo que quiero que haga
+ 
+
+119
+00:02:17,560 --> 00:02:19,710
+dando pistas de lo que quiero que haga
+todavía no es autónomo de vez en cuando
+
+120
+00:02:19,710 --> 00:02:19,720
+todavía no es autónomo de vez en cuando
+ 
+
+121
+00:02:19,720 --> 00:02:21,670
+todavía no es autónomo de vez en cuando
+puedo el control o decirle lo que
+
+122
+00:02:21,670 --> 00:02:21,680
+puedo el control o decirle lo que
+ 
+
+123
+00:02:21,680 --> 00:02:23,869
+puedo el control o decirle lo que
+quiero que haga aquí en la barra lateral
+
+124
+00:02:23,869 --> 00:02:23,879
+quiero que haga aquí en la barra lateral
+ 
+
+125
+00:02:23,879 --> 00:02:26,110
+quiero que haga aquí en la barra lateral
+es muy parecido a un gpt solo que va
+
+126
+00:02:26,110 --> 00:02:26,120
+es muy parecido a un gpt solo que va
+ 
+
+127
+00:02:26,120 --> 00:02:27,910
+es muy parecido a un gpt solo que va
+actuando y tú vas viendo lo que hace por
+
+128
+00:02:27,910 --> 00:02:27,920
+actuando y tú vas viendo lo que hace por
+ 
+
+129
+00:02:27,920 --> 00:02:30,030
+actuando y tú vas viendo lo que hace por
+la pantalla vale se abre el navegador
+
+130
+00:02:30,030 --> 00:02:30,040
+la pantalla vale se abre el navegador
+ 
+
+131
+00:02:30,040 --> 00:02:32,910
+la pantalla vale se abre el navegador
+ese y por ahí va pues rulando y va
+
+132
+00:02:32,910 --> 00:02:32,920
+ese y por ahí va pues rulando y va
+ 
+
+133
+00:02:32,920 --> 00:02:34,830
+ese y por ahí va pues rulando y va
+tocando cosas que tú le digas y como
+
+134
+00:02:34,830 --> 00:02:34,840
+tocando cosas que tú le digas y como
+ 
+
+135
+00:02:34,840 --> 00:02:36,790
+tocando cosas que tú le digas y como
+toda tecnología todavía le falta mucho
+
+136
+00:02:36,790 --> 00:02:36,800
+toda tecnología todavía le falta mucho
+ 
+
+137
+00:02:36,800 --> 00:02:39,630
+toda tecnología todavía le falta mucho
+que mejorar pero me parece un avance muy
+
+138
+00:02:39,630 --> 00:02:39,640
+que mejorar pero me parece un avance muy
+ 
+
+139
+00:02:39,640 --> 00:02:41,390
+que mejorar pero me parece un avance muy
+muy bueno Así que como te acabo de
+
+140
+00:02:41,390 --> 00:02:41,400
+muy bueno Así que como te acabo de
+ 
+
+141
+00:02:41,400 --> 00:02:42,949
+muy bueno Así que como te acabo de
+explicar lo que es un agente que no lo
+
+142
+00:02:42,949 --> 00:02:42,959
+explicar lo que es un agente que no lo
+ 
+
+143
+00:02:42,959 --> 00:02:44,790
+explicar lo que es un agente que no lo
+sabías muy bien y ahora sí lo has
+
+144
+00:02:44,790 --> 00:02:44,800
+sabías muy bien y ahora sí lo has
+ 
+
+145
+00:02:44,800 --> 00:02:46,869
+sabías muy bien y ahora sí lo has
+entendido déjame un pedazo de like
+
+146
+00:02:46,869 --> 00:02:46,879
+entendido déjame un pedazo de like
+ 
+
+147
+00:02:46,879 --> 00:02:48,589
+entendido déjame un pedazo de like
+guárdatelo para que no se te olvide
+
+148
+00:02:48,589 --> 00:02:48,599
+guárdatelo para que no se te olvide
+ 
+
+149
+00:02:48,599 --> 00:02:50,430
+guárdatelo para que no se te olvide
+reenvías Elo a esta gente que te habla
+
+150
+00:02:50,430 --> 00:02:50,440
+reenvías Elo a esta gente que te habla
+ 
+
+151
+00:02:50,440 --> 00:02:52,790
+reenvías Elo a esta gente que te habla
+de agentes agentes y no tiene ni idea lo
+
+152
+00:02:52,790 --> 00:02:52,800
+de agentes agentes y no tiene ni idea lo
+ 
+
+153
+00:02:52,800 --> 00:02:54,430
+de agentes agentes y no tiene ni idea lo
+que es y no dejes de seguirme para
+
+154
+00:02:54,430 --> 00:02:54,440
+que es y no dejes de seguirme para
+ 
+
+155
+00:02:54,440 --> 00:02:56,270
+que es y no dejes de seguirme para
+seguir aprendiendo todos los días de Big
+
+156
+00:02:56,270 --> 00:02:56,280
+seguir aprendiendo todos los días de Big
+ 
+
+157
+00:02:56,280 --> 00:02:58,270
+seguir aprendiendo todos los días de Big
+Data Inteligencia artificial en tu día a
+
+158
+00:02:58,270 --> 00:02:58,280
+Data Inteligencia artificial en tu día a
+ 
+
+159
+00:02:58,280 --> 00:03:02,000
+Data Inteligencia artificial en tu día a
+día y en tu trabajo ev
+

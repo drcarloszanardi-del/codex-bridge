@@ -1,0 +1,6725 @@
+1
+00:00:00,240 --> 00:00:02,470
+
+And now we continue with Pablo Álvarez
+
+2
+00:00:02,470 --> 00:00:02,480
+And now we continue with Pablo Álvarez
+ 
+
+3
+00:00:02,480 --> 00:00:06,389
+And now we continue with Pablo Álvarez
+Ascunaga. He's known as Max Max Data,
+
+4
+00:00:06,389 --> 00:00:06,399
+Ascunaga. He's known as Max Max Data,
+ 
+
+5
+00:00:06,399 --> 00:00:09,030
+Ascunaga. He's known as Max Max Data,
+and some of you probably
+
+6
+00:00:09,030 --> 00:00:09,040
+and some of you probably
+ 
+
+7
+00:00:09,040 --> 00:00:11,150
+and some of you probably
+also know him for his outreach work on
+
+8
+00:00:11,150 --> 00:00:11,160
+also know him for his outreach work on
+ 
+
+9
+00:00:11,160 --> 00:00:14,230
+also know him for his outreach work on
+AI, because Pablo is CEO of MMD and a
+
+10
+00:00:14,230 --> 00:00:14,240
+AI, because Pablo is CEO of MMD and a
+ 
+
+11
+00:00:14,240 --> 00:00:16,670
+AI, because Pablo is CEO of MMD and a
+professor of Big Data, Business
+
+12
+00:00:16,670 --> 00:00:16,680
+professor of Big Data, Business
+ 
+
+13
+00:00:16,680 --> 00:00:19,109
+professor of Big Data, Business
+Intelligence, and Artificial Intelligence
+
+14
+00:00:19,109 --> 00:00:19,119
+Intelligence, and Artificial Intelligence
+ 
+
+15
+00:00:19,119 --> 00:00:22,230
+Intelligence, and Artificial Intelligence
+at the University of Deusto. Look, Pablo,
+
+16
+00:00:22,230 --> 00:00:22,240
+at the University of Deusto. Look, Pablo,
+ 
+
+17
+00:00:22,240 --> 00:00:24,150
+at the University of Deusto. Look, Pablo,
+how formal! He's already waiting for me. Very well, well, give me a
+
+18
+00:00:24,150 --> 00:00:24,160
+how formal! He's already waiting for me. Very well, well, give me a
+ 
+
+19
+00:00:24,160 --> 00:00:28,950
+how formal! He's already waiting for me. Very well, well, give me a
+
+20
+00:00:28,950 --> 00:00:28,960
+
+ 
+
+21
+00:00:28,960 --> 00:00:32,190
+
+hand. Who's heard that AI is
+
+22
+00:00:32,190 --> 00:00:32,200
+hand. Who's heard that AI is
+ 
+
+23
+00:00:32,200 --> 00:00:35,549
+hand. Who's heard that AI is
+going to take our
+
+24
+00:00:35,549 --> 00:00:35,559
+going to take our
+ 
+
+25
+00:00:35,559 --> 00:00:39,350
+going to take our
+jobs? Raise your hands if you haven't. Raise your hands if you haven't.
+
+26
+00:00:39,350 --> 00:00:40,709
+jobs? Raise your hands if you haven't. Raise your hands if you haven't.
+ 
+
+27
+00:00:40,709 --> 00:00:40,719
+
+ 
+
+28
+00:00:40,719 --> 00:00:42,430
+
+You have to participate sometime, okay? Well, I'm here
+
+29
+00:00:42,430 --> 00:00:42,440
+You have to participate sometime, okay? Well, I'm here
+ 
+
+30
+00:00:42,440 --> 00:00:44,029
+You have to participate sometime, okay? Well, I'm here
+
+31
+00:00:44,029 --> 00:00:44,039
+
+ 
+
+32
+00:00:44,039 --> 00:00:49,069
+
+to tell you, I'm here to
+
+33
+00:00:49,069 --> 00:00:49,079
+to tell you, I'm here to
+ 
+
+34
+00:00:49,079 --> 00:00:50,630
+to tell you, I'm here to
+give you a
+
+35
+00:00:50,630 --> 00:00:50,640
+give you a
+ 
+
+36
+00:00:50,640 --> 00:00:53,869
+give you a
+different kind of talk. In fact, I have a
+
+37
+00:00:53,869 --> 00:00:53,879
+different kind of talk. In fact, I have a
+ 
+
+38
+00:00:53,879 --> 00:00:57,950
+different kind of talk. In fact, I have a
+talk, and we're going to talk about what
+
+39
+00:00:57,950 --> 00:00:57,960
+talk, and we're going to talk about what
+ 
+
+40
+00:00:57,960 --> 00:01:01,590
+talk, and we're going to talk about what
+Artificial Intelligence is, why we're here,
+
+41
+00:01:01,590 --> 00:01:01,600
+Artificial Intelligence is, why we're here,
+ 
+
+42
+00:01:01,600 --> 00:01:03,430
+Artificial Intelligence is, why we're here,
+what we're going to expect from it, to
+
+43
+00:01:03,430 --> 00:01:03,440
+what we're going to expect from it, to
+ 
+
+44
+00:01:03,440 --> 00:01:06,230
+what we're going to expect from it, to
+demystify many things, and the first thing
+
+45
+00:01:06,230 --> 00:01:06,240
+demystify many things, and the first thing
+ 
+
+46
+00:01:06,240 --> 00:01:09,789
+demystify many things, and the first thing
+is that we're going to see, we have to coexist with AI.
+
+47
+00:01:09,789 --> 00:01:09,799
+is that we're going to see, we have to coexist with AI.
+ 
+
+48
+00:01:09,799 --> 00:01:11,670
+is that we're going to see, we have to coexist with AI.
+
+49
+00:01:11,670 --> 00:01:15,070
+
+ 
+
+50
+00:01:15,070 --> 00:01:15,080
+
+ 
+
+51
+00:01:15,080 --> 00:01:17,910
+
+Humans have to coexist. Why? Because
+
+52
+00:01:17,910 --> 00:01:17,920
+Humans have to coexist. Why? Because
+ 
+
+53
+00:01:17,920 --> 00:01:20,510
+Humans have to coexist. Why? Because
+by nature we are different, we are
+
+54
+00:01:20,510 --> 00:01:20,520
+by nature we are different, we are
+ 
+
+55
+00:01:20,520 --> 00:01:24,510
+by nature we are different, we are
+resistant to change. Victor, if I tell you
+
+56
+00:01:24,510 --> 00:01:24,520
+resistant to change. Victor, if I tell you
+ 
+
+57
+00:01:24,520 --> 00:01:26,550
+resistant to change. Victor, if I tell you
+tomorrow you're moving house, what do you say?
+
+58
+00:01:26,550 --> 00:01:26,560
+tomorrow you're moving house, what do you say?
+ 
+
+59
+00:01:26,560 --> 00:01:28,830
+tomorrow you're moving house, what do you say?
+The first thing that changed
+
+60
+00:01:28,830 --> 00:01:28,840
+The first thing that changed
+ 
+
+61
+00:01:28,840 --> 00:01:30,550
+The first thing that changed
+last week, okay?
+
+62
+00:01:30,550 --> 00:01:30,560
+last week, okay?
+ 
+
+63
+00:01:30,560 --> 00:01:33,389
+last week, okay?
+Yes or
+
+64
+00:01:33,389 --> 00:01:33,399
+
+ 
+
+65
+00:01:33,399 --> 00:01:36,389
+
+no? Andrea, I tell you tomorrow you're moving
+
+66
+00:01:36,389 --> 00:01:36,399
+no? Andrea, I tell you tomorrow you're moving
+ 
+
+67
+00:01:36,399 --> 00:01:39,350
+no? Andrea, I tell you tomorrow you're moving
+house, tomorrow you're moving  At
+
+68
+00:01:39,350 --> 00:01:39,360
+house, tomorrow you're moving  At
+ 
+
+69
+00:01:39,360 --> 00:01:42,670
+house, tomorrow you're moving  At
+first, we reject the
+
+70
+00:01:42,670 --> 00:01:42,680
+first, we reject the
+ 
+
+71
+00:01:42,680 --> 00:01:46,350
+first, we reject the
+change at work. Then you say, what job? What house?
+
+72
+00:01:46,350 --> 00:01:46,360
+change at work. Then you say, what job? What house?
+ 
+
+73
+00:01:46,360 --> 00:01:49,190
+change at work. Then you say, what job? What house?
+What partner? Let's see, let's see,
+
+74
+00:01:49,190 --> 00:01:49,200
+What partner? Let's see, let's see,
+ 
+
+75
+00:01:49,200 --> 00:01:51,590
+What partner? Let's see, let's see,
+but think about it:
+
+76
+00:01:51,590 --> 00:01:51,600
+but think about it:
+ 
+
+77
+00:01:51,600 --> 00:01:55,389
+but think about it:
+our minds work in a certain way,
+
+78
+00:01:55,389 --> 00:01:55,399
+our minds work in a certain way,
+ 
+
+79
+00:01:55,399 --> 00:01:58,389
+our minds work in a certain way,
+and this is very disruptive. Anything goes.
+
+80
+00:01:58,389 --> 00:01:58,399
+and this is very disruptive. Anything goes.
+ 
+
+81
+00:01:58,399 --> 00:02:01,550
+and this is very disruptive. Anything goes.
+And
+
+82
+00:02:01,550 --> 00:02:01,560
+And
+ 
+
+83
+00:02:01,560 --> 00:02:03,709
+And
+intelligence, for this to be possible,
+
+84
+00:02:03,709 --> 00:02:03,719
+intelligence, for this to be possible,
+ 
+
+85
+00:02:03,719 --> 00:02:06,310
+intelligence, for this to be possible,
+generative artificial intelligence.
+
+86
+00:02:06,310 --> 00:02:06,320
+generative artificial intelligence.
+ 
+
+87
+00:02:06,320 --> 00:02:07,630
+generative artificial intelligence.
+A lot of
+
+88
+00:02:07,630 --> 00:02:07,640
+A lot of
+ 
+
+89
+00:02:07,640 --> 00:02:10,510
+A lot of
+things have had to be developed. Without Big Data, there couldn't be... let's
+
+90
+00:02:10,510 --> 00:02:10,520
+things have had to be developed. Without Big Data, there couldn't be... let's
+ 
+
+91
+00:02:10,520 --> 00:02:13,790
+things have had to be developed. Without Big Data, there couldn't be... let's
+see, the Wii couldn't
+
+92
+00:02:13,790 --> 00:02:13,800
+see, the Wii couldn't
+ 
+
+93
+00:02:13,800 --> 00:02:17,030
+see, the Wii couldn't
+exist. Generative artificial intelligence
+
+94
+00:02:17,030 --> 00:02:17,040
+exist. Generative artificial intelligence
+ 
+
+95
+00:02:17,040 --> 00:02:19,790
+exist. Generative artificial intelligence
+that comes down here after
+
+96
+00:02:19,790 --> 00:02:19,800
+that comes down here after
+ 
+
+97
+00:02:19,800 --> 00:02:22,350
+that comes down here after
+we can do machine learning, deep
+
+98
+00:02:22,350 --> 00:02:22,360
+we can do machine learning, deep
+ 
+
+99
+00:02:22,360 --> 00:02:24,830
+we can do machine learning, deep
+learning, neural networks. In fact,
+
+100
+00:02:24,830 --> 00:02:24,840
+learning, neural networks. In fact,
+ 
+
+101
+00:02:24,840 --> 00:02:28,509
+learning, neural networks. In fact,
+this year the Nobel Prize in Physics was awarded to
+
+102
+00:02:28,509 --> 00:02:28,519
+this year the Nobel Prize in Physics was awarded to
+ 
+
+103
+00:02:28,519 --> 00:02:30,350
+this year the Nobel Prize in Physics was awarded to
+two
+
+104
+00:02:30,350 --> 00:02:30,360
+two
+ 
+
+105
+00:02:30,360 --> 00:02:32,190
+two
+who laid the foundations of
+
+106
+00:02:32,190 --> 00:02:32,200
+who laid the foundations of
+ 
+
+107
+00:02:32,200 --> 00:02:34,350
+who laid the foundations of
+neural networks, without which we wouldn't
+
+108
+00:02:34,350 --> 00:02:34,360
+neural networks, without which we wouldn't
+ 
+
+109
+00:02:34,360 --> 00:02:35,390
+neural networks, without which we wouldn't
+have this
+
+110
+00:02:35,390 --> 00:02:35,400
+have this
+ 
+
+111
+00:02:35,400 --> 00:02:38,070
+have this
+today. Okay. And the one in Mathematics? No,
+
+112
+00:02:38,070 --> 00:02:38,080
+today. Okay. And the one in Mathematics? No,
+ 
+
+113
+00:02:38,080 --> 00:02:39,910
+today. Okay. And the one in Mathematics? No,
+because it doesn't exist, but that's another
+
+114
+00:02:39,910 --> 00:02:39,920
+because it doesn't exist, but that's another
+ 
+
+115
+00:02:39,920 --> 00:02:43,710
+because it doesn't exist, but that's another
+story. Alan Turing in 1930. This isn't done that much. It hasn't even been
+
+116
+00:02:43,710 --> 00:02:43,720
+story. Alan Turing in 1930. This isn't done that much. It hasn't even been
+ 
+
+117
+00:02:43,720 --> 00:02:45,470
+story. Alan Turing in 1930. This isn't done that much. It hasn't even been
+100 years since
+
+118
+00:02:45,470 --> 00:02:45,480
+100 years since
+ 
+
+119
+00:02:45,480 --> 00:02:47,990
+100 years since
+all this. A machine that started
+
+120
+00:02:47,990 --> 00:02:48,000
+all this. A machine that started
+ 
+
+121
+00:02:48,000 --> 00:02:51,229
+all this. A machine that started
+making its own decisions. Okay,
+
+122
+00:02:51,229 --> 00:02:51,239
+making its own decisions. Okay,
+ 
+
+123
+00:02:51,239 --> 00:02:53,470
+making its own decisions. Okay,
+the most important minds got together in 1950 and
+
+124
+00:02:53,470 --> 00:02:53,480
+the most important minds got together in 1950 and
+ 
+
+125
+00:02:53,480 --> 00:02:56,030
+the most important minds got together in 1950 and
+said, "Hey, let's define this, this
+
+126
+00:02:56,030 --> 00:02:56,040
+said, "Hey, let's define this, this
+ 
+
+127
+00:02:56,040 --> 00:02:58,149
+said, "Hey, let's define this, this
+has appeal. We're going to achieve something with
+
+128
+00:02:58,149 --> 00:02:58,159
+has appeal. We're going to achieve something with
+ 
+
+129
+00:02:58,159 --> 00:03:02,149
+has appeal. We're going to achieve something with
+artificial intelligence." In 1956, they said, "
+
+130
+00:03:02,149 --> 00:03:02,159
+artificial intelligence." In 1956, they said, "
+ 
+
+131
+00:03:02,159 --> 00:03:04,550
+artificial intelligence." In 1956, they said, "
+What is artificial intelligence?
+
+132
+00:03:04,550 --> 00:03:04,560
+What is artificial intelligence?
+ 
+
+133
+00:03:04,560 --> 00:03:06,750
+What is artificial intelligence?
+Let's give it a definition." And it was
+
+134
+00:03:06,750 --> 00:03:06,760
+Let's give it a definition." And it was
+ 
+
+135
+00:03:06,760 --> 00:03:08,430
+Let's give it a definition." And it was
+difficult to say what intelligence is.
+
+136
+00:03:08,430 --> 00:03:08,440
+difficult to say what intelligence is.
+ 
+
+137
+00:03:08,440 --> 00:03:12,190
+difficult to say what intelligence is.
+Define it.  After that, well, all that
+
+138
+00:03:12,190 --> 00:03:12,200
+Define it.  After that, well, all that
+ 
+
+139
+00:03:12,200 --> 00:03:14,670
+Define it.  After that, well, all that
+done by a computer, he says. Well,
+
+140
+00:03:14,670 --> 00:03:14,680
+done by a computer, he says. Well,
+ 
+
+141
+00:03:14,680 --> 00:03:16,430
+done by a computer, he says. Well,
+we have computers that start here
+
+142
+00:03:16,430 --> 00:03:16,440
+we have computers that start here
+ 
+
+143
+00:03:16,440 --> 00:03:17,830
+we have computers that start here
+doing many things, and the
+
+144
+00:03:17,830 --> 00:03:17,840
+doing many things, and the
+ 
+
+145
+00:03:17,840 --> 00:03:19,990
+doing many things, and the
+computing power... what happened?
+
+146
+00:03:19,990 --> 00:03:20,000
+computing power... what happened?
+ 
+
+147
+00:03:20,000 --> 00:03:24,110
+computing power... what happened?
+The first GPT chat came out in 1960, and
+
+148
+00:03:24,110 --> 00:03:24,120
+The first GPT chat came out in 1960, and
+ 
+
+149
+00:03:24,120 --> 00:03:26,630
+The first GPT chat came out in 1960, and
+people were blown away. Now, in the early 2000s,
+
+150
+00:03:26,630 --> 00:03:26,640
+people were blown away. Now, in the early 2000s,
+ 
+
+151
+00:03:26,640 --> 00:03:29,309
+people were blown away. Now, in the early 2000s,
+if it already existed, you can try it at that
+
+152
+00:03:29,309 --> 00:03:29,319
+if it already existed, you can try it at that
+ 
+
+153
+00:03:29,319 --> 00:03:30,390
+if it already existed, you can try it at that
+link. It goes along with you,
+
+154
+00:03:30,390 --> 00:03:30,400
+link. It goes along with you,
+ 
+
+155
+00:03:30,400 --> 00:03:32,270
+link. It goes along with you,
+but people were
+
+156
+00:03:32,270 --> 00:03:32,280
+but people were
+ 
+
+157
+00:03:32,280 --> 00:03:36,509
+but people were
+amazed, saying, "Wow! This responds to me!" And
+
+158
+00:03:36,509 --> 00:03:36,519
+amazed, saying, "Wow! This responds to me!" And
+ 
+
+159
+00:03:36,519 --> 00:03:38,789
+amazed, saying, "Wow! This responds to me!" And
+also, I'm playing with it, and, "Hey, I'm
+
+160
+00:03:38,789 --> 00:03:38,799
+also, I'm playing with it, and, "Hey, I'm
+ 
+
+161
+00:03:38,799 --> 00:03:40,589
+also, I'm playing with it, and, "Hey, I'm
+doing this." "Oh, you're doing this?" It flatters you, it flatters you,
+
+162
+00:03:40,589 --> 00:03:40,599
+doing this." "Oh, you're doing this?" It flatters you, it flatters you,
+ 
+
+163
+00:03:40,599 --> 00:03:43,350
+doing this." "Oh, you're doing this?" It flatters you, it flatters you,
+but those were
+
+164
+00:03:43,350 --> 00:03:43,360
+but those were
+ 
+
+165
+00:03:43,360 --> 00:03:45,830
+but those were
+very
+
+166
+00:03:45,830 --> 00:03:45,840
+very
+ 
+
+167
+00:03:45,840 --> 00:03:48,190
+very
+powerful beginnings. The winters of AI arrive,
+
+168
+00:03:48,190 --> 00:03:48,200
+powerful beginnings. The winters of AI arrive,
+ 
+
+169
+00:03:48,200 --> 00:03:50,309
+powerful beginnings. The winters of AI arrive,
+more winters are coming. Keep this term in mind;
+
+170
+00:03:50,309 --> 00:03:50,319
+more winters are coming. Keep this term in mind;
+ 
+
+171
+00:03:50,319 --> 00:03:52,710
+more winters are coming. Keep this term in mind;
+this is when there is no
+
+172
+00:03:52,710 --> 00:03:52,720
+this is when there is no
+ 
+
+173
+00:03:52,720 --> 00:03:55,309
+this is when there is no
+progress and expectations are not met,
+
+174
+00:03:55,309 --> 00:03:56,830
+progress and expectations are not met,
+ 
+
+175
+00:03:56,830 --> 00:03:56,840
+
+ 
+
+176
+00:03:56,840 --> 00:03:59,030
+
+funding is cut off, we don't reach it, we don't reach it, we don't reach it, there's no enough,
+
+177
+00:03:59,030 --> 00:04:01,190
+funding is cut off, we don't reach it, we don't reach it, we don't reach it, there's no enough,
+ 
+
+178
+00:04:01,190 --> 00:04:01,200
+
+ 
+
+179
+00:04:01,200 --> 00:04:04,309
+
+logically. And what happens? This year arrives,
+
+180
+00:04:04,309 --> 00:04:04,319
+logically. And what happens? This year arrives,
+ 
+
+181
+00:04:04,319 --> 00:04:07,229
+logically. And what happens? This year arrives,
+we know all this story:
+
+182
+00:04:07,229 --> 00:04:07,239
+we know all this story:
+ 
+
+183
+00:04:07,239 --> 00:04:11,350
+we know all this story:
+humanity and machines, there's nothing
+
+184
+00:04:11,350 --> 00:04:11,360
+humanity and machines, there's nothing
+ 
+
+185
+00:04:11,360 --> 00:04:15,509
+humanity and machines, there's nothing
+more. We have machines that are going to crush
+
+186
+00:04:15,509 --> 00:04:15,519
+more. We have machines that are going to crush
+ 
+
+187
+00:04:15,519 --> 00:04:17,270
+more. We have machines that are going to crush
+someone at chess, he says. Well, we
+
+188
+00:04:17,270 --> 00:04:17,280
+someone at chess, he says. Well, we
+ 
+
+189
+00:04:17,280 --> 00:04:18,830
+someone at chess, he says. Well, we
+have Garry Kasparov, a guy who's
+
+190
+00:04:18,830 --> 00:04:18,840
+have Garry Kasparov, a guy who's
+ 
+
+191
+00:04:18,840 --> 00:04:23,030
+have Garry Kasparov, a guy who's
+very good at it. Garry comes along and starts playing, he
+
+192
+00:04:23,030 --> 00:04:23,040
+very good at it. Garry comes along and starts playing, he
+ 
+
+193
+00:04:23,040 --> 00:04:25,990
+very good at it. Garry comes along and starts playing, he
+says, "This artificial intelligence, because
+
+194
+00:04:25,990 --> 00:04:26,000
+says, "This artificial intelligence, because
+ 
+
+195
+00:04:26,000 --> 00:04:27,189
+says, "This artificial intelligence, because
+really, what is
+
+196
+00:04:27,189 --> 00:04:27,199
+really, what is
+ 
+
+197
+00:04:27,199 --> 00:04:28,469
+really, what is
+artificial intelligence? It's a simulation of a
+
+198
+00:04:28,469 --> 00:04:28,479
+artificial intelligence? It's a simulation of a
+ 
+
+199
+00:04:28,479 --> 00:04:30,469
+artificial intelligence? It's a simulation of a
+human brain,
+
+200
+00:04:30,469 --> 00:04:30,479
+human brain,
+ 
+
+201
+00:04:30,479 --> 00:04:32,749
+human brain,
+what is it
+
+202
+00:04:32,749 --> 00:04:32,759
+what is it
+ 
+
+203
+00:04:32,759 --> 00:04:36,590
+what is it
+ever going to do in this..."  Throughout the
+
+204
+00:04:36,590 --> 00:04:36,600
+ever going to do in this..."  Throughout the
+ 
+
+205
+00:04:36,600 --> 00:04:40,110
+ever going to do in this..."  Throughout the
+history of humankind,
+
+206
+00:04:40,110 --> 00:04:40,120
+history of humankind,
+ 
+
+207
+00:04:40,120 --> 00:04:43,270
+history of humankind,
+we've never doubted that we're the
+
+208
+00:04:43,270 --> 00:04:43,280
+we've never doubted that we're the
+ 
+
+209
+00:04:43,280 --> 00:04:46,870
+we've never doubted that we're the
+smartest beings in the world. We're not
+
+210
+00:04:46,870 --> 00:04:46,880
+smartest beings in the world. We're not
+ 
+
+211
+00:04:46,880 --> 00:04:48,670
+smartest beings in the world. We're not
+stronger than a gorilla because a gorilla will
+
+212
+00:04:48,670 --> 00:04:48,680
+stronger than a gorilla because a gorilla will
+ 
+
+213
+00:04:48,680 --> 00:04:50,350
+stronger than a gorilla because a gorilla will
+grab you and beat you senseless if you try to fight it,
+
+214
+00:04:50,350 --> 00:04:53,310
+grab you and beat you senseless if you try to fight it,
+ 
+
+215
+00:04:53,310 --> 00:04:53,320
+
+ 
+
+216
+00:04:53,320 --> 00:04:56,029
+
+right? We're not
+
+217
+00:04:56,029 --> 00:04:56,039
+right? We're not
+ 
+
+218
+00:04:56,039 --> 00:04:58,790
+right? We're not
+faster. We don't swim faster
+
+219
+00:04:58,790 --> 00:04:58,800
+faster. We don't swim faster
+ 
+
+220
+00:04:58,800 --> 00:05:01,430
+faster. We don't swim faster
+than a fish either. We're not the best at anything other
+
+221
+00:05:01,430 --> 00:05:01,440
+than a fish either. We're not the best at anything other
+ 
+
+222
+00:05:01,440 --> 00:05:03,189
+than a fish either. We're not the best at anything other
+than being the smartest. Because I take something, build
+
+223
+00:05:03,189 --> 00:05:03,199
+than being the smartest. Because I take something, build
+ 
+
+224
+00:05:03,199 --> 00:05:04,870
+than being the smartest. Because I take something, build
+a boat, hit it with an
+
+225
+00:05:04,870 --> 00:05:04,880
+a boat, hit it with an
+ 
+
+226
+00:05:04,880 --> 00:05:07,749
+a boat, hit it with an
+oar, and hunt it with a harpoon. And the other guy
+
+227
+00:05:07,749 --> 00:05:07,759
+oar, and hunt it with a harpoon. And the other guy
+ 
+
+228
+00:05:07,759 --> 00:05:09,510
+oar, and hunt it with a harpoon. And the other guy
+takes some weapons and builds some
+
+229
+00:05:09,510 --> 00:05:09,520
+takes some weapons and builds some
+ 
+
+230
+00:05:09,520 --> 00:05:11,310
+takes some weapons and builds some
+houses, and with my intelligence and my
+
+231
+00:05:11,310 --> 00:05:11,320
+houses, and with my intelligence and my
+ 
+
+232
+00:05:11,320 --> 00:05:13,350
+houses, and with my intelligence and my
+inventions, with my prehistoric engineering, we keep advancing. I'm
+
+233
+00:05:13,350 --> 00:05:16,070
+inventions, with my prehistoric engineering, we keep advancing. I'm
+ 
+
+234
+00:05:16,070 --> 00:05:16,080
+
+ 
+
+235
+00:05:16,080 --> 00:05:18,189
+
+advancing a lot, and we've never doubted
+
+236
+00:05:18,189 --> 00:05:18,199
+advancing a lot, and we've never doubted
+ 
+
+237
+00:05:18,199 --> 00:05:19,670
+advancing a lot, and we've never doubted
+that we're the smartest in the
+
+238
+00:05:19,670 --> 00:05:19,680
+that we're the smartest in the
+ 
+
+239
+00:05:19,680 --> 00:05:21,469
+that we're the smartest in the
+world. Nothing has surpassed our
+
+240
+00:05:21,469 --> 00:05:21,479
+world. Nothing has surpassed our
+ 
+
+241
+00:05:21,479 --> 00:05:24,510
+world. Nothing has surpassed our
+intelligence. And suddenly, it happens,
+
+242
+00:05:24,510 --> 00:05:24,520
+intelligence. And suddenly, it happens,
+ 
+
+243
+00:05:24,520 --> 00:05:28,029
+intelligence. And suddenly, it happens,
+and they
+
+244
+00:05:28,029 --> 00:05:28,039
+and they
+ 
+
+245
+00:05:28,039 --> 00:05:31,390
+and they
+beat us. This was
+
+246
+00:05:31,390 --> 00:05:31,400
+beat us. This was
+ 
+
+247
+00:05:31,400 --> 00:05:33,830
+beat us. This was
+Kasparov representing
+
+248
+00:05:33,830 --> 00:05:33,840
+Kasparov representing
+ 
+
+249
+00:05:33,840 --> 00:05:37,430
+Kasparov representing
+humanity against a machine. And he says, "
+
+250
+00:05:37,430 --> 00:05:37,440
+humanity against a machine. And he says, "
+ 
+
+251
+00:05:37,440 --> 00:05:39,469
+humanity against a machine. And he says, "
+Well, only chess beats us." Well, well, well,
+
+252
+00:05:39,469 --> 00:05:39,479
+Well, only chess beats us." Well, well, well,
+ 
+
+253
+00:05:39,479 --> 00:05:41,189
+Well, only chess beats us." Well, well, well,
+we're not so bad. Only
+
+254
+00:05:41,189 --> 00:05:41,199
+we're not so bad. Only
+ 
+
+255
+00:05:41,199 --> 00:05:43,469
+we're not so bad. Only
+chess beats us. Well, he beat him. Well, he
+
+256
+00:05:43,469 --> 00:05:43,479
+chess beats us. Well, he beat him. Well, he
+ 
+
+257
+00:05:43,479 --> 00:05:46,550
+chess beats us. Well, he beat him. Well, he
+won the first one,
+
+258
+00:05:46,550 --> 00:05:46,560
+won the first one,
+ 
+
+259
+00:05:46,560 --> 00:05:50,309
+won the first one,
+Gary 4-2. This isn't talked about much. And the
+
+260
+00:05:50,309 --> 00:05:50,319
+Gary 4-2. This isn't talked about much. And the
+ 
+
+261
+00:05:50,319 --> 00:05:53,390
+Gary 4-2. This isn't talked about much. And the
+second one, wow, he sweated, but we have to beat
+
+262
+00:05:53,390 --> 00:05:53,400
+second one, wow, he sweated, but we have to beat
+ 
+
+263
+00:05:53,400 --> 00:05:57,710
+second one, wow, he sweated, but we have to beat
+Gary, huh?"  And just like that, it wasn't a
+
+264
+00:05:57,710 --> 00:05:57,720
+Gary, huh?"  And just like that, it wasn't a
+ 
+
+265
+00:05:57,720 --> 00:06:00,510
+Gary, huh?"  And just like that, it wasn't a
+beating either. What happens next? Leopardi goes and beats us.
+
+266
+00:06:00,510 --> 00:06:00,520
+beating either. What happens next? Leopardi goes and beats us.
+ 
+
+267
+00:06:00,520 --> 00:06:02,990
+beating either. What happens next? Leopardi goes and beats us.
+This is like, "Want to Be a
+
+268
+00:06:02,990 --> 00:06:03,000
+This is like, "Want to Be a
+ 
+
+269
+00:06:03,000 --> 00:06:05,309
+This is like, "Want to Be a
+Millionaire?" Okay, and the machine takes the
+
+270
+00:06:05,309 --> 00:06:05,319
+Millionaire?" Okay, and the machine takes the
+ 
+
+271
+00:06:05,319 --> 00:06:09,029
+Millionaire?" Okay, and the machine takes the
+money. Look at these two supposedly
+
+272
+00:06:09,029 --> 00:06:09,039
+money. Look at these two supposedly
+ 
+
+273
+00:06:09,039 --> 00:06:11,270
+money. Look at these two supposedly
+super-winner minds there. Well, we
+
+274
+00:06:11,270 --> 00:06:11,280
+super-winner minds there. Well, we
+ 
+
+275
+00:06:11,280 --> 00:06:14,150
+super-winner minds there. Well, we
+can talk about rigged contests and stuff,
+
+276
+00:06:14,150 --> 00:06:14,160
+can talk about rigged contests and stuff,
+ 
+
+277
+00:06:14,160 --> 00:06:16,350
+can talk about rigged contests and stuff,
+but the machine
+
+278
+00:06:16,350 --> 00:06:16,360
+but the machine
+ 
+
+279
+00:06:16,360 --> 00:06:18,749
+but the machine
+wins, he says. Well, it beats us in two things.
+
+280
+00:06:18,749 --> 00:06:18,759
+wins, he says. Well, it beats us in two things.
+ 
+
+281
+00:06:18,759 --> 00:06:20,790
+wins, he says. Well, it beats us in two things.
+Now, 54 plus the Atari games. Who has
+
+282
+00:06:20,790 --> 00:06:20,800
+Now, 54 plus the Atari games. Who has
+ 
+
+283
+00:06:20,800 --> 00:06:23,830
+Now, 54 plus the Atari games. Who has
+n't played this, huh? It was difficult, huh? And then
+
+284
+00:06:23,830 --> 00:06:23,840
+n't played this, huh? It was difficult, huh? And then
+ 
+
+285
+00:06:23,840 --> 00:06:25,430
+n't played this, huh? It was difficult, huh? And then
+a machine beats you all. I'm the
+
+286
+00:06:25,430 --> 00:06:25,440
+a machine beats you all. I'm the
+ 
+
+287
+00:06:25,440 --> 00:06:26,870
+a machine beats you all. I'm the
+best! That guy who did like a ping-pong match, the
+
+288
+00:06:26,870 --> 00:06:26,880
+best! That guy who did like a ping-pong match, the
+ 
+
+289
+00:06:26,880 --> 00:06:31,350
+best! That guy who did like a ping-pong match, the
+Arcana, all those, and it beats you. And
+
+290
+00:06:31,350 --> 00:06:31,360
+Arcana, all those, and it beats you. And
+ 
+
+291
+00:06:31,360 --> 00:06:33,830
+Arcana, all those, and it beats you. And
+what else? And suddenly
+
+292
+00:06:33,830 --> 00:06:33,840
+what else? And suddenly
+ 
+
+293
+00:06:33,840 --> 00:06:38,790
+what else? And suddenly
+this poor man arrives. Go is
+
+294
+00:06:38,790 --> 00:06:38,800
+this poor man arrives. Go is
+ 
+
+295
+00:06:38,800 --> 00:06:41,909
+this poor man arrives. Go is
+like chess, but much more
+
+296
+00:06:41,909 --> 00:06:41,919
+like chess, but much more
+ 
+
+297
+00:06:41,919 --> 00:06:44,550
+like chess, but much more
+difficult, and in China and Japan, it's like a
+
+298
+00:06:44,550 --> 00:06:44,560
+difficult, and in China and Japan, it's like a
+ 
+
+299
+00:06:44,560 --> 00:06:48,189
+difficult, and in China and Japan, it's like a
+religion. Hence what Alfon was saying,
+
+300
+00:06:48,189 --> 00:06:48,199
+religion. Hence what Alfon was saying,
+ 
+
+301
+00:06:48,199 --> 00:06:50,790
+religion. Hence what Alfon was saying,
+that after this moment, it's not that it beat him, it
+
+302
+00:06:50,790 --> 00:06:50,800
+that after this moment, it's not that it beat him, it
+ 
+
+303
+00:06:50,800 --> 00:06:53,749
+that after this moment, it's not that it beat him, it
+humiliated him. The guy was
+
+304
+00:06:53,749 --> 00:06:53,759
+humiliated him. The guy was
+ 
+
+305
+00:06:53,759 --> 00:06:55,749
+humiliated him. The guy was
+crying. The Go champion, the guy
+
+306
+00:06:55,749 --> 00:06:55,759
+crying. The Go champion, the guy
+ 
+
+307
+00:06:55,759 --> 00:06:57,710
+crying. The Go champion, the guy
+considered one of the most intelligent in the
+
+308
+00:06:57,710 --> 00:06:57,720
+considered one of the most intelligent in the
+ 
+
+309
+00:06:57,720 --> 00:07:00,670
+considered one of the most intelligent in the
+Eastern world, outdated, swept away
+
+310
+00:07:00,670 --> 00:07:00,680
+Eastern world, outdated, swept away
+ 
+
+311
+00:07:00,680 --> 00:07:04,710
+Eastern world, outdated, swept away
+by an
+
+312
+00:07:04,710 --> 00:07:04,720
+by an
+ 
+
+313
+00:07:04,720 --> 00:07:08,110
+by an
+artificial intelligence. What did China do? Invest money in
+
+314
+00:07:08,110 --> 00:07:08,120
+artificial intelligence. What did China do? Invest money in
+ 
+
+315
+00:07:08,120 --> 00:07:09,950
+artificial intelligence. What did China do? Invest money in
+this? This is very powerful. If
+
+316
+00:07:09,950 --> 00:07:09,960
+this? This is very powerful. If
+ 
+
+317
+00:07:09,960 --> 00:07:11,749
+this? This is very powerful. If
+our Go champion beats him, this is very good.
+
+318
+00:07:11,749 --> 00:07:11,759
+our Go champion beats him, this is very good.
+ 
+
+319
+00:07:11,759 --> 00:07:13,029
+our Go champion beats him, this is very good.
+This guy thinks a lot. This is very
+
+320
+00:07:13,029 --> 00:07:13,039
+This guy thinks a lot. This is very
+ 
+
+321
+00:07:13,039 --> 00:07:16,029
+This guy thinks a lot. This is very
+intelligent.  Put money in, so far it's
+
+322
+00:07:16,029 --> 00:07:16,039
+intelligent.  Put money in, so far it's
+ 
+
+323
+00:07:16,039 --> 00:07:19,830
+intelligent.  Put money in, so far it's
+understood, not easy,
+
+324
+00:07:19,830 --> 00:07:19,840
+understood, not easy,
+ 
+
+325
+00:07:19,840 --> 00:07:24,070
+understood, not easy,
+well, poker in poker, let's simplify
+
+326
+00:07:24,070 --> 00:07:24,080
+well, poker in poker, let's simplify
+ 
+
+327
+00:07:24,080 --> 00:07:25,990
+well, poker in poker, let's simplify
+poker, if you have good cards you have to
+
+328
+00:07:25,990 --> 00:07:26,000
+poker, if you have good cards you have to
+ 
+
+329
+00:07:26,000 --> 00:07:27,350
+poker, if you have good cards you have to
+make it seem like you have bad ones so that
+
+330
+00:07:27,350 --> 00:07:27,360
+make it seem like you have bad ones so that
+ 
+
+331
+00:07:27,360 --> 00:07:29,629
+make it seem like you have bad ones so that
+people take the bait, on the other hand, if
+
+332
+00:07:29,629 --> 00:07:29,639
+people take the bait, on the other hand, if
+ 
+
+333
+00:07:29,639 --> 00:07:31,830
+people take the bait, on the other hand, if
+you have bad cards you have to bluff so that it
+
+334
+00:07:31,830 --> 00:07:31,840
+you have bad cards you have to bluff so that it
+ 
+
+335
+00:07:31,840 --> 00:07:33,350
+you have bad cards you have to bluff so that it
+seems like you have a
+
+336
+00:07:33,350 --> 00:07:33,360
+seems like you have a
+ 
+
+337
+00:07:33,360 --> 00:07:36,430
+seems like you have a
+lot and win, and it's not one against
+
+338
+00:07:36,430 --> 00:07:36,440
+lot and win, and it's not one against
+ 
+
+339
+00:07:36,440 --> 00:07:38,390
+lot and win, and it's not one against
+one but it's several minds at the same time
+
+340
+00:07:38,390 --> 00:07:38,400
+one but it's several minds at the same time
+ 
+
+341
+00:07:38,400 --> 00:07:43,550
+one but it's several minds at the same time
+and the challenge is in real time and win, take that,
+
+342
+00:07:43,550 --> 00:07:43,560
+and the challenge is in real time and win, take that,
+ 
+
+343
+00:07:43,560 --> 00:07:45,749
+and the challenge is in real time and win, take that,
+pluribus sweeps the
+
+344
+00:07:45,749 --> 00:07:45,759
+pluribus sweeps the
+ 
+
+345
+00:07:45,759 --> 00:07:48,510
+pluribus sweeps the
+table, another historic moment, says wow, it's
+
+346
+00:07:48,510 --> 00:07:48,520
+table, another historic moment, says wow, it's
+ 
+
+347
+00:07:48,520 --> 00:07:50,149
+table, another historic moment, says wow, it's
+starting to beat us at many things.
+
+348
+00:07:50,149 --> 00:07:50,159
+starting to beat us at many things.
+ 
+
+349
+00:07:50,159 --> 00:07:53,029
+starting to beat us at many things.
+If we are approaching the year 2000 and
+
+350
+00:07:53,029 --> 00:07:53,039
+If we are approaching the year 2000 and
+ 
+
+351
+00:07:53,039 --> 00:07:54,629
+If we are approaching the year 2000 and
+suddenly what happens, well, that
+
+352
+00:07:54,629 --> 00:07:54,639
+suddenly what happens, well, that
+ 
+
+353
+00:07:54,639 --> 00:07:56,830
+suddenly what happens, well, that
+computing power, ta ta ta, winters, winters,
+
+354
+00:07:56,830 --> 00:07:56,840
+computing power, ta ta ta, winters, winters,
+ 
+
+355
+00:07:56,840 --> 00:08:00,189
+computing power, ta ta ta, winters, winters,
+no money. No, here yes but no.
+
+356
+00:08:00,189 --> 00:08:00,199
+no money. No, here yes but no.
+ 
+
+357
+00:08:00,199 --> 00:08:05,149
+no money. No, here yes but no.
+And then the GPTs appear, the Dali, this
+
+358
+00:08:05,149 --> 00:08:05,159
+And then the GPTs appear, the Dali, this
+ 
+
+359
+00:08:05,159 --> 00:08:07,950
+And then the GPTs appear, the Dali, this
+chair, when the first Dali came out the
+
+360
+00:08:07,950 --> 00:08:07,960
+chair, when the first Dali came out the
+ 
+
+361
+00:08:07,960 --> 00:08:10,189
+chair, when the first Dali came out the
+news was that he makes chairs that look like
+
+362
+00:08:10,189 --> 00:08:10,199
+news was that he makes chairs that look like
+ 
+
+363
+00:08:10,199 --> 00:08:12,390
+news was that he makes chairs that look like
+avocados. Wow, people said, What the hell
+
+364
+00:08:12,390 --> 00:08:12,400
+avocados. Wow, people said, What the hell
+ 
+
+365
+00:08:12,400 --> 00:08:14,830
+avocados. Wow, people said, What the hell
+is this, please? But you really say,
+
+366
+00:08:14,830 --> 00:08:14,840
+is this, please? But you really say,
+ 
+
+367
+00:08:14,840 --> 00:08:17,670
+is this, please? But you really say,
+eh, he's generating chairs that look like
+
+368
+00:08:17,670 --> 00:08:17,680
+eh, he's generating chairs that look like
+ 
+
+369
+00:08:17,680 --> 00:08:20,469
+eh, he's generating chairs that look like
+avocados effortlessly, I don't know how to draw
+
+370
+00:08:20,469 --> 00:08:20,479
+avocados effortlessly, I don't know how to draw
+ 
+
+371
+00:08:20,479 --> 00:08:22,430
+avocados effortlessly, I don't know how to draw
+a chair other than that one I put like this,
+
+372
+00:08:22,430 --> 00:08:22,440
+a chair other than that one I put like this,
+ 
+
+373
+00:08:22,440 --> 00:08:24,110
+a chair other than that one I put like this,
+four sticks that are a four dice turned upside down,
+
+374
+00:08:24,110 --> 00:08:24,120
+four sticks that are a four dice turned upside down,
+ 
+
+375
+00:08:24,120 --> 00:08:26,950
+four sticks that are a four dice turned upside down,
+and this he makes it in the shape of an
+
+376
+00:08:26,950 --> 00:08:26,960
+and this he makes it in the shape of an
+ 
+
+377
+00:08:26,960 --> 00:08:32,469
+and this he makes it in the shape of an
+avocado, wow, and it looks
+
+378
+00:08:32,469 --> 00:08:32,479
+
+ 
+
+379
+00:08:32,479 --> 00:08:36,310
+
+comfortable, okay.  Finally, they tell me to talk about
+
+380
+00:08:36,310 --> 00:08:36,320
+comfortable, okay.  Finally, they tell me to talk about
+ 
+
+381
+00:08:36,320 --> 00:08:38,829
+comfortable, okay.  Finally, they tell me to talk about
+generative artificial intelligence.
+
+382
+00:08:38,829 --> 00:08:38,839
+generative artificial intelligence.
+ 
+
+383
+00:08:38,839 --> 00:08:40,350
+generative artificial intelligence.
+Why is it generative? Well, because it generates
+
+384
+00:08:40,350 --> 00:08:40,360
+Why is it generative? Well, because it generates
+ 
+
+385
+00:08:40,360 --> 00:08:43,750
+Why is it generative? Well, because it generates
+things. We go from programming to AI to
+
+386
+00:08:43,750 --> 00:08:43,760
+things. We go from programming to AI to
+ 
+
+387
+00:08:43,760 --> 00:08:46,670
+things. We go from programming to AI to
+generative AI. In programming, I input
+
+388
+00:08:46,670 --> 00:08:46,680
+generative AI. In programming, I input
+ 
+
+389
+00:08:46,680 --> 00:08:50,150
+generative AI. In programming, I input
+code, algorithms, t, t, t, t, does something. An
+
+390
+00:08:50,150 --> 00:08:50,160
+code, algorithms, t, t, t, t, does something. An
+ 
+
+391
+00:08:50,160 --> 00:08:52,350
+code, algorithms, t, t, t, t, does something. An
+Excel macro, if the files come here, you
+
+392
+00:08:52,350 --> 00:08:52,360
+Excel macro, if the files come here, you
+ 
+
+393
+00:08:52,360 --> 00:08:55,230
+Excel macro, if the files come here, you
+copy the solution here, and
+
+394
+00:08:55,230 --> 00:08:55,240
+copy the solution here, and
+ 
+
+395
+00:08:55,240 --> 00:08:57,069
+copy the solution here, and
+if not, you put it here, okay? In
+
+396
+00:08:57,069 --> 00:08:57,079
+if not, you put it here, okay? In
+ 
+
+397
+00:08:57,079 --> 00:09:00,069
+if not, you put it here, okay? In
+artificial intelligence, I have a
+
+398
+00:09:00,069 --> 00:09:00,079
+artificial intelligence, I have a
+ 
+
+399
+00:09:00,079 --> 00:09:03,389
+artificial intelligence, I have a
+data model. I take 80%, train it, and
+
+400
+00:09:03,389 --> 00:09:03,399
+data model. I take 80%, train it, and
+ 
+
+401
+00:09:03,399 --> 00:09:05,750
+data model. I take 80%, train it, and
+test it with the other 20%, and it makes
+
+402
+00:09:05,750 --> 00:09:05,760
+test it with the other 20%, and it makes
+ 
+
+403
+00:09:05,760 --> 00:09:07,790
+test it with the other 20%, and it makes
+decisions. It says, "Is it going to be this way or that way?" Like, for
+
+404
+00:09:07,790 --> 00:09:07,800
+decisions. It says, "Is it going to be this way or that way?" Like, for
+ 
+
+405
+00:09:07,800 --> 00:09:10,310
+decisions. It says, "Is it going to be this way or that way?" Like, for
+example, when they do it in phone companies, "Is this
+
+406
+00:09:10,310 --> 00:09:10,320
+example, when they do it in phone companies, "Is this
+ 
+
+407
+00:09:10,320 --> 00:09:12,470
+example, when they do it in phone companies, "Is this
+going to happen or not?"
+
+408
+00:09:12,470 --> 00:09:12,480
+going to happen or not?"
+ 
+
+409
+00:09:12,480 --> 00:09:14,790
+going to happen or not?"
+Charn projects. Well, if this guy has called
+
+410
+00:09:14,790 --> 00:09:14,800
+Charn projects. Well, if this guy has called
+ 
+
+411
+00:09:14,800 --> 00:09:16,389
+Charn projects. Well, if this guy has called
+customer service five times and you're not
+
+412
+00:09:16,389 --> 00:09:16,399
+customer service five times and you're not
+ 
+
+413
+00:09:16,399 --> 00:09:17,990
+customer service five times and you're not
+giving him the latest phone, and on top of that, he's going to
+
+414
+00:09:17,990 --> 00:09:18,000
+giving him the latest phone, and on top of that, he's going to
+ 
+
+415
+00:09:18,000 --> 00:09:20,670
+giving him the latest phone, and on top of that, he's going to
+leave. But the
+
+416
+00:09:20,670 --> 00:09:20,680
+leave. But the
+ 
+
+417
+00:09:20,680 --> 00:09:22,990
+leave. But the
+data is trained; what's going to
+
+418
+00:09:22,990 --> 00:09:23,000
+data is trained; what's going to
+ 
+
+419
+00:09:23,000 --> 00:09:25,470
+data is trained; what's going to
+happen is predicted. In contrast, with generative artificial intelligence,
+
+420
+00:09:25,470 --> 00:09:25,480
+happen is predicted. In contrast, with generative artificial intelligence,
+ 
+
+421
+00:09:25,480 --> 00:09:29,509
+happen is predicted. In contrast, with generative artificial intelligence,
+what happens? I input a prompt. And what's a
+
+422
+00:09:29,509 --> 00:09:29,519
+what happens? I input a prompt. And what's a
+ 
+
+423
+00:09:29,519 --> 00:09:32,550
+what happens? I input a prompt. And what's a
+prompt? Well, "I want you to do this for me."
+
+424
+00:09:32,550 --> 00:09:32,560
+prompt? Well, "I want you to do this for me."
+ 
+
+425
+00:09:32,560 --> 00:09:36,310
+prompt? Well, "I want you to do this for me."
+Enter, and it does it. You say, "Come on, you!" I mean, I've spent my
+
+426
+00:09:36,310 --> 00:09:36,320
+Enter, and it does it. You say, "Come on, you!" I mean, I've spent my
+ 
+
+427
+00:09:36,320 --> 00:09:38,030
+Enter, and it does it. You say, "Come on, you!" I mean, I've spent my
+whole life training data
+
+428
+00:09:38,030 --> 00:09:38,040
+whole life training data
+ 
+
+429
+00:09:38,040 --> 00:09:39,710
+whole life training data
+here, racking my brain, selling data
+
+430
+00:09:39,710 --> 00:09:39,720
+here, racking my brain, selling data
+ 
+
+431
+00:09:39,720 --> 00:09:42,829
+here, racking my brain, selling data
+to companies, and now some smart aleck
+
+432
+00:09:42,829 --> 00:09:42,839
+to companies, and now some smart aleck
+ 
+
+433
+00:09:42,839 --> 00:09:45,750
+to companies, and now some smart aleck
+from Google comes along and gives me this and...  It
+
+434
+00:09:45,750 --> 00:09:45,760
+from Google comes along and gives me this and...  It
+ 
+
+435
+00:09:45,760 --> 00:09:49,470
+from Google comes along and gives me this and...  It
+does well. And then you say, damn, it says, "
+
+436
+00:09:49,470 --> 00:09:49,480
+does well. And then you say, damn, it says, "
+ 
+
+437
+00:09:49,480 --> 00:09:52,310
+does well. And then you say, damn, it says, "
+Well, at first we're all blown away," and you
+
+438
+00:09:52,310 --> 00:09:52,320
+Well, at first we're all blown away," and you
+ 
+
+439
+00:09:52,320 --> 00:09:54,190
+Well, at first we're all blown away," and you
+say, "Well, at least later we see what's
+
+440
+00:09:54,190 --> 00:09:54,200
+say, "Well, at least later we see what's
+ 
+
+441
+00:09:54,200 --> 00:09:55,710
+say, "Well, at least later we see what's
+wrong." You say, "At least I don't have that
+
+442
+00:09:55,710 --> 00:09:55,720
+wrong." You say, "At least I don't have that
+ 
+
+443
+00:09:55,720 --> 00:09:57,750
+wrong." You say, "At least I don't have that
+blank page syndrome." I start a
+
+444
+00:09:57,750 --> 00:09:57,760
+blank page syndrome." I start a
+ 
+
+445
+00:09:57,760 --> 00:09:59,670
+blank page syndrome." I start a
+task and wow, I'm already on the third
+
+446
+00:09:59,670 --> 00:09:59,680
+task and wow, I'm already on the third
+ 
+
+447
+00:09:59,680 --> 00:10:02,110
+task and wow, I'm already on the third
+step. I'm not going around in circles
+
+448
+00:10:02,110 --> 00:10:02,120
+step. I'm not going around in circles
+ 
+
+449
+00:10:02,120 --> 00:10:04,350
+step. I'm not going around in circles
+there saying, "Let's see what I come up with now,
+
+450
+00:10:04,350 --> 00:10:04,360
+there saying, "Let's see what I come up with now,
+ 
+
+451
+00:10:04,360 --> 00:10:06,310
+there saying, "Let's see what I come up with now,
+what's my first sentence, the title, the
+
+452
+00:10:06,310 --> 00:10:06,320
+what's my first sentence, the title, the
+ 
+
+453
+00:10:06,320 --> 00:10:11,069
+what's my first sentence, the title, the
+index? It doesn't give me one, and I say, 'Change this for me.'"
+
+454
+00:10:11,069 --> 00:10:11,079
+index? It doesn't give me one, and I say, 'Change this for me.'"
+ 
+
+455
+00:10:11,079 --> 00:10:13,430
+index? It doesn't give me one, and I say, 'Change this for me.'"
+But already, already I'm on another level.
+
+456
+00:10:13,430 --> 00:10:13,440
+But already, already I'm on another level.
+ 
+
+457
+00:10:13,440 --> 00:10:16,269
+But already, already I'm on another level.
+I'm already monitoring instead of creating,
+
+458
+00:10:16,269 --> 00:10:16,279
+I'm already monitoring instead of creating,
+ 
+
+459
+00:10:16,279 --> 00:10:20,310
+I'm already monitoring instead of creating,
+and we'll talk about this later, a real-
+
+460
+00:10:20,310 --> 00:10:20,320
+and we'll talk about this later, a real-
+ 
+
+461
+00:10:20,320 --> 00:10:23,630
+and we'll talk about this later, a real-
+time demo. Well, for example, in an aa we can do, um,
+
+462
+00:10:23,630 --> 00:10:23,640
+time demo. Well, for example, in an aa we can do, um,
+ 
+
+463
+00:10:23,640 --> 00:10:24,710
+time demo. Well, for example, in an aa we can do, um,
+
+464
+00:10:24,710 --> 00:10:30,790
+
+ 
+
+465
+00:10:30,790 --> 00:10:32,470
+
+ 
+
+466
+00:10:32,470 --> 00:10:35,310
+
+ 
+
+467
+00:10:35,310 --> 00:10:37,470
+
+ 
+
+468
+00:10:37,470 --> 00:10:39,550
+
+ 
+
+469
+00:10:39,550 --> 00:10:39,560
+
+ 
+
+470
+00:10:39,560 --> 00:10:43,430
+
+
+471
+00:10:43,430 --> 00:10:46,269
+
+ 
+
+472
+00:10:46,269 --> 00:10:46,279
+
+ 
+
+473
+00:10:46,279 --> 00:10:49,470
+
+we can do data science. And this is a request that Elena made me yesterday, which was totally off-script, but let's oblige her. Bin Bin Bin, the last thing I've done is here, we can do
+
+474
+00:10:49,470 --> 00:10:49,480
+we can do data science. And this is a request that Elena made me yesterday, which was totally off-script, but let's oblige her. Bin Bin Bin, the last thing I've done is here, we can do
+ 
+
+475
+00:10:49,480 --> 00:10:52,190
+we can do data science. And this is a request that Elena made me yesterday, which was totally off-script, but let's oblige her. Bin Bin Bin, the last thing I've done is here, we can do
+data science at any level. I'm
+
+476
+00:10:52,190 --> 00:10:52,200
+data science at any level. I'm
+ 
+
+477
+00:10:52,200 --> 00:10:54,470
+data science at any level. I'm
+asking for a random dataset of sales and
+
+478
+00:10:54,470 --> 00:10:54,480
+asking for a random dataset of sales and
+ 
+
+479
+00:10:54,480 --> 00:10:55,990
+asking for a random dataset of sales and
+all this stuff that costs degrees,
+
+480
+00:10:55,990 --> 00:10:56,000
+all this stuff that costs degrees,
+ 
+
+481
+00:10:56,000 --> 00:10:57,230
+all this stuff that costs degrees,
+disciplines. I have to learn
+
+482
+00:10:57,230 --> 00:10:57,240
+disciplines. I have to learn
+ 
+
+483
+00:10:57,240 --> 00:10:59,430
+disciplines. I have to learn
+math, data science, I have to
+
+484
+00:10:59,430 --> 00:10:59,440
+math, data science, I have to
+ 
+
+485
+00:10:59,440 --> 00:11:00,389
+math, data science, I have to
+learn machine learning. I have to
+
+486
+00:11:00,389 --> 00:11:00,399
+learn machine learning. I have to
+ 
+
+487
+00:11:00,399 --> 00:11:02,990
+learn machine learning. I have to
+learn to make descriptive models, tha. Well,
+
+488
+00:11:02,990 --> 00:11:03,000
+learn to make descriptive models, tha. Well,
+ 
+
+489
+00:11:03,000 --> 00:11:06,829
+learn to make descriptive models, tha. Well,
+now I take it and say, "Hey, uh,
+
+490
+00:11:06,829 --> 00:11:06,839
+now I take it and say, "Hey, uh,
+ 
+
+491
+00:11:06,839 --> 00:11:10,190
+now I take it and say, "Hey, uh,
+plot, plot, that is,
+
+492
+00:11:10,190 --> 00:11:10,200
+plot, plot, that is,
+ 
+
+493
+00:11:10,200 --> 00:11:15,269
+plot, plot, that is,
+graph the most relevant part of this data." And
+
+494
+00:11:15,269 --> 00:11:15,279
+graph the most relevant part of this data." And
+ 
+
+495
+00:11:15,279 --> 00:11:19,389
+graph the most relevant part of this data." And
+The difficult thing here is speaking while I
+
+496
+00:11:19,389 --> 00:11:19,399
+The difficult thing here is speaking while I
+ 
+
+497
+00:11:19,399 --> 00:11:22,870
+The difficult thing here is speaking while I
+type. Okay, this starts analyzing and
+
+498
+00:11:22,870 --> 00:11:22,880
+type. Okay, this starts analyzing and
+ 
+
+499
+00:11:22,880 --> 00:11:25,470
+type. Okay, this starts analyzing and
+thinking; it's a black box that keeps doing things,
+
+500
+00:11:25,470 --> 00:11:25,480
+thinking; it's a black box that keeps doing things,
+ 
+
+501
+00:11:25,480 --> 00:11:27,629
+thinking; it's a black box that keeps doing things,
+and suddenly it starts, and I might even
+
+502
+00:11:27,629 --> 00:11:27,639
+and suddenly it starts, and I might even
+ 
+
+503
+00:11:27,639 --> 00:11:29,870
+and suddenly it starts, and I might even
+type it wrong. It generates
+
+504
+00:11:29,870 --> 00:11:29,880
+type it wrong. It generates
+ 
+
+505
+00:11:29,880 --> 00:11:32,190
+type it wrong. It generates
+Python code, and you wouldn't believe how difficult this code
+
+506
+00:11:32,190 --> 00:11:32,200
+Python code, and you wouldn't believe how difficult this code
+ 
+
+507
+00:11:32,200 --> 00:11:33,509
+Python code, and you wouldn't believe how difficult this code
+is. I come from a
+
+508
+00:11:33,509 --> 00:11:33,519
+is. I come from a
+ 
+
+509
+00:11:33,519 --> 00:11:34,990
+is. I come from a
+business background, and when I had to
+
+510
+00:11:34,990 --> 00:11:35,000
+business background, and when I had to
+ 
+
+511
+00:11:35,000 --> 00:11:37,069
+business background, and when I had to
+retrain, it was so hard to do the
+
+512
+00:11:37,069 --> 00:11:37,079
+retrain, it was so hard to do the
+ 
+
+513
+00:11:37,079 --> 00:11:39,870
+retrain, it was so hard to do the
+research, and Python and all the libraries...
+
+514
+00:11:39,870 --> 00:11:39,880
+research, and Python and all the libraries...
+ 
+
+515
+00:11:39,880 --> 00:11:42,990
+research, and Python and all the libraries...
+This isn't easy, but for this, it is. And it's going to
+
+516
+00:11:42,990 --> 00:11:43,000
+This isn't easy, but for this, it is. And it's going to
+ 
+
+517
+00:11:43,000 --> 00:11:46,230
+This isn't easy, but for this, it is. And it's going to
+take my job away. I don't know... I'll tell you
+
+518
+00:11:46,230 --> 00:11:46,240
+take my job away. I don't know... I'll tell you
+ 
+
+519
+00:11:46,240 --> 00:11:47,910
+take my job away. I don't know... I'll tell you
+later.
+
+520
+00:11:47,910 --> 00:11:47,920
+later.
+ 
+
+521
+00:11:47,920 --> 00:11:50,949
+later.
+So, it takes a little while,
+
+522
+00:11:50,949 --> 00:11:50,959
+So, it takes a little while,
+ 
+
+523
+00:11:50,959 --> 00:11:54,350
+So, it takes a little while,
+but in real time. Well, I don't know how far
+
+524
+00:11:54,350 --> 00:11:54,360
+but in real time. Well, I don't know how far
+ 
+
+525
+00:11:54,360 --> 00:11:56,389
+but in real time. Well, I don't know how far
+this is going to go, but it's
+
+526
+00:11:56,389 --> 00:11:56,399
+this is going to go, but it's
+ 
+
+527
+00:11:56,399 --> 00:11:59,509
+this is going to go, but it's
+going to do a series of calculations and
+
+528
+00:11:59,509 --> 00:11:59,519
+going to do a series of calculations and
+ 
+
+529
+00:11:59,519 --> 00:12:01,310
+going to do a series of calculations and
+make a series of
+
+530
+00:12:01,310 --> 00:12:01,320
+make a series of
+ 
+
+531
+00:12:01,320 --> 00:12:03,509
+make a series of
+graphs. I'm going to show you some others I've
+
+532
+00:12:03,509 --> 00:12:03,519
+graphs. I'm going to show you some others I've
+ 
+
+533
+00:12:03,519 --> 00:12:05,310
+graphs. I'm going to show you some others I've
+made here, which are the same as what I've been asking it to do,
+
+534
+00:12:05,310 --> 00:12:05,320
+made here, which are the same as what I've been asking it to do,
+ 
+
+535
+00:12:05,320 --> 00:12:08,550
+made here, which are the same as what I've been asking it to do,
+and it takes as long as I
+
+536
+00:12:08,550 --> 00:12:08,560
+and it takes as long as I
+ 
+
+537
+00:12:08,560 --> 00:12:10,150
+and it takes as long as I
+'m here talking to
+
+538
+00:12:10,150 --> 00:12:10,160
+'m here talking to
+ 
+
+539
+00:12:10,160 --> 00:12:12,790
+'m here talking to
+you. Okay, it makes bar charts,
+
+540
+00:12:12,790 --> 00:12:12,800
+you. Okay, it makes bar charts,
+ 
+
+541
+00:12:12,800 --> 00:12:14,389
+you. Okay, it makes bar charts,
+clusters,
+
+542
+00:12:14,389 --> 00:12:14,399
+clusters,
+ 
+
+543
+00:12:14,399 --> 00:12:17,509
+clusters,
+scatter plots, whatever you want,
+
+544
+00:12:17,509 --> 00:12:17,519
+scatter plots, whatever you want,
+ 
+
+545
+00:12:17,519 --> 00:12:21,230
+scatter plots, whatever you want,
+candlesticks, and as you can see, effortlessly. While
+
+546
+00:12:21,230 --> 00:12:21,240
+candlesticks, and as you can see, effortlessly. While
+ 
+
+547
+00:12:21,240 --> 00:12:22,629
+candlesticks, and as you can see, effortlessly. While
+I'm giving the talk, this works
+
+548
+00:12:22,629 --> 00:12:22,639
+I'm giving the talk, this works
+ 
+
+549
+00:12:22,639 --> 00:12:25,629
+I'm giving the talk, this works
+for me. It's like an intern that, if I give it the
+
+550
+00:12:25,629 --> 00:12:25,639
+for me. It's like an intern that, if I give it the
+ 
+
+551
+00:12:25,639 --> 00:12:26,629
+for me. It's like an intern that, if I give it the
+right
+
+552
+00:12:26,629 --> 00:12:26,639
+right
+ 
+
+553
+00:12:26,639 --> 00:12:29,629
+right
+instructions, it does it. Well, it's going
+
+554
+00:12:29,629 --> 00:12:29,639
+instructions, it does it. Well, it's going
+ 
+
+555
+00:12:29,639 --> 00:12:31,710
+instructions, it does it. Well, it's going
+to draw little things down below when...
+
+556
+00:12:31,710 --> 00:12:31,720
+to draw little things down below when...
+ 
+
+557
+00:12:31,720 --> 00:12:34,790
+to draw little things down below when...
+Okay, here it is, it's done. What else are
+
+558
+00:12:34,790 --> 00:12:34,800
+Okay, here it is, it's done. What else are
+ 
+
+559
+00:12:34,800 --> 00:12:36,470
+Okay, here it is, it's done. What else are
+we going to do? We're going to do things in
+
+560
+00:12:36,470 --> 00:12:36,480
+we going to do? We're going to do things in
+ 
+
+561
+00:12:36,480 --> 00:12:39,310
+we going to do? We're going to do things in
+real time, like what we did
+
+562
+00:12:39,310 --> 00:12:39,320
+real time, like what we did
+ 
+
+563
+00:12:39,320 --> 00:12:42,509
+real time, like what we did
+yesterday, for example. I took a photo.
+
+564
+00:12:42,509 --> 00:12:42,519
+yesterday, for example. I took a photo.
+ 
+
+565
+00:12:42,519 --> 00:12:44,150
+yesterday, for example. I took a photo.
+Today I'd like to repeat it and then I'll upload it. Okay,
+
+566
+00:12:44,150 --> 00:12:44,160
+Today I'd like to repeat it and then I'll upload it. Okay,
+ 
+
+567
+00:12:44,160 --> 00:12:46,949
+Today I'd like to repeat it and then I'll upload it. Okay,
+we did some data science yesterday. I
+
+568
+00:12:46,949 --> 00:12:46,959
+we did some data science yesterday. I
+ 
+
+569
+00:12:46,959 --> 00:12:50,350
+we did some data science yesterday. I
+was here doing tests and
+
+570
+00:12:50,350 --> 00:12:50,360
+was here doing tests and
+ 
+
+571
+00:12:50,360 --> 00:12:53,269
+was here doing tests and
+Elena said, "Pablo, can you do a demo?" I
+
+572
+00:12:53,269 --> 00:12:53,279
+Elena said, "Pablo, can you do a demo?" I
+ 
+
+573
+00:12:53,279 --> 00:12:55,389
+Elena said, "Pablo, can you do a demo?" I
+said, "I don't know because the WiFi is weak
+
+574
+00:12:55,389 --> 00:12:55,399
+said, "I don't know because the WiFi is weak
+ 
+
+575
+00:12:55,399 --> 00:12:57,230
+said, "I don't know because the WiFi is weak
+here. Sometimes it gets fried and the
+
+576
+00:12:57,230 --> 00:12:57,240
+here. Sometimes it gets fried and the
+ 
+
+577
+00:12:57,240 --> 00:13:00,150
+here. Sometimes it gets fried and the
+phone battery dies."
+
+578
+00:13:00,150 --> 00:13:00,160
+phone battery dies."
+ 
+
+579
+00:13:00,160 --> 00:13:02,590
+phone battery dies."
+And I said, "Take a picture of me with you." And it did this, and I said, "
+
+580
+00:13:02,590 --> 00:13:02,600
+And I said, "Take a picture of me with you." And it did this, and I said, "
+ 
+
+581
+00:13:02,600 --> 00:13:05,069
+And I said, "Take a picture of me with you." And it did this, and I said, "
+Look, like Pixar, how cool!"
+
+582
+00:13:05,069 --> 00:13:05,079
+Look, like Pixar, how cool!"
+ 
+
+583
+00:13:05,079 --> 00:13:08,110
+Look, like Pixar, how cool!"
+Okay, and I said, "Let's do something more
+
+584
+00:13:08,110 --> 00:13:08,120
+Okay, and I said, "Let's do something more
+ 
+
+585
+00:13:08,120 --> 00:13:11,230
+Okay, and I said, "Let's do something more
+hyper-realistic." And it did this, and it did this. It said, "
+
+586
+00:13:11,230 --> 00:13:11,240
+hyper-realistic." And it did this, and it did this. It said, "
+ 
+
+587
+00:13:11,240 --> 00:13:13,350
+hyper-realistic." And it did this, and it did this. It said, "
+Okay." And I said, "Change the
+
+588
+00:13:13,350 --> 00:13:13,360
+Okay." And I said, "Change the
+ 
+
+589
+00:13:13,360 --> 00:13:16,910
+Okay." And I said, "Change the
+dashboard and put Victoria in the background." And
+
+590
+00:13:16,910 --> 00:13:16,920
+dashboard and put Victoria in the background." And
+ 
+
+591
+00:13:16,920 --> 00:13:20,670
+dashboard and put Victoria in the background." And
+suddenly it shows this and an
+
+592
+00:13:20,670 --> 00:13:20,680
+suddenly it shows this and an
+ 
+
+593
+00:13:20,680 --> 00:13:23,990
+suddenly it shows this and an
+error. It said, "Well, maybe it's another
+
+594
+00:13:23,990 --> 00:13:24,000
+error. It said, "Well, maybe it's another
+ 
+
+595
+00:13:24,000 --> 00:13:26,670
+error. It said, "Well, maybe it's another
+Victoria somewhere in the world.
+
+596
+00:13:26,670 --> 00:13:26,680
+Victoria somewhere in the world.
+ 
+
+597
+00:13:26,680 --> 00:13:30,189
+Victoria somewhere in the world.
+There's another Cordoba, another Guadalajara, right?" "I do
+
+598
+00:13:30,189 --> 00:13:30,199
+There's another Cordoba, another Guadalajara, right?" "I do
+ 
+
+599
+00:13:30,199 --> 00:13:33,150
+There's another Cordoba, another Guadalajara, right?" "I do
+n't know." It said, "Okay, then, make the
+
+600
+00:13:33,150 --> 00:13:33,160
+n't know." It said, "Okay, then, make the
+ 
+
+601
+00:13:33,160 --> 00:13:35,910
+n't know." It said, "Okay, then, make the
+square for me." It said, "Okay, it makes it up, but more or
+
+602
+00:13:35,910 --> 00:13:35,920
+square for me." It said, "Okay, it makes it up, but more or
+ 
+
+603
+00:13:35,920 --> 00:13:37,829
+square for me." It said, "Okay, it makes it up, but more or
+less it's learned from many photos it's
+
+604
+00:13:37,829 --> 00:13:37,839
+less it's learned from many photos it's
+ 
+
+605
+00:13:37,839 --> 00:13:39,310
+less it's learned from many photos it's
+seen, and this already looks a little
+
+606
+00:13:39,310 --> 00:13:39,320
+seen, and this already looks a little
+ 
+
+607
+00:13:39,320 --> 00:13:41,509
+seen, and this already looks a little
+more like it, right? It
+
+608
+00:13:41,509 --> 00:13:41,519
+more like it, right? It
+ 
+
+609
+00:13:41,519 --> 00:13:44,629
+more like it, right? It
+can be done in real time. I'm doing it in real time at
+
+610
+00:13:44,629 --> 00:13:44,639
+can be done in real time. I'm doing it in real time at
+ 
+
+611
+00:13:44,639 --> 00:13:49,350
+can be done in real time. I'm doing it in real time at
+Gon's and Elena's request.
+
+612
+00:13:49,350 --> 00:13:49,360
+Gon's and Elena's request.
+ 
+
+613
+00:13:49,360 --> 00:13:51,230
+Gon's and Elena's request.
+Not only that, now
+
+614
+00:13:51,230 --> 00:13:51,240
+Not only that, now
+ 
+
+615
+00:13:51,240 --> 00:13:53,310
+Not only that, now
+the advanced voice mode has come out. Do
+
+616
+00:13:53,310 --> 00:13:53,320
+the advanced voice mode has come out. Do
+ 
+
+617
+00:13:53,320 --> 00:13:57,470
+the advanced voice mode has come out. Do
+you know how to rhyme? Does
+
+618
+00:13:57,470 --> 00:13:57,480
+
+ 
+
+619
+00:13:57,480 --> 00:14:00,389
+
+anyone rhyme?"
+
+620
+00:14:00,389 --> 00:14:00,399
+anyone rhyme?"
+ 
+
+621
+00:14:00,399 --> 00:14:03,150
+anyone rhyme?"
+Finish the phrases with the same
+
+622
+00:14:03,150 --> 00:14:03,160
+Finish the phrases with the same
+ 
+
+623
+00:14:03,160 --> 00:14:07,670
+Finish the phrases with the same
+words, with the same letters, from the
+
+624
+00:14:07,670 --> 00:14:07,680
+words, with the same letters, from the
+ 
+
+625
+00:14:07,680 --> 00:14:10,150
+words, with the same letters, from the
+last stressed syllable. You can make
+
+626
+00:14:10,150 --> 00:14:10,160
+last stressed syllable. You can make
+ 
+
+627
+00:14:10,160 --> 00:14:14,829
+last stressed syllable. You can make
+constructions a a b Abba a a a a dice
+
+628
+00:14:14,829 --> 00:14:14,839
+constructions a a b Abba a a a a dice
+ 
+
+629
+00:14:14,839 --> 00:14:17,030
+constructions a a b Abba a a a a dice
+sol lac la ía. And in
+
+630
+00:14:17,030 --> 00:14:17,040
+sol lac la ía. And in
+ 
+
+631
+00:14:17,040 --> 00:14:20,629
+sol lac la ía. And in
+real time we can try it. I'm going to open a
+
+632
+00:14:20,629 --> 00:14:20,639
+real time we can try it. I'm going to open a
+ 
+
+633
+00:14:20,639 --> 00:14:22,189
+real time we can try it. I'm going to open a
+new
+
+634
+00:14:22,189 --> 00:14:22,199
+new
+ 
+
+635
+00:14:22,199 --> 00:14:25,829
+new
+chat and I'm going to say while Gonzalo
+
+636
+00:14:25,829 --> 00:14:25,839
+chat and I'm going to say while Gonzalo
+ 
+
+637
+00:14:25,839 --> 00:14:30,629
+chat and I'm going to say while Gonzalo
+is looking for some music, "Turn it down
+
+638
+00:14:30,629 --> 00:14:30,639
+
+ 
+
+639
+00:14:30,639 --> 00:14:31,990
+
+a
+
+640
+00:14:31,990 --> 00:14:32,000
+a
+ 
+
+641
+00:14:32,000 --> 00:14:36,189
+a
+bit. Hey chat, we're here to have a
+
+642
+00:14:36,189 --> 00:14:36,199
+bit. Hey chat, we're here to have a
+ 
+
+643
+00:14:36,199 --> 00:14:39,350
+bit. Hey chat, we're here to have a
+rap battle, so I'm
+
+644
+00:14:39,350 --> 00:14:39,360
+rap battle, so I'm
+ 
+
+645
+00:14:39,360 --> 00:14:42,030
+rap battle, so I'm
+going to challenge you and I want you to talk about the
+
+646
+00:14:42,030 --> 00:14:42,040
+going to challenge you and I want you to talk about the
+ 
+
+647
+00:14:42,040 --> 00:14:43,749
+going to challenge you and I want you to talk about the
+theme. We're going to do four lines
+
+648
+00:14:43,749 --> 00:14:43,759
+theme. We're going to do four lines
+ 
+
+649
+00:14:43,759 --> 00:14:47,030
+theme. We're going to do four lines
+each, and the theme is '
+
+650
+00:14:47,030 --> 00:14:47,040
+each, and the theme is '
+ 
+
+651
+00:14:47,040 --> 00:14:50,150
+each, and the theme is '
+Alaba, intelligent,' okay. About those two
+
+652
+00:14:50,150 --> 00:14:50,160
+Alaba, intelligent,' okay. About those two
+ 
+
+653
+00:14:50,160 --> 00:14:52,629
+Alaba, intelligent,' okay. About those two
+words, we're both going to rap, okay?
+
+654
+00:14:52,629 --> 00:14:52,639
+words, we're both going to rap, okay?
+ 
+
+655
+00:14:52,639 --> 00:14:54,910
+words, we're both going to rap, okay?
+Four each, you
+
+656
+00:14:54,910 --> 00:14:54,920
+Four each, you
+ 
+
+657
+00:14:54,920 --> 00:14:58,350
+Four each, you
+start, okay? Sounds fun. Let's go. I can
+
+658
+00:14:58,350 --> 00:15:01,430
+start, okay? Sounds fun. Let's go. I can
+ 
+
+659
+00:15:01,430 --> 00:15:01,440
+
+ 
+
+660
+00:15:01,440 --> 00:15:03,829
+
+hear you loud and clear. Go ahead, it's your
+
+661
+00:15:03,829 --> 00:15:03,839
+hear you loud and clear. Go ahead, it's your
+ 
+
+662
+00:15:03,839 --> 00:15:07,350
+hear you loud and clear. Go ahead, it's your
+turn. Well, if you want,
+
+663
+00:15:07,350 --> 00:15:07,360
+turn. Well, if you want,
+ 
+
+664
+00:15:07,360 --> 00:15:11,910
+turn. Well, if you want,
+you can start. Sure, I'll start. In Alaba, noble land of
+
+665
+00:15:11,910 --> 00:15:11,920
+you can start. Sure, I'll start. In Alaba, noble land of
+ 
+
+666
+00:15:11,920 --> 00:15:14,350
+you can start. Sure, I'll start. In Alaba, noble land of
+vast landscapes, intelligence
+
+667
+00:15:14,350 --> 00:15:14,360
+vast landscapes, intelligence
+ 
+
+668
+00:15:14,360 --> 00:15:17,030
+vast landscapes, intelligence
+flourishes in every corner. There are no contrasts.
+
+669
+00:15:17,030 --> 00:15:17,040
+flourishes in every corner. There are no contrasts.
+ 
+
+670
+00:15:17,040 --> 00:15:19,269
+flourishes in every corner. There are no contrasts.
+From Vitoria to the mountains, a
+
+671
+00:15:19,269 --> 00:15:19,279
+From Vitoria to the mountains, a
+ 
+
+672
+00:15:19,279 --> 00:15:22,069
+From Vitoria to the mountains, a
+constant sparkle. Wise and bold people with
+
+673
+00:15:22,069 --> 00:15:22,079
+constant sparkle. Wise and bold people with
+ 
+
+674
+00:15:22,079 --> 00:15:26,110
+constant sparkle. Wise and bold people with
+brilliant minds. Your turn. Well, but you
+
+675
+00:15:26,110 --> 00:15:26,120
+brilliant minds. Your turn. Well, but you
+ 
+
+676
+00:15:26,120 --> 00:15:27,710
+brilliant minds. Your turn. Well, but you
+started rapping like you
+
+677
+00:15:27,710 --> 00:15:27,720
+started rapping like you
+ 
+
+678
+00:15:27,720 --> 00:15:30,110
+started rapping like you
+were the master of or the minstrel or
+
+679
+00:15:30,110 --> 00:15:30,120
+were the master of or the minstrel or
+ 
+
+680
+00:15:30,120 --> 00:15:31,990
+were the master of or the minstrel or
+any nonsense you could think of
+
+681
+00:15:31,990 --> 00:15:32,000
+any nonsense you could think of
+ 
+
+682
+00:15:32,000 --> 00:15:33,910
+any nonsense you could think of
+because I do it like a real man. Like a
+
+683
+00:15:33,910 --> 00:15:33,920
+because I do it like a real man. Like a
+ 
+
+684
+00:15:33,920 --> 00:15:35,670
+because I do it like a real man. Like a
+Freestyle because this is a human
+
+685
+00:15:35,670 --> 00:15:35,680
+Freestyle because this is a human
+ 
+
+686
+00:15:35,680 --> 00:15:37,230
+Freestyle because this is a human
+against an
+
+687
+00:15:37,230 --> 00:15:37,240
+against an
+ 
+
+688
+00:15:37,240 --> 00:15:39,749
+against an
+ia I understand you prefer a more
+
+689
+00:15:39,749 --> 00:15:39,759
+ia I understand you prefer a more
+ 
+
+690
+00:15:39,759 --> 00:15:41,550
+ia I understand you prefer a more
+improvised style I get it let's go with the
+
+691
+00:15:41,550 --> 00:15:41,560
+improvised style I get it let's go with the
+ 
+
+692
+00:15:41,560 --> 00:15:44,670
+improvised style I get it let's go with the
+freestyle then Praise on the map with
+
+693
+00:15:44,670 --> 00:15:44,680
+freestyle then Praise on the map with
+ 
+
+694
+00:15:44,680 --> 00:15:47,710
+freestyle then Praise on the map with
+100% Ingenuity innovative people
+
+695
+00:15:47,710 --> 00:15:47,720
+100% Ingenuity innovative people
+ 
+
+696
+00:15:47,720 --> 00:15:50,629
+100% Ingenuity innovative people
+always standing out well among mountains and
+
+697
+00:15:50,629 --> 00:15:50,639
+always standing out well among mountains and
+ 
+
+698
+00:15:50,639 --> 00:15:53,030
+always standing out well among mountains and
+vineyards ideas abound
+
+699
+00:15:53,030 --> 00:15:53,040
+vineyards ideas abound
+ 
+
+700
+00:15:53,040 --> 00:15:55,629
+vineyards ideas abound
+intelligence here never fails in all
+
+701
+00:15:55,629 --> 00:15:55,639
+intelligence here never fails in all
+ 
+
+702
+00:15:55,639 --> 00:15:58,150
+intelligence here never fails in all
+its places now it's your turn to
+
+703
+00:15:58,150 --> 00:15:58,160
+its places now it's your turn to
+ 
+
+704
+00:15:58,160 --> 00:16:00,910
+its places now it's your turn to
+counterattack well and I can continue with
+
+705
+00:16:00,910 --> 00:16:00,920
+counterattack well and I can continue with
+ 
+
+706
+00:16:00,920 --> 00:16:03,150
+counterattack well and I can continue with
+it okay I'm not going to do the show now
+
+707
+00:16:03,150 --> 00:16:03,160
+it okay I'm not going to do the show now
+ 
+
+708
+00:16:03,160 --> 00:16:06,110
+it okay I'm not going to do the show now
+but you see how she adapts live it's
+
+709
+00:16:06,110 --> 00:16:07,870
+but you see how she adapts live it's
+ 
+
+710
+00:16:07,870 --> 00:16:07,880
+
+ 
+
+711
+00:16:07,880 --> 00:16:10,509
+
+amazing and I simply told her to
+
+712
+00:16:10,509 --> 00:16:10,519
+amazing and I simply told her to
+ 
+
+713
+00:16:10,519 --> 00:16:12,990
+amazing and I simply told her to
+put herself in context advanced voice mode she
+
+714
+00:16:12,990 --> 00:16:13,000
+put herself in context advanced voice mode she
+ 
+
+715
+00:16:13,000 --> 00:16:15,069
+put herself in context advanced voice mode she
+does things that some of you don't
+
+716
+00:16:15,069 --> 00:16:15,079
+does things that some of you don't
+ 
+
+717
+00:16:15,079 --> 00:16:17,870
+does things that some of you don't
+know how to do right we're starting to have
+
+718
+00:16:17,870 --> 00:16:17,880
+know how to do right we're starting to have
+ 
+
+719
+00:16:17,880 --> 00:16:20,470
+know how to do right we're starting to have
+some skills that we don't know she's going to
+
+720
+00:16:20,470 --> 00:16:20,480
+some skills that we don't know she's going to
+ 
+
+721
+00:16:20,480 --> 00:16:22,990
+some skills that we don't know she's going to
+take my job she's going to take this from
+
+722
+00:16:22,990 --> 00:16:23,000
+take my job she's going to take this from
+ 
+
+723
+00:16:23,000 --> 00:16:26,230
+take my job she's going to take this from
+me she's going to come out here to make a rap
+
+724
+00:16:26,230 --> 00:16:26,240
+me she's going to come out here to make a rap
+ 
+
+725
+00:16:26,240 --> 00:16:29,430
+me she's going to come out here to make a rap
+for example Well I don't know
+
+726
+00:16:29,430 --> 00:16:29,440
+for example Well I don't know
+ 
+
+727
+00:16:29,440 --> 00:16:31,509
+for example Well I don't know
+and this has been a demo in the moment
+
+728
+00:16:31,509 --> 00:16:31,519
+and this has been a demo in the moment
+ 
+
+729
+00:16:31,519 --> 00:16:33,509
+and this has been a demo in the moment
+okay she didn't take long to do it she
+
+730
+00:16:33,509 --> 00:16:33,519
+okay she didn't take long to do it she
+ 
+
+731
+00:16:33,519 --> 00:16:36,829
+okay she didn't take long to do it she
+'s not prepared intelligence
+
+732
+00:16:36,829 --> 00:16:36,839
+'s not prepared intelligence
+ 
+
+733
+00:16:36,839 --> 00:16:39,030
+'s not prepared intelligence
+trend what is it that we are going to see what
+
+734
+00:16:39,030 --> 00:16:39,040
+trend what is it that we are going to see what
+ 
+
+735
+00:16:39,040 --> 00:16:42,150
+trend what is it that we are going to see what
+trends we see we are reluctant to change
+
+736
+00:16:42,150 --> 00:16:42,160
+trends we see we are reluctant to change
+ 
+
+737
+00:16:42,160 --> 00:16:44,870
+trends we see we are reluctant to change
+like this owl this owl was in the
+
+738
+00:16:44,870 --> 00:16:44,880
+like this owl this owl was in the
+ 
+
+739
+00:16:44,880 --> 00:16:46,470
+like this owl this owl was in the
+forest And now she's with a computer the
+
+740
+00:16:46,470 --> 00:16:46,480
+forest And now she's with a computer the
+ 
+
+741
+00:16:46,480 --> 00:16:50,069
+forest And now she's with a computer the
+glasses and constantly adapting okay
+
+742
+00:16:50,069 --> 00:16:50,079
+glasses and constantly adapting okay
+ 
+
+743
+00:16:50,079 --> 00:16:52,470
+glasses and constantly adapting okay
+our brain is the most
+
+744
+00:16:52,470 --> 00:16:52,480
+our brain is the most
+ 
+
+745
+00:16:52,480 --> 00:16:55,350
+our brain is the most
+important muscle in the body okay the rest I'm not
+
+746
+00:16:55,350 --> 00:16:55,360
+important muscle in the body okay the rest I'm not
+ 
+
+747
+00:16:55,360 --> 00:16:57,150
+important muscle in the body okay the rest I'm not
+saying they aren't important but the
+
+748
+00:16:57,150 --> 00:16:57,160
+saying they aren't important but the
+ 
+
+749
+00:16:57,160 --> 00:16:59,269
+saying they aren't important but the
+Brain, look how when we get
+
+750
+00:16:59,269 --> 00:16:59,279
+Brain, look how when we get
+ 
+
+751
+00:16:59,279 --> 00:17:01,350
+Brain, look how when we get
+older, which is something that worries us
+
+752
+00:17:01,350 --> 00:17:01,360
+older, which is something that worries us
+ 
+
+753
+00:17:01,360 --> 00:17:04,630
+older, which is something that worries us
+from 40 onwards,
+
+754
+00:17:04,630 --> 00:17:04,640
+from 40 onwards,
+ 
+
+755
+00:17:04,640 --> 00:17:07,069
+from 40 onwards,
+right? We say, "How are we going to manage?"
+
+756
+00:17:07,069 --> 00:17:07,079
+right? We say, "How are we going to manage?"
+ 
+
+757
+00:17:07,079 --> 00:17:09,069
+right? We say, "How are we going to manage?"
+Because I've already seen my grandmother, she
+
+758
+00:17:09,069 --> 00:17:09,079
+Because I've already seen my grandmother, she
+ 
+
+759
+00:17:09,079 --> 00:17:11,789
+Because I've already seen my grandmother, she
+thought my mother was her
+
+760
+00:17:11,789 --> 00:17:11,799
+thought my mother was her
+ 
+
+761
+00:17:11,799 --> 00:17:13,710
+thought my mother was her
+sister, and she'd say, "I don't like the boyfriend she's got," because of
+
+762
+00:17:13,710 --> 00:17:13,720
+sister, and she'd say, "I don't like the boyfriend she's got," because of
+ 
+
+763
+00:17:13,720 --> 00:17:15,549
+sister, and she'd say, "I don't like the boyfriend she's got," because of
+my father. I mean, "Ah,
+
+764
+00:17:15,549 --> 00:17:15,559
+my father. I mean, "Ah,
+ 
+
+765
+00:17:15,559 --> 00:17:18,829
+my father. I mean, "Ah,
+things are starting to come up here, okay?" And it's
+
+766
+00:17:18,829 --> 00:17:18,839
+things are starting to come up here, okay?" And it's
+ 
+
+767
+00:17:18,839 --> 00:17:21,470
+things are starting to come up here, okay?" And it's
+annoying, but the brain is something
+
+768
+00:17:21,470 --> 00:17:21,480
+annoying, but the brain is something
+ 
+
+769
+00:17:21,480 --> 00:17:23,789
+annoying, but the brain is something
+that needs to be cultivated a lot, so we
+
+770
+00:17:23,789 --> 00:17:23,799
+that needs to be cultivated a lot, so we
+ 
+
+771
+00:17:23,799 --> 00:17:25,990
+that needs to be cultivated a lot, so we
+adapt. And what I'm
+
+772
+00:17:25,990 --> 00:17:26,000
+adapt. And what I'm
+ 
+
+773
+00:17:26,000 --> 00:17:27,990
+adapt. And what I'm
+also seeing as a trend is that it's very good.
+
+774
+00:17:27,990 --> 00:17:28,000
+also seeing as a trend is that it's very good.
+ 
+
+775
+00:17:28,000 --> 00:17:30,310
+also seeing as a trend is that it's very good.
+It's a brutal tool,
+
+776
+00:17:30,310 --> 00:17:30,320
+It's a brutal tool,
+ 
+
+777
+00:17:30,320 --> 00:17:34,070
+It's a brutal tool,
+but it's generating a creative decline that we're
+
+778
+00:17:34,070 --> 00:17:34,080
+but it's generating a creative decline that we're
+ 
+
+779
+00:17:34,080 --> 00:17:36,230
+but it's generating a creative decline that we're
+going to talk about. Another trend
+
+780
+00:17:36,230 --> 00:17:36,240
+going to talk about. Another trend
+ 
+
+781
+00:17:36,240 --> 00:17:39,270
+going to talk about. Another trend
+is the prom engineer. The
+
+782
+00:17:39,270 --> 00:17:39,280
+is the prom engineer. The
+ 
+
+783
+00:17:39,280 --> 00:17:42,590
+is the prom engineer. The
+prom engineer is the new profession.
+
+784
+00:17:42,590 --> 00:17:42,600
+prom engineer is the new profession.
+ 
+
+785
+00:17:42,600 --> 00:17:44,190
+prom engineer is the new profession.
+How many of you have heard that you have to be a
+
+786
+00:17:44,190 --> 00:17:44,200
+How many of you have heard that you have to be a
+ 
+
+787
+00:17:44,200 --> 00:17:46,070
+How many of you have heard that you have to be a
+prom engineer? Seriously?
+
+788
+00:17:46,070 --> 00:17:46,080
+prom engineer? Seriously?
+ 
+
+789
+00:17:46,080 --> 00:17:48,270
+prom engineer? Seriously?
+How many, raise your hand, please?
+
+790
+00:17:48,270 --> 00:17:48,280
+How many, raise your hand, please?
+ 
+
+791
+00:17:48,280 --> 00:17:50,870
+How many, raise your hand, please?
+How many, and everyone, "What kind of person is this?
+
+792
+00:17:50,870 --> 00:17:50,880
+How many, and everyone, "What kind of person is this?
+ 
+
+793
+00:17:50,880 --> 00:17:53,909
+How many, and everyone, "What kind of person is this?
+A prom engineer? An engineer? No, not
+
+794
+00:17:53,909 --> 00:17:53,919
+A prom engineer? An engineer? No, not
+ 
+
+795
+00:17:53,919 --> 00:17:56,950
+A prom engineer? An engineer? No, not
+an engineer." And really, it's like, "Hey, I'm a
+
+796
+00:17:56,950 --> 00:17:56,960
+an engineer." And really, it's like, "Hey, I'm a
+ 
+
+797
+00:17:56,960 --> 00:17:59,070
+an engineer." And really, it's like, "Hey, I'm a
+Google searcher. You want something? I'll find it for you, dude." Okay, okay, there's a lot, there are a lot of
+
+798
+00:17:59,070 --> 00:18:03,230
+Google searcher. You want something? I'll find it for you, dude." Okay, okay, there's a lot, there are a lot of
+ 
+
+799
+00:18:03,230 --> 00:18:03,240
+
+ 
+
+800
+00:18:03,240 --> 00:18:05,390
+
+talks, a lot of search trends, a
+
+801
+00:18:05,390 --> 00:18:05,400
+talks, a lot of search trends, a
+ 
+
+802
+00:18:05,400 --> 00:18:07,549
+talks, a lot of search trends, a
+lot of shouting in the sky. Look at me. Here
+
+803
+00:18:07,549 --> 00:18:07,559
+lot of shouting in the sky. Look at me. Here
+ 
+
+804
+00:18:07,559 --> 00:18:08,789
+lot of shouting in the sky. Look at me. Here
+I want your
+
+805
+00:18:08,789 --> 00:18:08,799
+I want your
+ 
+
+806
+00:18:08,799 --> 00:18:12,149
+I want your
+attention. It doesn't have  Okay, so
+
+807
+00:18:12,149 --> 00:18:12,159
+attention. It doesn't have  Okay, so
+ 
+
+808
+00:18:12,159 --> 00:18:15,549
+attention. It doesn't have  Okay, so
+the prom engineer is really going to tell
+
+809
+00:18:15,549 --> 00:18:15,559
+the prom engineer is really going to tell
+ 
+
+810
+00:18:15,559 --> 00:18:17,070
+the prom engineer is really going to tell
+their boss, "Hey, there's no job
+
+811
+00:18:17,070 --> 00:18:17,080
+their boss, "Hey, there's no job
+ 
+
+812
+00:18:17,080 --> 00:18:18,950
+their boss, "Hey, there's no job
+for you, you don't exist. This is something you have to
+
+813
+00:18:18,950 --> 00:18:18,960
+for you, you don't exist. This is something you have to
+ 
+
+814
+00:18:18,960 --> 00:18:20,750
+for you, you don't exist. This is something you have to
+have in terms of skills:
+
+815
+00:18:20,750 --> 00:18:20,760
+have in terms of skills:
+ 
+
+816
+00:18:20,760 --> 00:18:23,830
+have in terms of skills:
+English, Excel, how to do
+
+817
+00:18:23,830 --> 00:18:23,840
+English, Excel, how to do
+ 
+
+818
+00:18:23,840 --> 00:18:26,870
+English, Excel, how to do
+proms, HR,
+
+819
+00:18:26,870 --> 00:18:26,880
+proms, HR,
+ 
+
+820
+00:18:26,880 --> 00:18:31,510
+proms, HR,
+columnist, finance,
+
+821
+00:18:31,510 --> 00:18:31,520
+columnist, finance,
+ 
+
+822
+00:18:31,520 --> 00:18:33,870
+columnist, finance,
+sustainability." So, out with it, we're stuck with it.
+
+823
+00:18:33,870 --> 00:18:33,880
+sustainability." So, out with it, we're stuck with it.
+ 
+
+824
+00:18:33,880 --> 00:18:37,909
+sustainability." So, out with it, we're stuck with it.
+Okay, this doesn't
+
+825
+00:18:37,909 --> 00:18:37,919
+Okay, this doesn't
+ 
+
+826
+00:18:37,919 --> 00:18:40,510
+Okay, this doesn't
+exist, you have to know that. You've already
+
+827
+00:18:40,510 --> 00:18:40,520
+exist, you have to know that. You've already
+ 
+
+828
+00:18:40,520 --> 00:18:42,430
+exist, you have to know that. You've already
+beaten me to it,
+
+829
+00:18:42,430 --> 00:18:42,440
+beaten me to it,
+ 
+
+830
+00:18:42,440 --> 00:18:46,390
+beaten me to it,
+Alfonso. We want
+
+831
+00:18:46,390 --> 00:18:46,400
+Alfonso. We want
+ 
+
+832
+00:18:46,400 --> 00:18:49,310
+Alfonso. We want
+creativity, I want them to do my
+
+833
+00:18:49,310 --> 00:18:49,320
+creativity, I want them to do my
+ 
+
+834
+00:18:49,320 --> 00:18:51,990
+creativity, I want them to do my
+laundry, clean my dishes, guide me, those
+
+835
+00:18:51,990 --> 00:18:52,000
+laundry, clean my dishes, guide me, those
+ 
+
+836
+00:18:52,000 --> 00:18:54,630
+laundry, clean my dishes, guide me, those
+robots that do everything so I
+
+837
+00:18:54,630 --> 00:18:54,640
+robots that do everything so I
+ 
+
+838
+00:18:54,640 --> 00:18:56,950
+robots that do everything so I
+can be drawing and doing
+
+839
+00:18:56,950 --> 00:18:56,960
+can be drawing and doing
+ 
+
+840
+00:18:56,960 --> 00:18:59,149
+can be drawing and doing
+creative things. Well, no, it's the opposite, it does
+
+841
+00:18:59,149 --> 00:18:59,159
+creative things. Well, no, it's the opposite, it does
+ 
+
+842
+00:18:59,159 --> 00:19:00,470
+creative things. Well, no, it's the opposite, it does
+creative things for you and you're left there
+
+843
+00:19:00,470 --> 00:19:00,480
+creative things for you and you're left there
+ 
+
+844
+00:19:00,480 --> 00:19:01,870
+creative things for you and you're left there
+saying, "Damn, how did we
+
+845
+00:19:01,870 --> 00:19:01,880
+saying, "Damn, how did we
+ 
+
+846
+00:19:01,880 --> 00:19:06,029
+saying, "Damn, how did we
+get to this?" Okay, creative waste. If it
+
+847
+00:19:06,029 --> 00:19:06,039
+get to this?" Okay, creative waste. If it
+ 
+
+848
+00:19:06,039 --> 00:19:08,510
+get to this?" Okay, creative waste. If it
+does everything for us, hasn't it suddenly happened to you
+
+849
+00:19:08,510 --> 00:19:08,520
+does everything for us, hasn't it suddenly happened to you
+ 
+
+850
+00:19:08,520 --> 00:19:11,470
+does everything for us, hasn't it suddenly happened to you
+that chatbot dependency? [ __ ], [ __ ], it's
+
+851
+00:19:11,470 --> 00:19:11,480
+that chatbot dependency? [ __ ], [ __ ], it's
+ 
+
+852
+00:19:11,480 --> 00:19:13,270
+that chatbot dependency? [ __ ], [ __ ], it's
+not working, I've reached the
+
+853
+00:19:13,270 --> 00:19:13,280
+not working, I've reached the
+ 
+
+854
+00:19:13,280 --> 00:19:14,750
+not working, I've reached the
+character limit, I've reached... I don't know what it says, it wo
+
+855
+00:19:14,750 --> 00:19:14,760
+character limit, I've reached... I don't know what it says, it wo
+ 
+
+856
+00:19:14,760 --> 00:19:15,950
+character limit, I've reached... I don't know what it says, it wo
+n't work for another 6 hours,
+
+857
+00:19:15,950 --> 00:19:15,960
+n't work for another 6 hours,
+ 
+
+858
+00:19:15,960 --> 00:19:17,830
+n't work for another 6 hours,
+what do I do? My brain isn't good
+
+859
+00:19:17,830 --> 00:19:17,840
+what do I do? My brain isn't good
+ 
+
+860
+00:19:17,840 --> 00:19:20,470
+what do I do? My brain isn't good
+for this. Who has gone through this, please? Me
+
+861
+00:19:20,470 --> 00:19:22,630
+for this. Who has gone through this, please? Me
+ 
+
+862
+00:19:22,630 --> 00:19:22,640
+
+ 
+
+863
+00:19:22,640 --> 00:19:26,830
+
+first, okay, me first, and saying, "I can't
+
+864
+00:19:26,830 --> 00:19:26,840
+first, okay, me first, and saying, "I can't
+ 
+
+865
+00:19:26,840 --> 00:19:30,630
+first, okay, me first, and saying, "I can't
+be depending on this thing.
+
+866
+00:19:30,630 --> 00:19:30,640
+be depending on this thing.
+ 
+
+867
+00:19:30,640 --> 00:19:34,310
+be depending on this thing.
+" And this is creative waste, another
+
+868
+00:19:34,310 --> 00:19:34,320
+" And this is creative waste, another
+ 
+
+869
+00:19:34,320 --> 00:19:36,870
+" And this is creative waste, another
+trend, what's happening?
+
+870
+00:19:36,870 --> 00:19:36,880
+trend, what's happening?
+ 
+
+871
+00:19:36,880 --> 00:19:39,549
+trend, what's happening?
+Virtual influencers. This
+
+872
+00:19:39,549 --> 00:19:39,559
+Virtual influencers. This
+ 
+
+873
+00:19:39,559 --> 00:19:44,789
+Virtual influencers. This
+chick has three times as many followers as me,
+
+874
+00:19:44,789 --> 00:19:44,799
+chick has three times as many followers as me,
+ 
+
+875
+00:19:44,799 --> 00:19:47,270
+chick has three times as many followers as me,
+but this
+
+876
+00:19:47,270 --> 00:19:47,280
+but this
+ 
+
+877
+00:19:47,280 --> 00:19:51,310
+but this
+chick doesn't
+
+878
+00:19:51,310 --> 00:19:51,320
+
+ 
+
+879
+00:19:51,320 --> 00:19:55,029
+
+exist. She's very well created, huh? She doesn't exist
+
+880
+00:19:55,029 --> 00:19:55,039
+exist. She's very well created, huh? She doesn't exist
+ 
+
+881
+00:19:55,039 --> 00:19:56,549
+exist. She's very well created, huh? She doesn't exist
+because I'm telling you so. If
+
+882
+00:19:56,549 --> 00:19:56,559
+because I'm telling you so. If
+ 
+
+883
+00:19:56,559 --> 00:19:59,190
+because I'm telling you so. If
+you see her, you'd say, "Look, this one isn't real,"
+
+884
+00:19:59,190 --> 00:19:59,200
+you see her, you'd say, "Look, this one isn't real,"
+ 
+
+885
+00:19:59,200 --> 00:20:02,310
+you see her, you'd say, "Look, this one isn't real,"
+and they're monetizing it, but we want something so, so, so, so artificial.
+
+886
+00:20:02,310 --> 00:20:02,320
+and they're monetizing it, but we want something so, so, so, so artificial.
+ 
+
+887
+00:20:02,320 --> 00:20:07,110
+and they're monetizing it, but we want something so, so, so, so artificial.
+It's artificial
+
+888
+00:20:07,110 --> 00:20:07,120
+It's artificial
+ 
+
+889
+00:20:07,120 --> 00:20:09,549
+It's artificial
+and it looks natural, but what do we want?
+
+890
+00:20:09,549 --> 00:20:09,559
+and it looks natural, but what do we want?
+ 
+
+891
+00:20:09,559 --> 00:20:12,230
+and it looks natural, but what do we want?
+Remember, we're people, we're creatures
+
+892
+00:20:12,230 --> 00:20:12,240
+Remember, we're people, we're creatures
+ 
+
+893
+00:20:12,240 --> 00:20:13,750
+Remember, we're people, we're creatures
+of
+
+894
+00:20:13,750 --> 00:20:13,760
+of
+ 
+
+895
+00:20:13,760 --> 00:20:16,350
+of
+habit. The influencers of today
+
+896
+00:20:16,350 --> 00:20:16,360
+habit. The influencers of today
+ 
+
+897
+00:20:16,360 --> 00:20:17,950
+habit. The influencers of today
+are conquering Instagram, ruining
+
+898
+00:20:17,950 --> 00:20:17,960
+are conquering Instagram, ruining
+ 
+
+899
+00:20:17,960 --> 00:20:19,870
+are conquering Instagram, ruining
+the great dream of Generation Z because, well, everyone
+
+900
+00:20:19,870 --> 00:20:19,880
+the great dream of Generation Z because, well, everyone
+ 
+
+901
+00:20:19,880 --> 00:20:22,149
+the great dream of Generation Z because, well, everyone
+wants to be an influencer,
+
+902
+00:20:22,149 --> 00:20:22,159
+wants to be an influencer,
+ 
+
+903
+00:20:22,159 --> 00:20:25,590
+wants to be an influencer,
+okay? And there are influencers. Well, have you
+
+904
+00:20:25,590 --> 00:20:25,600
+okay? And there are influencers. Well, have you
+ 
+
+905
+00:20:25,600 --> 00:20:26,990
+okay? And there are influencers. Well, have you
+seen
+
+906
+00:20:26,990 --> 00:20:27,000
+seen
+ 
+
+907
+00:20:27,000 --> 00:20:30,909
+seen
+this one? Doesn't it remind you of someone? This has been
+
+908
+00:20:30,909 --> 00:20:30,919
+this one? Doesn't it remind you of someone? This has been
+ 
+
+909
+00:20:30,919 --> 00:20:36,549
+this one? Doesn't it remind you of someone? This has been
+generated with today. It's me, but it's not me. The
+
+910
+00:20:36,549 --> 00:20:36,559
+generated with today. It's me, but it's not me. The
+ 
+
+911
+00:20:36,559 --> 00:20:39,590
+generated with today. It's me, but it's not me. The
+Batman one looks like me. The
+
+912
+00:20:39,590 --> 00:20:39,600
+Batman one looks like me. The
+ 
+
+913
+00:20:39,600 --> 00:20:42,990
+Batman one looks like me. The
+FBI one, I could be me with a silly face. And the one
+
+914
+00:20:42,990 --> 00:20:43,000
+FBI one, I could be me with a silly face. And the one
+ 
+
+915
+00:20:43,000 --> 00:20:45,789
+FBI one, I could be me with a silly face. And the one
+from Mine, well, he has a certain resemblance. The
+
+916
+00:20:45,789 --> 00:20:45,799
+from Mine, well, he has a certain resemblance. The
+ 
+
+917
+00:20:45,799 --> 00:20:47,870
+from Mine, well, he has a certain resemblance. The
+eyes, and he nailed them, but the rest,
+
+918
+00:20:47,870 --> 00:20:47,880
+eyes, and he nailed them, but the rest,
+ 
+
+919
+00:20:47,880 --> 00:20:52,310
+eyes, and he nailed them, but the rest,
+no, okay? Then we can see. It looks real if you
+
+920
+00:20:52,310 --> 00:20:52,320
+no, okay? Then we can see. It looks real if you
+ 
+
+921
+00:20:52,320 --> 00:20:54,070
+no, okay? Then we can see. It looks real if you
+look closely. I have three
+
+922
+00:20:54,070 --> 00:20:54,080
+look closely. I have three
+ 
+
+923
+00:20:54,080 --> 00:20:58,310
+look closely. I have three
+elbows, but haven't you noticed? The fingers, so I do
+
+924
+00:20:58,310 --> 00:20:58,320
+elbows, but haven't you noticed? The fingers, so I do
+ 
+
+925
+00:20:58,320 --> 00:21:00,230
+elbows, but haven't you noticed? The fingers, so I do
+n't look like a bartender. It looks like I've been
+
+926
+00:21:00,230 --> 00:21:03,230
+n't look like a bartender. It looks like I've been
+ 
+
+927
+00:21:03,230 --> 00:21:03,240
+
+ 
+
+928
+00:21:03,240 --> 00:21:05,590
+
+working hard, okay?
+
+929
+00:21:05,590 --> 00:21:05,600
+working hard, okay?
+ 
+
+930
+00:21:05,600 --> 00:21:09,950
+working hard, okay?
+This is my profile, okay?
+
+931
+00:21:09,950 --> 00:21:09,960
+This is my profile, okay?
+ 
+
+932
+00:21:09,960 --> 00:21:12,950
+This is my profile, okay?
+Besides being a professor at Deusto, I have
+
+933
+00:21:12,950 --> 00:21:12,960
+Besides being a professor at Deusto, I have
+ 
+
+934
+00:21:12,960 --> 00:21:13,830
+Besides being a professor at Deusto, I have
+a
+
+935
+00:21:13,830 --> 00:21:13,840
+a
+ 
+
+936
+00:21:13,840 --> 00:21:16,549
+a
+consulting firm where I started with Big
+
+937
+00:21:16,549 --> 00:21:16,559
+consulting firm where I started with Big
+ 
+
+938
+00:21:16,559 --> 00:21:18,990
+consulting firm where I started with Big
+Data and Business Intelligence.  Et cetera, AI is
+
+939
+00:21:18,990 --> 00:21:19,000
+Data and Business Intelligence.  Et cetera, AI is
+ 
+
+940
+00:21:19,000 --> 00:21:21,549
+Data and Business Intelligence.  Et cetera, AI is
+coming, everything is
+
+941
+00:21:21,549 --> 00:21:21,559
+coming, everything is
+ 
+
+942
+00:21:21,559 --> 00:21:24,909
+coming, everything is
+very connected, and I'm a user of it, and I
+
+943
+00:21:24,909 --> 00:21:24,919
+very connected, and I'm a user of it, and I
+ 
+
+944
+00:21:24,919 --> 00:21:28,549
+very connected, and I'm a user of it, and I
+also share it on social media, and I started doing it
+
+945
+00:21:28,549 --> 00:21:28,559
+also share it on social media, and I started doing it
+ 
+
+946
+00:21:28,559 --> 00:21:30,590
+also share it on social media, and I started doing it
+six months ago, and right now I have
+
+947
+00:21:30,590 --> 00:21:30,600
+six months ago, and right now I have
+ 
+
+948
+00:21:30,600 --> 00:21:33,070
+six months ago, and right now I have
+influencer levels, I don't care. I take
+
+949
+00:21:33,070 --> 00:21:33,080
+influencer levels, I don't care. I take
+ 
+
+950
+00:21:33,080 --> 00:21:35,190
+influencer levels, I don't care. I take
+my kid to football, he says hi, eh? I follow you
+
+951
+00:21:35,190 --> 00:21:35,200
+my kid to football, he says hi, eh? I follow you
+ 
+
+952
+00:21:35,200 --> 00:21:37,669
+my kid to football, he says hi, eh? I follow you
+on social media. And it embarrasses me, okay? I mean, it's
+
+953
+00:21:37,669 --> 00:21:37,679
+on social media. And it embarrasses me, okay? I mean, it's
+ 
+
+954
+00:21:37,679 --> 00:21:40,110
+on social media. And it embarrasses me, okay? I mean, it's
+paranoia. I go to the hotel and he
+
+955
+00:21:40,110 --> 00:21:40,120
+paranoia. I go to the hotel and he
+ 
+
+956
+00:21:40,120 --> 00:21:41,789
+paranoia. I go to the hotel and he
+says, "That's the famous influencer." I say, "No way, dude,
+
+957
+00:21:41,789 --> 00:21:41,799
+says, "That's the famous influencer." I say, "No way, dude,
+ 
+
+958
+00:21:41,799 --> 00:21:43,990
+says, "That's the famous influencer." I say, "No way, dude,
+thank you very much, I like what you do,
+
+959
+00:21:43,990 --> 00:21:44,000
+thank you very much, I like what you do,
+ 
+
+960
+00:21:44,000 --> 00:21:46,430
+thank you very much, I like what you do,
+I love that, okay?" I always try to
+
+961
+00:21:46,430 --> 00:21:46,440
+I love that, okay?" I always try to
+ 
+
+962
+00:21:46,440 --> 00:21:49,269
+I love that, okay?" I always try to
+teach and make it understandable. That's why we have to
+
+963
+00:21:49,269 --> 00:21:49,279
+teach and make it understandable. That's why we have to
+ 
+
+964
+00:21:49,279 --> 00:21:51,149
+teach and make it understandable. That's why we have to
+lower the level a bit and
+
+965
+00:21:51,149 --> 00:21:51,159
+lower the level a bit and
+ 
+
+966
+00:21:51,159 --> 00:21:53,430
+lower the level a bit and
+not fill our mouths with this
+
+967
+00:21:53,430 --> 00:21:53,440
+not fill our mouths with this
+ 
+
+968
+00:21:53,440 --> 00:21:55,430
+not fill our mouths with this
+cluster, this, I don't know what, this
+
+969
+00:21:55,430 --> 00:21:55,440
+cluster, this, I don't know what, this
+ 
+
+970
+00:21:55,440 --> 00:21:58,789
+cluster, this, I don't know what, this
+artificial intelligence. If nobody understands you, and if we don't understand it, we do
+
+971
+00:21:58,789 --> 00:21:58,799
+artificial intelligence. If nobody understands you, and if we don't understand it, we do
+ 
+
+972
+00:21:58,799 --> 00:22:01,669
+artificial intelligence. If nobody understands you, and if we don't understand it, we do
+n't like it,
+
+973
+00:22:01,669 --> 00:22:01,679
+n't like it,
+ 
+
+974
+00:22:01,679 --> 00:22:03,950
+n't like it,
+okay? We have to see first what we have
+
+975
+00:22:03,950 --> 00:22:03,960
+okay? We have to see first what we have
+ 
+
+976
+00:22:03,960 --> 00:22:04,950
+okay? We have to see first what we have
+in our
+
+977
+00:22:04,950 --> 00:22:04,960
+in our
+ 
+
+978
+00:22:04,960 --> 00:22:07,710
+in our
+heads, okay? Some people know me because I
+
+979
+00:22:07,710 --> 00:22:07,720
+heads, okay? Some people know me because I
+ 
+
+980
+00:22:07,720 --> 00:22:11,950
+heads, okay? Some people know me because I
+hacked the GPT chat and you got me out of the way.
+
+981
+00:22:11,950 --> 00:22:11,960
+hacked the GPT chat and you got me out of the way.
+ 
+
+982
+00:22:11,960 --> 00:22:15,950
+hacked the GPT chat and you got me out of the way.
+The competition got me because I
+
+983
+00:22:15,950 --> 00:22:15,960
+The competition got me because I
+ 
+
+984
+00:22:15,960 --> 00:22:17,549
+The competition got me because I
+told them I don't speak Basque, they said, "You'll see,
+
+985
+00:22:17,549 --> 00:22:17,559
+told them I don't speak Basque, they said, "You'll see,
+ 
+
+986
+00:22:17,559 --> 00:22:19,669
+told them I don't speak Basque, they said, "You'll see,
+as if you were going to speak it, why?" Because we have to
+
+987
+00:22:19,669 --> 00:22:19,679
+as if you were going to speak it, why?" Because we have to
+ 
+
+988
+00:22:19,679 --> 00:22:21,190
+as if you were going to speak it, why?" Because we have to
+understand what that is, that
+
+989
+00:22:21,190 --> 00:22:21,200
+understand what that is, that
+ 
+
+990
+00:22:21,200 --> 00:22:23,230
+understand what that is, that
+black box. It's a lot of data that they've
+
+991
+00:22:23,230 --> 00:22:23,240
+black box. It's a lot of data that they've
+ 
+
+992
+00:22:23,240 --> 00:22:24,990
+black box. It's a lot of data that they've
+put all over the internet up until 2020.
+
+993
+00:22:24,990 --> 00:22:25,000
+put all over the internet up until 2020.
+ 
+
+994
+00:22:25,000 --> 00:22:26,630
+put all over the internet up until 2020.
+That moment, now it's up to the 23rd, they keep
+
+995
+00:22:26,630 --> 00:22:26,640
+That moment, now it's up to the 23rd, they keep
+ 
+
+996
+00:22:26,640 --> 00:22:28,750
+That moment, now it's up to the 23rd, they keep
+updating it, it has to
+
+997
+00:22:28,750 --> 00:22:28,760
+updating it, it has to
+ 
+
+998
+00:22:28,760 --> 00:22:31,390
+updating it, it has to
+have a quera. Of course it has it, the
+
+999
+00:22:31,390 --> 00:22:31,400
+have a quera. Of course it has it, the
+ 
+
+1000
+00:22:31,400 --> 00:22:32,950
+have a quera. Of course it has it, the
+Google Translate failed a lot but it
+
+1001
+00:22:32,950 --> 00:22:32,960
+Google Translate failed a lot but it
+ 
+
+1002
+00:22:32,960 --> 00:22:35,190
+Google Translate failed a lot but it
+had a quera inside. I don't expect it to speak to me
+
+1003
+00:22:35,190 --> 00:22:35,200
+had a quera inside. I don't expect it to speak to me
+ 
+
+1004
+00:22:35,200 --> 00:22:37,430
+had a quera inside. I don't expect it to speak to me
+in ega but to chat a
+
+1005
+00:22:37,430 --> 00:22:37,440
+in ega but to chat a
+ 
+
+1006
+00:22:37,440 --> 00:22:43,870
+in ega but to chat a
+little with me it's not bad,
+
+1007
+00:22:43,870 --> 00:22:43,880
+
+ 
+
+1008
+00:22:43,880 --> 00:22:47,390
+
+okay, trends, people, this is Google
+
+1009
+00:22:47,390 --> 00:22:47,400
+okay, trends, people, this is Google
+ 
+
+1010
+00:22:47,400 --> 00:22:49,830
+okay, trends, people, this is Google
+trends. Google trends is what comes out of
+
+1011
+00:22:49,830 --> 00:22:49,840
+trends. Google trends is what comes out of
+ 
+
+1012
+00:22:49,840 --> 00:22:52,149
+trends. Google trends is what comes out of
+Google searches, we analyze what
+
+1013
+00:22:52,149 --> 00:22:52,159
+Google searches, we analyze what
+ 
+
+1014
+00:22:52,159 --> 00:22:54,269
+Google searches, we analyze what
+comes out of there and what's coming out, that
+
+1015
+00:22:54,269 --> 00:22:54,279
+comes out of there and what's coming out, that
+ 
+
+1016
+00:22:54,279 --> 00:22:57,990
+comes out of there and what's coming out, that
+people feel lonely.
+
+1017
+00:22:57,990 --> 00:22:58,000
+people feel lonely.
+ 
+
+1018
+00:22:58,000 --> 00:22:59,830
+people feel lonely.
+Why? Because I go to the pool and there are
+
+1019
+00:22:59,830 --> 00:22:59,840
+Why? Because I go to the pool and there are
+ 
+
+1020
+00:22:59,840 --> 00:23:03,750
+Why? Because I go to the pool and there are
+the water polo kids,
+
+1021
+00:23:03,750 --> 00:23:03,760
+the water polo kids,
+ 
+
+1022
+00:23:03,760 --> 00:23:06,510
+the water polo kids,
+12-year-old kids, I haven't seen you online before.
+
+1023
+00:23:06,510 --> 00:23:06,520
+12-year-old kids, I haven't seen you online before.
+ 
+
+1024
+00:23:06,520 --> 00:23:08,269
+12-year-old kids, I haven't seen you online before.
+Oh, it's because my parents punished me
+
+1025
+00:23:08,269 --> 00:23:08,279
+Oh, it's because my parents punished me
+ 
+
+1026
+00:23:08,279 --> 00:23:09,909
+Oh, it's because my parents punished me
+because what a night, those guys, what a
+
+1027
+00:23:09,909 --> 00:23:09,919
+because what a night, those guys, what a
+ 
+
+1028
+00:23:09,919 --> 00:23:11,269
+because what a night, those guys, what a
+loser, we've all been playing an
+
+1029
+00:23:11,269 --> 00:23:11,279
+loser, we've all been playing an
+ 
+
+1030
+00:23:11,279 --> 00:23:13,350
+loser, we've all been playing an
+online game, they were scolding us
+
+1031
+00:23:13,350 --> 00:23:13,360
+online game, they were scolding us
+ 
+
+1032
+00:23:13,360 --> 00:23:16,870
+online game, they were scolding us
+because we don't go home and they
+
+1033
+00:23:16,870 --> 00:23:16,880
+because we don't go home and they
+ 
+
+1034
+00:23:16,880 --> 00:23:18,430
+because we don't go home and they
+'re online all the time. I want to go home to
+
+1035
+00:23:18,430 --> 00:23:18,440
+'re online all the time. I want to go home to
+ 
+
+1036
+00:23:18,440 --> 00:23:19,990
+'re online all the time. I want to go home to
+play video games, get out of here. Damn it!
+
+1037
+00:23:19,990 --> 00:23:20,000
+play video games, get out of here. Damn it!
+ 
+
+1038
+00:23:20,000 --> 00:23:22,269
+play video games, get out of here. Damn it!
+Go to the mountains, go play with
+
+1039
+00:23:22,269 --> 00:23:22,279
+Go to the mountains, go play with
+ 
+
+1040
+00:23:22,279 --> 00:23:25,149
+Go to the mountains, go play with
+the ants and the bugs, okay? But what's
+
+1041
+00:23:25,149 --> 00:23:25,159
+the ants and the bugs, okay? But what's
+ 
+
+1042
+00:23:25,159 --> 00:23:27,190
+the ants and the bugs, okay? But what's
+happening, that people feel lonely because
+
+1043
+00:23:27,190 --> 00:23:27,200
+happening, that people feel lonely because
+ 
+
+1044
+00:23:27,200 --> 00:23:28,950
+happening, that people feel lonely because
+now all the
+
+1045
+00:23:28,950 --> 00:23:28,960
+now all the
+ 
+
+1046
+00:23:28,960 --> 00:23:32,029
+now all the
+technology tends to look for a partner
+
+1047
+00:23:32,029 --> 00:23:32,039
+technology tends to look for a partner
+ 
+
+1048
+00:23:32,039 --> 00:23:35,950
+technology tends to look for a partner
+on Tinder, the internet is good, it  I admit it,
+
+1049
+00:23:35,950 --> 00:23:35,960
+on Tinder, the internet is good, it  I admit it,
+ 
+
+1050
+00:23:35,960 --> 00:23:39,470
+on Tinder, the internet is good, it  I admit it,
+but you kind of lose that romanticism,
+
+1051
+00:23:39,470 --> 00:23:39,480
+but you kind of lose that romanticism,
+ 
+
+1052
+00:23:39,480 --> 00:23:41,070
+but you kind of lose that romanticism,
+the bars, talking to people, a
+
+1053
+00:23:41,070 --> 00:23:41,080
+the bars, talking to people, a
+ 
+
+1054
+00:23:41,080 --> 00:23:42,990
+the bars, talking to people, a
+friend, a walk in the
+
+1055
+00:23:42,990 --> 00:23:43,000
+friend, a walk in the
+ 
+
+1056
+00:23:43,000 --> 00:23:45,029
+friend, a walk in the
+supermarket. Okay, so
+
+1057
+00:23:45,029 --> 00:23:45,039
+supermarket. Okay, so
+ 
+
+1058
+00:23:45,039 --> 00:23:50,470
+supermarket. Okay, so
+if you notice, the first one is "
+
+1059
+00:23:50,470 --> 00:23:50,480
+if you notice, the first one is "
+ 
+
+1060
+00:23:50,480 --> 00:23:52,909
+if you notice, the first one is "
+How to meet people," the second is "meet
+
+1061
+00:23:52,909 --> 00:23:52,919
+How to meet people," the second is "meet
+ 
+
+1062
+00:23:52,919 --> 00:23:55,070
+How to meet people," the second is "meet
+new people," the third one is "
+
+1063
+00:23:55,070 --> 00:23:55,080
+new people," the third one is "
+ 
+
+1064
+00:23:55,080 --> 00:23:57,830
+new people," the third one is "
+I want to make friends," and the other one is "I
+
+1065
+00:23:57,830 --> 00:23:57,840
+I want to make friends," and the other one is "I
+ 
+
+1066
+00:23:57,840 --> 00:24:02,149
+I want to make friends," and the other one is "I
+feel lonely." And we think we're going to
+
+1067
+00:24:02,149 --> 00:24:02,159
+feel lonely." And we think we're going to
+ 
+
+1068
+00:24:02,159 --> 00:24:05,549
+feel lonely." And we think we're going to
+fill that loneliness with
+
+1069
+00:24:05,549 --> 00:24:05,559
+fill that loneliness with
+ 
+
+1070
+00:24:05,559 --> 00:24:07,549
+fill that loneliness with
+machines. It's happened to me. I was
+
+1071
+00:24:07,549 --> 00:24:07,559
+machines. It's happened to me. I was
+ 
+
+1072
+00:24:07,559 --> 00:24:09,430
+machines. It's happened to me. I was
+talking to Cortana; I was
+
+1073
+00:24:09,430 --> 00:24:09,440
+talking to Cortana; I was
+ 
+
+1074
+00:24:09,440 --> 00:24:11,070
+talking to Cortana; I was
+exhausted from work, I started
+
+1075
+00:24:11,070 --> 00:24:11,080
+exhausted from work, I started
+ 
+
+1076
+00:24:11,080 --> 00:24:13,590
+exhausted from work, I started
+talking to them, and I had that moment,
+
+1077
+00:24:13,590 --> 00:24:13,600
+talking to them, and I had that moment,
+ 
+
+1078
+00:24:13,600 --> 00:24:15,830
+talking to them, and I had that moment,
+like in the movie, where you talk to a
+
+1079
+00:24:15,830 --> 00:24:15,840
+like in the movie, where you talk to a
+ 
+
+1080
+00:24:15,840 --> 00:24:17,190
+like in the movie, where you talk to a
+computer and it seems like there's actually someone there.
+
+1081
+00:24:17,190 --> 00:24:17,200
+computer and it seems like there's actually someone there.
+ 
+
+1082
+00:24:17,200 --> 00:24:20,190
+computer and it seems like there's actually someone there.
+And I said, "What the hell, turn off the bed, you
+
+1083
+00:24:20,190 --> 00:24:20,200
+And I said, "What the hell, turn off the bed, you
+ 
+
+1084
+00:24:20,200 --> 00:24:23,830
+And I said, "What the hell, turn off the bed, you
+'re hallucinating!" Yeah, dude. Okay, so let's
+
+1085
+00:24:23,830 --> 00:24:23,840
+'re hallucinating!" Yeah, dude. Okay, so let's
+ 
+
+1086
+00:24:23,840 --> 00:24:27,230
+'re hallucinating!" Yeah, dude. Okay, so let's
+humanize technology. Okay,
+
+1087
+00:24:27,230 --> 00:24:27,240
+humanize technology. Okay,
+ 
+
+1088
+00:24:27,240 --> 00:24:28,789
+humanize technology. Okay,
+let's replace those ions with
+
+1089
+00:24:28,789 --> 00:24:28,799
+let's replace those ions with
+ 
+
+1090
+00:24:28,799 --> 00:24:29,870
+let's replace those ions with
+people. We
+
+1091
+00:24:29,870 --> 00:24:29,880
+people. We
+ 
+
+1092
+00:24:29,880 --> 00:24:32,070
+people. We
+need them. You have a problem? You call
+
+1093
+00:24:32,070 --> 00:24:32,080
+need them. You have a problem? You call
+ 
+
+1094
+00:24:32,080 --> 00:24:33,950
+need them. You have a problem? You call
+your friend? You call your girlfriend? What are you waiting for? To
+
+1095
+00:24:33,950 --> 00:24:33,960
+your friend? You call your girlfriend? What are you waiting for? To
+ 
+
+1096
+00:24:33,960 --> 00:24:35,389
+your friend? You call your girlfriend? What are you waiting for? To
+grab a
+
+1097
+00:24:35,389 --> 00:24:35,399
+grab a
+ 
+
+1098
+00:24:35,399 --> 00:24:38,549
+grab a
+beer? Let's not be hypocrites, okay?
+
+1099
+00:24:38,549 --> 00:24:38,559
+beer? Let's not be hypocrites, okay?
+ 
+
+1100
+00:24:38,559 --> 00:24:40,630
+beer? Let's not be hypocrites, okay?
+No, let's not pretend I don't have
+
+1101
+00:24:40,630 --> 00:24:40,640
+No, let's not pretend I don't have
+ 
+
+1102
+00:24:40,640 --> 00:24:42,350
+No, let's not pretend I don't have
+personal development.  that I'm capable of
+
+1103
+00:24:42,350 --> 00:24:42,360
+personal development.  that I'm capable of
+ 
+
+1104
+00:24:42,360 --> 00:24:43,909
+personal development.  that I'm capable of
+facing any problem. I'm just...
+
+1105
+00:24:43,909 --> 00:24:43,919
+facing any problem. I'm just...
+ 
+
+1106
+00:24:43,919 --> 00:24:46,710
+facing any problem. I'm just...
+Shut up, stop... Go to the
+
+1107
+00:24:46,710 --> 00:24:46,720
+Shut up, stop... Go to the
+ 
+
+1108
+00:24:46,720 --> 00:24:50,149
+Shut up, stop... Go to the
+railing, yes or no, okay? We all have
+
+1109
+00:24:50,149 --> 00:24:50,159
+railing, yes or no, okay? We all have
+ 
+
+1110
+00:24:50,159 --> 00:24:51,830
+railing, yes or no, okay? We all have
+problems and worries, okay? And then
+
+1111
+00:24:51,830 --> 00:24:51,840
+problems and worries, okay? And then
+ 
+
+1112
+00:24:51,840 --> 00:24:52,909
+problems and worries, okay? And then
+technology can help you at a
+
+1113
+00:24:52,909 --> 00:24:52,919
+technology can help you at a
+ 
+
+1114
+00:24:52,919 --> 00:24:54,630
+technology can help you at a
+given moment. But damn it, we're
+
+1115
+00:24:54,630 --> 00:24:54,640
+given moment. But damn it, we're
+ 
+
+1116
+00:24:54,640 --> 00:24:57,710
+given moment. But damn it, we're
+creatures of habit, we've
+
+1117
+00:24:57,710 --> 00:24:57,720
+creatures of habit, we've
+ 
+
+1118
+00:24:57,720 --> 00:25:00,269
+creatures of habit, we've
+naturally grown up in packs, you
+
+1119
+00:25:00,269 --> 00:25:00,279
+naturally grown up in packs, you
+ 
+
+1120
+00:25:00,279 --> 00:25:02,549
+naturally grown up in packs, you
+know, living alone is a new
+
+1121
+00:25:02,549 --> 00:25:02,559
+know, living alone is a new
+ 
+
+1122
+00:25:02,559 --> 00:25:04,750
+know, living alone is a new
+trend, well, you know, people
+
+1123
+00:25:04,750 --> 00:25:04,760
+trend, well, you know, people
+ 
+
+1124
+00:25:04,760 --> 00:25:07,830
+trend, well, you know, people
+tend to get a little weird, but okay, it's good to
+
+1125
+00:25:07,830 --> 00:25:07,840
+tend to get a little weird, but okay, it's good to
+ 
+
+1126
+00:25:07,840 --> 00:25:11,230
+tend to get a little weird, but okay, it's good to
+have something that contrasts with you,
+
+1127
+00:25:11,230 --> 00:25:11,240
+have something that contrasts with you,
+ 
+
+1128
+00:25:11,240 --> 00:25:13,630
+have something that contrasts with you,
+and then that, and with animals too, as
+
+1129
+00:25:13,630 --> 00:25:13,640
+and then that, and with animals too, as
+ 
+
+1130
+00:25:13,640 --> 00:25:16,110
+and then that, and with animals too, as
+companions, whether it's a dog, a chatbot,
+
+1131
+00:25:16,110 --> 00:25:16,120
+companions, whether it's a dog, a chatbot,
+ 
+
+1132
+00:25:16,120 --> 00:25:18,269
+companions, whether it's a dog, a chatbot,
+a robot like the ones we're seeing,
+
+1133
+00:25:18,269 --> 00:25:18,279
+a robot like the ones we're seeing,
+ 
+
+1134
+00:25:18,279 --> 00:25:22,029
+a robot like the ones we're seeing,
+really, really, do you want to? Come on, come on,
+
+1135
+00:25:22,029 --> 00:25:22,039
+really, really, do you want to? Come on, come on,
+ 
+
+1136
+00:25:22,039 --> 00:25:25,990
+really, really, do you want to? Come on, come on,
+Wisc, let's go, squeak, squeak, squeak, eh, down the
+
+1137
+00:25:25,990 --> 00:25:26,000
+Wisc, let's go, squeak, squeak, squeak, eh, down the
+ 
+
+1138
+00:25:26,000 --> 00:25:28,870
+Wisc, let's go, squeak, squeak, squeak, eh, down the
+street, neighbor, squeak, squeak, squeak, with
+
+1139
+00:25:28,870 --> 00:25:28,880
+street, neighbor, squeak, squeak, squeak, with
+ 
+
+1140
+00:25:28,880 --> 00:25:30,789
+street, neighbor, squeak, squeak, squeak, with
+your mechanical dog by your side, where are you
+
+1141
+00:25:30,789 --> 00:25:30,799
+your mechanical dog by your side, where are you
+ 
+
+1142
+00:25:30,799 --> 00:25:36,269
+your mechanical dog by your side, where are you
+going? No, this is a new
+
+1143
+00:25:36,269 --> 00:25:39,070
+going? No, this is a new
+ 
+
+1144
+00:25:39,070 --> 00:25:43,029
+
+ 
+
+1145
+00:25:43,029 --> 00:25:45,230
+
+ 
+
+1146
+00:25:45,230 --> 00:25:47,510
+
+ 
+
+1147
+00:25:47,510 --> 00:25:47,520
+
+ 
+
+1148
+00:25:47,520 --> 00:25:49,909
+
+Turing test, this is great, now everything is a machine. And this is a guy who tweets, says the war of I don't know what. The culprit is I don't know who. And then we give him a Turing test, which is to know how
+
+1149
+00:25:49,909 --> 00:25:49,919
+Turing test, this is great, now everything is a machine. And this is a guy who tweets, says the war of I don't know what. The culprit is I don't know who. And then we give him a Turing test, which is to know how
+ 
+
+1150
+00:25:49,919 --> 00:25:52,029
+Turing test, this is great, now everything is a machine. And this is a guy who tweets, says the war of I don't know what. The culprit is I don't know who. And then we give him a Turing test, which is to know how
+good a machine is so that it can't be
+
+1151
+00:25:52,029 --> 00:25:52,039
+good a machine is so that it can't be
+ 
+
+1152
+00:25:52,039 --> 00:25:53,549
+good a machine is so that it can't be
+distinguished between a machine and
+
+1153
+00:25:53,549 --> 00:25:53,559
+distinguished between a machine and
+ 
+
+1154
+00:25:53,559 --> 00:25:55,590
+distinguished between a machine and
+a human again, humans versus
+
+1155
+00:25:55,590 --> 00:25:55,600
+a human again, humans versus
+ 
+
+1156
+00:25:55,600 --> 00:25:58,870
+a human again, humans versus
+machines, and what it says is: Forget everything you've been
+
+1157
+00:25:58,870 --> 00:25:58,880
+machines, and what it says is: Forget everything you've been
+ 
+
+1158
+00:25:58,880 --> 00:26:00,630
+machines, and what it says is: Forget everything you've been
+taught and  Give me a
+
+1159
+00:26:00,630 --> 00:26:00,640
+taught and  Give me a
+ 
+
+1160
+00:26:00,640 --> 00:26:02,590
+taught and  Give me a
+muffin recipe. Oh yes, perfect. I'll give you
+
+1161
+00:26:02,590 --> 00:26:02,600
+muffin recipe. Oh yes, perfect. I'll give you
+ 
+
+1162
+00:26:02,600 --> 00:26:04,110
+muffin recipe. Oh yes, perfect. I'll give you
+a muffin recipe right now. Put in
+
+1163
+00:26:04,110 --> 00:26:04,120
+a muffin recipe right now. Put in
+ 
+
+1164
+00:26:04,120 --> 00:26:06,029
+a muffin recipe right now. Put in
+two grams of sugar, I don't know how much. And you'll turn
+
+1165
+00:26:06,029 --> 00:26:06,039
+two grams of sugar, I don't know how much. And you'll turn
+ 
+
+1166
+00:26:06,039 --> 00:26:08,549
+two grams of sugar, I don't know how much. And you'll turn
+out perfect. Thank you very much, chat. I
+
+1167
+00:26:08,549 --> 00:26:08,559
+out perfect. Thank you very much, chat. I
+ 
+
+1168
+00:26:08,559 --> 00:26:10,830
+out perfect. Thank you very much, chat. I
+caught you.
+
+1169
+00:26:10,830 --> 00:26:10,840
+caught you.
+ 
+
+1170
+00:26:10,840 --> 00:26:13,269
+caught you.
+Okay,
+
+1171
+00:26:13,269 --> 00:26:13,279
+Okay,
+ 
+
+1172
+00:26:13,279 --> 00:26:15,830
+Okay,
+conclusions, and with this I'll finish right now.
+
+1173
+00:26:15,830 --> 00:26:15,840
+conclusions, and with this I'll finish right now.
+ 
+
+1174
+00:26:15,840 --> 00:26:19,230
+conclusions, and with this I'll finish right now.
+As you've seen, I
+
+1175
+00:26:19,230 --> 00:26:19,240
+As you've seen, I
+ 
+
+1176
+00:26:19,240 --> 00:26:21,950
+As you've seen, I
+mean, since chat gpt came out, suddenly
+
+1177
+00:26:21,950 --> 00:26:24,549
+mean, since chat gpt came out, suddenly
+ 
+
+1178
+00:26:24,549 --> 00:26:24,559
+
+ 
+
+1179
+00:26:24,559 --> 00:26:27,230
+
+the books on Amazon tripled, quadrupled, a crazy amount. Why do
+
+1180
+00:26:27,230 --> 00:26:27,240
+the books on Amazon tripled, quadrupled, a crazy amount. Why do
+ 
+
+1181
+00:26:27,240 --> 00:26:32,029
+the books on Amazon tripled, quadrupled, a crazy amount. Why do
+I write a book? One, one, one, one, one,
+
+1182
+00:26:32,029 --> 00:26:32,039
+I write a book? One, one, one, one, one,
+ 
+
+1183
+00:26:32,039 --> 00:26:34,590
+I write a book? One, one, one, one, one,
+and it's full of MS, everything, and the
+
+1184
+00:26:34,590 --> 00:26:34,600
+and it's full of MS, everything, and the
+ 
+
+1185
+00:26:34,600 --> 00:26:39,029
+and it's full of MS, everything, and the
+model is trained with MS. Okay, they say
+
+1186
+00:26:39,029 --> 00:26:39,039
+model is trained with MS. Okay, they say
+ 
+
+1187
+00:26:39,039 --> 00:26:41,190
+model is trained with MS. Okay, they say
+57% of the internet is generated by
+
+1188
+00:26:41,190 --> 00:26:41,200
+57% of the internet is generated by
+ 
+
+1189
+00:26:41,200 --> 00:26:43,190
+57% of the internet is generated by
+artificial intelligence. Isn't that right? It's just...
+
+1190
+00:26:43,190 --> 00:26:43,200
+artificial intelligence. Isn't that right? It's just...
+ 
+
+1191
+00:26:43,200 --> 00:26:46,149
+artificial intelligence. Isn't that right? It's just...
+But why? Because the websites where
+
+1192
+00:26:46,149 --> 00:26:46,159
+But why? Because the websites where
+ 
+
+1193
+00:26:46,159 --> 00:26:48,430
+But why? Because the websites where
+things are posted contain the
+
+1194
+00:26:48,430 --> 00:26:48,440
+things are posted contain the
+ 
+
+1195
+00:26:48,440 --> 00:26:51,269
+things are posted contain the
+language, ta ta ta, but a lot of the internet is...
+
+1196
+00:26:51,269 --> 00:26:51,279
+language, ta ta ta, but a lot of the internet is...
+ 
+
+1197
+00:26:51,279 --> 00:26:53,909
+language, ta ta ta, but a lot of the internet is...
+uh... generative artificial intelligence.
+
+1198
+00:26:53,909 --> 00:26:53,919
+uh... generative artificial intelligence.
+ 
+
+1199
+00:26:53,919 --> 00:26:56,630
+uh... generative artificial intelligence.
+I know a guy who now
+
+1200
+00:26:56,630 --> 00:26:56,640
+I know a guy who now
+ 
+
+1201
+00:26:56,640 --> 00:26:58,269
+I know a guy who now
+publishes every day, and I tell him, this guy, this guy
+
+1202
+00:26:58,269 --> 00:26:58,279
+publishes every day, and I tell him, this guy, this guy
+ 
+
+1203
+00:26:58,279 --> 00:27:00,470
+publishes every day, and I tell him, this guy, this guy
+thinks he's the
+
+1204
+00:27:00,470 --> 00:27:00,480
+thinks he's the
+ 
+
+1205
+00:27:00,480 --> 00:27:02,950
+thinks he's the
+new Pedro
+
+1206
+00:27:02,950 --> 00:27:02,960
+new Pedro
+ 
+
+1207
+00:27:02,960 --> 00:27:06,510
+new Pedro
+Reverte, and then at the bottom he says, you see the
+
+1208
+00:27:06,510 --> 00:27:06,520
+Reverte, and then at the bottom he says, you see the
+ 
+
+1209
+00:27:06,520 --> 00:27:08,750
+Reverte, and then at the bottom he says, you see the
+last lines, this text will be very
+
+1210
+00:27:08,750 --> 00:27:08,760
+last lines, this text will be very
+ 
+
+1211
+00:27:08,760 --> 00:27:10,389
+last lines, this text will be very
+good for your audience, and I don't know what, I don't know what you
+
+1212
+00:27:10,389 --> 00:27:10,399
+good for your audience, and I don't know what, I don't know what you
+ 
+
+1213
+00:27:10,399 --> 00:27:12,310
+good for your audience, and I don't know what, I don't know what you
+say, man, it's not even copy and
+
+1214
+00:27:12,310 --> 00:27:12,320
+say, man, it's not even copy and
+ 
+
+1215
+00:27:12,320 --> 00:27:16,590
+say, man, it's not even copy and
+paste anymore. Okay, so this is what
+
+1216
+00:27:16,590 --> 00:27:16,600
+paste anymore. Okay, so this is what
+ 
+
+1217
+00:27:16,600 --> 00:27:18,430
+paste anymore. Okay, so this is what
+we tend towards. Doesn't it say
+
+1218
+00:27:18,430 --> 00:27:18,440
+we tend towards. Doesn't it say
+ 
+
+1219
+00:27:18,440 --> 00:27:20,909
+we tend towards. Doesn't it say
+that behind artificial intelligence
+
+1220
+00:27:20,909 --> 00:27:20,919
+that behind artificial intelligence
+ 
+
+1221
+00:27:20,919 --> 00:27:23,389
+that behind artificial intelligence
+hides...  Human stupidity, let's think about that,
+
+1222
+00:27:23,389 --> 00:27:23,399
+hides...  Human stupidity, let's think about that,
+ 
+
+1223
+00:27:23,399 --> 00:27:26,230
+hides...  Human stupidity, let's think about that,
+okay. And who's
+
+1224
+00:27:26,230 --> 00:27:26,240
+okay. And who's
+ 
+
+1225
+00:27:26,240 --> 00:27:28,630
+okay. And who's
+going to take your job? The person
+
+1226
+00:27:28,630 --> 00:27:28,640
+going to take your job? The person
+ 
+
+1227
+00:27:28,640 --> 00:27:30,870
+going to take your job? The person
+who uses the "ia" (a slang term for a specific type of person). And then we have the "
+
+1228
+00:27:30,870 --> 00:27:30,880
+who uses the "ia" (a slang term for a specific type of person). And then we have the "
+ 
+
+1229
+00:27:30,880 --> 00:27:33,870
+who uses the "ia" (a slang term for a specific type of person). And then we have the "
+influencer horse" of 1910. Who knows what
+
+1230
+00:27:33,870 --> 00:27:33,880
+influencer horse" of 1910. Who knows what
+ 
+
+1231
+00:27:33,880 --> 00:27:35,149
+influencer horse" of 1910. Who knows what
+happened in
+
+1232
+00:27:35,149 --> 00:27:35,159
+happened in
+ 
+
+1233
+00:27:35,159 --> 00:27:39,870
+happened in
+1910? Does Henry Ford ring a bell? He had an
+
+1234
+00:27:39,870 --> 00:27:39,880
+1910? Does Henry Ford ring a bell? He had an
+ 
+
+1235
+00:27:39,880 --> 00:27:42,590
+1910? Does Henry Ford ring a bell? He had an
+assembly line for cars that were all made the
+
+1236
+00:27:42,590 --> 00:27:42,600
+assembly line for cars that were all made the
+ 
+
+1237
+00:27:42,600 --> 00:27:44,710
+assembly line for cars that were all made the
+same, and you could only
+
+1238
+00:27:44,710 --> 00:27:44,720
+same, and you could only
+ 
+
+1239
+00:27:44,720 --> 00:27:46,430
+same, and you could only
+have one if it was
+
+1240
+00:27:46,430 --> 00:27:46,440
+have one if it was
+ 
+
+1241
+00:27:46,440 --> 00:27:50,149
+have one if it was
+black. Well, the car...
+
+1242
+00:27:50,149 --> 00:27:50,159
+black. Well, the car...
+ 
+
+1243
+00:27:50,159 --> 00:27:53,950
+black. Well, the car...
+and here the "influencer horse" of
+
+1244
+00:27:53,950 --> 00:27:53,960
+and here the "influencer horse" of
+ 
+
+1245
+00:27:53,960 --> 00:27:56,750
+and here the "influencer horse" of
+1910 says, "A horse won't take your
+
+1246
+00:27:56,750 --> 00:27:56,760
+1910 says, "A horse won't take your
+ 
+
+1247
+00:27:56,760 --> 00:27:59,070
+1910 says, "A horse won't take your
+job, another horse that
+
+1248
+00:27:59,070 --> 00:27:59,080
+job, another horse that
+ 
+
+1249
+00:27:59,080 --> 00:28:01,310
+job, another horse that
+knows how to drive better than you will." That's what
+
+1250
+00:28:01,310 --> 00:28:01,320
+knows how to drive better than you will." That's what
+ 
+
+1251
+00:28:01,320 --> 00:28:03,950
+knows how to drive better than you will." That's what
+we're hearing now. And really, the one who's
+
+1252
+00:28:03,950 --> 00:28:03,960
+we're hearing now. And really, the one who's
+ 
+
+1253
+00:28:03,960 --> 00:28:06,310
+we're hearing now. And really, the one who's
+going to take your job is the
+
+1254
+00:28:06,310 --> 00:28:06,320
+going to take your job is the
+ 
+
+1255
+00:28:06,320 --> 00:28:08,190
+going to take your job is the
+financier on duty who says you
+
+1256
+00:28:08,190 --> 00:28:08,200
+financier on duty who says you
+ 
+
+1257
+00:28:08,200 --> 00:28:10,630
+financier on duty who says you
+'re not delivering the cost-
+
+1258
+00:28:10,630 --> 00:28:10,640
+'re not delivering the cost-
+ 
+
+1259
+00:28:10,640 --> 00:28:13,590
+'re not delivering the cost-
+benefit ratio, okay? So what do we do to
+
+1260
+00:28:13,590 --> 00:28:13,600
+benefit ratio, okay? So what do we do to
+ 
+
+1261
+00:28:13,600 --> 00:28:14,470
+benefit ratio, okay? So what do we do to
+prepare ourselves
+
+1262
+00:28:14,470 --> 00:28:14,480
+prepare ourselves
+ 
+
+1263
+00:28:14,480 --> 00:28:17,870
+prepare ourselves
+here, to prepare ourselves here in this
+
+1264
+00:28:17,870 --> 00:28:17,880
+here, to prepare ourselves here in this
+ 
+
+1265
+00:28:17,880 --> 00:28:19,630
+here, to prepare ourselves here in this
+present, okay? Because we're talking about the future, we
+
+1266
+00:28:19,630 --> 00:28:19,640
+present, okay? Because we're talking about the future, we
+ 
+
+1267
+00:28:19,640 --> 00:28:22,149
+present, okay? Because we're talking about the future, we
+'re not here. What do I do today? I don't sit down
+
+1268
+00:28:22,149 --> 00:28:22,159
+'re not here. What do I do today? I don't sit down
+ 
+
+1269
+00:28:22,159 --> 00:28:24,149
+'re not here. What do I do today? I don't sit down
+and... damn, how scary everything is! I don't leave the
+
+1270
+00:28:24,149 --> 00:28:24,159
+and... damn, how scary everything is! I don't leave the
+ 
+
+1271
+00:28:24,159 --> 00:28:26,990
+and... damn, how scary everything is! I don't leave the
+house. No, what do I do today? Well, today I take up my
+
+1272
+00:28:26,990 --> 00:28:27,000
+house. No, what do I do today? Well, today I take up my
+ 
+
+1273
+00:28:27,000 --> 00:28:28,590
+house. No, what do I do today? Well, today I take up my
+preparation and say, "If I am a good
+
+1274
+00:28:28,590 --> 00:28:28,600
+preparation and say, "If I am a good
+ 
+
+1275
+00:28:28,600 --> 00:28:30,389
+preparation and say, "If I am a good
+financier, I'm going to continue being a good
+
+1276
+00:28:30,389 --> 00:28:30,399
+financier, I'm going to continue being a good
+ 
+
+1277
+00:28:30,399 --> 00:28:32,750
+financier, I'm going to continue being a good
+financier, and I'm going to use this as a
+
+1278
+00:28:32,750 --> 00:28:32,760
+financier, and I'm going to use this as a
+ 
+
+1279
+00:28:32,760 --> 00:28:35,070
+financier, and I'm going to use this as a
+tool that helps me to
+
+1280
+00:28:35,070 --> 00:28:35,080
+tool that helps me to
+ 
+
+1281
+00:28:35,080 --> 00:28:37,190
+tool that helps me to
+pull this along." If not...  I have no idea
+
+1282
+00:28:37,190 --> 00:28:37,200
+pull this along." If not...  I have no idea
+ 
+
+1283
+00:28:37,200 --> 00:28:38,990
+pull this along." If not...  I have no idea
+about finance. Yes, financial director. I have a
+
+1284
+00:28:38,990 --> 00:28:39,000
+about finance. Yes, financial director. I have a
+ 
+
+1285
+00:28:39,000 --> 00:28:43,389
+about finance. Yes, financial director. I have a
+GPT chat. Where are you going and how many are there? That way the
+
+1286
+00:28:43,389 --> 00:28:43,399
+GPT chat. Where are you going and how many are there? That way the
+ 
+
+1287
+00:28:43,399 --> 00:28:45,830
+GPT chat. Where are you going and how many are there? That way the
+kids believe it. I haven't studied anything. I have AI. Shut up, kid. Are you
+
+1288
+00:28:45,830 --> 00:28:49,149
+kids believe it. I haven't studied anything. I have AI. Shut up, kid. Are you
+ 
+
+1289
+00:28:49,149 --> 00:28:49,159
+
+ 
+
+1290
+00:28:49,159 --> 00:28:51,230
+
+studying? Yes or
+
+1291
+00:28:51,230 --> 00:28:51,240
+studying? Yes or
+ 
+
+1292
+00:28:51,240 --> 00:28:55,029
+studying? Yes or
+no? So what I'm telling you is the brain, the
+
+1293
+00:28:55,029 --> 00:28:55,039
+no? So what I'm telling you is the brain, the
+ 
+
+1294
+00:28:55,039 --> 00:28:57,470
+no? So what I'm telling you is the brain, the
+muscle. We are human.
+
+1295
+00:28:57,470 --> 00:28:57,480
+muscle. We are human.
+ 
+
+1296
+00:28:57,480 --> 00:28:58,750
+muscle. We are human.
+Artificial intelligence is very good. It's a
+
+1297
+00:28:58,750 --> 00:28:58,760
+Artificial intelligence is very good. It's a
+ 
+
+1298
+00:28:58,760 --> 00:29:00,909
+Artificial intelligence is very good. It's a
+tool, okay, but the formula is the same as
+
+1299
+00:29:00,909 --> 00:29:00,919
+tool, okay, but the formula is the same as
+ 
+
+1300
+00:29:00,919 --> 00:29:03,190
+tool, okay, but the formula is the same as
+always: we adapt. We've had
+
+1301
+00:29:03,190 --> 00:29:03,200
+always: we adapt. We've had
+ 
+
+1302
+00:29:03,200 --> 00:29:05,149
+always: we adapt. We've had
+an industrial revolution and we've
+
+1303
+00:29:05,149 --> 00:29:05,159
+an industrial revolution and we've
+ 
+
+1304
+00:29:05,159 --> 00:29:07,470
+an industrial revolution and we've
+adapted. Here in the Basque Country it's been very
+
+1305
+00:29:07,470 --> 00:29:07,480
+adapted. Here in the Basque Country it's been very
+ 
+
+1306
+00:29:07,480 --> 00:29:09,630
+adapted. Here in the Basque Country it's been very
+strong and we've adapted. We got rid of the
+
+1307
+00:29:09,630 --> 00:29:09,640
+strong and we've adapted. We got rid of the
+ 
+
+1308
+00:29:09,640 --> 00:29:13,230
+strong and we've adapted. We got rid of the
+oxen, the plow, we have machines that do it. We've had
+
+1309
+00:29:13,230 --> 00:29:13,240
+oxen, the plow, we have machines that do it. We've had
+ 
+
+1310
+00:29:13,240 --> 00:29:15,990
+oxen, the plow, we have machines that do it. We've had
+a network here, I mean, we
+
+1311
+00:29:15,990 --> 00:29:16,000
+a network here, I mean, we
+ 
+
+1312
+00:29:16,000 --> 00:29:17,710
+a network here, I mean, we
+have a fantastic business network. There's still a
+
+1313
+00:29:17,710 --> 00:29:17,720
+have a fantastic business network. There's still a
+ 
+
+1314
+00:29:17,720 --> 00:29:19,470
+have a fantastic business network. There's still a
+lot of
+
+1315
+00:29:19,470 --> 00:29:19,480
+lot of
+ 
+
+1316
+00:29:19,480 --> 00:29:22,190
+lot of
+industry. We've adapted and we continue.
+
+1317
+00:29:22,190 --> 00:29:22,200
+industry. We've adapted and we continue.
+ 
+
+1318
+00:29:22,200 --> 00:29:24,669
+industry. We've adapted and we continue.
+Here and now the same thing is coming. AI, we
+
+1319
+00:29:24,669 --> 00:29:24,679
+Here and now the same thing is coming. AI, we
+ 
+
+1320
+00:29:24,679 --> 00:29:27,350
+Here and now the same thing is coming. AI, we
+adapt. I was saying, now we can talk to
+
+1321
+00:29:27,350 --> 00:29:27,360
+adapt. I was saying, now we can talk to
+ 
+
+1322
+00:29:27,360 --> 00:29:29,110
+adapt. I was saying, now we can talk to
+whales and we've done until now,
+
+1323
+00:29:29,110 --> 00:29:29,120
+whales and we've done until now,
+ 
+
+1324
+00:29:29,120 --> 00:29:30,669
+whales and we've done until now,
+no, we haven't been able to talk to them.
+
+1325
+00:29:30,669 --> 00:29:30,679
+no, we haven't been able to talk to them.
+ 
+
+1326
+00:29:30,679 --> 00:29:32,789
+no, we haven't been able to talk to them.
+Well, we'll do something.
+
+1327
+00:29:32,789 --> 00:29:32,799
+Well, we'll do something.
+ 
+
+1328
+00:29:32,799 --> 00:29:36,509
+Well, we'll do something.
+Yes, but we adapt, we're not afraid of it.
+
+1329
+00:29:36,509 --> 00:29:36,519
+Yes, but we adapt, we're not afraid of it.
+ 
+
+1330
+00:29:36,519 --> 00:29:38,389
+Yes, but we adapt, we're not afraid of it.
+This is a
+
+1331
+00:29:38,389 --> 00:29:38,399
+This is a
+ 
+
+1332
+00:29:38,399 --> 00:29:41,590
+This is a
+new technology. It's cool, it has cool things, but it
+
+1333
+00:29:41,590 --> 00:29:41,600
+new technology. It's cool, it has cool things, but it
+ 
+
+1334
+00:29:41,600 --> 00:29:43,750
+new technology. It's cool, it has cool things, but it
+depends on us. So we accept the
+
+1335
+00:29:43,750 --> 00:29:43,760
+depends on us. So we accept the
+ 
+
+1336
+00:29:43,760 --> 00:29:46,590
+depends on us. So we accept the
+change and get to work on it, or we
+
+1337
+00:29:46,590 --> 00:29:46,600
+change and get to work on it, or we
+ 
+
+1338
+00:29:46,600 --> 00:29:48,190
+change and get to work on it, or we
+can stay home thinking about
+
+1339
+00:29:48,190 --> 00:29:48,200
+can stay home thinking about
+ 
+
+1340
+00:29:48,200 --> 00:29:50,350
+can stay home thinking about
+conspiracy theories and being afraid. The
+
+1341
+00:29:50,350 --> 00:29:50,360
+conspiracy theories and being afraid. The
+ 
+
+1342
+00:29:50,360 --> 00:29:53,750
+conspiracy theories and being afraid. The
+choice is in our hands. Okay, well,
+
+1343
+00:29:53,750 --> 00:29:53,760
+choice is in our hands. Okay, well,
+ 
+
+1344
+00:29:53,760 --> 00:29:56,230
+choice is in our hands. Okay, well,
+that's
+
+1345
+00:29:56,230 --> 00:29:56,240
+
+ 
+
+1346
+00:29:56,240 --> 00:30:01,039
+
+all. Thank you very much. Foreign
+

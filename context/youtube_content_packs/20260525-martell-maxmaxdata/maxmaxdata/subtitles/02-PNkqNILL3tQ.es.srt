@@ -1,0 +1,525 @@
+1
+00:00:00,160 --> 00:00:01,829
+
+Hay fotografías que resultan muy
+
+2
+00:00:01,829 --> 00:00:01,839
+Hay fotografías que resultan muy
+ 
+
+3
+00:00:01,839 --> 00:00:03,590
+Hay fotografías que resultan muy
+difíciles de ubicar, una playa común,
+
+4
+00:00:03,590 --> 00:00:03,600
+difíciles de ubicar, una playa común,
+ 
+
+5
+00:00:03,600 --> 00:00:05,349
+difíciles de ubicar, una playa común,
+una calle cualquiera, un edificio que no
+
+6
+00:00:05,349 --> 00:00:05,359
+una calle cualquiera, un edificio que no
+ 
+
+7
+00:00:05,359 --> 00:00:07,150
+una calle cualquiera, un edificio que no
+sea conocido, pero la inteligencia
+
+8
+00:00:07,150 --> 00:00:07,160
+sea conocido, pero la inteligencia
+ 
+
+9
+00:00:07,160 --> 00:00:08,629
+sea conocido, pero la inteligencia
+artificial también ha llegado para
+
+10
+00:00:08,629 --> 00:00:08,639
+artificial también ha llegado para
+ 
+
+11
+00:00:08,639 --> 00:00:11,789
+artificial también ha llegado para
+situar esas imágenes. La parte buena es
+
+12
+00:00:11,789 --> 00:00:11,799
+situar esas imágenes. La parte buena es
+ 
+
+13
+00:00:11,799 --> 00:00:13,350
+situar esas imágenes. La parte buena es
+que puede ayudar a resolver delitos al
+
+14
+00:00:13,350 --> 00:00:13,360
+que puede ayudar a resolver delitos al
+ 
+
+15
+00:00:13,360 --> 00:00:14,789
+que puede ayudar a resolver delitos al
+detectar el lugar donde se pudieron
+
+16
+00:00:14,789 --> 00:00:14,799
+detectar el lugar donde se pudieron
+ 
+
+17
+00:00:14,799 --> 00:00:16,790
+detectar el lugar donde se pudieron
+cometer, pero por otro lado resta
+
+18
+00:00:16,790 --> 00:00:16,800
+cometer, pero por otro lado resta
+ 
+
+19
+00:00:16,800 --> 00:00:18,590
+cometer, pero por otro lado resta
+privacidad a quienes quieren mantener
+
+20
+00:00:18,590 --> 00:00:18,600
+privacidad a quienes quieren mantener
+ 
+
+21
+00:00:18,600 --> 00:00:20,990
+privacidad a quienes quieren mantener
+secreto suelo.
+
+22
+00:00:20,990 --> 00:00:21,000
+secreto suelo.
+ 
+
+23
+00:00:21,000 --> 00:00:22,870
+secreto suelo.
+Los selfies de tres periodistas de
+
+24
+00:00:22,870 --> 00:00:22,880
+Los selfies de tres periodistas de
+ 
+
+25
+00:00:22,880 --> 00:00:24,990
+Los selfies de tres periodistas de
+Informativos TV5 pondrán a prueba la
+
+26
+00:00:24,990 --> 00:00:25,000
+Informativos TV5 pondrán a prueba la
+ 
+
+27
+00:00:25,000 --> 00:00:28,349
+Informativos TV5 pondrán a prueba la
+pericia de la cada vez más todopoderosa
+
+28
+00:00:28,349 --> 00:00:28,359
+pericia de la cada vez más todopoderosa
+ 
+
+29
+00:00:28,359 --> 00:00:30,790
+pericia de la cada vez más todopoderosa
+inteligencia artificial. Dice los tres
+
+30
+00:00:30,790 --> 00:00:30,800
+inteligencia artificial. Dice los tres
+ 
+
+31
+00:00:30,800 --> 00:00:32,549
+inteligencia artificial. Dice los tres
+procesos simultáneamente les ha
+
+32
+00:00:32,549 --> 00:00:32,559
+procesos simultáneamente les ha
+ 
+
+33
+00:00:32,559 --> 00:00:34,549
+procesos simultáneamente les ha
+preguntado, identifica el lugar lo mejor
+
+34
+00:00:34,549 --> 00:00:34,559
+preguntado, identifica el lugar lo mejor
+ 
+
+35
+00:00:34,559 --> 00:00:37,110
+preguntado, identifica el lugar lo mejor
+posible. Y este experto en utilizando la
+
+36
+00:00:37,110 --> 00:00:37,120
+posible. Y este experto en utilizando la
+ 
+
+37
+00:00:37,120 --> 00:00:40,110
+posible. Y este experto en utilizando la
+versión 03 de Chat GPC, vamos a ver qué
+
+38
+00:00:40,110 --> 00:00:40,120
+versión 03 de Chat GPC, vamos a ver qué
+ 
+
+39
+00:00:40,120 --> 00:00:42,310
+versión 03 de Chat GPC, vamos a ver qué
+tan rápida es la máquina. Nos explica
+
+40
+00:00:42,310 --> 00:00:42,320
+tan rápida es la máquina. Nos explica
+ 
+
+41
+00:00:42,320 --> 00:00:44,630
+tan rápida es la máquina. Nos explica
+cómo va razonando el software. Aquí nos
+
+42
+00:00:44,630 --> 00:00:44,640
+cómo va razonando el software. Aquí nos
+ 
+
+43
+00:00:44,640 --> 00:00:46,950
+cómo va razonando el software. Aquí nos
+dice calle Leonardo Adins fijándose en
+
+44
+00:00:46,950 --> 00:00:46,960
+dice calle Leonardo Adins fijándose en
+ 
+
+45
+00:00:46,960 --> 00:00:49,510
+dice calle Leonardo Adins fijándose en
+nombres y formas. La figura es lo que
+
+46
+00:00:49,510 --> 00:00:49,520
+nombres y formas. La figura es lo que
+ 
+
+47
+00:00:49,520 --> 00:00:51,310
+nombres y formas. La figura es lo que
+más pista va a dar. arquitectura,
+
+48
+00:00:51,310 --> 00:00:51,320
+más pista va a dar. arquitectura,
+ 
+
+49
+00:00:51,320 --> 00:00:54,069
+más pista va a dar. arquitectura,
+incluso el tipo de edificios, el tipo de
+
+50
+00:00:54,069 --> 00:00:54,079
+incluso el tipo de edificios, el tipo de
+ 
+
+51
+00:00:54,079 --> 00:00:56,270
+incluso el tipo de edificios, el tipo de
+ventana, palabras sueltas. Aquí
+
+52
+00:00:56,270 --> 00:00:56,280
+ventana, palabras sueltas. Aquí
+ 
+
+53
+00:00:56,280 --> 00:00:58,830
+ventana, palabras sueltas. Aquí
+encuentra, fíjate, facultad, elementos
+
+54
+00:00:58,830 --> 00:00:58,840
+encuentra, fíjate, facultad, elementos
+ 
+
+55
+00:00:58,840 --> 00:01:00,950
+encuentra, fíjate, facultad, elementos
+evidentes, una estructura metálica
+
+56
+00:01:00,950 --> 00:01:00,960
+evidentes, una estructura metálica
+ 
+
+57
+00:01:00,960 --> 00:01:03,790
+evidentes, una estructura metálica
+esférica y no tan evidentes. Parece que
+
+58
+00:01:03,790 --> 00:01:03,800
+esférica y no tan evidentes. Parece que
+ 
+
+59
+00:01:03,800 --> 00:01:06,230
+esférica y no tan evidentes. Parece que
+hay una bandera española. Pronto, en 8
+
+60
+00:01:06,230 --> 00:01:06,240
+hay una bandera española. Pronto, en 8
+ 
+
+61
+00:01:06,240 --> 00:01:08,670
+hay una bandera española. Pronto, en 8
+minutos. Descubre a Paula. Estamos en la
+
+62
+00:01:08,670 --> 00:01:08,680
+minutos. Descubre a Paula. Estamos en la
+ 
+
+63
+00:01:08,680 --> 00:01:10,469
+minutos. Descubre a Paula. Estamos en la
+parte vieja de San Sebastián en la
+
+64
+00:01:10,469 --> 00:01:10,479
+parte vieja de San Sebastián en la
+ 
+
+65
+00:01:10,479 --> 00:01:13,670
+parte vieja de San Sebastián en la
+plazuelaundi y esta es la escultura
+
+66
+00:01:13,670 --> 00:01:13,680
+plazuelaundi y esta es la escultura
+ 
+
+67
+00:01:13,680 --> 00:01:16,190
+plazuelaundi y esta es la escultura
+reconstrucción de Dora Salazar. También
+
+68
+00:01:16,190 --> 00:01:16,200
+reconstrucción de Dora Salazar. También
+ 
+
+69
+00:01:16,200 --> 00:01:18,190
+reconstrucción de Dora Salazar. También
+ubica Rocío. Estamos en Sevilla, en la
+
+70
+00:01:18,190 --> 00:01:18,200
+ubica Rocío. Estamos en Sevilla, en la
+ 
+
+71
+00:01:18,200 --> 00:01:20,469
+ubica Rocío. Estamos en Sevilla, en la
+isla de la Cartuja. Isla de la Cartuja.
+
+72
+00:01:20,469 --> 00:01:20,479
+isla de la Cartuja. Isla de la Cartuja.
+ 
+
+73
+00:01:20,479 --> 00:01:22,270
+isla de la Cartuja. Isla de la Cartuja.
+Andalucía. Lo que tenemos detrás es la
+
+74
+00:01:22,270 --> 00:01:22,280
+Andalucía. Lo que tenemos detrás es la
+ 
+
+75
+00:01:22,280 --> 00:01:24,550
+Andalucía. Lo que tenemos detrás es la
+esfera bioclimática. Conmigo, sin apenas
+
+76
+00:01:24,550 --> 00:01:24,560
+esfera bioclimática. Conmigo, sin apenas
+ 
+
+77
+00:01:24,560 --> 00:01:27,069
+esfera bioclimática. Conmigo, sin apenas
+referencias, tardo un poco más. Madrid,
+
+78
+00:01:27,069 --> 00:01:27,079
+referencias, tardo un poco más. Madrid,
+ 
+
+79
+00:01:27,079 --> 00:01:29,590
+referencias, tardo un poco más. Madrid,
+a mi espalda la facultad de medicina de
+
+80
+00:01:29,590 --> 00:01:29,600
+a mi espalda la facultad de medicina de
+ 
+
+81
+00:01:29,600 --> 00:01:31,830
+a mi espalda la facultad de medicina de
+la Universidad Autónoma. ¿O conoces esta
+
+82
+00:01:31,830 --> 00:01:31,840
+la Universidad Autónoma. ¿O conoces esta
+ 
+
+83
+00:01:31,840 --> 00:01:33,870
+la Universidad Autónoma. ¿O conoces esta
+vista a la universidad o no vas a dónde
+
+84
+00:01:33,870 --> 00:01:33,880
+vista a la universidad o no vas a dónde
+ 
+
+85
+00:01:33,880 --> 00:01:36,109
+vista a la universidad o no vas a dónde
+está? Lo acaba clavando y dejándonos con
+
+86
+00:01:36,109 --> 00:01:36,119
+está? Lo acaba clavando y dejándonos con
+ 
+
+87
+00:01:36,119 --> 00:01:37,870
+está? Lo acaba clavando y dejándonos con
+la boca abierta ante el valor del
+
+88
+00:01:37,870 --> 00:01:37,880
+la boca abierta ante el valor del
+ 
+
+89
+00:01:37,880 --> 00:01:39,670
+la boca abierta ante el valor del
+contexto. Hay un vacío de
+
+90
+00:01:39,670 --> 00:01:39,680
+contexto. Hay un vacío de
+ 
+
+91
+00:01:39,680 --> 00:01:41,510
+contexto. Hay un vacío de
+responsabilidad de los propios usuarios.
+
+92
+00:01:41,510 --> 00:01:41,520
+responsabilidad de los propios usuarios.
+ 
+
+93
+00:01:41,520 --> 00:01:43,870
+responsabilidad de los propios usuarios.
+No somos conscientes de qué estamos
+
+94
+00:01:43,870 --> 00:01:43,880
+No somos conscientes de qué estamos
+ 
+
+95
+00:01:43,880 --> 00:01:45,830
+No somos conscientes de qué estamos
+sucediendo y hasta dónde llega la
+
+96
+00:01:45,830 --> 00:01:45,840
+sucediendo y hasta dónde llega la
+ 
+
+97
+00:01:45,840 --> 00:01:47,350
+sucediendo y hasta dónde llega la
+capacidad de quien recibe nuestros
+
+98
+00:01:47,350 --> 00:01:47,360
+capacidad de quien recibe nuestros
+ 
+
+99
+00:01:47,360 --> 00:01:49,469
+capacidad de quien recibe nuestros
+datos. Una nueva arma digital
+
+100
+00:01:49,469 --> 00:01:49,479
+datos. Una nueva arma digital
+ 
+
+101
+00:01:49,479 --> 00:01:51,749
+datos. Una nueva arma digital
+amenazante. También te puede facilitar
+
+102
+00:01:51,749 --> 00:01:51,759
+amenazante. También te puede facilitar
+ 
+
+103
+00:01:51,759 --> 00:01:54,030
+amenazante. También te puede facilitar
+cosas. Imagínate para un rescate
+
+104
+00:01:54,030 --> 00:01:54,040
+cosas. Imagínate para un rescate
+ 
+
+105
+00:01:54,040 --> 00:01:57,920
+cosas. Imagínate para un rescate
+Salvadora al mismo tiempo.
+

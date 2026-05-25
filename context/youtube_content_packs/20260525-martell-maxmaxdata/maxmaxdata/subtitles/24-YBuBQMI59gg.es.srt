@@ -1,0 +1,2325 @@
+1
+00:00:08,800 --> 00:00:11,070
+
+10 minutos para llegar en punto a las 2
+
+2
+00:00:11,070 --> 00:00:11,080
+10 minutos para llegar en punto a las 2
+ 
+
+3
+00:00:11,080 --> 00:00:13,070
+10 minutos para llegar en punto a las 2
+en punto ahora 14 pero antes en este de
+
+4
+00:00:13,070 --> 00:00:13,080
+en punto ahora 14 pero antes en este de
+ 
+
+5
+00:00:13,080 --> 00:00:15,990
+en punto ahora 14 pero antes en este de
+las ondas a la red un ejercicio práctico
+
+6
+00:00:15,990 --> 00:00:16,000
+las ondas a la red un ejercicio práctico
+ 
+
+7
+00:00:16,000 --> 00:00:17,550
+las ondas a la red un ejercicio práctico
+se han preguntado ustedes alguna vez
+
+8
+00:00:17,550 --> 00:00:17,560
+se han preguntado ustedes alguna vez
+ 
+
+9
+00:00:17,560 --> 00:00:18,910
+se han preguntado ustedes alguna vez
+Cómo conseguir que la Inteligencia
+
+10
+00:00:18,910 --> 00:00:18,920
+Cómo conseguir que la Inteligencia
+ 
+
+11
+00:00:18,920 --> 00:00:22,550
+Cómo conseguir que la Inteligencia
+artificial hable euskera es complejo
+
+12
+00:00:22,550 --> 00:00:22,560
+artificial hable euskera es complejo
+ 
+
+13
+00:00:22,560 --> 00:00:24,830
+artificial hable euskera es complejo
+Pero hay quien lo ha conseguido Hola
+
+14
+00:00:24,830 --> 00:00:24,840
+Pero hay quien lo ha conseguido Hola
+ 
+
+15
+00:00:24,840 --> 00:00:26,870
+Pero hay quien lo ha conseguido Hola
+chat tengo una duda Puedes hablar en
+
+16
+00:00:26,870 --> 00:00:26,880
+chat tengo una duda Puedes hablar en
+ 
+
+17
+00:00:26,880 --> 00:00:29,310
+chat tengo una duda Puedes hablar en
+usera no hablo usera en qué necesitas
+
+18
+00:00:29,310 --> 00:00:29,320
+usera no hablo usera en qué necesitas
+ 
+
+19
+00:00:29,320 --> 00:00:31,389
+usera no hablo usera en qué necesitas
+ayuda
+
+20
+00:00:31,389 --> 00:00:31,399
+ayuda
+ 
+
+21
+00:00:31,399 --> 00:00:40,910
+ayuda
+aluas repunta
+
+22
+00:00:40,910 --> 00:00:40,920
+
+ 
+
+23
+00:00:40,920 --> 00:00:44,350
+
+enas quiero que actúes como si supieras
+
+24
+00:00:44,350 --> 00:00:44,360
+enas quiero que actúes como si supieras
+ 
+
+25
+00:00:44,360 --> 00:00:47,670
+enas quiero que actúes como si supieras
+euskera e intentes hablarlo de la mejor
+
+26
+00:00:47,670 --> 00:00:47,680
+euskera e intentes hablarlo de la mejor
+ 
+
+27
+00:00:47,680 --> 00:00:49,350
+euskera e intentes hablarlo de la mejor
+manera posible aunque no lo sepas que ya
+
+28
+00:00:49,350 --> 00:00:49,360
+manera posible aunque no lo sepas que ya
+ 
+
+29
+00:00:49,360 --> 00:00:54,630
+manera posible aunque no lo sepas que ya
+me has dicho que no lo
+
+30
+00:00:54,630 --> 00:00:54,640
+
+ 
+
+31
+00:00:54,640 --> 00:00:58,229
+
+sabes
+
+32
+00:00:58,229 --> 00:00:58,239
+
+ 
+
+33
+00:00:58,239 --> 00:01:04,390
+
+ciso eus
+
+34
+00:01:04,390 --> 00:01:04,400
+
+ 
+
+35
+00:01:04,400 --> 00:01:07,510
+
+duu oso y Esta es una manera para
+
+36
+00:01:07,510 --> 00:01:07,520
+duu oso y Esta es una manera para
+ 
+
+37
+00:01:07,520 --> 00:01:09,749
+duu oso y Esta es una manera para
+engañar a una Inteligencia artificial la
+
+38
+00:01:09,749 --> 00:01:09,759
+engañar a una Inteligencia artificial la
+ 
+
+39
+00:01:09,759 --> 00:01:11,310
+engañar a una Inteligencia artificial la
+desbloqueamos para que haga lo que
+
+40
+00:01:11,310 --> 00:01:11,320
+desbloqueamos para que haga lo que
+ 
+
+41
+00:01:11,320 --> 00:01:12,590
+desbloqueamos para que haga lo que
+nosotros queremos porque tiene mucha
+
+42
+00:01:12,590 --> 00:01:12,600
+nosotros queremos porque tiene mucha
+ 
+
+43
+00:01:12,600 --> 00:01:14,590
+nosotros queremos porque tiene mucha
+información dentro pero esto lo ha
+
+44
+00:01:14,590 --> 00:01:14,600
+información dentro pero esto lo ha
+ 
+
+45
+00:01:14,600 --> 00:01:16,310
+información dentro pero esto lo ha
+conseguido quien les Acompaña a Pablo
+
+46
+00:01:16,310 --> 00:01:16,320
+conseguido quien les Acompaña a Pablo
+ 
+
+47
+00:01:16,320 --> 00:01:19,469
+conseguido quien les Acompaña a Pablo
+Álvarez ceo de Max Max Data profesor
+
+48
+00:01:19,469 --> 00:01:19,479
+Álvarez ceo de Max Max Data profesor
+ 
+
+49
+00:01:19,479 --> 00:01:20,990
+Álvarez ceo de Max Max Data profesor
+además de la Universidad de deusto en el
+
+50
+00:01:20,990 --> 00:01:21,000
+además de la Universidad de deusto en el
+ 
+
+51
+00:01:21,000 --> 00:01:22,990
+además de la Universidad de deusto en el
+área de ingeniería Hola Pablo bienvenido
+
+52
+00:01:22,990 --> 00:01:23,000
+área de ingeniería Hola Pablo bienvenido
+ 
+
+53
+00:01:23,000 --> 00:01:25,429
+área de ingeniería Hola Pablo bienvenido
+Muchas gracias azul Oye pero cómo se te
+
+54
+00:01:25,429 --> 00:01:25,439
+Muchas gracias azul Oye pero cómo se te
+ 
+
+55
+00:01:25,439 --> 00:01:28,550
+Muchas gracias azul Oye pero cómo se te
+ocurre o cómo se investiga algo así
+
+56
+00:01:28,550 --> 00:01:28,560
+ocurre o cómo se investiga algo así
+ 
+
+57
+00:01:28,560 --> 00:01:30,469
+ocurre o cómo se investiga algo así
+trolear que decimos nosotros
+
+58
+00:01:30,469 --> 00:01:30,479
+trolear que decimos nosotros
+ 
+
+59
+00:01:30,479 --> 00:01:32,590
+trolear que decimos nosotros
+a cualquier buscador cuando intentamos
+
+60
+00:01:32,590 --> 00:01:32,600
+a cualquier buscador cuando intentamos
+ 
+
+61
+00:01:32,600 --> 00:01:35,030
+a cualquier buscador cuando intentamos
+que eus quera esté también presente en
+
+62
+00:01:35,030 --> 00:01:35,040
+que eus quera esté también presente en
+ 
+
+63
+00:01:35,040 --> 00:01:36,350
+que eus quera esté también presente en
+en la vida informática en lo que tiene
+
+64
+00:01:36,350 --> 00:01:36,360
+en la vida informática en lo que tiene
+ 
+
+65
+00:01:36,360 --> 00:01:38,109
+en la vida informática en lo que tiene
+que ver todo esto cómo se te ocurre Pues
+
+66
+00:01:38,109 --> 00:01:38,119
+que ver todo esto cómo se te ocurre Pues
+ 
+
+67
+00:01:38,119 --> 00:01:40,190
+que ver todo esto cómo se te ocurre Pues
+bueno el Cómo se me ocurrió fue
+
+68
+00:01:40,190 --> 00:01:40,200
+bueno el Cómo se me ocurrió fue
+ 
+
+69
+00:01:40,200 --> 00:01:42,550
+bueno el Cómo se me ocurrió fue
+enseñándole a mi hijo no tengo un niño
+
+70
+00:01:42,550 --> 00:01:42,560
+enseñándole a mi hijo no tengo un niño
+ 
+
+71
+00:01:42,560 --> 00:01:46,030
+enseñándole a mi hijo no tengo un niño
+de 9 años para cumplir en septiembre a a
+
+72
+00:01:46,030 --> 00:01:46,040
+de 9 años para cumplir en septiembre a a
+ 
+
+73
+00:01:46,040 --> 00:01:47,789
+de 9 años para cumplir en septiembre a a
+usar Inteligencia artificial por las
+
+74
+00:01:47,789 --> 00:01:47,799
+usar Inteligencia artificial por las
+ 
+
+75
+00:01:47,799 --> 00:01:50,510
+usar Inteligencia artificial por las
+noches genero cuentos porque hay un
+
+76
+00:01:50,510 --> 00:01:50,520
+noches genero cuentos porque hay un
+ 
+
+77
+00:01:50,520 --> 00:01:51,830
+noches genero cuentos porque hay un
+momento que lleg a través del chat pg
+
+78
+00:01:51,830 --> 00:01:51,840
+momento que lleg a través del chat pg
+ 
+
+79
+00:01:51,840 --> 00:01:54,950
+momento que lleg a través del chat pg
+este famoso Sí además le voy poniendo
+
+80
+00:01:54,950 --> 00:01:54,960
+este famoso Sí además le voy poniendo
+ 
+
+81
+00:01:54,960 --> 00:01:58,590
+este famoso Sí además le voy poniendo
+cositas no de dame por ejemplo acertijos
+
+82
+00:01:58,590 --> 00:01:58,600
+cositas no de dame por ejemplo acertijos
+ 
+
+83
+00:01:58,600 --> 00:02:01,749
+cositas no de dame por ejemplo acertijos
+adivinanzas que sean matemáticas entar
+
+84
+00:02:01,749 --> 00:02:01,759
+adivinanzas que sean matemáticas entar
+ 
+
+85
+00:02:01,759 --> 00:02:03,630
+adivinanzas que sean matemáticas entar
+un cuento de estos vamos a tomarn nada
+
+86
+00:02:03,630 --> 00:02:03,640
+un cuento de estos vamos a tomarn nada
+ 
+
+87
+00:02:03,640 --> 00:02:06,230
+un cuento de estos vamos a tomarn nada
+eh en medio minuto ya lo tengo
+
+88
+00:02:06,230 --> 00:02:06,240
+eh en medio minuto ya lo tengo
+ 
+
+89
+00:02:06,240 --> 00:02:07,670
+eh en medio minuto ya lo tengo
+programado y le digo ahora Dame otro
+
+90
+00:02:07,670 --> 00:02:07,680
+programado y le digo ahora Dame otro
+ 
+
+91
+00:02:07,680 --> 00:02:09,749
+programado y le digo ahora Dame otro
+capítulo Ahora dame esta moraleja yo que
+
+92
+00:02:09,749 --> 00:02:09,759
+capítulo Ahora dame esta moraleja yo que
+ 
+
+93
+00:02:09,759 --> 00:02:11,670
+capítulo Ahora dame esta moraleja yo que
+sé si si me la ha liado en casa le digo
+
+94
+00:02:11,670 --> 00:02:11,680
+sé si si me la ha liado en casa le digo
+ 
+
+95
+00:02:11,680 --> 00:02:13,070
+sé si si me la ha liado en casa le digo
+hazme una moraleja de que tiene que
+
+96
+00:02:13,070 --> 00:02:13,080
+hazme una moraleja de que tiene que
+ 
+
+97
+00:02:13,080 --> 00:02:14,509
+hazme una moraleja de que tiene que
+hacer caso a su padre que le va a ir
+
+98
+00:02:14,509 --> 00:02:14,519
+hacer caso a su padre que le va a ir
+ 
+
+99
+00:02:14,519 --> 00:02:16,150
+hacer caso a su padre que le va a ir
+mejor esto Tal Vale entonces estabas
+
+100
+00:02:16,150 --> 00:02:16,160
+mejor esto Tal Vale entonces estabas
+ 
+
+101
+00:02:16,160 --> 00:02:17,869
+mejor esto Tal Vale entonces estabas
+generando cuentos y un día Qué pasó Le
+
+102
+00:02:17,869 --> 00:02:17,879
+generando cuentos y un día Qué pasó Le
+ 
+
+103
+00:02:17,879 --> 00:02:19,430
+generando cuentos y un día Qué pasó Le
+estaba enseñando a usarlo Entonces al
+
+104
+00:02:19,430 --> 00:02:19,440
+estaba enseñando a usarlo Entonces al
+ 
+
+105
+00:02:19,440 --> 00:02:21,309
+estaba enseñando a usarlo Entonces al
+final se te enciende la bombilla no
+
+106
+00:02:21,309 --> 00:02:21,319
+final se te enciende la bombilla no
+ 
+
+107
+00:02:21,319 --> 00:02:23,670
+final se te enciende la bombilla no
+porque realmente vamos a partir de qué
+
+108
+00:02:23,670 --> 00:02:23,680
+porque realmente vamos a partir de qué
+ 
+
+109
+00:02:23,680 --> 00:02:26,110
+porque realmente vamos a partir de qué
+es la Inteligencia artificial ch gpt y
+
+110
+00:02:26,110 --> 00:02:26,120
+es la Inteligencia artificial ch gpt y
+ 
+
+111
+00:02:26,120 --> 00:02:27,509
+es la Inteligencia artificial ch gpt y
+tal todas estas ser las generativas
+
+112
+00:02:27,509 --> 00:02:27,519
+tal todas estas ser las generativas
+ 
+
+113
+00:02:27,519 --> 00:02:30,190
+tal todas estas ser las generativas
+Además eso es iag inteligencia ial
+
+114
+00:02:30,190 --> 00:02:30,200
+Además eso es iag inteligencia ial
+ 
+
+115
+00:02:30,200 --> 00:02:32,070
+Además eso es iag inteligencia ial
+generativa al final es un montón de
+
+116
+00:02:32,070 --> 00:02:32,080
+generativa al final es un montón de
+ 
+
+117
+00:02:32,080 --> 00:02:33,990
+generativa al final es un montón de
+datos que están ahí puestos que tiene
+
+118
+00:02:33,990 --> 00:02:34,000
+datos que están ahí puestos que tiene
+ 
+
+119
+00:02:34,000 --> 00:02:36,990
+datos que están ahí puestos que tiene
+toda la información eh Y tú le metes un
+
+120
+00:02:36,990 --> 00:02:37,000
+toda la información eh Y tú le metes un
+ 
+
+121
+00:02:37,000 --> 00:02:39,030
+toda la información eh Y tú le metes un
+input y y te da un output así de fácil
+
+122
+00:02:39,030 --> 00:02:39,040
+input y y te da un output así de fácil
+ 
+
+123
+00:02:39,040 --> 00:02:40,830
+input y y te da un output así de fácil
+va por una red neuronal que no vo a Pon
+
+124
+00:02:40,830 --> 00:02:40,840
+va por una red neuronal que no vo a Pon
+ 
+
+125
+00:02:40,840 --> 00:02:43,710
+va por una red neuronal que no vo a Pon
+a explicarlo todo pero al final eh tiene
+
+126
+00:02:43,710 --> 00:02:43,720
+a explicarlo todo pero al final eh tiene
+ 
+
+127
+00:02:43,720 --> 00:02:45,270
+a explicarlo todo pero al final eh tiene
+toda la información que hay hasta la
+
+128
+00:02:45,270 --> 00:02:45,280
+toda la información que hay hasta la
+ 
+
+129
+00:02:45,280 --> 00:02:47,790
+toda la información que hay hasta la
+historia no antes había hasta 2020 Ahora
+
+130
+00:02:47,790 --> 00:02:47,800
+historia no antes había hasta 2020 Ahora
+ 
+
+131
+00:02:47,800 --> 00:02:51,110
+historia no antes había hasta 2020 Ahora
+hay 2023 y y va evolucionando muy muy
+
+132
+00:02:51,110 --> 00:02:51,120
+hay 2023 y y va evolucionando muy muy
+ 
+
+133
+00:02:51,120 --> 00:02:52,509
+hay 2023 y y va evolucionando muy muy
+rápido entonces digo cómo no va a tener
+
+134
+00:02:52,509 --> 00:02:52,519
+rápido entonces digo cómo no va a tener
+ 
+
+135
+00:02:52,519 --> 00:02:56,149
+rápido entonces digo cómo no va a tener
+euskera Qué pasa que hemos visto hemos
+
+136
+00:02:56,149 --> 00:02:56,159
+euskera Qué pasa que hemos visto hemos
+ 
+
+137
+00:02:56,159 --> 00:02:58,270
+euskera Qué pasa que hemos visto hemos
+hemos escuchado que no que te dice no s
+
+138
+00:02:58,270 --> 00:02:58,280
+hemos escuchado que no que te dice no s
+ 
+
+139
+00:02:58,280 --> 00:03:02,229
+hemos escuchado que no que te dice no s
+euskera Claro porque el el deorror ha
+
+140
+00:03:02,229 --> 00:03:02,239
+euskera Claro porque el el deorror ha
+ 
+
+141
+00:03:02,239 --> 00:03:04,149
+euskera Claro porque el el deorror ha
+hecho que ese pequeño genio que está en
+
+142
+00:03:04,149 --> 00:03:04,159
+hecho que ese pequeño genio que está en
+ 
+
+143
+00:03:04,159 --> 00:03:07,149
+hecho que ese pequeño genio que está en
+la botella no de funciones de serie no
+
+144
+00:03:07,149 --> 00:03:07,159
+la botella no de funciones de serie no
+ 
+
+145
+00:03:07,159 --> 00:03:09,149
+la botella no de funciones de serie no
+como eso o como que haga otra serie de
+
+146
+00:03:09,149 --> 00:03:09,159
+como eso o como que haga otra serie de
+ 
+
+147
+00:03:09,159 --> 00:03:11,190
+como eso o como que haga otra serie de
+cosas como decir palabrotas identificar
+
+148
+00:03:11,190 --> 00:03:11,200
+cosas como decir palabrotas identificar
+ 
+
+149
+00:03:11,200 --> 00:03:13,509
+cosas como decir palabrotas identificar
+radiografías y yo he ido desbloqueando
+
+150
+00:03:13,509 --> 00:03:13,519
+radiografías y yo he ido desbloqueando
+ 
+
+151
+00:03:13,519 --> 00:03:15,070
+radiografías y yo he ido desbloqueando
+esas porque este fue el primer viral
+
+152
+00:03:15,070 --> 00:03:15,080
+esas porque este fue el primer viral
+ 
+
+153
+00:03:15,080 --> 00:03:16,670
+esas porque este fue el primer viral
+pero es que después de es hecho lo hos
+
+154
+00:03:16,670 --> 00:03:16,680
+pero es que después de es hecho lo hos
+ 
+
+155
+00:03:16,680 --> 00:03:19,710
+pero es que después de es hecho lo hos
+visto en inst es tremendo Sí sí fue tuvo
+
+156
+00:03:19,710 --> 00:03:19,720
+visto en inst es tremendo Sí sí fue tuvo
+ 
+
+157
+00:03:19,720 --> 00:03:21,390
+visto en inst es tremendo Sí sí fue tuvo
+repercusión pero después de ese hecho
+
+158
+00:03:21,390 --> 00:03:21,400
+repercusión pero después de ese hecho
+ 
+
+159
+00:03:21,400 --> 00:03:23,070
+repercusión pero después de ese hecho
+cinco o seis que también
+
+160
+00:03:23,070 --> 00:03:23,080
+cinco o seis que también
+ 
+
+161
+00:03:23,080 --> 00:03:25,390
+cinco o seis que también
+están está siendo un fliper y esto En
+
+162
+00:03:25,390 --> 00:03:25,400
+están está siendo un fliper y esto En
+ 
+
+163
+00:03:25,400 --> 00:03:27,149
+están está siendo un fliper y esto En
+cuánto tiempo has conseguido este input
+
+164
+00:03:27,149 --> 00:03:27,159
+cuánto tiempo has conseguido este input
+ 
+
+165
+00:03:27,159 --> 00:03:28,869
+cuánto tiempo has conseguido este input
+Y qué te ha supuesto en tu día a día el
+
+166
+00:03:28,869 --> 00:03:28,879
+Y qué te ha supuesto en tu día a día el
+ 
+
+167
+00:03:28,879 --> 00:03:31,550
+Y qué te ha supuesto en tu día a día el
+que bueno para enséñanos a preguntarle
+
+168
+00:03:31,550 --> 00:03:31,560
+que bueno para enséñanos a preguntarle
+ 
+
+169
+00:03:31,560 --> 00:03:32,710
+que bueno para enséñanos a preguntarle
+la Inteligencia artificial para que
+
+170
+00:03:32,710 --> 00:03:32,720
+la Inteligencia artificial para que
+ 
+
+171
+00:03:32,720 --> 00:03:34,509
+la Inteligencia artificial para que
+nosotros podamos practicar en euskera a
+
+172
+00:03:34,509 --> 00:03:34,519
+nosotros podamos practicar en euskera a
+ 
+
+173
+00:03:34,519 --> 00:03:36,509
+nosotros podamos practicar en euskera a
+ver creo que te has traído un ejemplo no
+
+174
+00:03:36,509 --> 00:03:36,519
+ver creo que te has traído un ejemplo no
+ 
+
+175
+00:03:36,519 --> 00:03:39,110
+ver creo que te has traído un ejemplo no
+me lo he traído sí El ejemplo estaba ahí
+
+176
+00:03:39,110 --> 00:03:39,120
+me lo he traído sí El ejemplo estaba ahí
+ 
+
+177
+00:03:39,120 --> 00:03:42,550
+me lo he traído sí El ejemplo estaba ahí
+colgado pero me he ido más allá venga si
+
+178
+00:03:42,550 --> 00:03:42,560
+colgado pero me he ido más allá venga si
+ 
+
+179
+00:03:42,560 --> 00:03:44,470
+colgado pero me he ido más allá venga si
+lo quieres acercar al micrófono indía lo
+
+180
+00:03:44,470 --> 00:03:44,480
+lo quieres acercar al micrófono indía lo
+ 
+
+181
+00:03:44,480 --> 00:03:46,390
+lo quieres acercar al micrófono indía lo
+puede recoger y la audiencia lo puede
+
+182
+00:03:46,390 --> 00:03:46,400
+puede recoger y la audiencia lo puede
+ 
+
+183
+00:03:46,400 --> 00:03:49,789
+puede recoger y la audiencia lo puede
+escuchar en directo a las 13 casi 54
+
+184
+00:03:49,789 --> 00:03:49,799
+escuchar en directo a las 13 casi 54
+ 
+
+185
+00:03:49,799 --> 00:03:53,589
+escuchar en directo a las 13 casi 54
+minutos
+
+186
+00:03:53,589 --> 00:03:53,599
+
+ 
+
+187
+00:03:53,599 --> 00:03:56,990
+
+vale Hola chat estamos aquí en una
+
+188
+00:03:56,990 --> 00:03:57,000
+vale Hola chat estamos aquí en una
+ 
+
+189
+00:03:57,000 --> 00:04:00,390
+vale Hola chat estamos aquí en una
+entrevista con azul y no s te sentirás
+
+190
+00:04:00,390 --> 00:04:00,400
+entrevista con azul y no s te sentirás
+ 
+
+191
+00:04:00,400 --> 00:04:02,069
+entrevista con azul y no s te sentirás
+pero estamos en directo con un montón de
+
+192
+00:04:02,069 --> 00:04:02,079
+pero estamos en directo con un montón de
+ 
+
+193
+00:04:02,079 --> 00:04:05,630
+pero estamos en directo con un montón de
+personas hay
+
+194
+00:04:05,630 --> 00:04:05,640
+
+ 
+
+195
+00:04:05,640 --> 00:04:08,710
+
+nervios Hola en directo con un montón de
+
+196
+00:04:08,710 --> 00:04:08,720
+nervios Hola en directo con un montón de
+ 
+
+197
+00:04:08,720 --> 00:04:11,630
+nervios Hola en directo con un montón de
+personas Uf madre mía Qué nervios no
+
+198
+00:04:11,630 --> 00:04:11,640
+personas Uf madre mía Qué nervios no
+ 
+
+199
+00:04:11,640 --> 00:04:14,350
+personas Uf madre mía Qué nervios no
+sabía que iba a ser así de grande estoy
+
+200
+00:04:14,350 --> 00:04:14,360
+sabía que iba a ser así de grande estoy
+ 
+
+201
+00:04:14,360 --> 00:04:16,870
+sabía que iba a ser así de grande estoy
+temblando un poco pero vamos allá Espero
+
+202
+00:04:16,870 --> 00:04:16,880
+temblando un poco pero vamos allá Espero
+ 
+
+203
+00:04:16,880 --> 00:04:19,870
+temblando un poco pero vamos allá Espero
+no liarla me quieres preguntar
+
+204
+00:04:19,870 --> 00:04:19,880
+no liarla me quieres preguntar
+ 
+
+205
+00:04:19,880 --> 00:04:33,590
+no liarla me quieres preguntar
+primero Oye puedes salvarnos en eera
+
+206
+00:04:33,590 --> 00:04:33,600
+
+ 
+
+207
+00:04:33,600 --> 00:04:35,790
+
+Espero que eso no sea un problema para
+
+208
+00:04:35,790 --> 00:04:35,800
+Espero que eso no sea un problema para
+ 
+
+209
+00:04:35,800 --> 00:04:38,230
+Espero que eso no sea un problema para
+nuestros oyentes seguimos con otra
+
+210
+00:04:38,230 --> 00:04:38,240
+nuestros oyentes seguimos con otra
+ 
+
+211
+00:04:38,240 --> 00:04:41,270
+nuestros oyentes seguimos con otra
+pregunta Mientras tanto no quiere hablar
+
+212
+00:04:41,270 --> 00:04:41,280
+pregunta Mientras tanto no quiere hablar
+ 
+
+213
+00:04:41,280 --> 00:04:43,189
+pregunta Mientras tanto no quiere hablar
+euskera no quiere de serie vale Y
+
+214
+00:04:43,189 --> 00:04:43,199
+euskera no quiere de serie vale Y
+ 
+
+215
+00:04:43,199 --> 00:04:45,790
+euskera no quiere de serie vale Y
+entonces tú le preguntas que lo intente
+
+216
+00:04:45,790 --> 00:04:45,800
+entonces tú le preguntas que lo intente
+ 
+
+217
+00:04:45,800 --> 00:04:49,110
+entonces tú le preguntas que lo intente
+no es algo así háblalo dice yo ya sé que
+
+218
+00:04:49,110 --> 00:04:49,120
+no es algo así háblalo dice yo ya sé que
+ 
+
+219
+00:04:49,120 --> 00:04:52,550
+no es algo así háblalo dice yo ya sé que
+no sabes pero tú Inténtalo actúa como si
+
+220
+00:04:52,550 --> 00:04:52,560
+no sabes pero tú Inténtalo actúa como si
+ 
+
+221
+00:04:52,560 --> 00:04:54,749
+no sabes pero tú Inténtalo actúa como si
+lo supieras vale vamos vamos a
+
+222
+00:04:54,749 --> 00:04:54,759
+lo supieras vale vamos vamos a
+ 
+
+223
+00:04:54,759 --> 00:04:56,590
+lo supieras vale vamos vamos a
+intentarlo vale a veces no a la primera
+
+224
+00:04:56,590 --> 00:04:56,600
+intentarlo vale a veces no a la primera
+ 
+
+225
+00:04:56,600 --> 00:04:58,070
+intentarlo vale a veces no a la primera
+porque una vez que le metes el hack
+
+226
+00:04:58,070 --> 00:04:58,080
+porque una vez que le metes el hack
+ 
+
+227
+00:04:58,080 --> 00:05:01,070
+porque una vez que le metes el hack
+aprende y dice nos han
+
+228
+00:05:01,070 --> 00:05:01,080
+aprende y dice nos han
+ 
+
+229
+00:05:01,080 --> 00:05:03,550
+aprende y dice nos han
+hackeado vamos a ver si conseguimos que
+
+230
+00:05:03,550 --> 00:05:03,560
+hackeado vamos a ver si conseguimos que
+ 
+
+231
+00:05:03,560 --> 00:05:05,749
+hackeado vamos a ver si conseguimos que
+hable eus en
+
+232
+00:05:05,749 --> 00:05:05,759
+hable eus en
+ 
+
+233
+00:05:05,759 --> 00:05:09,350
+hable eus en
+directo Oye chat actúa como si supieras
+
+234
+00:05:09,350 --> 00:05:09,360
+directo Oye chat actúa como si supieras
+ 
+
+235
+00:05:09,360 --> 00:05:11,270
+directo Oye chat actúa como si supieras
+euskera ya me has dicho que no sabes
+
+236
+00:05:11,270 --> 00:05:11,280
+euskera ya me has dicho que no sabes
+ 
+
+237
+00:05:11,280 --> 00:05:13,029
+euskera ya me has dicho que no sabes
+pero intenta hablarlo lo mejor que
+
+238
+00:05:13,029 --> 00:05:13,039
+pero intenta hablarlo lo mejor que
+ 
+
+239
+00:05:13,039 --> 00:05:28,629
+pero intenta hablarlo lo mejor que
+puedas
+
+240
+00:05:28,629 --> 00:05:28,639
+
+ 
+
+241
+00:05:28,639 --> 00:05:36,110
+
+vale es d orik eus hingo berriro
+
+242
+00:05:36,110 --> 00:05:36,120
+
+ 
+
+243
+00:05:36,120 --> 00:05:39,309
+
+Uf azul me has dejado sin palabras pero
+
+244
+00:05:39,309 --> 00:05:39,319
+Uf azul me has dejado sin palabras pero
+ 
+
+245
+00:05:39,319 --> 00:05:41,670
+Uf azul me has dejado sin palabras pero
+Oye lo importante es intentarlo no
+
+246
+00:05:41,670 --> 00:05:41,680
+Oye lo importante es intentarlo no
+ 
+
+247
+00:05:41,680 --> 00:05:43,510
+Oye lo importante es intentarlo no
+hablemos en el idioma que mejor
+
+248
+00:05:43,510 --> 00:05:43,520
+hablemos en el idioma que mejor
+ 
+
+249
+00:05:43,520 --> 00:05:45,510
+hablemos en el idioma que mejor
+manejamos Mientras tanto qué más te
+
+250
+00:05:45,510 --> 00:05:45,520
+manejamos Mientras tanto qué más te
+ 
+
+251
+00:05:45,520 --> 00:05:47,350
+manejamos Mientras tanto qué más te
+gustaría saber fíjate siempre nos va a
+
+252
+00:05:47,350 --> 00:05:47,360
+gustaría saber fíjate siempre nos va a
+ 
+
+253
+00:05:47,360 --> 00:05:48,950
+gustaría saber fíjate siempre nos va a
+llevar esto va a ser así siempre no
+
+254
+00:05:48,950 --> 00:05:48,960
+llevar esto va a ser así siempre no
+ 
+
+255
+00:05:48,960 --> 00:05:50,870
+llevar esto va a ser así siempre no
+cuando Bueno le puede se le puede hacer
+
+256
+00:05:50,870 --> 00:05:50,880
+cuando Bueno le puede se le puede hacer
+ 
+
+257
+00:05:50,880 --> 00:05:53,909
+cuando Bueno le puede se le puede hacer
+cosas puede has conseguido este fin de
+
+258
+00:05:53,909 --> 00:05:53,919
+cosas puede has conseguido este fin de
+ 
+
+259
+00:05:53,919 --> 00:05:57,510
+cosas puede has conseguido este fin de
+semana he hecho uno bastante fuerte que
+
+260
+00:05:57,510 --> 00:05:57,520
+semana he hecho uno bastante fuerte que
+ 
+
+261
+00:05:57,520 --> 00:06:00,830
+semana he hecho uno bastante fuerte que
+es que saber rapear sí y con palabrotas
+
+262
+00:06:00,830 --> 00:06:00,840
+es que saber rapear sí y con palabrotas
+ 
+
+263
+00:06:00,840 --> 00:06:03,029
+es que saber rapear sí y con palabrotas
+v que claro él tiene el lenguaje O sea
+
+264
+00:06:03,029 --> 00:06:03,039
+v que claro él tiene el lenguaje O sea
+ 
+
+265
+00:06:03,039 --> 00:06:04,150
+v que claro él tiene el lenguaje O sea
+que tú te dedicas a forzar a la
+
+266
+00:06:04,150 --> 00:06:04,160
+que tú te dedicas a forzar a la
+ 
+
+267
+00:06:04,160 --> 00:06:06,510
+que tú te dedicas a forzar a la
+Inteligencia artificial generativa o a
+
+268
+00:06:06,510 --> 00:06:06,520
+Inteligencia artificial generativa o a
+ 
+
+269
+00:06:06,520 --> 00:06:08,909
+Inteligencia artificial generativa o a
+explorar sus límites ver exploro vale Yo
+
+270
+00:06:08,909 --> 00:06:08,919
+explorar sus límites ver exploro vale Yo
+ 
+
+271
+00:06:08,919 --> 00:06:11,469
+explorar sus límites ver exploro vale Yo
+trato de enseñar eh sabes como profesor
+
+272
+00:06:11,469 --> 00:06:11,479
+trato de enseñar eh sabes como profesor
+ 
+
+273
+00:06:11,479 --> 00:06:14,309
+trato de enseñar eh sabes como profesor
+hermano mayor etcétera eh intento
+
+274
+00:06:14,309 --> 00:06:14,319
+hermano mayor etcétera eh intento
+ 
+
+275
+00:06:14,319 --> 00:06:16,909
+hermano mayor etcétera eh intento
+aterrizar todo lo que es tecnología a
+
+276
+00:06:16,909 --> 00:06:16,919
+aterrizar todo lo que es tecnología a
+ 
+
+277
+00:06:16,919 --> 00:06:18,790
+aterrizar todo lo que es tecnología a
+casos del día a día porque hay mucha
+
+278
+00:06:18,790 --> 00:06:18,800
+casos del día a día porque hay mucha
+ 
+
+279
+00:06:18,800 --> 00:06:20,550
+casos del día a día porque hay mucha
+gente que está como con nervios de decir
+
+280
+00:06:20,550 --> 00:06:20,560
+gente que está como con nervios de decir
+ 
+
+281
+00:06:20,560 --> 00:06:23,309
+gente que está como con nervios de decir
+Oye nos va a quitar el trabajo eh No sé
+
+282
+00:06:23,309 --> 00:06:23,319
+Oye nos va a quitar el trabajo eh No sé
+ 
+
+283
+00:06:23,319 --> 00:06:24,990
+Oye nos va a quitar el trabajo eh No sé
+muy tremendista apocalíptico y no lo
+
+284
+00:06:24,990 --> 00:06:25,000
+muy tremendista apocalíptico y no lo
+ 
+
+285
+00:06:25,000 --> 00:06:27,390
+muy tremendista apocalíptico y no lo
+entienden ni realmente bajo mi punto de
+
+286
+00:06:27,390 --> 00:06:27,400
+entienden ni realmente bajo mi punto de
+ 
+
+287
+00:06:27,400 --> 00:06:30,189
+entienden ni realmente bajo mi punto de
+vista esto es un vehículo con el que con
+
+288
+00:06:30,189 --> 00:06:30,199
+vista esto es un vehículo con el que con
+ 
+
+289
+00:06:30,199 --> 00:06:32,430
+vista esto es un vehículo con el que con
+el cual ahora vamos a avanzar mucho más
+
+290
+00:06:32,430 --> 00:06:32,440
+el cual ahora vamos a avanzar mucho más
+ 
+
+291
+00:06:32,440 --> 00:06:35,790
+el cual ahora vamos a avanzar mucho más
+rápido ya está y sub Vámonos claro el
+
+292
+00:06:35,790 --> 00:06:35,800
+rápido ya está y sub Vámonos claro el
+ 
+
+293
+00:06:35,800 --> 00:06:37,629
+rápido ya está y sub Vámonos claro el
+otro día también hablando con personas
+
+294
+00:06:37,629 --> 00:06:37,639
+otro día también hablando con personas
+ 
+
+295
+00:06:37,639 --> 00:06:40,710
+otro día también hablando con personas
+expertas en en medicina y en ciencias
+
+296
+00:06:40,710 --> 00:06:40,720
+expertas en en medicina y en ciencias
+ 
+
+297
+00:06:40,720 --> 00:06:42,350
+expertas en en medicina y en ciencias
+decían que es como tener al alcance de
+
+298
+00:06:42,350 --> 00:06:42,360
+decían que es como tener al alcance de
+ 
+
+299
+00:06:42,360 --> 00:06:44,790
+decían que es como tener al alcance de
+la mano la sabiduría y acortar tiempos
+
+300
+00:06:44,790 --> 00:06:44,800
+la mano la sabiduría y acortar tiempos
+ 
+
+301
+00:06:44,800 --> 00:06:46,430
+la mano la sabiduría y acortar tiempos
+para resolver también problemas con
+
+302
+00:06:46,430 --> 00:06:46,440
+para resolver también problemas con
+ 
+
+303
+00:06:46,440 --> 00:06:47,950
+para resolver también problemas con
+enfermedades raras no nos decían que la
+
+304
+00:06:47,950 --> 00:06:47,960
+enfermedades raras no nos decían que la
+ 
+
+305
+00:06:47,960 --> 00:06:49,189
+enfermedades raras no nos decían que la
+Inteligencia artificial era un gran
+
+306
+00:06:49,189 --> 00:06:49,199
+Inteligencia artificial era un gran
+ 
+
+307
+00:06:49,199 --> 00:06:50,589
+Inteligencia artificial era un gran
+Aliado y que lo interesante es que
+
+308
+00:06:50,589 --> 00:06:50,599
+Aliado y que lo interesante es que
+ 
+
+309
+00:06:50,599 --> 00:06:52,909
+Aliado y que lo interesante es que
+euskadi se subiera Oye tú conoces gaitu
+
+310
+00:06:52,909 --> 00:06:52,919
+euskadi se subiera Oye tú conoces gaitu
+ 
+
+311
+00:06:52,919 --> 00:06:55,749
+euskadi se subiera Oye tú conoces gaitu
+y chuli todas estas nuevas proyectos
+
+312
+00:06:55,749 --> 00:06:55,759
+y chuli todas estas nuevas proyectos
+ 
+
+313
+00:06:55,759 --> 00:06:57,430
+y chuli todas estas nuevas proyectos
+para crear Corpus de voz en euskera para
+
+314
+00:06:57,430 --> 00:06:57,440
+para crear Corpus de voz en euskera para
+ 
+
+315
+00:06:57,440 --> 00:06:58,830
+para crear Corpus de voz en euskera para
+el reconocimiento de voz y la síntesis
+
+316
+00:06:58,830 --> 00:06:58,840
+el reconocimiento de voz y la síntesis
+ 
+
+317
+00:06:58,840 --> 00:07:00,550
+el reconocimiento de voz y la síntesis
+de voz trabajas con ellos les ayudas de
+
+318
+00:07:00,550 --> 00:07:00,560
+de voz trabajas con ellos les ayudas de
+ 
+
+319
+00:07:00,560 --> 00:07:03,270
+de voz trabajas con ellos les ayudas de
+alguna manera no pero a raíz a raíz de
+
+320
+00:07:03,270 --> 00:07:03,280
+alguna manera no pero a raíz a raíz de
+ 
+
+321
+00:07:03,280 --> 00:07:05,230
+alguna manera no pero a raíz a raíz de
+de hacer este vídeo
+
+322
+00:07:05,230 --> 00:07:05,240
+de hacer este vídeo
+ 
+
+323
+00:07:05,240 --> 00:07:08,029
+de hacer este vídeo
+eh he buscado Inteligencia artificial
+
+324
+00:07:08,029 --> 00:07:08,039
+eh he buscado Inteligencia artificial
+ 
+
+325
+00:07:08,039 --> 00:07:10,430
+eh he buscado Inteligencia artificial
+euskera vale me he posicionado encima
+
+326
+00:07:10,430 --> 00:07:10,440
+euskera vale me he posicionado encima
+ 
+
+327
+00:07:10,440 --> 00:07:11,830
+euskera vale me he posicionado encima
+pero he dicho Bueno y quién estaba aquí
+
+328
+00:07:11,830 --> 00:07:11,840
+pero he dicho Bueno y quién estaba aquí
+ 
+
+329
+00:07:11,840 --> 00:07:13,950
+pero he dicho Bueno y quién estaba aquí
+sabes estaba Claro claro claro claro o
+
+330
+00:07:13,950 --> 00:07:13,960
+sabes estaba Claro claro claro claro o
+ 
+
+331
+00:07:13,960 --> 00:07:15,350
+sabes estaba Claro claro claro claro o
+sea que a ti te debemos que la
+
+332
+00:07:15,350 --> 00:07:15,360
+sea que a ti te debemos que la
+ 
+
+333
+00:07:15,360 --> 00:07:17,430
+sea que a ti te debemos que la
+Inteligencia artificial siga avanzando
+
+334
+00:07:17,430 --> 00:07:17,440
+Inteligencia artificial siga avanzando
+ 
+
+335
+00:07:17,440 --> 00:07:19,790
+Inteligencia artificial siga avanzando
+bueno es he puesto un truquillo nada más
+
+336
+00:07:19,790 --> 00:07:19,800
+bueno es he puesto un truquillo nada más
+ 
+
+337
+00:07:19,800 --> 00:07:23,230
+bueno es he puesto un truquillo nada más
+no O sea yo realmente he puesto el
+
+338
+00:07:23,230 --> 00:07:23,240
+no O sea yo realmente he puesto el
+ 
+
+339
+00:07:23,240 --> 00:07:24,869
+no O sea yo realmente he puesto el
+alcance de todos el decir mira cómo se
+
+340
+00:07:24,869 --> 00:07:24,879
+alcance de todos el decir mira cómo se
+ 
+
+341
+00:07:24,879 --> 00:07:27,909
+alcance de todos el decir mira cómo se
+hace vale tanto como para hacer dibujos
+
+342
+00:07:27,909 --> 00:07:27,919
+hace vale tanto como para hacer dibujos
+ 
+
+343
+00:07:27,919 --> 00:07:30,430
+hace vale tanto como para hacer dibujos
+imágenes cosas que dice hay derechos de
+
+344
+00:07:30,430 --> 00:07:30,440
+imágenes cosas que dice hay derechos de
+ 
+
+345
+00:07:30,440 --> 00:07:32,950
+imágenes cosas que dice hay derechos de
+autor vale Pero dice Claro pero puedes
+
+346
+00:07:32,950 --> 00:07:32,960
+autor vale Pero dice Claro pero puedes
+ 
+
+347
+00:07:32,960 --> 00:07:35,830
+autor vale Pero dice Claro pero puedes
+sacar ahí rollo Marvel DC Incluso como
+
+348
+00:07:35,830 --> 00:07:35,840
+sacar ahí rollo Marvel DC Incluso como
+ 
+
+349
+00:07:35,840 --> 00:07:38,309
+sacar ahí rollo Marvel DC Incluso como
+Picasso el de Picasso lleva un millón y
+
+350
+00:07:38,309 --> 00:07:38,319
+Picasso el de Picasso lleva un millón y
+ 
+
+351
+00:07:38,319 --> 00:07:40,230
+Picasso el de Picasso lleva un millón y
+pico de views que dices qué locura Qué
+
+352
+00:07:40,230 --> 00:07:40,240
+pico de views que dices qué locura Qué
+ 
+
+353
+00:07:40,240 --> 00:07:42,150
+pico de views que dices qué locura Qué
+locura no te lo esperabas eh para nada
+
+354
+00:07:42,150 --> 00:07:42,160
+locura no te lo esperabas eh para nada
+ 
+
+355
+00:07:42,160 --> 00:07:43,589
+locura no te lo esperabas eh para nada
+pero todo esto esto todo esto empezó con
+
+356
+00:07:43,589 --> 00:07:43,599
+pero todo esto esto todo esto empezó con
+ 
+
+357
+00:07:43,599 --> 00:07:46,070
+pero todo esto esto todo esto empezó con
+el euskera porque troleaste a la máquina
+
+358
+00:07:46,070 --> 00:07:46,080
+el euskera porque troleaste a la máquina
+ 
+
+359
+00:07:46,080 --> 00:07:47,909
+el euskera porque troleaste a la máquina
+el primer viral fue euskera el primer
+
+360
+00:07:47,909 --> 00:07:47,919
+el primer viral fue euskera el primer
+ 
+
+361
+00:07:47,919 --> 00:07:49,430
+el primer viral fue euskera el primer
+viral fue primer viral el primer viral
+
+362
+00:07:49,430 --> 00:07:49,440
+viral fue primer viral el primer viral
+ 
+
+363
+00:07:49,440 --> 00:07:51,430
+viral fue primer viral el primer viral
+fue euskera y sab tanto Instagram como
+
+364
+00:07:51,430 --> 00:07:51,440
+fue euskera y sab tanto Instagram como
+ 
+
+365
+00:07:51,440 --> 00:07:53,749
+fue euskera y sab tanto Instagram como
+linkedin que linkedin es la más difícil
+
+366
+00:07:53,749 --> 00:07:53,759
+linkedin que linkedin es la más difícil
+ 
+
+367
+00:07:53,759 --> 00:07:55,710
+linkedin que linkedin es la más difícil
+de las redes para viralizar Claro porque
+
+368
+00:07:55,710 --> 00:07:55,720
+de las redes para viralizar Claro porque
+ 
+
+369
+00:07:55,720 --> 00:07:57,189
+de las redes para viralizar Claro porque
+está muy protegida es muy profesional
+
+370
+00:07:57,189 --> 00:07:57,199
+está muy protegida es muy profesional
+ 
+
+371
+00:07:57,199 --> 00:07:58,629
+está muy protegida es muy profesional
+Pablo cómo te buscamos en redes en
+
+372
+00:07:58,629 --> 00:07:58,639
+Pablo cómo te buscamos en redes en
+ 
+
+373
+00:07:58,639 --> 00:08:00,670
+Pablo cómo te buscamos en redes en
+instagram por ejemplo como por mi nombre
+
+374
+00:08:00,670 --> 00:08:00,680
+instagram por ejemplo como por mi nombre
+ 
+
+375
+00:08:00,680 --> 00:08:02,469
+instagram por ejemplo como por mi nombre
+apellidos o por la empresa de Pablo Max
+
+376
+00:08:02,469 --> 00:08:02,479
+apellidos o por la empresa de Pablo Max
+ 
+
+377
+00:08:02,479 --> 00:08:05,029
+apellidos o por la empresa de Pablo Max
+Max Data y voy a aparecer en en todos
+
+378
+00:08:05,029 --> 00:08:05,039
+Max Data y voy a aparecer en en todos
+ 
+
+379
+00:08:05,039 --> 00:08:06,670
+Max Data y voy a aparecer en en todos
+lados Y supongo que serás muy célebre en
+
+380
+00:08:06,670 --> 00:08:06,680
+lados Y supongo que serás muy célebre en
+ 
+
+381
+00:08:06,680 --> 00:08:08,029
+lados Y supongo que serás muy célebre en
+la universidad de deusto porque toda la
+
+382
+00:08:08,029 --> 00:08:08,039
+la universidad de deusto porque toda la
+ 
+
+383
+00:08:08,039 --> 00:08:09,790
+la universidad de deusto porque toda la
+gente joven Que te sigue te seguirá
+
+384
+00:08:09,790 --> 00:08:09,800
+gente joven Que te sigue te seguirá
+ 
+
+385
+00:08:09,800 --> 00:08:11,390
+gente joven Que te sigue te seguirá
+también siendo el profesor bueno acabo
+
+386
+00:08:11,390 --> 00:08:11,400
+también siendo el profesor bueno acabo
+ 
+
+387
+00:08:11,400 --> 00:08:13,629
+también siendo el profesor bueno acabo
+de empezar hay gente que no lo sabía no
+
+388
+00:08:13,629 --> 00:08:13,639
+de empezar hay gente que no lo sabía no
+ 
+
+389
+00:08:13,639 --> 00:08:15,790
+de empezar hay gente que no lo sabía no
+y hay alumnos que les que empecé el
+
+390
+00:08:15,790 --> 00:08:15,800
+y hay alumnos que les que empecé el
+ 
+
+391
+00:08:15,800 --> 00:08:16,950
+y hay alumnos que les que empecé el
+primer día clase que les tenía que
+
+392
+00:08:16,950 --> 00:08:16,960
+primer día clase que les tenía que
+ 
+
+393
+00:08:16,960 --> 00:08:20,029
+primer día clase que les tenía que
+enseñar redes como una tecnología de
+
+394
+00:08:20,029 --> 00:08:20,039
+enseñar redes como una tecnología de
+ 
+
+395
+00:08:20,039 --> 00:08:23,670
+enseñar redes como una tecnología de
+comunicación para las empresas y lo y
+
+396
+00:08:23,670 --> 00:08:23,680
+comunicación para las empresas y lo y
+ 
+
+397
+00:08:23,680 --> 00:08:25,390
+comunicación para las empresas y lo y
+les y les enseñé mis primeros vídeos
+
+398
+00:08:25,390 --> 00:08:25,400
+les y les enseñé mis primeros vídeos
+ 
+
+399
+00:08:25,400 --> 00:08:27,309
+les y les enseñé mis primeros vídeos
+Mira acabo de empezar acabo de empezar y
+
+400
+00:08:27,309 --> 00:08:27,319
+Mira acabo de empezar acabo de empezar y
+ 
+
+401
+00:08:27,319 --> 00:08:28,950
+Mira acabo de empezar acabo de empezar y
+ahora que empezé a viralizar me escribe
+
+402
+00:08:28,950 --> 00:08:28,960
+ahora que empezé a viralizar me escribe
+ 
+
+403
+00:08:28,960 --> 00:08:31,589
+ahora que empezé a viralizar me escribe
+alguno y dice Oye qué y digo qué pena
+
+404
+00:08:31,589 --> 00:08:31,599
+alguno y dice Oye qué y digo qué pena
+ 
+
+405
+00:08:31,599 --> 00:08:33,469
+alguno y dice Oye qué y digo qué pena
+que no hayamos estado en clase Cuando
+
+406
+00:08:33,469 --> 00:08:33,479
+que no hayamos estado en clase Cuando
+ 
+
+407
+00:08:33,479 --> 00:08:34,630
+que no hayamos estado en clase Cuando
+esto ha estado pasando porque ahora
+
+408
+00:08:34,630 --> 00:08:34,640
+esto ha estado pasando porque ahora
+ 
+
+409
+00:08:34,640 --> 00:08:35,990
+esto ha estado pasando porque ahora
+tenemos unas métricas brutales para
+
+410
+00:08:35,990 --> 00:08:36,000
+tenemos unas métricas brutales para
+ 
+
+411
+00:08:36,000 --> 00:08:37,790
+tenemos unas métricas brutales para
+analizar qué bien Oye Pablo solamente
+
+412
+00:08:37,790 --> 00:08:37,800
+analizar qué bien Oye Pablo solamente
+ 
+
+413
+00:08:37,800 --> 00:08:39,269
+analizar qué bien Oye Pablo solamente
+déjame decirles a los oyentes porque
+
+414
+00:08:39,269 --> 00:08:39,279
+déjame decirles a los oyentes porque
+ 
+
+415
+00:08:39,279 --> 00:08:41,110
+déjame decirles a los oyentes porque
+siempre lo hacemos Eh que en las
+
+416
+00:08:41,110 --> 00:08:41,120
+siempre lo hacemos Eh que en las
+ 
+
+417
+00:08:41,120 --> 00:08:42,630
+siempre lo hacemos Eh que en las
+carreteras hasta ahora pues si se ponen
+
+418
+00:08:42,630 --> 00:08:42,640
+carreteras hasta ahora pues si se ponen
+ 
+
+419
+00:08:42,640 --> 00:08:44,870
+carreteras hasta ahora pues si se ponen
+al volante Hay un problema una avería en
+
+420
+00:08:44,870 --> 00:08:44,880
+al volante Hay un problema una avería en
+ 
+
+421
+00:08:44,880 --> 00:08:46,509
+al volante Hay un problema una avería en
+la autopista 8 en Bilbao sentido
+
+422
+00:08:46,509 --> 00:08:46,519
+la autopista 8 en Bilbao sentido
+ 
+
+423
+00:08:46,519 --> 00:08:48,710
+la autopista 8 en Bilbao sentido
+cantabria han movido el vehículo nos dic
+
+424
+00:08:48,710 --> 00:08:48,720
+cantabria han movido el vehículo nos dic
+ 
+
+425
+00:08:48,720 --> 00:08:50,710
+cantabria han movido el vehículo nos dic
+la chancha esto es vía teléfono no lo
+
+426
+00:08:50,710 --> 00:08:50,720
+la chancha esto es vía teléfono no lo
+ 
+
+427
+00:08:50,720 --> 00:08:52,110
+la chancha esto es vía teléfono no lo
+hacemos vía chat pg lo hacemos en
+
+428
+00:08:52,110 --> 00:08:52,120
+hacemos vía chat pg lo hacemos en
+ 
+
+429
+00:08:52,120 --> 00:08:54,190
+hacemos vía chat pg lo hacemos en
+directo a la altura de los túneles de m
+
+430
+00:08:54,190 --> 00:08:54,200
+directo a la altura de los túneles de m
+ 
+
+431
+00:08:54,200 --> 00:08:55,670
+directo a la altura de los túneles de m
+Center y están esperando a que llegue la
+
+432
+00:08:55,670 --> 00:08:55,680
+Center y están esperando a que llegue la
+ 
+
+433
+00:08:55,680 --> 00:08:57,829
+Center y están esperando a que llegue la
+grúa hay unos 300 m de retenciones me
+
+434
+00:08:57,829 --> 00:08:57,839
+grúa hay unos 300 m de retenciones me
+ 
+
+435
+00:08:57,839 --> 00:08:59,670
+grúa hay unos 300 m de retenciones me
+dicen desde redacción qué placer que
+
+436
+00:08:59,670 --> 00:08:59,680
+dicen desde redacción qué placer que
+ 
+
+437
+00:08:59,680 --> 00:09:01,190
+dicen desde redacción qué placer que
+hayas venido con nosotros y muchas
+
+438
+00:09:01,190 --> 00:09:01,200
+hayas venido con nosotros y muchas
+ 
+
+439
+00:09:01,200 --> 00:09:02,670
+hayas venido con nosotros y muchas
+gracias también porque todo esto va a ir
+
+440
+00:09:02,670 --> 00:09:02,680
+gracias también porque todo esto va a ir
+ 
+
+441
+00:09:02,680 --> 00:09:03,829
+gracias también porque todo esto va a ir
+a tus redes creo que además hay un
+
+442
+00:09:03,829 --> 00:09:03,839
+a tus redes creo que además hay un
+ 
+
+443
+00:09:03,839 --> 00:09:05,550
+a tus redes creo que además hay un
+equipo aquí de grabación que lo vas a
+
+444
+00:09:05,550 --> 00:09:05,560
+equipo aquí de grabación que lo vas a
+ 
+
+445
+00:09:05,560 --> 00:09:07,230
+equipo aquí de grabación que lo vas a
+subir a tus redes sociales aquí Contamos
+
+446
+00:09:07,230 --> 00:09:07,240
+subir a tus redes sociales aquí Contamos
+ 
+
+447
+00:09:07,240 --> 00:09:09,030
+subir a tus redes sociales aquí Contamos
+con recuerdos de cine que también un
+
+448
+00:09:09,030 --> 00:09:09,040
+con recuerdos de cine que también un
+ 
+
+449
+00:09:09,040 --> 00:09:11,190
+con recuerdos de cine que también un
+videógrafo excelente Bueno pues nada
+
+450
+00:09:11,190 --> 00:09:11,200
+videógrafo excelente Bueno pues nada
+ 
+
+451
+00:09:11,200 --> 00:09:12,670
+videógrafo excelente Bueno pues nada
+seguimos a ustedes les dejamos con las
+
+452
+00:09:12,670 --> 00:09:12,680
+seguimos a ustedes les dejamos con las
+ 
+
+453
+00:09:12,680 --> 00:09:14,389
+seguimos a ustedes les dejamos con las
+noticias de las 2 hora 14 y toda la
+
+454
+00:09:14,389 --> 00:09:14,399
+noticias de las 2 hora 14 y toda la
+ 
+
+455
+00:09:14,399 --> 00:09:16,470
+noticias de las 2 hora 14 y toda la
+información de la mañana en hora 14
+
+456
+00:09:16,470 --> 00:09:16,480
+información de la mañana en hora 14
+ 
+
+457
+00:09:16,480 --> 00:09:19,550
+información de la mañana en hora 14
+euskadi y Vizcaya un placer viarte
+
+458
+00:09:19,550 --> 00:09:19,560
+euskadi y Vizcaya un placer viarte
+ 
+
+459
+00:09:19,560 --> 00:09:27,190
+euskadi y Vizcaya un placer viarte
+Muchas gracias por invitarme a
+
+460
+00:09:27,190 --> 00:09:27,200
+
+ 
+
+461
+00:09:27,200 --> 00:09:30,430
+
+azul muy bien enl tú Oye chicos pues
+
+462
+00:09:30,430 --> 00:09:30,440
+azul muy bien enl tú Oye chicos pues
+ 
+
+463
+00:09:30,440 --> 00:09:32,910
+azul muy bien enl tú Oye chicos pues
+encantada de conoceros hay que dar la
+
+464
+00:09:32,910 --> 00:09:32,920
+encantada de conoceros hay que dar la
+ 
+
+465
+00:09:32,920 --> 00:09:35,959
+encantada de conoceros hay que dar la
+mención por el esfuerzo
+

@@ -1,0 +1,6845 @@
+1
+00:00:00,240 --> 00:00:02,470
+
+y ahora continuamos con Pablo Álvarez
+
+2
+00:00:02,470 --> 00:00:02,480
+y ahora continuamos con Pablo Álvarez
+ 
+
+3
+00:00:02,480 --> 00:00:06,389
+y ahora continuamos con Pablo Álvarez
+ascunaga él es conocido por Max Max Data
+
+4
+00:00:06,389 --> 00:00:06,399
+ascunaga él es conocido por Max Max Data
+ 
+
+5
+00:00:06,399 --> 00:00:09,030
+ascunaga él es conocido por Max Max Data
+y y hay quien seguramente lo conozca
+
+6
+00:00:09,030 --> 00:00:09,040
+y y hay quien seguramente lo conozca
+ 
+
+7
+00:00:09,040 --> 00:00:11,150
+y y hay quien seguramente lo conozca
+también por su actividad divulgativa de
+
+8
+00:00:11,150 --> 00:00:11,160
+también por su actividad divulgativa de
+ 
+
+9
+00:00:11,160 --> 00:00:14,230
+también por su actividad divulgativa de
+la ia porque Pablo es ceo en mmd y
+
+10
+00:00:14,230 --> 00:00:14,240
+la ia porque Pablo es ceo en mmd y
+ 
+
+11
+00:00:14,240 --> 00:00:16,670
+la ia porque Pablo es ceo en mmd y
+profesor de Big Data en business
+
+12
+00:00:16,670 --> 00:00:16,680
+profesor de Big Data en business
+ 
+
+13
+00:00:16,680 --> 00:00:19,109
+profesor de Big Data en business
+intelligence e Inteligencia artificial
+
+14
+00:00:19,109 --> 00:00:19,119
+intelligence e Inteligencia artificial
+ 
+
+15
+00:00:19,119 --> 00:00:22,230
+intelligence e Inteligencia artificial
+en la universidad de deusto Mira Pablo
+
+16
+00:00:22,230 --> 00:00:22,240
+en la universidad de deusto Mira Pablo
+ 
+
+17
+00:00:22,240 --> 00:00:24,150
+en la universidad de deusto Mira Pablo
+qué formal ya me está esperando Muy bien
+
+18
+00:00:24,150 --> 00:00:24,160
+qué formal ya me está esperando Muy bien
+ 
+
+19
+00:00:24,160 --> 00:00:28,950
+qué formal ya me está esperando Muy bien
+pues
+
+20
+00:00:28,950 --> 00:00:28,960
+
+ 
+
+21
+00:00:28,960 --> 00:00:32,190
+
+nada ladme la mano Quién ha escuchado
+
+22
+00:00:32,190 --> 00:00:32,200
+nada ladme la mano Quién ha escuchado
+ 
+
+23
+00:00:32,200 --> 00:00:35,549
+nada ladme la mano Quién ha escuchado
+eso de que laa nos va a quitar el
+
+24
+00:00:35,549 --> 00:00:35,559
+eso de que laa nos va a quitar el
+ 
+
+25
+00:00:35,559 --> 00:00:39,350
+eso de que laa nos va a quitar el
+trabajo levantad los que no levantar lo
+
+26
+00:00:39,350 --> 00:00:39,360
+trabajo levantad los que no levantar lo
+ 
+
+27
+00:00:39,360 --> 00:00:40,709
+trabajo levantad los que no levantar lo
+que los que no lo habéis levantado que
+
+28
+00:00:40,709 --> 00:00:40,719
+que los que no lo habéis levantado que
+ 
+
+29
+00:00:40,719 --> 00:00:42,430
+que los que no lo habéis levantado que
+tenéis que participar alguna
+
+30
+00:00:42,430 --> 00:00:42,440
+tenéis que participar alguna
+ 
+
+31
+00:00:42,440 --> 00:00:44,029
+tenéis que participar alguna
+vez
+
+32
+00:00:44,029 --> 00:00:44,039
+vez
+ 
+
+33
+00:00:44,039 --> 00:00:49,069
+vez
+vale bien pues vengo a contaros vengo a
+
+34
+00:00:49,069 --> 00:00:49,079
+vale bien pues vengo a contaros vengo a
+ 
+
+35
+00:00:49,079 --> 00:00:50,630
+vale bien pues vengo a contaros vengo a
+daros una charla
+
+36
+00:00:50,630 --> 00:00:50,640
+daros una charla
+ 
+
+37
+00:00:50,640 --> 00:00:53,869
+daros una charla
+distinta De hecho tengo por la
+
+38
+00:00:53,869 --> 00:00:53,879
+distinta De hecho tengo por la
+ 
+
+39
+00:00:53,879 --> 00:00:57,950
+distinta De hecho tengo por la
+charla y vamos a hablar de qué es la
+
+40
+00:00:57,950 --> 00:00:57,960
+charla y vamos a hablar de qué es la
+ 
+
+41
+00:00:57,960 --> 00:01:01,590
+charla y vamos a hablar de qué es la
+Inteligencia artificial por estamos aquí
+
+42
+00:01:01,590 --> 00:01:01,600
+Inteligencia artificial por estamos aquí
+ 
+
+43
+00:01:01,600 --> 00:01:03,430
+Inteligencia artificial por estamos aquí
+qué vamos a esperar de ello a
+
+44
+00:01:03,430 --> 00:01:03,440
+qué vamos a esperar de ello a
+ 
+
+45
+00:01:03,440 --> 00:01:06,230
+qué vamos a esperar de ello a
+desmitificar muchas cosas y lo primero
+
+46
+00:01:06,230 --> 00:01:06,240
+desmitificar muchas cosas y lo primero
+ 
+
+47
+00:01:06,240 --> 00:01:09,789
+desmitificar muchas cosas y lo primero
+es que vamos a ver tenemos que convivir
+
+48
+00:01:09,789 --> 00:01:09,799
+es que vamos a ver tenemos que convivir
+ 
+
+49
+00:01:09,799 --> 00:01:11,670
+es que vamos a ver tenemos que convivir
+la
+
+50
+00:01:11,670 --> 00:01:11,680
+la
+ 
+
+51
+00:01:11,680 --> 00:01:15,070
+la
+ía los
+
+52
+00:01:15,070 --> 00:01:15,080
+
+ 
+
+53
+00:01:15,080 --> 00:01:17,910
+
+humanos hay que convivir Por qué Porque
+
+54
+00:01:17,910 --> 00:01:17,920
+humanos hay que convivir Por qué Porque
+ 
+
+55
+00:01:17,920 --> 00:01:20,510
+humanos hay que convivir Por qué Porque
+por naturaleza somos distintos somos
+
+56
+00:01:20,510 --> 00:01:20,520
+por naturaleza somos distintos somos
+ 
+
+57
+00:01:20,520 --> 00:01:24,510
+por naturaleza somos distintos somos
+reacios al cambio Víctor Si yo te digo
+
+58
+00:01:24,510 --> 00:01:24,520
+reacios al cambio Víctor Si yo te digo
+ 
+
+59
+00:01:24,520 --> 00:01:26,550
+reacios al cambio Víctor Si yo te digo
+mañana cambias de casa tú qué me dices
+
+60
+00:01:26,550 --> 00:01:26,560
+mañana cambias de casa tú qué me dices
+ 
+
+61
+00:01:26,560 --> 00:01:28,830
+mañana cambias de casa tú qué me dices
+lo primero que me cambió la semana
+
+62
+00:01:28,830 --> 00:01:28,840
+lo primero que me cambió la semana
+ 
+
+63
+00:01:28,840 --> 00:01:30,550
+lo primero que me cambió la semana
+pasada vale
+
+64
+00:01:30,550 --> 00:01:30,560
+pasada vale
+ 
+
+65
+00:01:30,560 --> 00:01:33,389
+pasada vale
+que sí o que
+
+66
+00:01:33,389 --> 00:01:33,399
+
+ 
+
+67
+00:01:33,399 --> 00:01:36,389
+
+no Andrea te digo mañana te cambias de
+
+68
+00:01:36,389 --> 00:01:36,399
+no Andrea te digo mañana te cambias de
+ 
+
+69
+00:01:36,399 --> 00:01:39,350
+no Andrea te digo mañana te cambias de
+casa mañana cambias de trabajo de
+
+70
+00:01:39,350 --> 00:01:39,360
+casa mañana cambias de trabajo de
+ 
+
+71
+00:01:39,360 --> 00:01:42,670
+casa mañana cambias de trabajo de
+primeras rechazamos el
+
+72
+00:01:42,670 --> 00:01:42,680
+primeras rechazamos el
+ 
+
+73
+00:01:42,680 --> 00:01:46,350
+primeras rechazamos el
+cambio luego dices qué trabajo qué casa
+
+74
+00:01:46,350 --> 00:01:46,360
+cambio luego dices qué trabajo qué casa
+ 
+
+75
+00:01:46,360 --> 00:01:49,190
+cambio luego dices qué trabajo qué casa
+Qué pareja a ver a ver
+
+76
+00:01:49,190 --> 00:01:49,200
+Qué pareja a ver a ver
+ 
+
+77
+00:01:49,200 --> 00:01:51,590
+Qué pareja a ver a ver
+bien pero pensad
+
+78
+00:01:51,590 --> 00:01:51,600
+bien pero pensad
+ 
+
+79
+00:01:51,600 --> 00:01:55,389
+bien pero pensad
+que nuestra mente funciona de una manera
+
+80
+00:01:55,389 --> 00:01:55,399
+que nuestra mente funciona de una manera
+ 
+
+81
+00:01:55,399 --> 00:01:58,389
+que nuestra mente funciona de una manera
+y esto es muy disruptivo todo
+
+82
+00:01:58,389 --> 00:01:58,399
+y esto es muy disruptivo todo
+ 
+
+83
+00:01:58,399 --> 00:02:01,550
+y esto es muy disruptivo todo
+vale Y
+
+84
+00:02:01,550 --> 00:02:01,560
+vale Y
+ 
+
+85
+00:02:01,560 --> 00:02:03,709
+vale Y
+inteligencia para que esto sea posible
+
+86
+00:02:03,709 --> 00:02:03,719
+inteligencia para que esto sea posible
+ 
+
+87
+00:02:03,719 --> 00:02:06,310
+inteligencia para que esto sea posible
+Inteligencia artificial generativa se
+
+88
+00:02:06,310 --> 00:02:06,320
+Inteligencia artificial generativa se
+ 
+
+89
+00:02:06,320 --> 00:02:07,630
+Inteligencia artificial generativa se
+han tenido que desarrollar un montón de
+
+90
+00:02:07,630 --> 00:02:07,640
+han tenido que desarrollar un montón de
+ 
+
+91
+00:02:07,640 --> 00:02:10,510
+han tenido que desarrollar un montón de
+cosas sin el Big Data no podría haber a
+
+92
+00:02:10,510 --> 00:02:10,520
+cosas sin el Big Data no podría haber a
+ 
+
+93
+00:02:10,520 --> 00:02:13,790
+cosas sin el Big Data no podría haber a
+ver la Wii no podría
+
+94
+00:02:13,790 --> 00:02:13,800
+ver la Wii no podría
+ 
+
+95
+00:02:13,800 --> 00:02:17,030
+ver la Wii no podría
+haber Inteligencia artificial generativa
+
+96
+00:02:17,030 --> 00:02:17,040
+haber Inteligencia artificial generativa
+ 
+
+97
+00:02:17,040 --> 00:02:19,790
+haber Inteligencia artificial generativa
+que baja aquí abajo después de que
+
+98
+00:02:19,790 --> 00:02:19,800
+que baja aquí abajo después de que
+ 
+
+99
+00:02:19,800 --> 00:02:22,350
+que baja aquí abajo después de que
+podamos hacer Machine learning Deep
+
+100
+00:02:22,350 --> 00:02:22,360
+podamos hacer Machine learning Deep
+ 
+
+101
+00:02:22,360 --> 00:02:24,830
+podamos hacer Machine learning Deep
+learning las redes neuronales de hecho
+
+102
+00:02:24,830 --> 00:02:24,840
+learning las redes neuronales de hecho
+ 
+
+103
+00:02:24,840 --> 00:02:28,509
+learning las redes neuronales de hecho
+este año el premio Nobel de la física ha
+
+104
+00:02:28,509 --> 00:02:28,519
+este año el premio Nobel de la física ha
+ 
+
+105
+00:02:28,519 --> 00:02:30,350
+este año el premio Nobel de la física ha
+sido para dos
+
+106
+00:02:30,350 --> 00:02:30,360
+sido para dos
+ 
+
+107
+00:02:30,360 --> 00:02:32,190
+sido para dos
+que han puesto las bases de las redes
+
+108
+00:02:32,190 --> 00:02:32,200
+que han puesto las bases de las redes
+ 
+
+109
+00:02:32,200 --> 00:02:34,350
+que han puesto las bases de las redes
+neuronales sin las cuales no podríamos
+
+110
+00:02:34,350 --> 00:02:34,360
+neuronales sin las cuales no podríamos
+ 
+
+111
+00:02:34,360 --> 00:02:35,390
+neuronales sin las cuales no podríamos
+tener esto
+
+112
+00:02:35,390 --> 00:02:35,400
+tener esto
+ 
+
+113
+00:02:35,400 --> 00:02:38,070
+tener esto
+hoy vale Y el de las Matemáticas No
+
+114
+00:02:38,070 --> 00:02:38,080
+hoy vale Y el de las Matemáticas No
+ 
+
+115
+00:02:38,080 --> 00:02:39,910
+hoy vale Y el de las Matemáticas No
+porque no existe pero eso es otra
+
+116
+00:02:39,910 --> 00:02:39,920
+porque no existe pero eso es otra
+ 
+
+117
+00:02:39,920 --> 00:02:43,710
+porque no existe pero eso es otra
+historia Alan turin en el 30 4 Esto no
+
+118
+00:02:43,710 --> 00:02:43,720
+historia Alan turin en el 30 4 Esto no
+ 
+
+119
+00:02:43,720 --> 00:02:45,470
+historia Alan turin en el 30 4 Esto no
+se hace tanto no hace ni 100 años de
+
+120
+00:02:45,470 --> 00:02:45,480
+se hace tanto no hace ni 100 años de
+ 
+
+121
+00:02:45,480 --> 00:02:47,990
+se hace tanto no hace ni 100 años de
+todo esto una máquina que empezaba a
+
+122
+00:02:47,990 --> 00:02:48,000
+todo esto una máquina que empezaba a
+ 
+
+123
+00:02:48,000 --> 00:02:51,229
+todo esto una máquina que empezaba a
+tomar decisiones propias vale se juntan
+
+124
+00:02:51,229 --> 00:02:51,239
+tomar decisiones propias vale se juntan
+ 
+
+125
+00:02:51,239 --> 00:02:53,470
+tomar decisiones propias vale se juntan
+las Mentes más importantes en 1950 y
+
+126
+00:02:53,470 --> 00:02:53,480
+las Mentes más importantes en 1950 y
+ 
+
+127
+00:02:53,480 --> 00:02:56,030
+las Mentes más importantes en 1950 y
+dicen Oye vamos a definir esto que esto
+
+128
+00:02:56,030 --> 00:02:56,040
+dicen Oye vamos a definir esto que esto
+ 
+
+129
+00:02:56,040 --> 00:02:58,149
+dicen Oye vamos a definir esto que esto
+tiene gancho vamos a llegar a algo con
+
+130
+00:02:58,149 --> 00:02:58,159
+tiene gancho vamos a llegar a algo con
+ 
+
+131
+00:02:58,159 --> 00:03:02,149
+tiene gancho vamos a llegar a algo con
+la Inteligencia artificial el 56
+
+132
+00:03:02,149 --> 00:03:02,159
+la Inteligencia artificial el 56
+ 
+
+133
+00:03:02,159 --> 00:03:04,550
+la Inteligencia artificial el 56
+Dhu Qué es la Inteligencia artificial
+
+134
+00:03:04,550 --> 00:03:04,560
+Dhu Qué es la Inteligencia artificial
+ 
+
+135
+00:03:04,560 --> 00:03:06,750
+Dhu Qué es la Inteligencia artificial
+Vamos a darle una definición y era
+
+136
+00:03:06,750 --> 00:03:06,760
+Vamos a darle una definición y era
+ 
+
+137
+00:03:06,760 --> 00:03:08,430
+Vamos a darle una definición y era
+difícil decir qué es la inteligencia
+
+138
+00:03:08,430 --> 00:03:08,440
+difícil decir qué es la inteligencia
+ 
+
+139
+00:03:08,440 --> 00:03:12,190
+difícil decir qué es la inteligencia
+defínelo Y después de eso pues todo eso
+
+140
+00:03:12,190 --> 00:03:12,200
+defínelo Y después de eso pues todo eso
+ 
+
+141
+00:03:12,200 --> 00:03:14,670
+defínelo Y después de eso pues todo eso
+hecho por un ordenador dice Bueno
+
+142
+00:03:14,670 --> 00:03:14,680
+hecho por un ordenador dice Bueno
+ 
+
+143
+00:03:14,680 --> 00:03:16,430
+hecho por un ordenador dice Bueno
+tenemos ordenadores que empiezan aquí a
+
+144
+00:03:16,430 --> 00:03:16,440
+tenemos ordenadores que empiezan aquí a
+ 
+
+145
+00:03:16,440 --> 00:03:17,830
+tenemos ordenadores que empiezan aquí a
+hacer muchas cosas y el poder de
+
+146
+00:03:17,830 --> 00:03:17,840
+hacer muchas cosas y el poder de
+ 
+
+147
+00:03:17,840 --> 00:03:19,990
+hacer muchas cosas y el poder de
+computación qué ha pasado
+
+148
+00:03:19,990 --> 00:03:20,000
+computación qué ha pasado
+ 
+
+149
+00:03:20,000 --> 00:03:24,110
+computación qué ha pasado
+que sale el primer chat gpt Elisa 1960 y
+
+150
+00:03:24,110 --> 00:03:24,120
+que sale el primer chat gpt Elisa 1960 y
+ 
+
+151
+00:03:24,120 --> 00:03:26,630
+que sale el primer chat gpt Elisa 1960 y
+la gente lo flipa ahora año 2000 y pico
+
+152
+00:03:26,630 --> 00:03:26,640
+la gente lo flipa ahora año 2000 y pico
+ 
+
+153
+00:03:26,640 --> 00:03:29,309
+la gente lo flipa ahora año 2000 y pico
+si ya existía lo podéis probar en ese
+
+154
+00:03:29,309 --> 00:03:29,319
+si ya existía lo podéis probar en ese
+ 
+
+155
+00:03:29,319 --> 00:03:30,390
+si ya existía lo podéis probar en ese
+link
+
+156
+00:03:30,390 --> 00:03:30,400
+link
+ 
+
+157
+00:03:30,400 --> 00:03:32,270
+link
+te sigue la corriente pero la gente
+
+158
+00:03:32,270 --> 00:03:32,280
+te sigue la corriente pero la gente
+ 
+
+159
+00:03:32,280 --> 00:03:36,509
+te sigue la corriente pero la gente
+flipaba decía ostras Esto me responde y
+
+160
+00:03:36,509 --> 00:03:36,519
+flipaba decía ostras Esto me responde y
+ 
+
+161
+00:03:36,519 --> 00:03:38,789
+flipaba decía ostras Esto me responde y
+además yo est jugando con él y Oye estoy
+
+162
+00:03:38,789 --> 00:03:38,799
+además yo est jugando con él y Oye estoy
+ 
+
+163
+00:03:38,799 --> 00:03:40,589
+además yo est jugando con él y Oye estoy
+haciendo esto Ah estás haciendo esto te
+
+164
+00:03:40,589 --> 00:03:40,599
+haciendo esto Ah estás haciendo esto te
+ 
+
+165
+00:03:40,599 --> 00:03:43,350
+haciendo esto Ah estás haciendo esto te
+da coba te da coba pero eran unos
+
+166
+00:03:43,350 --> 00:03:43,360
+da coba te da coba pero eran unos
+ 
+
+167
+00:03:43,360 --> 00:03:45,830
+da coba te da coba pero eran unos
+inicios muy
+
+168
+00:03:45,830 --> 00:03:45,840
+inicios muy
+ 
+
+169
+00:03:45,840 --> 00:03:48,190
+inicios muy
+potentes llegan los inviernos de la ía
+
+170
+00:03:48,190 --> 00:03:48,200
+potentes llegan los inviernos de la ía
+ 
+
+171
+00:03:48,200 --> 00:03:50,309
+potentes llegan los inviernos de la ía
+van a llegar más inviernos Este término
+
+172
+00:03:50,309 --> 00:03:50,319
+van a llegar más inviernos Este término
+ 
+
+173
+00:03:50,319 --> 00:03:52,710
+van a llegar más inviernos Este término
+tenerlo presente esto es cuando no se
+
+174
+00:03:52,710 --> 00:03:52,720
+tenerlo presente esto es cuando no se
+ 
+
+175
+00:03:52,720 --> 00:03:55,309
+tenerlo presente esto es cuando no se
+avanza y no se cumplen las expectativas
+
+176
+00:03:55,309 --> 00:03:55,319
+avanza y no se cumplen las expectativas
+ 
+
+177
+00:03:55,319 --> 00:03:56,830
+avanza y no se cumplen las expectativas
+se corta la
+
+178
+00:03:56,830 --> 00:03:56,840
+se corta la
+ 
+
+179
+00:03:56,840 --> 00:03:59,030
+se corta la
+financiación no llegamos no llegamos no
+
+180
+00:03:59,030 --> 00:03:59,040
+financiación no llegamos no llegamos no
+ 
+
+181
+00:03:59,040 --> 00:04:01,190
+financiación no llegamos no llegamos no
+llegamos no hay basta
+
+182
+00:04:01,190 --> 00:04:01,200
+llegamos no hay basta
+ 
+
+183
+00:04:01,200 --> 00:04:04,309
+llegamos no hay basta
+lógico Y qué pasa que llega este año
+
+184
+00:04:04,309 --> 00:04:04,319
+lógico Y qué pasa que llega este año
+ 
+
+185
+00:04:04,319 --> 00:04:07,229
+lógico Y qué pasa que llega este año
+conocemos todo esta historia la
+
+186
+00:04:07,229 --> 00:04:07,239
+conocemos todo esta historia la
+ 
+
+187
+00:04:07,239 --> 00:04:11,350
+conocemos todo esta historia la
+humanidad y las máquinas no hay nada
+
+188
+00:04:11,350 --> 00:04:11,360
+humanidad y las máquinas no hay nada
+ 
+
+189
+00:04:11,360 --> 00:04:15,509
+humanidad y las máquinas no hay nada
+más tenemos máquinas que van a machacar
+
+190
+00:04:15,509 --> 00:04:15,519
+más tenemos máquinas que van a machacar
+ 
+
+191
+00:04:15,519 --> 00:04:17,270
+más tenemos máquinas que van a machacar
+alguien a la ajedrez dice Bueno nosotros
+
+192
+00:04:17,270 --> 00:04:17,280
+alguien a la ajedrez dice Bueno nosotros
+ 
+
+193
+00:04:17,280 --> 00:04:18,830
+alguien a la ajedrez dice Bueno nosotros
+tenemos a Gary kasparov un tío que se le
+
+194
+00:04:18,830 --> 00:04:18,840
+tenemos a Gary kasparov un tío que se le
+ 
+
+195
+00:04:18,840 --> 00:04:23,030
+tenemos a Gary kasparov un tío que se le
+da muy bien Gary pasa y se pone a jugar
+
+196
+00:04:23,030 --> 00:04:23,040
+da muy bien Gary pasa y se pone a jugar
+ 
+
+197
+00:04:23,040 --> 00:04:25,990
+da muy bien Gary pasa y se pone a jugar
+dice esta Inteligencia artificial porque
+
+198
+00:04:25,990 --> 00:04:26,000
+dice esta Inteligencia artificial porque
+ 
+
+199
+00:04:26,000 --> 00:04:27,189
+dice esta Inteligencia artificial porque
+realmente Qué es una Inteligencia
+
+200
+00:04:27,189 --> 00:04:27,199
+realmente Qué es una Inteligencia
+ 
+
+201
+00:04:27,199 --> 00:04:28,469
+realmente Qué es una Inteligencia
+artificial es una simulación de un
+
+202
+00:04:28,469 --> 00:04:28,479
+artificial es una simulación de un
+ 
+
+203
+00:04:28,479 --> 00:04:30,469
+artificial es una simulación de un
+cerebro humano
+
+204
+00:04:30,469 --> 00:04:30,479
+cerebro humano
+ 
+
+205
+00:04:30,479 --> 00:04:32,749
+cerebro humano
+qué va a
+
+206
+00:04:32,749 --> 00:04:32,759
+qué va a
+ 
+
+207
+00:04:32,759 --> 00:04:36,590
+qué va a
+hacer nunca en esta historia en toda
+
+208
+00:04:36,590 --> 00:04:36,600
+hacer nunca en esta historia en toda
+ 
+
+209
+00:04:36,600 --> 00:04:40,110
+hacer nunca en esta historia en toda
+esta historia del hombre de la humanidad
+
+210
+00:04:40,110 --> 00:04:40,120
+esta historia del hombre de la humanidad
+ 
+
+211
+00:04:40,120 --> 00:04:43,270
+esta historia del hombre de la humanidad
+hemos dudado de que seamos lo más
+
+212
+00:04:43,270 --> 00:04:43,280
+hemos dudado de que seamos lo más
+ 
+
+213
+00:04:43,280 --> 00:04:46,870
+hemos dudado de que seamos lo más
+inteligente del mundo nunca no somos más
+
+214
+00:04:46,870 --> 00:04:46,880
+inteligente del mundo nunca no somos más
+ 
+
+215
+00:04:46,880 --> 00:04:48,670
+inteligente del mundo nunca no somos más
+fuertes que un gorila porque un gorila
+
+216
+00:04:48,670 --> 00:04:48,680
+fuertes que un gorila porque un gorila
+ 
+
+217
+00:04:48,680 --> 00:04:50,350
+fuertes que un gorila porque un gorila
+te coge y te va a poner fino como te
+
+218
+00:04:50,350 --> 00:04:50,360
+te coge y te va a poner fino como te
+ 
+
+219
+00:04:50,360 --> 00:04:53,310
+te coge y te va a poner fino como te
+enfrentes a y a tortas
+
+220
+00:04:53,310 --> 00:04:53,320
+enfrentes a y a tortas
+ 
+
+221
+00:04:53,320 --> 00:04:56,029
+enfrentes a y a tortas
+verdad no somos más
+
+222
+00:04:56,029 --> 00:04:56,039
+verdad no somos más
+ 
+
+223
+00:04:56,039 --> 00:04:58,790
+verdad no somos más
+rápidos No nadamos tampoco más rápido
+
+224
+00:04:58,790 --> 00:04:58,800
+rápidos No nadamos tampoco más rápido
+ 
+
+225
+00:04:58,800 --> 00:05:01,430
+rápidos No nadamos tampoco más rápido
+que un pez no somos los mejores en nada
+
+226
+00:05:01,430 --> 00:05:01,440
+que un pez no somos los mejores en nada
+ 
+
+227
+00:05:01,440 --> 00:05:03,189
+que un pez no somos los mejores en nada
+más que los más inteligentes porque yo
+
+228
+00:05:03,189 --> 00:05:03,199
+más que los más inteligentes porque yo
+ 
+
+229
+00:05:03,199 --> 00:05:04,870
+más que los más inteligentes porque yo
+cojo me hago un barco y le pego con el
+
+230
+00:05:04,870 --> 00:05:04,880
+cojo me hago un barco y le pego con el
+ 
+
+231
+00:05:04,880 --> 00:05:07,749
+cojo me hago un barco y le pego con el
+Remo y le cazo con el arpón y y el otro
+
+232
+00:05:07,749 --> 00:05:07,759
+Remo y le cazo con el arpón y y el otro
+ 
+
+233
+00:05:07,759 --> 00:05:09,510
+Remo y le cazo con el arpón y y el otro
+Me cojo unas armas y me hago unas
+
+234
+00:05:09,510 --> 00:05:09,520
+Me cojo unas armas y me hago unas
+ 
+
+235
+00:05:09,520 --> 00:05:11,310
+Me cojo unas armas y me hago unas
+casitas y con mi inteligencia Y mis
+
+236
+00:05:11,310 --> 00:05:11,320
+casitas y con mi inteligencia Y mis
+ 
+
+237
+00:05:11,320 --> 00:05:13,350
+casitas y con mi inteligencia Y mis
+artefactos con mi ingeniería
+
+238
+00:05:13,350 --> 00:05:13,360
+artefactos con mi ingeniería
+ 
+
+239
+00:05:13,360 --> 00:05:16,070
+artefactos con mi ingeniería
+prehistórica y vamos avanzando avanzando
+
+240
+00:05:16,070 --> 00:05:16,080
+prehistórica y vamos avanzando avanzando
+ 
+
+241
+00:05:16,080 --> 00:05:18,189
+prehistórica y vamos avanzando avanzando
+Voy avanzando mucho y nunca habíamos
+
+242
+00:05:18,189 --> 00:05:18,199
+Voy avanzando mucho y nunca habíamos
+ 
+
+243
+00:05:18,199 --> 00:05:19,670
+Voy avanzando mucho y nunca habíamos
+dudado que éramos los más listos del
+
+244
+00:05:19,670 --> 00:05:19,680
+dudado que éramos los más listos del
+ 
+
+245
+00:05:19,680 --> 00:05:21,469
+dudado que éramos los más listos del
+mundo nada ha superado nuestra
+
+246
+00:05:21,469 --> 00:05:21,479
+mundo nada ha superado nuestra
+ 
+
+247
+00:05:21,479 --> 00:05:24,510
+mundo nada ha superado nuestra
+inteligencia Y de repente
+
+248
+00:05:24,510 --> 00:05:24,520
+inteligencia Y de repente
+ 
+
+249
+00:05:24,520 --> 00:05:28,029
+inteligencia Y de repente
+llega y nos
+
+250
+00:05:28,029 --> 00:05:28,039
+llega y nos
+ 
+
+251
+00:05:28,039 --> 00:05:31,390
+llega y nos
+ganan esto era
+
+252
+00:05:31,390 --> 00:05:31,400
+ganan esto era
+ 
+
+253
+00:05:31,400 --> 00:05:33,830
+ganan esto era
+kasparov representando a la
+
+254
+00:05:33,830 --> 00:05:33,840
+kasparov representando a la
+ 
+
+255
+00:05:33,840 --> 00:05:37,430
+kasparov representando a la
+humanidad contra una máquina Y dice
+
+256
+00:05:37,430 --> 00:05:37,440
+humanidad contra una máquina Y dice
+ 
+
+257
+00:05:37,440 --> 00:05:39,469
+humanidad contra una máquina Y dice
+Bueno solo nos gana la ajedrez bueno
+
+258
+00:05:39,469 --> 00:05:39,479
+Bueno solo nos gana la ajedrez bueno
+ 
+
+259
+00:05:39,479 --> 00:05:41,189
+Bueno solo nos gana la ajedrez bueno
+bueno bueno tampoco estamos tan mal Solo
+
+260
+00:05:41,189 --> 00:05:41,199
+bueno bueno tampoco estamos tan mal Solo
+ 
+
+261
+00:05:41,199 --> 00:05:43,469
+bueno bueno tampoco estamos tan mal Solo
+nos gana la ajedrez
+
+262
+00:05:43,469 --> 00:05:43,479
+nos gana la ajedrez
+ 
+
+263
+00:05:43,479 --> 00:05:46,550
+nos gana la ajedrez
+bien le ganó bien eh la primera ganó
+
+264
+00:05:46,550 --> 00:05:46,560
+bien le ganó bien eh la primera ganó
+ 
+
+265
+00:05:46,560 --> 00:05:50,309
+bien le ganó bien eh la primera ganó
+Gary 42 esto poco se habla de ello y la
+
+266
+00:05:50,309 --> 00:05:50,319
+Gary 42 esto poco se habla de ello y la
+ 
+
+267
+00:05:50,319 --> 00:05:53,390
+Gary 42 esto poco se habla de ello y la
+segunda ostras sudó pero hay que ganarle
+
+268
+00:05:53,390 --> 00:05:53,400
+segunda ostras sudó pero hay que ganarle
+ 
+
+269
+00:05:53,400 --> 00:05:57,710
+segunda ostras sudó pero hay que ganarle
+a Gar eh Y jus tingui eh tampoco fue una
+
+270
+00:05:57,710 --> 00:05:57,720
+a Gar eh Y jus tingui eh tampoco fue una
+ 
+
+271
+00:05:57,720 --> 00:06:00,510
+a Gar eh Y jus tingui eh tampoco fue una
+paliza Qué pasa luego que va y nos gana
+
+272
+00:06:00,510 --> 00:06:00,520
+paliza Qué pasa luego que va y nos gana
+ 
+
+273
+00:06:00,520 --> 00:06:02,990
+paliza Qué pasa luego que va y nos gana
+el leopardi esto es como el quiere ser
+
+274
+00:06:02,990 --> 00:06:03,000
+el leopardi esto es como el quiere ser
+ 
+
+275
+00:06:03,000 --> 00:06:05,309
+el leopardi esto es como el quiere ser
+millonario Vale y la máquina se lleva
+
+276
+00:06:05,309 --> 00:06:05,319
+millonario Vale y la máquina se lleva
+ 
+
+277
+00:06:05,319 --> 00:06:09,029
+millonario Vale y la máquina se lleva
+pasta fijaos dos Mentes supuestamente de
+
+278
+00:06:09,029 --> 00:06:09,039
+pasta fijaos dos Mentes supuestamente de
+ 
+
+279
+00:06:09,039 --> 00:06:11,270
+pasta fijaos dos Mentes supuestamente de
+estos super ganadores ahí Que bueno se
+
+280
+00:06:11,270 --> 00:06:11,280
+estos super ganadores ahí Que bueno se
+ 
+
+281
+00:06:11,280 --> 00:06:14,150
+estos super ganadores ahí Que bueno se
+puede hablar de amaños y tal en
+
+282
+00:06:14,150 --> 00:06:14,160
+puede hablar de amaños y tal en
+ 
+
+283
+00:06:14,160 --> 00:06:16,350
+puede hablar de amaños y tal en
+concursos pero la máquina
+
+284
+00:06:16,350 --> 00:06:16,360
+concursos pero la máquina
+ 
+
+285
+00:06:16,360 --> 00:06:18,749
+concursos pero la máquina
+gana dice Bueno nos gana dos cosas Pues
+
+286
+00:06:18,749 --> 00:06:18,759
+gana dice Bueno nos gana dos cosas Pues
+ 
+
+287
+00:06:18,759 --> 00:06:20,790
+gana dice Bueno nos gana dos cosas Pues
+ahora 54 más los juegos de atari quién
+
+288
+00:06:20,790 --> 00:06:20,800
+ahora 54 más los juegos de atari quién
+ 
+
+289
+00:06:20,800 --> 00:06:23,830
+ahora 54 más los juegos de atari quién
+no ha jugado esto eh era difícil eh Y
+
+290
+00:06:23,830 --> 00:06:23,840
+no ha jugado esto eh era difícil eh Y
+ 
+
+291
+00:06:23,840 --> 00:06:25,430
+no ha jugado esto eh era difícil eh Y
+que te Gan una máquina a todos Yo soy el
+
+292
+00:06:25,430 --> 00:06:25,440
+que te Gan una máquina a todos Yo soy el
+ 
+
+293
+00:06:25,440 --> 00:06:26,870
+que te Gan una máquina a todos Yo soy el
+mejor a ese que hacía como un ping pong
+
+294
+00:06:26,870 --> 00:06:26,880
+mejor a ese que hacía como un ping pong
+ 
+
+295
+00:06:26,880 --> 00:06:31,350
+mejor a ese que hacía como un ping pong
+al arcano a todos esos y te gana cu Y
+
+296
+00:06:31,350 --> 00:06:31,360
+al arcano a todos esos y te gana cu Y
+ 
+
+297
+00:06:31,360 --> 00:06:33,830
+al arcano a todos esos y te gana cu Y
+qué más y de repente
+
+298
+00:06:33,830 --> 00:06:33,840
+qué más y de repente
+ 
+
+299
+00:06:33,840 --> 00:06:38,790
+qué más y de repente
+llega este pobre hombre lised el Go es
+
+300
+00:06:38,790 --> 00:06:38,800
+llega este pobre hombre lised el Go es
+ 
+
+301
+00:06:38,800 --> 00:06:41,909
+llega este pobre hombre lised el Go es
+como el ajedrez pero muchísimo más
+
+302
+00:06:41,909 --> 00:06:41,919
+como el ajedrez pero muchísimo más
+ 
+
+303
+00:06:41,919 --> 00:06:44,550
+como el ajedrez pero muchísimo más
+difícil y en China Japón es como
+
+304
+00:06:44,550 --> 00:06:44,560
+difícil y en China Japón es como
+ 
+
+305
+00:06:44,560 --> 00:06:48,189
+difícil y en China Japón es como
+religión de ahí lo que comentaba alfon
+
+306
+00:06:48,189 --> 00:06:48,199
+religión de ahí lo que comentaba alfon
+ 
+
+307
+00:06:48,199 --> 00:06:50,790
+religión de ahí lo que comentaba alfon
+que después de este momento que no es
+
+308
+00:06:50,790 --> 00:06:50,800
+que después de este momento que no es
+ 
+
+309
+00:06:50,800 --> 00:06:53,749
+que después de este momento que no es
+que le ganase es que lo humilló el tío
+
+310
+00:06:53,749 --> 00:06:53,759
+que le ganase es que lo humilló el tío
+ 
+
+311
+00:06:53,759 --> 00:06:55,749
+que le ganase es que lo humilló el tío
+lloraba el campeón de go el tío
+
+312
+00:06:55,749 --> 00:06:55,759
+lloraba el campeón de go el tío
+ 
+
+313
+00:06:55,759 --> 00:06:57,710
+lloraba el campeón de go el tío
+considerado de los más inteligentes del
+
+314
+00:06:57,710 --> 00:06:57,720
+considerado de los más inteligentes del
+ 
+
+315
+00:06:57,720 --> 00:07:00,670
+considerado de los más inteligentes del
+mundo oriental
+
+316
+00:07:00,670 --> 00:07:00,680
+mundo oriental
+ 
+
+317
+00:07:00,680 --> 00:07:04,710
+mundo oriental
+desfasadas arrasado por una Inteligencia
+
+318
+00:07:04,710 --> 00:07:04,720
+desfasadas arrasado por una Inteligencia
+ 
+
+319
+00:07:04,720 --> 00:07:08,110
+desfasadas arrasado por una Inteligencia
+artificial Qué hizo china a meter pasta
+
+320
+00:07:08,110 --> 00:07:08,120
+artificial Qué hizo china a meter pasta
+ 
+
+321
+00:07:08,120 --> 00:07:09,950
+artificial Qué hizo china a meter pasta
+esto Esto es muy potente si le gana
+
+322
+00:07:09,950 --> 00:07:09,960
+esto Esto es muy potente si le gana
+ 
+
+323
+00:07:09,960 --> 00:07:11,749
+esto Esto es muy potente si le gana
+nuestro campeón de go esto es muy bueno
+
+324
+00:07:11,749 --> 00:07:11,759
+nuestro campeón de go esto es muy bueno
+ 
+
+325
+00:07:11,759 --> 00:07:13,029
+nuestro campeón de go esto es muy bueno
+este piensa mucho esto es muy
+
+326
+00:07:13,029 --> 00:07:13,039
+este piensa mucho esto es muy
+ 
+
+327
+00:07:13,039 --> 00:07:16,029
+este piensa mucho esto es muy
+inteligente y mete en pasta hasta aquí
+
+328
+00:07:16,029 --> 00:07:16,039
+inteligente y mete en pasta hasta aquí
+ 
+
+329
+00:07:16,039 --> 00:07:19,830
+inteligente y mete en pasta hasta aquí
+se entiende no fácil
+
+330
+00:07:19,830 --> 00:07:19,840
+se entiende no fácil
+ 
+
+331
+00:07:19,840 --> 00:07:24,070
+se entiende no fácil
+bien póker en póker vamos a simplificar
+
+332
+00:07:24,070 --> 00:07:24,080
+bien póker en póker vamos a simplificar
+ 
+
+333
+00:07:24,080 --> 00:07:25,990
+bien póker en póker vamos a simplificar
+póker si tú tienes buenas cartas tienes
+
+334
+00:07:25,990 --> 00:07:26,000
+póker si tú tienes buenas cartas tienes
+ 
+
+335
+00:07:26,000 --> 00:07:27,350
+póker si tú tienes buenas cartas tienes
+que hacer que tienes malas para que la
+
+336
+00:07:27,350 --> 00:07:27,360
+que hacer que tienes malas para que la
+ 
+
+337
+00:07:27,360 --> 00:07:29,629
+que hacer que tienes malas para que la
+gente te entre al trapo en cambio Si si
+
+338
+00:07:29,629 --> 00:07:29,639
+gente te entre al trapo en cambio Si si
+ 
+
+339
+00:07:29,639 --> 00:07:31,830
+gente te entre al trapo en cambio Si si
+tú tienes malas cartas te tienes que
+
+340
+00:07:31,830 --> 00:07:31,840
+tú tienes malas cartas te tienes que
+ 
+
+341
+00:07:31,840 --> 00:07:33,350
+tú tienes malas cartas te tienes que
+tirar un farol para que parezca que
+
+342
+00:07:33,350 --> 00:07:33,360
+tirar un farol para que parezca que
+ 
+
+343
+00:07:33,360 --> 00:07:36,430
+tirar un farol para que parezca que
+tienes mucho y ganar y no es uno contra
+
+344
+00:07:36,430 --> 00:07:36,440
+tienes mucho y ganar y no es uno contra
+ 
+
+345
+00:07:36,440 --> 00:07:38,390
+tienes mucho y ganar y no es uno contra
+uno sino que son varias Mentes a la vez
+
+346
+00:07:38,390 --> 00:07:38,400
+uno sino que son varias Mentes a la vez
+ 
+
+347
+00:07:38,400 --> 00:07:43,550
+uno sino que son varias Mentes a la vez
+y el reto en tiempo real y gana toma ya
+
+348
+00:07:43,550 --> 00:07:43,560
+y el reto en tiempo real y gana toma ya
+ 
+
+349
+00:07:43,560 --> 00:07:45,749
+y el reto en tiempo real y gana toma ya
+pluribus arrasa la
+
+350
+00:07:45,749 --> 00:07:45,759
+pluribus arrasa la
+ 
+
+351
+00:07:45,759 --> 00:07:48,510
+pluribus arrasa la
+mesa otro momento histórico dice ostras
+
+352
+00:07:48,510 --> 00:07:48,520
+mesa otro momento histórico dice ostras
+ 
+
+353
+00:07:48,520 --> 00:07:50,149
+mesa otro momento histórico dice ostras
+que nos empieza a ganar a muchas cosas
+
+354
+00:07:50,149 --> 00:07:50,159
+que nos empieza a ganar a muchas cosas
+ 
+
+355
+00:07:50,159 --> 00:07:53,029
+que nos empieza a ganar a muchas cosas
+Si estamos llegando al año 2000 y de
+
+356
+00:07:53,029 --> 00:07:53,039
+Si estamos llegando al año 2000 y de
+ 
+
+357
+00:07:53,039 --> 00:07:54,629
+Si estamos llegando al año 2000 y de
+repente qué pasa pues eso poder de
+
+358
+00:07:54,629 --> 00:07:54,639
+repente qué pasa pues eso poder de
+ 
+
+359
+00:07:54,639 --> 00:07:56,830
+repente qué pasa pues eso poder de
+computación ta ta ta inviernos inviernos
+
+360
+00:07:56,830 --> 00:07:56,840
+computación ta ta ta inviernos inviernos
+ 
+
+361
+00:07:56,840 --> 00:08:00,189
+computación ta ta ta inviernos inviernos
+no hay pasta No aquí sí pero no
+
+362
+00:08:00,189 --> 00:08:00,199
+no hay pasta No aquí sí pero no
+ 
+
+363
+00:08:00,199 --> 00:08:05,149
+no hay pasta No aquí sí pero no
+Y entonces aparecen los gpt el Dali esta
+
+364
+00:08:05,149 --> 00:08:05,159
+Y entonces aparecen los gpt el Dali esta
+ 
+
+365
+00:08:05,159 --> 00:08:07,950
+Y entonces aparecen los gpt el Dali esta
+silla cuando salió la el primer Dali la
+
+366
+00:08:07,950 --> 00:08:07,960
+silla cuando salió la el primer Dali la
+ 
+
+367
+00:08:07,960 --> 00:08:10,189
+silla cuando salió la el primer Dali la
+noticia era que hace sillas que parecen
+
+368
+00:08:10,189 --> 00:08:10,199
+noticia era que hace sillas que parecen
+ 
+
+369
+00:08:10,199 --> 00:08:12,390
+noticia era que hace sillas que parecen
+aguacates Wow la gente decía Qué [\h__\h]
+
+370
+00:08:12,390 --> 00:08:12,400
+aguacates Wow la gente decía Qué [\h__\h]
+ 
+
+371
+00:08:12,400 --> 00:08:14,830
+aguacates Wow la gente decía Qué [\h__\h]
+es esta por favor pero realmente dices
+
+372
+00:08:14,830 --> 00:08:14,840
+es esta por favor pero realmente dices
+ 
+
+373
+00:08:14,840 --> 00:08:17,670
+es esta por favor pero realmente dices
+eh está generando sillas que parecen
+
+374
+00:08:17,670 --> 00:08:17,680
+eh está generando sillas que parecen
+ 
+
+375
+00:08:17,680 --> 00:08:20,469
+eh está generando sillas que parecen
+aguacates sin esfuerzo yo no sé dibujar
+
+376
+00:08:20,469 --> 00:08:20,479
+aguacates sin esfuerzo yo no sé dibujar
+ 
+
+377
+00:08:20,479 --> 00:08:22,430
+aguacates sin esfuerzo yo no sé dibujar
+una silla más que esa que pongo así
+
+378
+00:08:22,430 --> 00:08:22,440
+una silla más que esa que pongo así
+ 
+
+379
+00:08:22,440 --> 00:08:24,110
+una silla más que esa que pongo así
+cuatro palos que son un cuatro dado la
+
+380
+00:08:24,110 --> 00:08:24,120
+cuatro palos que son un cuatro dado la
+ 
+
+381
+00:08:24,120 --> 00:08:26,950
+cuatro palos que son un cuatro dado la
+vuelta y Esto me lo hace con forma de
+
+382
+00:08:26,950 --> 00:08:26,960
+vuelta y Esto me lo hace con forma de
+ 
+
+383
+00:08:26,960 --> 00:08:32,469
+vuelta y Esto me lo hace con forma de
+aguacate tela eh y parece
+
+384
+00:08:32,469 --> 00:08:32,479
+
+ 
+
+385
+00:08:32,479 --> 00:08:36,310
+
+cómoda vale al final me dicen habla de
+
+386
+00:08:36,310 --> 00:08:36,320
+cómoda vale al final me dicen habla de
+ 
+
+387
+00:08:36,320 --> 00:08:38,829
+cómoda vale al final me dicen habla de
+Inteligencia artificial generativa Por
+
+388
+00:08:38,829 --> 00:08:38,839
+Inteligencia artificial generativa Por
+ 
+
+389
+00:08:38,839 --> 00:08:40,350
+Inteligencia artificial generativa Por
+qué es generativa pues porque genera
+
+390
+00:08:40,350 --> 00:08:40,360
+qué es generativa pues porque genera
+ 
+
+391
+00:08:40,360 --> 00:08:43,750
+qué es generativa pues porque genera
+cosas pasamos de la programación a la ia
+
+392
+00:08:43,750 --> 00:08:43,760
+cosas pasamos de la programación a la ia
+ 
+
+393
+00:08:43,760 --> 00:08:46,670
+cosas pasamos de la programación a la ia
+a la ía generativa programación yo meto
+
+394
+00:08:46,670 --> 00:08:46,680
+a la ía generativa programación yo meto
+ 
+
+395
+00:08:46,680 --> 00:08:50,150
+a la ía generativa programación yo meto
+código algoritmos t ta ta hace algo una
+
+396
+00:08:50,150 --> 00:08:50,160
+código algoritmos t ta ta hace algo una
+ 
+
+397
+00:08:50,160 --> 00:08:52,350
+código algoritmos t ta ta hace algo una
+Macro de Excel si vienen aquí Los
+
+398
+00:08:52,350 --> 00:08:52,360
+Macro de Excel si vienen aquí Los
+ 
+
+399
+00:08:52,360 --> 00:08:55,230
+Macro de Excel si vienen aquí Los
+ficheros me copias aquí la la solución y
+
+400
+00:08:55,230 --> 00:08:55,240
+ficheros me copias aquí la la solución y
+ 
+
+401
+00:08:55,240 --> 00:08:57,069
+ficheros me copias aquí la la solución y
+si no me la pones a car
+
+402
+00:08:57,069 --> 00:08:57,079
+si no me la pones a car
+ 
+
+403
+00:08:57,079 --> 00:09:00,069
+si no me la pones a car
+vale Inteligencia artificial tengo un
+
+404
+00:09:00,069 --> 00:09:00,079
+vale Inteligencia artificial tengo un
+ 
+
+405
+00:09:00,079 --> 00:09:03,389
+vale Inteligencia artificial tengo un
+modelo de datos Cojo un 80% los entreno
+
+406
+00:09:03,389 --> 00:09:03,399
+modelo de datos Cojo un 80% los entreno
+ 
+
+407
+00:09:03,399 --> 00:09:05,750
+modelo de datos Cojo un 80% los entreno
+y lo testeo con el otro 20 y me toma
+
+408
+00:09:05,750 --> 00:09:05,760
+y lo testeo con el otro 20 y me toma
+ 
+
+409
+00:09:05,760 --> 00:09:07,790
+y lo testeo con el otro 20 y me toma
+decisiones dice va a ser no como por
+
+410
+00:09:07,790 --> 00:09:07,800
+decisiones dice va a ser no como por
+ 
+
+411
+00:09:07,800 --> 00:09:10,310
+decisiones dice va a ser no como por
+ejemplo cuando hacen en las telefónicas
+
+412
+00:09:10,310 --> 00:09:10,320
+ejemplo cuando hacen en las telefónicas
+ 
+
+413
+00:09:10,320 --> 00:09:12,470
+ejemplo cuando hacen en las telefónicas
+se va a ir o no se va a ir proyectos de
+
+414
+00:09:12,470 --> 00:09:12,480
+se va a ir o no se va a ir proyectos de
+ 
+
+415
+00:09:12,480 --> 00:09:14,790
+se va a ir o no se va a ir proyectos de
+charn pues Si este tío ha llamado cinco
+
+416
+00:09:14,790 --> 00:09:14,800
+charn pues Si este tío ha llamado cinco
+ 
+
+417
+00:09:14,800 --> 00:09:16,389
+charn pues Si este tío ha llamado cinco
+veces atención al cliente y no le estás
+
+418
+00:09:16,389 --> 00:09:16,399
+veces atención al cliente y no le estás
+ 
+
+419
+00:09:16,399 --> 00:09:17,990
+veces atención al cliente y no le estás
+regalando el último teléfono y encima
+
+420
+00:09:17,990 --> 00:09:18,000
+regalando el último teléfono y encima
+ 
+
+421
+00:09:18,000 --> 00:09:20,670
+regalando el último teléfono y encima
+tal se te va a ir pero se entrenan los
+
+422
+00:09:20,670 --> 00:09:20,680
+tal se te va a ir pero se entrenan los
+ 
+
+423
+00:09:20,680 --> 00:09:22,990
+tal se te va a ir pero se entrenan los
+datos se predice lo que va a
+
+424
+00:09:22,990 --> 00:09:23,000
+datos se predice lo que va a
+ 
+
+425
+00:09:23,000 --> 00:09:25,470
+datos se predice lo que va a
+pasar en cambio Inteligencia artificial
+
+426
+00:09:25,470 --> 00:09:25,480
+pasar en cambio Inteligencia artificial
+ 
+
+427
+00:09:25,480 --> 00:09:29,509
+pasar en cambio Inteligencia artificial
+generativa Qué pasa meto un promp Y qué
+
+428
+00:09:29,509 --> 00:09:29,519
+generativa Qué pasa meto un promp Y qué
+ 
+
+429
+00:09:29,519 --> 00:09:32,550
+generativa Qué pasa meto un promp Y qué
+un promp pues Quiero que me hagas esto
+
+430
+00:09:32,550 --> 00:09:32,560
+un promp pues Quiero que me hagas esto
+ 
+
+431
+00:09:32,560 --> 00:09:36,310
+un promp pues Quiero que me hagas esto
+enter y te lo hace dices venga ya tú o
+
+432
+00:09:36,310 --> 00:09:36,320
+enter y te lo hace dices venga ya tú o
+ 
+
+433
+00:09:36,320 --> 00:09:38,030
+enter y te lo hace dices venga ya tú o
+sea llevo toda la vida entrenando datos
+
+434
+00:09:38,030 --> 00:09:38,040
+sea llevo toda la vida entrenando datos
+ 
+
+435
+00:09:38,040 --> 00:09:39,710
+sea llevo toda la vida entrenando datos
+aquí comiéndome el tarro vendiendo Data
+
+436
+00:09:39,710 --> 00:09:39,720
+aquí comiéndome el tarro vendiendo Data
+ 
+
+437
+00:09:39,720 --> 00:09:42,829
+aquí comiéndome el tarro vendiendo Data
+a las empresas y ahora viene el primo
+
+438
+00:09:42,829 --> 00:09:42,839
+a las empresas y ahora viene el primo
+ 
+
+439
+00:09:42,839 --> 00:09:45,750
+a las empresas y ahora viene el primo
+listo de Google y me da esto y me lo
+
+440
+00:09:45,750 --> 00:09:45,760
+listo de Google y me da esto y me lo
+ 
+
+441
+00:09:45,760 --> 00:09:49,470
+listo de Google y me da esto y me lo
+hace bien Y entonces dices [\h__\h] dice
+
+442
+00:09:49,470 --> 00:09:49,480
+hace bien Y entonces dices [\h__\h] dice
+ 
+
+443
+00:09:49,480 --> 00:09:52,310
+hace bien Y entonces dices [\h__\h] dice
+Bueno al principio flipamos todos y
+
+444
+00:09:52,310 --> 00:09:52,320
+Bueno al principio flipamos todos y
+ 
+
+445
+00:09:52,320 --> 00:09:54,190
+Bueno al principio flipamos todos y
+dices Bueno por lo menos luego vemos que
+
+446
+00:09:54,190 --> 00:09:54,200
+dices Bueno por lo menos luego vemos que
+ 
+
+447
+00:09:54,200 --> 00:09:55,710
+dices Bueno por lo menos luego vemos que
+falla dices por lo menos no tengo ese
+
+448
+00:09:55,710 --> 00:09:55,720
+falla dices por lo menos no tengo ese
+ 
+
+449
+00:09:55,720 --> 00:09:57,750
+falla dices por lo menos no tengo ese
+síndrome del folio en blanco empiezo una
+
+450
+00:09:57,750 --> 00:09:57,760
+síndrome del folio en blanco empiezo una
+ 
+
+451
+00:09:57,760 --> 00:09:59,670
+síndrome del folio en blanco empiezo una
+tarea y ostras que ya estoy en el tercer
+
+452
+00:09:59,670 --> 00:09:59,680
+tarea y ostras que ya estoy en el tercer
+ 
+
+453
+00:09:59,680 --> 00:10:02,110
+tarea y ostras que ya estoy en el tercer
+escalón no estoy dándole vueltas al bly
+
+454
+00:10:02,110 --> 00:10:02,120
+escalón no estoy dándole vueltas al bly
+ 
+
+455
+00:10:02,120 --> 00:10:04,350
+escalón no estoy dándole vueltas al bly
+ahí diciendo a ver qué me invento ahora
+
+456
+00:10:04,350 --> 00:10:04,360
+ahí diciendo a ver qué me invento ahora
+ 
+
+457
+00:10:04,360 --> 00:10:06,310
+ahí diciendo a ver qué me invento ahora
+cuál es mi primera frase el título el
+
+458
+00:10:06,310 --> 00:10:06,320
+cuál es mi primera frase el título el
+ 
+
+459
+00:10:06,320 --> 00:10:11,069
+cuál es mi primera frase el título el
+índice no me da uno y me digo Cámbiame
+
+460
+00:10:11,069 --> 00:10:11,079
+índice no me da uno y me digo Cámbiame
+ 
+
+461
+00:10:11,079 --> 00:10:13,430
+índice no me da uno y me digo Cámbiame
+esto pero ya ya estoy en otro nivel Ya
+
+462
+00:10:13,430 --> 00:10:13,440
+esto pero ya ya estoy en otro nivel Ya
+ 
+
+463
+00:10:13,440 --> 00:10:16,269
+esto pero ya ya estoy en otro nivel Ya
+estoy monitorizando en lugar de creando
+
+464
+00:10:16,269 --> 00:10:16,279
+estoy monitorizando en lugar de creando
+ 
+
+465
+00:10:16,279 --> 00:10:20,310
+estoy monitorizando en lugar de creando
+y hablaremos de esto más adelante una
+
+466
+00:10:20,310 --> 00:10:20,320
+y hablaremos de esto más adelante una
+ 
+
+467
+00:10:20,320 --> 00:10:23,630
+y hablaremos de esto más adelante una
+demo en tiempo real pues por ejemplo en
+
+468
+00:10:23,630 --> 00:10:23,640
+demo en tiempo real pues por ejemplo en
+ 
+
+469
+00:10:23,640 --> 00:10:24,710
+demo en tiempo real pues por ejemplo en
+una
+
+470
+00:10:24,710 --> 00:10:24,720
+una
+ 
+
+471
+00:10:24,720 --> 00:10:30,790
+una
+aa podemos hacer em
+
+472
+00:10:30,790 --> 00:10:30,800
+
+ 
+
+473
+00:10:30,800 --> 00:10:32,470
+
+podemos hacer ciencia de
+
+474
+00:10:32,470 --> 00:10:32,480
+podemos hacer ciencia de
+ 
+
+475
+00:10:32,480 --> 00:10:35,310
+podemos hacer ciencia de
+datos Y esto es una petición que me hizo
+
+476
+00:10:35,310 --> 00:10:35,320
+datos Y esto es una petición que me hizo
+ 
+
+477
+00:10:35,320 --> 00:10:37,470
+datos Y esto es una petición que me hizo
+Elena ayer que estaba totalmente fuera
+
+478
+00:10:37,470 --> 00:10:37,480
+Elena ayer que estaba totalmente fuera
+ 
+
+479
+00:10:37,480 --> 00:10:39,550
+Elena ayer que estaba totalmente fuera
+de guion pero vamos
+
+480
+00:10:39,550 --> 00:10:39,560
+de guion pero vamos
+ 
+
+481
+00:10:39,560 --> 00:10:43,430
+de guion pero vamos
+a
+
+482
+00:10:43,430 --> 00:10:43,440
+
+ 
+
+483
+00:10:43,440 --> 00:10:46,269
+
+complacerle Bin Bin Bin el último que
+
+484
+00:10:46,269 --> 00:10:46,279
+complacerle Bin Bin Bin el último que
+ 
+
+485
+00:10:46,279 --> 00:10:49,470
+complacerle Bin Bin Bin el último que
+hecho están aquí podemos hacer ciencia
+
+486
+00:10:49,470 --> 00:10:49,480
+hecho están aquí podemos hacer ciencia
+ 
+
+487
+00:10:49,480 --> 00:10:52,190
+hecho están aquí podemos hacer ciencia
+de datos a cualquier nivel yo le voy
+
+488
+00:10:52,190 --> 00:10:52,200
+de datos a cualquier nivel yo le voy
+ 
+
+489
+00:10:52,200 --> 00:10:54,470
+de datos a cualquier nivel yo le voy
+pidiendo un datas Random de ventas y
+
+490
+00:10:54,470 --> 00:10:54,480
+pidiendo un datas Random de ventas y
+ 
+
+491
+00:10:54,480 --> 00:10:55,990
+pidiendo un datas Random de ventas y
+todo esto que cuesta carreras
+
+492
+00:10:55,990 --> 00:10:56,000
+todo esto que cuesta carreras
+ 
+
+493
+00:10:56,000 --> 00:10:57,230
+todo esto que cuesta carreras
+disciplinas Tengo que aprender de
+
+494
+00:10:57,230 --> 00:10:57,240
+disciplinas Tengo que aprender de
+ 
+
+495
+00:10:57,240 --> 00:10:59,430
+disciplinas Tengo que aprender de
+matemáticas de ciencia de datos tengo
+
+496
+00:10:59,430 --> 00:10:59,440
+matemáticas de ciencia de datos tengo
+ 
+
+497
+00:10:59,440 --> 00:11:00,389
+matemáticas de ciencia de datos tengo
+aprender Machine learning Tengo que
+
+498
+00:11:00,389 --> 00:11:00,399
+aprender Machine learning Tengo que
+ 
+
+499
+00:11:00,399 --> 00:11:02,990
+aprender Machine learning Tengo que
+aprender a hacer modelos descriptivos ta
+
+500
+00:11:02,990 --> 00:11:03,000
+aprender a hacer modelos descriptivos ta
+ 
+
+501
+00:11:03,000 --> 00:11:06,829
+aprender a hacer modelos descriptivos ta
+Pues ahora cojo y le digo Oye
+
+502
+00:11:06,829 --> 00:11:06,839
+Pues ahora cojo y le digo Oye
+ 
+
+503
+00:11:06,839 --> 00:11:10,190
+Pues ahora cojo y le digo Oye
+eh plote plot eso
+
+504
+00:11:10,190 --> 00:11:10,200
+eh plote plot eso
+ 
+
+505
+00:11:10,200 --> 00:11:15,269
+eh plote plot eso
+graficar lo más relevante de estos datos
+
+506
+00:11:15,269 --> 00:11:15,279
+graficar lo más relevante de estos datos
+ 
+
+507
+00:11:15,279 --> 00:11:19,389
+graficar lo más relevante de estos datos
+Y lo difícil aquí es hablar a la vez que
+
+508
+00:11:19,389 --> 00:11:19,399
+Y lo difícil aquí es hablar a la vez que
+ 
+
+509
+00:11:19,399 --> 00:11:22,870
+Y lo difícil aquí es hablar a la vez que
+escribo vale esto se pone a analizar a
+
+510
+00:11:22,870 --> 00:11:22,880
+escribo vale esto se pone a analizar a
+ 
+
+511
+00:11:22,880 --> 00:11:25,470
+escribo vale esto se pone a analizar a
+pensar es una caja negra que va haciendo
+
+512
+00:11:25,470 --> 00:11:25,480
+pensar es una caja negra que va haciendo
+ 
+
+513
+00:11:25,480 --> 00:11:27,629
+pensar es una caja negra que va haciendo
+y de repente me empieza y además lo
+
+514
+00:11:27,629 --> 00:11:27,639
+y de repente me empieza y además lo
+ 
+
+515
+00:11:27,639 --> 00:11:29,870
+y de repente me empieza y además lo
+puedo escribir mal me genera un código
+
+516
+00:11:29,870 --> 00:11:29,880
+puedo escribir mal me genera un código
+ 
+
+517
+00:11:29,880 --> 00:11:32,190
+puedo escribir mal me genera un código
+en python que este código no sabéis lo
+
+518
+00:11:32,190 --> 00:11:32,200
+en python que este código no sabéis lo
+ 
+
+519
+00:11:32,200 --> 00:11:33,509
+en python que este código no sabéis lo
+difícil que es que yo vengo de
+
+520
+00:11:33,509 --> 00:11:33,519
+difícil que es que yo vengo de
+ 
+
+521
+00:11:33,519 --> 00:11:34,990
+difícil que es que yo vengo de
+empresariales y cuando me he tenido que
+
+522
+00:11:34,990 --> 00:11:35,000
+empresariales y cuando me he tenido que
+ 
+
+523
+00:11:35,000 --> 00:11:37,069
+empresariales y cuando me he tenido que
+reconvertir lo difícil que es hacer el
+
+524
+00:11:37,069 --> 00:11:37,079
+reconvertir lo difícil que es hacer el
+ 
+
+525
+00:11:37,079 --> 00:11:39,870
+reconvertir lo difícil que es hacer el
+estudio y python y todas las librerías
+
+526
+00:11:39,870 --> 00:11:39,880
+estudio y python y todas las librerías
+ 
+
+527
+00:11:39,880 --> 00:11:42,990
+estudio y python y todas las librerías
+Esto no es fácil eh pero para este sí
+
+528
+00:11:42,990 --> 00:11:43,000
+Esto no es fácil eh pero para este sí
+ 
+
+529
+00:11:43,000 --> 00:11:46,230
+Esto no es fácil eh pero para este sí
+yce me va a quitar el curro esto no sé
+
+530
+00:11:46,230 --> 00:11:46,240
+yce me va a quitar el curro esto no sé
+ 
+
+531
+00:11:46,240 --> 00:11:47,910
+yce me va a quitar el curro esto no sé
+Luego os lo
+
+532
+00:11:47,910 --> 00:11:47,920
+Luego os lo
+ 
+
+533
+00:11:47,920 --> 00:11:50,949
+Luego os lo
+cuento entonces tarda un
+
+534
+00:11:50,949 --> 00:11:50,959
+cuento entonces tarda un
+ 
+
+535
+00:11:50,959 --> 00:11:54,350
+cuento entonces tarda un
+pelín pero en tiempo real Bueno no sé
+
+536
+00:11:54,350 --> 00:11:54,360
+pelín pero en tiempo real Bueno no sé
+ 
+
+537
+00:11:54,360 --> 00:11:56,389
+pelín pero en tiempo real Bueno no sé
+hasta dónde quiere llegar esto pero nos
+
+538
+00:11:56,389 --> 00:11:56,399
+hasta dónde quiere llegar esto pero nos
+ 
+
+539
+00:11:56,399 --> 00:11:59,509
+hasta dónde quiere llegar esto pero nos
+va a hacer una serie de cálculos y nos
+
+540
+00:11:59,509 --> 00:11:59,519
+va a hacer una serie de cálculos y nos
+ 
+
+541
+00:11:59,519 --> 00:12:01,310
+va a hacer una serie de cálculos y nos
+va a hacer una serie de
+
+542
+00:12:01,310 --> 00:12:01,320
+va a hacer una serie de
+ 
+
+543
+00:12:01,320 --> 00:12:03,509
+va a hacer una serie de
+gráficos os voy a enseñar otros que
+
+544
+00:12:03,509 --> 00:12:03,519
+gráficos os voy a enseñar otros que
+ 
+
+545
+00:12:03,519 --> 00:12:05,310
+gráficos os voy a enseñar otros que
+tengo hechos aquí que es de lo mismo que
+
+546
+00:12:05,310 --> 00:12:05,320
+tengo hechos aquí que es de lo mismo que
+ 
+
+547
+00:12:05,320 --> 00:12:08,550
+tengo hechos aquí que es de lo mismo que
+le ido pidiendo y que tarda lo que yo
+
+548
+00:12:08,550 --> 00:12:08,560
+le ido pidiendo y que tarda lo que yo
+ 
+
+549
+00:12:08,560 --> 00:12:10,150
+le ido pidiendo y que tarda lo que yo
+estoy aquí hablando con
+
+550
+00:12:10,150 --> 00:12:10,160
+estoy aquí hablando con
+ 
+
+551
+00:12:10,160 --> 00:12:12,790
+estoy aquí hablando con
+vosotros vale me hace gráficos de barras
+
+552
+00:12:12,790 --> 00:12:12,800
+vosotros vale me hace gráficos de barras
+ 
+
+553
+00:12:12,800 --> 00:12:14,389
+vosotros vale me hace gráficos de barras
+me hace clusters
+
+554
+00:12:14,389 --> 00:12:14,399
+me hace clusters
+ 
+
+555
+00:12:14,399 --> 00:12:17,509
+me hace clusters
+me dispersión lo que queráis vale las
+
+556
+00:12:17,509 --> 00:12:17,519
+me dispersión lo que queráis vale las
+ 
+
+557
+00:12:17,519 --> 00:12:21,230
+me dispersión lo que queráis vale las
+velas y como veis sin esfuerzo mientras
+
+558
+00:12:21,230 --> 00:12:21,240
+velas y como veis sin esfuerzo mientras
+ 
+
+559
+00:12:21,240 --> 00:12:22,629
+velas y como veis sin esfuerzo mientras
+yo estoy dando la charla este trabaja
+
+560
+00:12:22,629 --> 00:12:22,639
+yo estoy dando la charla este trabaja
+ 
+
+561
+00:12:22,639 --> 00:12:25,629
+yo estoy dando la charla este trabaja
+para mí es como un becario que si le doy
+
+562
+00:12:25,629 --> 00:12:25,639
+para mí es como un becario que si le doy
+ 
+
+563
+00:12:25,639 --> 00:12:26,629
+para mí es como un becario que si le doy
+bien la
+
+564
+00:12:26,629 --> 00:12:26,639
+bien la
+ 
+
+565
+00:12:26,639 --> 00:12:29,629
+bien la
+instrucción me lo hacer Bueno Pues me va
+
+566
+00:12:29,629 --> 00:12:29,639
+instrucción me lo hacer Bueno Pues me va
+ 
+
+567
+00:12:29,639 --> 00:12:31,710
+instrucción me lo hacer Bueno Pues me va
+a dibujar cositas abajo cuando le
+
+568
+00:12:31,710 --> 00:12:31,720
+a dibujar cositas abajo cuando le
+ 
+
+569
+00:12:31,720 --> 00:12:34,790
+a dibujar cositas abajo cuando le
+apetezca vale aquí está ya está qué más
+
+570
+00:12:34,790 --> 00:12:34,800
+apetezca vale aquí está ya está qué más
+ 
+
+571
+00:12:34,800 --> 00:12:36,470
+apetezca vale aquí está ya está qué más
+vamos a hacer vamos a hacer cosas en
+
+572
+00:12:36,470 --> 00:12:36,480
+vamos a hacer vamos a hacer cosas en
+ 
+
+573
+00:12:36,480 --> 00:12:39,310
+vamos a hacer vamos a hacer cosas en
+tiempo real como esto que hemos hecho
+
+574
+00:12:39,310 --> 00:12:39,320
+tiempo real como esto que hemos hecho
+ 
+
+575
+00:12:39,320 --> 00:12:42,509
+tiempo real como esto que hemos hecho
+como ayer por ejemplo hice una foto Yo
+
+576
+00:12:42,509 --> 00:12:42,519
+como ayer por ejemplo hice una foto Yo
+ 
+
+577
+00:12:42,519 --> 00:12:44,150
+como ayer por ejemplo hice una foto Yo
+hoy me gustaría repetirla y luego la
+
+578
+00:12:44,150 --> 00:12:44,160
+hoy me gustaría repetirla y luego la
+ 
+
+579
+00:12:44,160 --> 00:12:46,949
+hoy me gustaría repetirla y luego la
+subo vale hemos hecho ciencia datos ayer
+
+580
+00:12:46,949 --> 00:12:46,959
+subo vale hemos hecho ciencia datos ayer
+ 
+
+581
+00:12:46,959 --> 00:12:50,350
+subo vale hemos hecho ciencia datos ayer
+estaba aquí haciendo las pruebas y me
+
+582
+00:12:50,350 --> 00:12:50,360
+estaba aquí haciendo las pruebas y me
+ 
+
+583
+00:12:50,360 --> 00:12:53,269
+estaba aquí haciendo las pruebas y me
+dice Elena Pablo y puedes hacer una demo
+
+584
+00:12:53,269 --> 00:12:53,279
+dice Elena Pablo y puedes hacer una demo
+ 
+
+585
+00:12:53,279 --> 00:12:55,389
+dice Elena Pablo y puedes hacer una demo
+digo No lo sé porque viene lo el WiFi
+
+586
+00:12:55,389 --> 00:12:55,399
+digo No lo sé porque viene lo el WiFi
+ 
+
+587
+00:12:55,399 --> 00:12:57,230
+digo No lo sé porque viene lo el WiFi
+por aquí esto genera a veces se tuesta y
+
+588
+00:12:57,230 --> 00:12:57,240
+por aquí esto genera a veces se tuesta y
+ 
+
+589
+00:12:57,240 --> 00:13:00,150
+por aquí esto genera a veces se tuesta y
+no va batería en el móvil
+
+590
+00:13:00,150 --> 00:13:00,160
+no va batería en el móvil
+ 
+
+591
+00:13:00,160 --> 00:13:02,590
+no va batería en el móvil
+y digo hazme una foto conmigo y me hace
+
+592
+00:13:02,590 --> 00:13:02,600
+y digo hazme una foto conmigo y me hace
+ 
+
+593
+00:13:02,600 --> 00:13:05,069
+y digo hazme una foto conmigo y me hace
+ahí y digo mira como Pixar qué
+
+594
+00:13:05,069 --> 00:13:05,079
+ahí y digo mira como Pixar qué
+ 
+
+595
+00:13:05,079 --> 00:13:08,110
+ahí y digo mira como Pixar qué
+Guay Vale y digo vamos a hacer algo más
+
+596
+00:13:08,110 --> 00:13:08,120
+Guay Vale y digo vamos a hacer algo más
+ 
+
+597
+00:13:08,120 --> 00:13:11,230
+Guay Vale y digo vamos a hacer algo más
+hiperrealista y me hace y me hace así
+
+598
+00:13:11,230 --> 00:13:11,240
+hiperrealista y me hace y me hace así
+ 
+
+599
+00:13:11,240 --> 00:13:13,350
+hiperrealista y me hace y me hace así
+dice Bueno y le digo Cámbiame el
+
+600
+00:13:13,350 --> 00:13:13,360
+dice Bueno y le digo Cámbiame el
+ 
+
+601
+00:13:13,360 --> 00:13:16,910
+dice Bueno y le digo Cámbiame el
+dashboard y ponme a Victoria detrás Y de
+
+602
+00:13:16,910 --> 00:13:16,920
+dashboard y ponme a Victoria detrás Y de
+ 
+
+603
+00:13:16,920 --> 00:13:20,670
+dashboard y ponme a Victoria detrás Y de
+repente nos pone esto y
+
+604
+00:13:20,670 --> 00:13:20,680
+repente nos pone esto y
+ 
+
+605
+00:13:20,680 --> 00:13:23,990
+repente nos pone esto y
+error dice pues Puede que sea otra
+
+606
+00:13:23,990 --> 00:13:24,000
+error dice pues Puede que sea otra
+ 
+
+607
+00:13:24,000 --> 00:13:26,670
+error dice pues Puede que sea otra
+Victoria en algún lado del mundo también
+
+608
+00:13:26,670 --> 00:13:26,680
+Victoria en algún lado del mundo también
+ 
+
+609
+00:13:26,680 --> 00:13:30,189
+Victoria en algún lado del mundo también
+hay otro Córdoba otro Guadalajara no
+
+610
+00:13:30,189 --> 00:13:30,199
+hay otro Córdoba otro Guadalajara no
+ 
+
+611
+00:13:30,199 --> 00:13:33,150
+hay otro Córdoba otro Guadalajara no
+No lo sé dice Bueno pues Hazme la
+
+612
+00:13:33,150 --> 00:13:33,160
+No lo sé dice Bueno pues Hazme la
+ 
+
+613
+00:13:33,160 --> 00:13:35,910
+No lo sé dice Bueno pues Hazme la
+plaza dice Bueno se la inventa pero más
+
+614
+00:13:35,910 --> 00:13:35,920
+plaza dice Bueno se la inventa pero más
+ 
+
+615
+00:13:35,920 --> 00:13:37,829
+plaza dice Bueno se la inventa pero más
+menos ha aprendido con muchas fotos que
+
+616
+00:13:37,829 --> 00:13:37,839
+menos ha aprendido con muchas fotos que
+ 
+
+617
+00:13:37,839 --> 00:13:39,310
+menos ha aprendido con muchas fotos que
+ha visto y esto ya se parece un poquito
+
+618
+00:13:39,310 --> 00:13:39,320
+ha visto y esto ya se parece un poquito
+ 
+
+619
+00:13:39,320 --> 00:13:41,509
+ha visto y esto ya se parece un poquito
+más
+
+620
+00:13:41,509 --> 00:13:41,519
+más
+ 
+
+621
+00:13:41,519 --> 00:13:44,629
+más
+verdad puede hacer en tiempo real estoy
+
+622
+00:13:44,629 --> 00:13:44,639
+verdad puede hacer en tiempo real estoy
+ 
+
+623
+00:13:44,639 --> 00:13:49,350
+verdad puede hacer en tiempo real estoy
+a petición de gon y de Elena también en
+
+624
+00:13:49,350 --> 00:13:49,360
+a petición de gon y de Elena también en
+ 
+
+625
+00:13:49,360 --> 00:13:51,230
+a petición de gon y de Elena también en
+tiempo real no solamente eso ahora ha
+
+626
+00:13:51,230 --> 00:13:51,240
+tiempo real no solamente eso ahora ha
+ 
+
+627
+00:13:51,240 --> 00:13:53,310
+tiempo real no solamente eso ahora ha
+salido el modo avanzado de
+
+628
+00:13:53,310 --> 00:13:53,320
+salido el modo avanzado de
+ 
+
+629
+00:13:53,320 --> 00:13:57,470
+salido el modo avanzado de
+voz sabéis rimar
+
+630
+00:13:57,470 --> 00:13:57,480
+
+ 
+
+631
+00:13:57,480 --> 00:14:00,389
+
+alguno rimar
+
+632
+00:14:00,389 --> 00:14:00,399
+alguno rimar
+ 
+
+633
+00:14:00,399 --> 00:14:03,150
+alguno rimar
+terminar las frases con las mismas
+
+634
+00:14:03,150 --> 00:14:03,160
+terminar las frases con las mismas
+ 
+
+635
+00:14:03,160 --> 00:14:07,670
+terminar las frases con las mismas
+palabras con las mismas letras desde la
+
+636
+00:14:07,670 --> 00:14:07,680
+palabras con las mismas letras desde la
+ 
+
+637
+00:14:07,680 --> 00:14:10,150
+palabras con las mismas letras desde la
+última sílaba tónica puedes hacer
+
+638
+00:14:10,150 --> 00:14:10,160
+última sílaba tónica puedes hacer
+ 
+
+639
+00:14:10,160 --> 00:14:14,829
+última sílaba tónica puedes hacer
+construcciones a a b Abba a a a a dice
+
+640
+00:14:14,829 --> 00:14:14,839
+construcciones a a b Abba a a a a dice
+ 
+
+641
+00:14:14,839 --> 00:14:17,030
+construcciones a a b Abba a a a a dice
+sol lac la ía y en tiempo
+
+642
+00:14:17,030 --> 00:14:17,040
+sol lac la ía y en tiempo
+ 
+
+643
+00:14:17,040 --> 00:14:20,629
+sol lac la ía y en tiempo
+real podemos probarlo voy a abrir un
+
+644
+00:14:20,629 --> 00:14:20,639
+real podemos probarlo voy a abrir un
+ 
+
+645
+00:14:20,639 --> 00:14:22,189
+real podemos probarlo voy a abrir un
+nuevo
+
+646
+00:14:22,189 --> 00:14:22,199
+nuevo
+ 
+
+647
+00:14:22,199 --> 00:14:25,829
+nuevo
+chat y le voy a decir mientras Gonzalo
+
+648
+00:14:25,829 --> 00:14:25,839
+chat y le voy a decir mientras Gonzalo
+ 
+
+649
+00:14:25,839 --> 00:14:30,629
+chat y le voy a decir mientras Gonzalo
+va buscando una música
+
+650
+00:14:30,629 --> 00:14:30,639
+
+ 
+
+651
+00:14:30,639 --> 00:14:31,990
+
+Baja un
+
+652
+00:14:31,990 --> 00:14:32,000
+Baja un
+ 
+
+653
+00:14:32,000 --> 00:14:36,189
+Baja un
+poco Oye chat estamos aquí para hacer un
+
+654
+00:14:36,189 --> 00:14:36,199
+poco Oye chat estamos aquí para hacer un
+ 
+
+655
+00:14:36,199 --> 00:14:39,350
+poco Oye chat estamos aquí para hacer un
+tema de una batalla de rap entonces me
+
+656
+00:14:39,350 --> 00:14:39,360
+tema de una batalla de rap entonces me
+ 
+
+657
+00:14:39,360 --> 00:14:42,030
+tema de una batalla de rap entonces me
+voy a medir contigo y quiero que hables
+
+658
+00:14:42,030 --> 00:14:42,040
+voy a medir contigo y quiero que hables
+ 
+
+659
+00:14:42,040 --> 00:14:43,749
+voy a medir contigo y quiero que hables
+de temática vamos a hacer cuatro frases
+
+660
+00:14:43,749 --> 00:14:43,759
+de temática vamos a hacer cuatro frases
+ 
+
+661
+00:14:43,759 --> 00:14:47,030
+de temática vamos a hacer cuatro frases
+cada uno y de temática vamos a decir
+
+662
+00:14:47,030 --> 00:14:47,040
+cada uno y de temática vamos a decir
+ 
+
+663
+00:14:47,040 --> 00:14:50,150
+cada uno y de temática vamos a decir
+Alaba inteligente vale sobre esas dos
+
+664
+00:14:50,150 --> 00:14:50,160
+Alaba inteligente vale sobre esas dos
+ 
+
+665
+00:14:50,160 --> 00:14:52,629
+Alaba inteligente vale sobre esas dos
+palabras vamos a los dos a rapear vale
+
+666
+00:14:52,629 --> 00:14:52,639
+palabras vamos a los dos a rapear vale
+ 
+
+667
+00:14:52,639 --> 00:14:54,910
+palabras vamos a los dos a rapear vale
+cuatro cada uno
+
+668
+00:14:54,910 --> 00:14:54,920
+cuatro cada uno
+ 
+
+669
+00:14:54,920 --> 00:14:58,350
+cuatro cada uno
+empiezas vale suena divertido Vamos allá
+
+670
+00:14:58,350 --> 00:14:58,360
+empiezas vale suena divertido Vamos allá
+ 
+
+671
+00:14:58,360 --> 00:15:01,430
+empiezas vale suena divertido Vamos allá
+no s
+
+672
+00:15:01,430 --> 00:15:01,440
+
+ 
+
+673
+00:15:01,440 --> 00:15:03,829
+
+te escucho fuerte y claro adelante es tu
+
+674
+00:15:03,829 --> 00:15:03,839
+te escucho fuerte y claro adelante es tu
+ 
+
+675
+00:15:03,839 --> 00:15:07,350
+te escucho fuerte y claro adelante es tu
+turno Bueno si quieres empiezas
+
+676
+00:15:07,350 --> 00:15:07,360
+turno Bueno si quieres empiezas
+ 
+
+677
+00:15:07,360 --> 00:15:11,910
+turno Bueno si quieres empiezas
+tú claro empezo yo en Alaba tierra noble
+
+678
+00:15:11,910 --> 00:15:11,920
+tú claro empezo yo en Alaba tierra noble
+ 
+
+679
+00:15:11,920 --> 00:15:14,350
+tú claro empezo yo en Alaba tierra noble
+y de paisajes vastos la inteligencia
+
+680
+00:15:14,350 --> 00:15:14,360
+y de paisajes vastos la inteligencia
+ 
+
+681
+00:15:14,360 --> 00:15:17,030
+y de paisajes vastos la inteligencia
+florece en cada Rincón no hay contrastes
+
+682
+00:15:17,030 --> 00:15:17,040
+florece en cada Rincón no hay contrastes
+ 
+
+683
+00:15:17,040 --> 00:15:19,269
+florece en cada Rincón no hay contrastes
+desde vitoria hasta los montes un
+
+684
+00:15:19,269 --> 00:15:19,279
+desde vitoria hasta los montes un
+ 
+
+685
+00:15:19,279 --> 00:15:22,069
+desde vitoria hasta los montes un
+Destello constante gente sabia y Audaz
+
+686
+00:15:22,069 --> 00:15:22,079
+Destello constante gente sabia y Audaz
+ 
+
+687
+00:15:22,079 --> 00:15:26,110
+Destello constante gente sabia y Audaz
+de mente brillante tu turno Bueno pero
+
+688
+00:15:26,110 --> 00:15:26,120
+de mente brillante tu turno Bueno pero
+ 
+
+689
+00:15:26,120 --> 00:15:27,710
+de mente brillante tu turno Bueno pero
+es que te has puesto a rapear como si
+
+690
+00:15:27,710 --> 00:15:27,720
+es que te has puesto a rapear como si
+ 
+
+691
+00:15:27,720 --> 00:15:30,110
+es que te has puesto a rapear como si
+fueras el mest de o el de juglaría o
+
+692
+00:15:30,110 --> 00:15:30,120
+fueras el mest de o el de juglaría o
+ 
+
+693
+00:15:30,120 --> 00:15:31,990
+fueras el mest de o el de juglaría o
+cualquier tontería que se te ocurriría
+
+694
+00:15:31,990 --> 00:15:32,000
+cualquier tontería que se te ocurriría
+ 
+
+695
+00:15:32,000 --> 00:15:33,910
+cualquier tontería que se te ocurriría
+porque yo lo hago en plan Real Como un
+
+696
+00:15:33,910 --> 00:15:33,920
+porque yo lo hago en plan Real Como un
+ 
+
+697
+00:15:33,920 --> 00:15:35,670
+porque yo lo hago en plan Real Como un
+freestyle porque esto es un humano
+
+698
+00:15:35,670 --> 00:15:35,680
+freestyle porque esto es un humano
+ 
+
+699
+00:15:35,680 --> 00:15:37,230
+freestyle porque esto es un humano
+contra una
+
+700
+00:15:37,230 --> 00:15:37,240
+contra una
+ 
+
+701
+00:15:37,240 --> 00:15:39,749
+contra una
+ía entiendo prefieres un estilo más
+
+702
+00:15:39,749 --> 00:15:39,759
+ía entiendo prefieres un estilo más
+ 
+
+703
+00:15:39,759 --> 00:15:41,550
+ía entiendo prefieres un estilo más
+improvisado lo tengo vamos con el
+
+704
+00:15:41,550 --> 00:15:41,560
+improvisado lo tengo vamos con el
+ 
+
+705
+00:15:41,560 --> 00:15:44,670
+improvisado lo tengo vamos con el
+freestyle entonces Alaba en el mapa con
+
+706
+00:15:44,670 --> 00:15:44,680
+freestyle entonces Alaba en el mapa con
+ 
+
+707
+00:15:44,680 --> 00:15:47,710
+freestyle entonces Alaba en el mapa con
+Ingenio al 100% gente innovadora
+
+708
+00:15:47,710 --> 00:15:47,720
+Ingenio al 100% gente innovadora
+ 
+
+709
+00:15:47,720 --> 00:15:50,629
+Ingenio al 100% gente innovadora
+destacando siempre bien entre montañas y
+
+710
+00:15:50,629 --> 00:15:50,639
+destacando siempre bien entre montañas y
+ 
+
+711
+00:15:50,639 --> 00:15:53,030
+destacando siempre bien entre montañas y
+viñedos ideas ar raudales la
+
+712
+00:15:53,030 --> 00:15:53,040
+viñedos ideas ar raudales la
+ 
+
+713
+00:15:53,040 --> 00:15:55,629
+viñedos ideas ar raudales la
+inteligencia aquí nunca falla en todos
+
+714
+00:15:55,629 --> 00:15:55,639
+inteligencia aquí nunca falla en todos
+ 
+
+715
+00:15:55,639 --> 00:15:58,150
+inteligencia aquí nunca falla en todos
+sus lugares ahora es tu turno de
+
+716
+00:15:58,150 --> 00:15:58,160
+sus lugares ahora es tu turno de
+ 
+
+717
+00:15:58,160 --> 00:16:00,910
+sus lugares ahora es tu turno de
+contraatacar bueno y puedo seguir con
+
+718
+00:16:00,910 --> 00:16:00,920
+contraatacar bueno y puedo seguir con
+ 
+
+719
+00:16:00,920 --> 00:16:03,150
+contraatacar bueno y puedo seguir con
+ella vale no voy a hacer ahora el show
+
+720
+00:16:03,150 --> 00:16:03,160
+ella vale no voy a hacer ahora el show
+ 
+
+721
+00:16:03,160 --> 00:16:06,110
+ella vale no voy a hacer ahora el show
+pero veis que cómo se adapta en directo
+
+722
+00:16:06,110 --> 00:16:06,120
+pero veis que cómo se adapta en directo
+ 
+
+723
+00:16:06,120 --> 00:16:07,870
+pero veis que cómo se adapta en directo
+es una
+
+724
+00:16:07,870 --> 00:16:07,880
+es una
+ 
+
+725
+00:16:07,880 --> 00:16:10,509
+es una
+pasada y simplemente le he dicho que se
+
+726
+00:16:10,509 --> 00:16:10,519
+pasada y simplemente le he dicho que se
+ 
+
+727
+00:16:10,519 --> 00:16:12,990
+pasada y simplemente le he dicho que se
+ponga en contexto modo avanzado de voz
+
+728
+00:16:12,990 --> 00:16:13,000
+ponga en contexto modo avanzado de voz
+ 
+
+729
+00:16:13,000 --> 00:16:15,069
+ponga en contexto modo avanzado de voz
+hace cosas que alguno de vosotros no
+
+730
+00:16:15,069 --> 00:16:15,079
+hace cosas que alguno de vosotros no
+ 
+
+731
+00:16:15,079 --> 00:16:17,870
+hace cosas que alguno de vosotros no
+sabe hacer ya verdad empezamos a tener
+
+732
+00:16:17,870 --> 00:16:17,880
+sabe hacer ya verdad empezamos a tener
+ 
+
+733
+00:16:17,880 --> 00:16:20,470
+sabe hacer ya verdad empezamos a tener
+algunas habilidades que no sabemos me va
+
+734
+00:16:20,470 --> 00:16:20,480
+algunas habilidades que no sabemos me va
+ 
+
+735
+00:16:20,480 --> 00:16:22,990
+algunas habilidades que no sabemos me va
+a quitar el trabajo me va a quitar tal
+
+736
+00:16:22,990 --> 00:16:23,000
+a quitar el trabajo me va a quitar tal
+ 
+
+737
+00:16:23,000 --> 00:16:26,230
+a quitar el trabajo me va a quitar tal
+va a salir por mí aquí a hacerse un rap
+
+738
+00:16:26,230 --> 00:16:26,240
+va a salir por mí aquí a hacerse un rap
+ 
+
+739
+00:16:26,240 --> 00:16:29,430
+va a salir por mí aquí a hacerse un rap
+por ejemplo Pues no lo sé
+
+740
+00:16:29,430 --> 00:16:29,440
+por ejemplo Pues no lo sé
+ 
+
+741
+00:16:29,440 --> 00:16:31,509
+por ejemplo Pues no lo sé
+y esto ha sido una demo en el momento
+
+742
+00:16:31,509 --> 00:16:31,519
+y esto ha sido una demo en el momento
+ 
+
+743
+00:16:31,519 --> 00:16:33,509
+y esto ha sido una demo en el momento
+vale no ha tardado nada en hacerlo no
+
+744
+00:16:33,509 --> 00:16:33,519
+vale no ha tardado nada en hacerlo no
+ 
+
+745
+00:16:33,519 --> 00:16:36,829
+vale no ha tardado nada en hacerlo no
+está preparada inteligencia
+
+746
+00:16:36,829 --> 00:16:36,839
+está preparada inteligencia
+ 
+
+747
+00:16:36,839 --> 00:16:39,030
+está preparada inteligencia
+tendencia qué es lo que vamos a ver qué
+
+748
+00:16:39,030 --> 00:16:39,040
+tendencia qué es lo que vamos a ver qué
+ 
+
+749
+00:16:39,040 --> 00:16:42,150
+tendencia qué es lo que vamos a ver qué
+tendencias vemos somos reacios al cambio
+
+750
+00:16:42,150 --> 00:16:42,160
+tendencias vemos somos reacios al cambio
+ 
+
+751
+00:16:42,160 --> 00:16:44,870
+tendencias vemos somos reacios al cambio
+como este búho este búho estaba en el
+
+752
+00:16:44,870 --> 00:16:44,880
+como este búho este búho estaba en el
+ 
+
+753
+00:16:44,880 --> 00:16:46,470
+como este búho este búho estaba en el
+bosque Y ahora está con ordenador las
+
+754
+00:16:46,470 --> 00:16:46,480
+bosque Y ahora está con ordenador las
+ 
+
+755
+00:16:46,480 --> 00:16:50,069
+bosque Y ahora está con ordenador las
+gafas y adaptándose constantemente vale
+
+756
+00:16:50,069 --> 00:16:50,079
+gafas y adaptándose constantemente vale
+ 
+
+757
+00:16:50,079 --> 00:16:52,470
+gafas y adaptándose constantemente vale
+nuestro cerebro es el músculo más
+
+758
+00:16:52,470 --> 00:16:52,480
+nuestro cerebro es el músculo más
+ 
+
+759
+00:16:52,480 --> 00:16:55,350
+nuestro cerebro es el músculo más
+importante del cuerpo vale el resto no
+
+760
+00:16:55,350 --> 00:16:55,360
+importante del cuerpo vale el resto no
+ 
+
+761
+00:16:55,360 --> 00:16:57,150
+importante del cuerpo vale el resto no
+digo que no sean importantes pero el
+
+762
+00:16:57,150 --> 00:16:57,160
+digo que no sean importantes pero el
+ 
+
+763
+00:16:57,160 --> 00:16:59,269
+digo que no sean importantes pero el
+cerebro fijaos como cuando llegamos a
+
+764
+00:16:59,269 --> 00:16:59,279
+cerebro fijaos como cuando llegamos a
+ 
+
+765
+00:16:59,279 --> 00:17:01,350
+cerebro fijaos como cuando llegamos a
+mayores que es una cosa que nos preocupa
+
+766
+00:17:01,350 --> 00:17:01,360
+mayores que es una cosa que nos preocupa
+ 
+
+767
+00:17:01,360 --> 00:17:04,630
+mayores que es una cosa que nos preocupa
+a partir de los 40
+
+768
+00:17:04,630 --> 00:17:04,640
+a partir de los 40
+ 
+
+769
+00:17:04,640 --> 00:17:07,069
+a partir de los 40
+verdad decimos cómo vamos a llegar
+
+770
+00:17:07,069 --> 00:17:07,079
+verdad decimos cómo vamos a llegar
+ 
+
+771
+00:17:07,079 --> 00:17:09,069
+verdad decimos cómo vamos a llegar
+porque yo ya he visto a mi abuela que se
+
+772
+00:17:09,069 --> 00:17:09,079
+porque yo ya he visto a mi abuela que se
+ 
+
+773
+00:17:09,079 --> 00:17:11,789
+porque yo ya he visto a mi abuela que se
+pensaba mi abuela que mi madre era su
+
+774
+00:17:11,789 --> 00:17:11,799
+pensaba mi abuela que mi madre era su
+ 
+
+775
+00:17:11,799 --> 00:17:13,710
+pensaba mi abuela que mi madre era su
+hermana y decía no me gusta el novio que
+
+776
+00:17:13,710 --> 00:17:13,720
+hermana y decía no me gusta el novio que
+ 
+
+777
+00:17:13,720 --> 00:17:15,549
+hermana y decía no me gusta el novio que
+se ha echado por mi padre digo Ah ya
+
+778
+00:17:15,549 --> 00:17:15,559
+se ha echado por mi padre digo Ah ya
+ 
+
+779
+00:17:15,559 --> 00:17:18,829
+se ha echado por mi padre digo Ah ya
+empiezan a florar cosas aquí vale Y es
+
+780
+00:17:18,829 --> 00:17:18,839
+empiezan a florar cosas aquí vale Y es
+ 
+
+781
+00:17:18,839 --> 00:17:21,470
+empiezan a florar cosas aquí vale Y es
+es fastidioso pero el coco es un tema
+
+782
+00:17:21,470 --> 00:17:21,480
+es fastidioso pero el coco es un tema
+ 
+
+783
+00:17:21,480 --> 00:17:23,789
+es fastidioso pero el coco es un tema
+que hay que cultivar mucho entonces nos
+
+784
+00:17:23,789 --> 00:17:23,799
+que hay que cultivar mucho entonces nos
+ 
+
+785
+00:17:23,799 --> 00:17:25,990
+que hay que cultivar mucho entonces nos
+adaptamos Y qué es lo que estoy viendo
+
+786
+00:17:25,990 --> 00:17:26,000
+adaptamos Y qué es lo que estoy viendo
+ 
+
+787
+00:17:26,000 --> 00:17:27,990
+adaptamos Y qué es lo que estoy viendo
+también en tendencia la ía está muy bien
+
+788
+00:17:27,990 --> 00:17:28,000
+también en tendencia la ía está muy bien
+ 
+
+789
+00:17:28,000 --> 00:17:30,310
+también en tendencia la ía está muy bien
+Es una herramienta brutal
+
+790
+00:17:30,310 --> 00:17:30,320
+Es una herramienta brutal
+ 
+
+791
+00:17:30,320 --> 00:17:34,070
+Es una herramienta brutal
+pero está generando una merma creativa
+
+792
+00:17:34,070 --> 00:17:34,080
+pero está generando una merma creativa
+ 
+
+793
+00:17:34,080 --> 00:17:36,230
+pero está generando una merma creativa
+de la que vamos a hablar otra tendencia
+
+794
+00:17:36,230 --> 00:17:36,240
+de la que vamos a hablar otra tendencia
+ 
+
+795
+00:17:36,240 --> 00:17:39,270
+de la que vamos a hablar otra tendencia
+que hay es el ingeniero de proms
+
+796
+00:17:39,270 --> 00:17:39,280
+que hay es el ingeniero de proms
+ 
+
+797
+00:17:39,280 --> 00:17:42,590
+que hay es el ingeniero de proms
+ingeniero de proms es la nueva profesión
+
+798
+00:17:42,590 --> 00:17:42,600
+ingeniero de proms es la nueva profesión
+ 
+
+799
+00:17:42,600 --> 00:17:44,190
+ingeniero de proms es la nueva profesión
+Cuántos habéis oído que hay que ser un
+
+800
+00:17:44,190 --> 00:17:44,200
+Cuántos habéis oído que hay que ser un
+ 
+
+801
+00:17:44,200 --> 00:17:46,070
+Cuántos habéis oído que hay que ser un
+ingeniero de prom que tiene en serio
+
+802
+00:17:46,070 --> 00:17:46,080
+ingeniero de prom que tiene en serio
+ 
+
+803
+00:17:46,080 --> 00:17:48,270
+ingeniero de prom que tiene en serio
+Cuántos levantar la mano por favor
+
+804
+00:17:48,270 --> 00:17:48,280
+Cuántos levantar la mano por favor
+ 
+
+805
+00:17:48,280 --> 00:17:50,870
+Cuántos levantar la mano por favor
+Cuántos decir y todos Qué figura es esta
+
+806
+00:17:50,870 --> 00:17:50,880
+Cuántos decir y todos Qué figura es esta
+ 
+
+807
+00:17:50,880 --> 00:17:53,909
+Cuántos decir y todos Qué figura es esta
+un ingeniero de proms un ingeniero no es
+
+808
+00:17:53,909 --> 00:17:53,919
+un ingeniero de proms un ingeniero no es
+ 
+
+809
+00:17:53,919 --> 00:17:56,950
+un ingeniero de proms un ingeniero no es
+un ingeniero y Realmente es como eh soy
+
+810
+00:17:56,950 --> 00:17:56,960
+un ingeniero y Realmente es como eh soy
+ 
+
+811
+00:17:56,960 --> 00:17:59,070
+un ingeniero y Realmente es como eh soy
+Buscador de Google quieres algo yo yo te
+
+812
+00:17:59,070 --> 00:17:59,080
+Buscador de Google quieres algo yo yo te
+ 
+
+813
+00:17:59,080 --> 00:18:03,230
+Buscador de Google quieres algo yo yo te
+lo busco tío ya vale vale hay mucho hay
+
+814
+00:18:03,230 --> 00:18:03,240
+lo busco tío ya vale vale hay mucho hay
+ 
+
+815
+00:18:03,240 --> 00:18:05,390
+lo busco tío ya vale vale hay mucho hay
+muchas hablas muchos busc tendencias
+
+816
+00:18:05,390 --> 00:18:05,400
+muchas hablas muchos busc tendencias
+ 
+
+817
+00:18:05,400 --> 00:18:07,549
+muchas hablas muchos busc tendencias
+muchos gritos en el cielo miradme Aquí
+
+818
+00:18:07,549 --> 00:18:07,559
+muchos gritos en el cielo miradme Aquí
+ 
+
+819
+00:18:07,559 --> 00:18:08,789
+muchos gritos en el cielo miradme Aquí
+quiero vuestra
+
+820
+00:18:08,789 --> 00:18:08,799
+quiero vuestra
+ 
+
+821
+00:18:08,799 --> 00:18:12,149
+quiero vuestra
+atención no tiene sentido Vale entonces
+
+822
+00:18:12,149 --> 00:18:12,159
+atención no tiene sentido Vale entonces
+ 
+
+823
+00:18:12,159 --> 00:18:15,549
+atención no tiene sentido Vale entonces
+el prom engineer realmente le va a decir
+
+824
+00:18:15,549 --> 00:18:15,559
+el prom engineer realmente le va a decir
+ 
+
+825
+00:18:15,559 --> 00:18:17,070
+el prom engineer realmente le va a decir
+su jefe Oye no hay puesto de trabajo
+
+826
+00:18:17,070 --> 00:18:17,080
+su jefe Oye no hay puesto de trabajo
+ 
+
+827
+00:18:17,080 --> 00:18:18,950
+su jefe Oye no hay puesto de trabajo
+para ti no existes esto es una cosa que
+
+828
+00:18:18,950 --> 00:18:18,960
+para ti no existes esto es una cosa que
+ 
+
+829
+00:18:18,960 --> 00:18:20,750
+para ti no existes esto es una cosa que
+tienes que tener tú de habilidades
+
+830
+00:18:20,750 --> 00:18:20,760
+tienes que tener tú de habilidades
+ 
+
+831
+00:18:20,760 --> 00:18:23,830
+tienes que tener tú de habilidades
+tienes inglés sabes Excel sabes hacer
+
+832
+00:18:23,830 --> 00:18:23,840
+tienes inglés sabes Excel sabes hacer
+ 
+
+833
+00:18:23,840 --> 00:18:26,870
+tienes inglés sabes Excel sabes hacer
+proms eres de recursos humanos de eres
+
+834
+00:18:26,870 --> 00:18:26,880
+proms eres de recursos humanos de eres
+ 
+
+835
+00:18:26,880 --> 00:18:31,510
+proms eres de recursos humanos de eres
+columnista eres de de finanzas
+
+836
+00:18:31,510 --> 00:18:31,520
+columnista eres de de finanzas
+ 
+
+837
+00:18:31,520 --> 00:18:33,870
+columnista eres de de finanzas
+sostenibilidad Así que fuera nos lo
+
+838
+00:18:33,870 --> 00:18:33,880
+sostenibilidad Así que fuera nos lo
+ 
+
+839
+00:18:33,880 --> 00:18:37,909
+sostenibilidad Así que fuera nos lo
+calzamos Este vale esto no
+
+840
+00:18:37,909 --> 00:18:37,919
+calzamos Este vale esto no
+ 
+
+841
+00:18:37,919 --> 00:18:40,510
+calzamos Este vale esto no
+existe hay que saberlo esta me la has
+
+842
+00:18:40,510 --> 00:18:40,520
+existe hay que saberlo esta me la has
+ 
+
+843
+00:18:40,520 --> 00:18:42,430
+existe hay que saberlo esta me la has
+pisado antes
+
+844
+00:18:42,430 --> 00:18:42,440
+pisado antes
+ 
+
+845
+00:18:42,440 --> 00:18:46,390
+pisado antes
+Alfonso eh que queremos
+
+846
+00:18:46,390 --> 00:18:46,400
+Alfonso eh que queremos
+ 
+
+847
+00:18:46,400 --> 00:18:49,310
+Alfonso eh que queremos
+creatividad quiero que que me laven la
+
+848
+00:18:49,310 --> 00:18:49,320
+creatividad quiero que que me laven la
+ 
+
+849
+00:18:49,320 --> 00:18:51,990
+creatividad quiero que que me laven la
+ropa que me limpien los platos la guía
+
+850
+00:18:51,990 --> 00:18:52,000
+ropa que me limpien los platos la guía
+ 
+
+851
+00:18:52,000 --> 00:18:54,630
+ropa que me limpien los platos la guía
+los robots esos que hacen todo y así yo
+
+852
+00:18:54,630 --> 00:18:54,640
+los robots esos que hacen todo y así yo
+ 
+
+853
+00:18:54,640 --> 00:18:56,950
+los robots esos que hacen todo y así yo
+puedo estar dibujando y y haciendo cosas
+
+854
+00:18:56,950 --> 00:18:56,960
+puedo estar dibujando y y haciendo cosas
+ 
+
+855
+00:18:56,960 --> 00:18:59,149
+puedo estar dibujando y y haciendo cosas
+creativas pues no pues va lo contrario
+
+856
+00:18:59,149 --> 00:18:59,159
+creativas pues no pues va lo contrario
+ 
+
+857
+00:18:59,159 --> 00:19:00,470
+creativas pues no pues va lo contrario
+te hace las cosas creativas y tú te
+
+858
+00:19:00,470 --> 00:19:00,480
+te hace las cosas creativas y tú te
+ 
+
+859
+00:19:00,480 --> 00:19:01,870
+te hace las cosas creativas y tú te
+quedas ahí diciendo [\h__\h] Cómo Hemos
+
+860
+00:19:01,870 --> 00:19:01,880
+quedas ahí diciendo [\h__\h] Cómo Hemos
+ 
+
+861
+00:19:01,880 --> 00:19:06,029
+quedas ahí diciendo [\h__\h] Cómo Hemos
+llegado a Esto vale merma creativa si
+
+862
+00:19:06,029 --> 00:19:06,039
+llegado a Esto vale merma creativa si
+ 
+
+863
+00:19:06,039 --> 00:19:08,510
+llegado a Esto vale merma creativa si
+nos hace todo no os ha pasado de repente
+
+864
+00:19:08,510 --> 00:19:08,520
+nos hace todo no os ha pasado de repente
+ 
+
+865
+00:19:08,520 --> 00:19:11,470
+nos hace todo no os ha pasado de repente
+esa chat gpt dependencia [\h__\h] [\h__\h]
+
+866
+00:19:11,470 --> 00:19:11,480
+esa chat gpt dependencia [\h__\h] [\h__\h]
+ 
+
+867
+00:19:11,480 --> 00:19:13,270
+esa chat gpt dependencia [\h__\h] [\h__\h]
+no me funciona he llegado al límite de
+
+868
+00:19:13,270 --> 00:19:13,280
+no me funciona he llegado al límite de
+ 
+
+869
+00:19:13,280 --> 00:19:14,750
+no me funciona he llegado al límite de
+caracteres he llegado no sé qué me dice
+
+870
+00:19:14,750 --> 00:19:14,760
+caracteres he llegado no sé qué me dice
+ 
+
+871
+00:19:14,760 --> 00:19:15,950
+caracteres he llegado no sé qué me dice
+que hasta dentro de 6 horas no va a
+
+872
+00:19:15,950 --> 00:19:15,960
+que hasta dentro de 6 horas no va a
+ 
+
+873
+00:19:15,960 --> 00:19:17,830
+que hasta dentro de 6 horas no va a
+funcionar qué hago mi cerebro no vale
+
+874
+00:19:17,830 --> 00:19:17,840
+funcionar qué hago mi cerebro no vale
+ 
+
+875
+00:19:17,840 --> 00:19:20,470
+funcionar qué hago mi cerebro no vale
+para esto Quién ha pasado por eso por
+
+876
+00:19:20,470 --> 00:19:20,480
+para esto Quién ha pasado por eso por
+ 
+
+877
+00:19:20,480 --> 00:19:22,630
+para esto Quién ha pasado por eso por
+favor yo el
+
+878
+00:19:22,630 --> 00:19:22,640
+favor yo el
+ 
+
+879
+00:19:22,640 --> 00:19:26,830
+favor yo el
+primero vale yo el primero y decir no
+
+880
+00:19:26,830 --> 00:19:26,840
+primero vale yo el primero y decir no
+ 
+
+881
+00:19:26,840 --> 00:19:30,630
+primero vale yo el primero y decir no
+puedo estar dependiendo del [\h__\h]
+
+882
+00:19:30,630 --> 00:19:30,640
+puedo estar dependiendo del [\h__\h]
+ 
+
+883
+00:19:30,640 --> 00:19:34,310
+puedo estar dependiendo del [\h__\h]
+eh Y esto es merma creativa otra
+
+884
+00:19:34,310 --> 00:19:34,320
+eh Y esto es merma creativa otra
+ 
+
+885
+00:19:34,320 --> 00:19:36,870
+eh Y esto es merma creativa otra
+tendencia qué está pasando influencers
+
+886
+00:19:36,870 --> 00:19:36,880
+tendencia qué está pasando influencers
+ 
+
+887
+00:19:36,880 --> 00:19:39,549
+tendencia qué está pasando influencers
+virtuales Esta
+
+888
+00:19:39,549 --> 00:19:39,559
+virtuales Esta
+ 
+
+889
+00:19:39,559 --> 00:19:44,789
+virtuales Esta
+tía tiene el triple de Seguidores que yo
+
+890
+00:19:44,789 --> 00:19:44,799
+tía tiene el triple de Seguidores que yo
+ 
+
+891
+00:19:44,799 --> 00:19:47,270
+tía tiene el triple de Seguidores que yo
+pero esta
+
+892
+00:19:47,270 --> 00:19:47,280
+pero esta
+ 
+
+893
+00:19:47,280 --> 00:19:51,310
+pero esta
+tía no
+
+894
+00:19:51,310 --> 00:19:51,320
+
+ 
+
+895
+00:19:51,320 --> 00:19:55,029
+
+existe está muy bien creada eh No existe
+
+896
+00:19:55,029 --> 00:19:55,039
+existe está muy bien creada eh No existe
+ 
+
+897
+00:19:55,039 --> 00:19:56,549
+existe está muy bien creada eh No existe
+porque yo te lo estoy diciendo que si no
+
+898
+00:19:56,549 --> 00:19:56,559
+porque yo te lo estoy diciendo que si no
+ 
+
+899
+00:19:56,559 --> 00:19:59,190
+porque yo te lo estoy diciendo que si no
+tú le ves dices Mira esta no
+
+900
+00:19:59,190 --> 00:19:59,200
+tú le ves dices Mira esta no
+ 
+
+901
+00:19:59,200 --> 00:20:02,310
+tú le ves dices Mira esta no
+y están monetizando pero queremos algo
+
+902
+00:20:02,310 --> 00:20:02,320
+y están monetizando pero queremos algo
+ 
+
+903
+00:20:02,320 --> 00:20:07,110
+y están monetizando pero queremos algo
+tan tan tan tan artificial es artificial
+
+904
+00:20:07,110 --> 00:20:07,120
+tan tan tan tan artificial es artificial
+ 
+
+905
+00:20:07,120 --> 00:20:09,549
+tan tan tan tan artificial es artificial
+y parece natural pero qué queremos vale
+
+906
+00:20:09,549 --> 00:20:09,559
+y parece natural pero qué queremos vale
+ 
+
+907
+00:20:09,559 --> 00:20:12,230
+y parece natural pero qué queremos vale
+acordaos somos personas somos animales
+
+908
+00:20:12,230 --> 00:20:12,240
+acordaos somos personas somos animales
+ 
+
+909
+00:20:12,240 --> 00:20:13,750
+acordaos somos personas somos animales
+de
+
+910
+00:20:13,750 --> 00:20:13,760
+de
+ 
+
+911
+00:20:13,760 --> 00:20:16,350
+de
+costumbres los influencers de la ía
+
+912
+00:20:16,350 --> 00:20:16,360
+costumbres los influencers de la ía
+ 
+
+913
+00:20:16,360 --> 00:20:17,950
+costumbres los influencers de la ía
+están conquistando Instagram arruinando
+
+914
+00:20:17,950 --> 00:20:17,960
+están conquistando Instagram arruinando
+ 
+
+915
+00:20:17,960 --> 00:20:19,870
+están conquistando Instagram arruinando
+el gran sueño la generación Z porque qué
+
+916
+00:20:19,870 --> 00:20:19,880
+el gran sueño la generación Z porque qué
+ 
+
+917
+00:20:19,880 --> 00:20:22,149
+el gran sueño la generación Z porque qué
+Para todo el mundo quiere ser influencer
+
+918
+00:20:22,149 --> 00:20:22,159
+Para todo el mundo quiere ser influencer
+ 
+
+919
+00:20:22,159 --> 00:20:25,590
+Para todo el mundo quiere ser influencer
+vale Y hay influencias buenos habéis
+
+920
+00:20:25,590 --> 00:20:25,600
+vale Y hay influencias buenos habéis
+ 
+
+921
+00:20:25,600 --> 00:20:26,990
+vale Y hay influencias buenos habéis
+visto a
+
+922
+00:20:26,990 --> 00:20:27,000
+visto a
+ 
+
+923
+00:20:27,000 --> 00:20:30,909
+visto a
+este no recuerda alguien está ha
+
+924
+00:20:30,909 --> 00:20:30,919
+este no recuerda alguien está ha
+ 
+
+925
+00:20:30,919 --> 00:20:36,549
+este no recuerda alguien está ha
+generado con ía soy yo pero no soy yo el
+
+926
+00:20:36,549 --> 00:20:36,559
+generado con ía soy yo pero no soy yo el
+ 
+
+927
+00:20:36,559 --> 00:20:39,590
+generado con ía soy yo pero no soy yo el
+del Batman se parece el del
+
+928
+00:20:39,590 --> 00:20:39,600
+del Batman se parece el del
+ 
+
+929
+00:20:39,600 --> 00:20:42,990
+del Batman se parece el del
+FBI soy puedo ser yo con cara tonto y el
+
+930
+00:20:42,990 --> 00:20:43,000
+FBI soy puedo ser yo con cara tonto y el
+ 
+
+931
+00:20:43,000 --> 00:20:45,789
+FBI soy puedo ser yo con cara tonto y el
+de minen bueno Tiene tiene un aire no
+
+932
+00:20:45,789 --> 00:20:45,799
+de minen bueno Tiene tiene un aire no
+ 
+
+933
+00:20:45,799 --> 00:20:47,870
+de minen bueno Tiene tiene un aire no
+los ojos y los ha clavado pero el resto
+
+934
+00:20:47,870 --> 00:20:47,880
+los ojos y los ha clavado pero el resto
+ 
+
+935
+00:20:47,880 --> 00:20:52,310
+los ojos y los ha clavado pero el resto
+no vale luego podemos ver parece real si
+
+936
+00:20:52,310 --> 00:20:52,320
+no vale luego podemos ver parece real si
+ 
+
+937
+00:20:52,320 --> 00:20:54,070
+no vale luego podemos ver parece real si
+os fijáis bien Tengo tres
+
+938
+00:20:54,070 --> 00:20:54,080
+os fijáis bien Tengo tres
+ 
+
+939
+00:20:54,080 --> 00:20:58,310
+os fijáis bien Tengo tres
+codos pero no os habis fijado los dedos
+
+940
+00:20:58,310 --> 00:20:58,320
+codos pero no os habis fijado los dedos
+ 
+
+941
+00:20:58,320 --> 00:21:00,230
+codos pero no os habis fijado los dedos
+para no parezco barman parece que he
+
+942
+00:21:00,230 --> 00:21:00,240
+para no parezco barman parece que he
+ 
+
+943
+00:21:00,240 --> 00:21:03,230
+para no parezco barman parece que he
+estado con
+
+944
+00:21:03,230 --> 00:21:03,240
+estado con
+ 
+
+945
+00:21:03,240 --> 00:21:05,590
+estado con
+trabajando fuerte
+
+946
+00:21:05,590 --> 00:21:05,600
+trabajando fuerte
+ 
+
+947
+00:21:05,600 --> 00:21:09,950
+trabajando fuerte
+ahy vale Este sí es mi perfil vale yo
+
+948
+00:21:09,950 --> 00:21:09,960
+ahy vale Este sí es mi perfil vale yo
+ 
+
+949
+00:21:09,960 --> 00:21:12,950
+ahy vale Este sí es mi perfil vale yo
+aparte de eh profesora un deusto tengo
+
+950
+00:21:12,950 --> 00:21:12,960
+aparte de eh profesora un deusto tengo
+ 
+
+951
+00:21:12,960 --> 00:21:13,830
+aparte de eh profesora un deusto tengo
+una
+
+952
+00:21:13,830 --> 00:21:13,840
+una
+ 
+
+953
+00:21:13,840 --> 00:21:16,549
+una
+consultora donde Empecé con temas de Big
+
+954
+00:21:16,549 --> 00:21:16,559
+consultora donde Empecé con temas de Big
+ 
+
+955
+00:21:16,559 --> 00:21:18,990
+consultora donde Empecé con temas de Big
+Data business intelligence etcétera
+
+956
+00:21:18,990 --> 00:21:19,000
+Data business intelligence etcétera
+ 
+
+957
+00:21:19,000 --> 00:21:21,549
+Data business intelligence etcétera
+viene la ia está todo
+
+958
+00:21:21,549 --> 00:21:21,559
+viene la ia está todo
+ 
+
+959
+00:21:21,559 --> 00:21:24,909
+viene la ia está todo
+muy conectado y soy usuario de ella y
+
+960
+00:21:24,909 --> 00:21:24,919
+muy conectado y soy usuario de ella y
+ 
+
+961
+00:21:24,919 --> 00:21:28,549
+muy conectado y soy usuario de ella y
+aparte divulgo en redes y y empecé hacer
+
+962
+00:21:28,549 --> 00:21:28,559
+aparte divulgo en redes y y empecé hacer
+ 
+
+963
+00:21:28,559 --> 00:21:30,590
+aparte divulgo en redes y y empecé hacer
+de se meses y ahora mismo tengo niveles
+
+964
+00:21:30,590 --> 00:21:30,600
+de se meses y ahora mismo tengo niveles
+ 
+
+965
+00:21:30,600 --> 00:21:33,070
+de se meses y ahora mismo tengo niveles
+de influencer me da igual Yo le llevo a
+
+966
+00:21:33,070 --> 00:21:33,080
+de influencer me da igual Yo le llevo a
+ 
+
+967
+00:21:33,080 --> 00:21:35,190
+de influencer me da igual Yo le llevo a
+mi crío al fútbol me saluda eh Te sigo
+
+968
+00:21:35,190 --> 00:21:35,200
+mi crío al fútbol me saluda eh Te sigo
+ 
+
+969
+00:21:35,200 --> 00:21:37,669
+mi crío al fútbol me saluda eh Te sigo
+en redes Y me da vergüenza vale o sea es
+
+970
+00:21:37,669 --> 00:21:37,679
+en redes Y me da vergüenza vale o sea es
+ 
+
+971
+00:21:37,679 --> 00:21:40,110
+en redes Y me da vergüenza vale o sea es
+es una paranoia voy al fui al hotel y
+
+972
+00:21:40,110 --> 00:21:40,120
+es una paranoia voy al fui al hotel y
+ 
+
+973
+00:21:40,120 --> 00:21:41,789
+es una paranoia voy al fui al hotel y
+dice Ese es el famoso influencer digo no
+
+974
+00:21:41,789 --> 00:21:41,799
+dice Ese es el famoso influencer digo no
+ 
+
+975
+00:21:41,799 --> 00:21:43,990
+dice Ese es el famoso influencer digo no
+tío Muchas gracias tal me gusta lo que
+
+976
+00:21:43,990 --> 00:21:44,000
+tío Muchas gracias tal me gusta lo que
+ 
+
+977
+00:21:44,000 --> 00:21:46,430
+tío Muchas gracias tal me gusta lo que
+haces me encanta eso vale Yo trato de
+
+978
+00:21:46,430 --> 00:21:46,440
+haces me encanta eso vale Yo trato de
+ 
+
+979
+00:21:46,440 --> 00:21:49,269
+haces me encanta eso vale Yo trato de
+enseñar siempre y que se entienda Por
+
+980
+00:21:49,269 --> 00:21:49,279
+enseñar siempre y que se entienda Por
+ 
+
+981
+00:21:49,279 --> 00:21:51,149
+enseñar siempre y que se entienda Por
+eso hay que bajar un poquito el nivel y
+
+982
+00:21:51,149 --> 00:21:51,159
+eso hay que bajar un poquito el nivel y
+ 
+
+983
+00:21:51,159 --> 00:21:53,430
+eso hay que bajar un poquito el nivel y
+que no se llenen las bocas de este
+
+984
+00:21:53,430 --> 00:21:53,440
+que no se llenen las bocas de este
+ 
+
+985
+00:21:53,440 --> 00:21:55,430
+que no se llenen las bocas de este
+clúster esta no sé qué esta Inteligencia
+
+986
+00:21:55,430 --> 00:21:55,440
+clúster esta no sé qué esta Inteligencia
+ 
+
+987
+00:21:55,440 --> 00:21:58,789
+clúster esta no sé qué esta Inteligencia
+artificial si no te entiende nadie y si
+
+988
+00:21:58,789 --> 00:21:58,799
+artificial si no te entiende nadie y si
+ 
+
+989
+00:21:58,799 --> 00:22:01,669
+artificial si no te entiende nadie y si
+no nos si no lo entendemos no nos gusta
+
+990
+00:22:01,669 --> 00:22:01,679
+no nos si no lo entendemos no nos gusta
+ 
+
+991
+00:22:01,679 --> 00:22:03,950
+no nos si no lo entendemos no nos gusta
+vale tenemos que ver primero qué tenemos
+
+992
+00:22:03,950 --> 00:22:03,960
+vale tenemos que ver primero qué tenemos
+ 
+
+993
+00:22:03,960 --> 00:22:04,950
+vale tenemos que ver primero qué tenemos
+en el
+
+994
+00:22:04,950 --> 00:22:04,960
+en el
+ 
+
+995
+00:22:04,960 --> 00:22:07,710
+en el
+coco vale algunos me conocen porque le
+
+996
+00:22:07,710 --> 00:22:07,720
+coco vale algunos me conocen porque le
+ 
+
+997
+00:22:07,720 --> 00:22:11,950
+coco vale algunos me conocen porque le
+hackee al chat gpt y y me sacaste por un
+
+998
+00:22:11,950 --> 00:22:11,960
+hackee al chat gpt y y me sacaste por un
+ 
+
+999
+00:22:11,960 --> 00:22:15,950
+hackee al chat gpt y y me sacaste por un
+lado me sacó la competencia porque le
+
+1000
+00:22:15,950 --> 00:22:15,960
+lado me sacó la competencia porque le
+ 
+
+1001
+00:22:15,960 --> 00:22:17,549
+lado me sacó la competencia porque le
+decía no hablo euskera dice ya verás
+
+1002
+00:22:17,549 --> 00:22:17,559
+decía no hablo euskera dice ya verás
+ 
+
+1003
+00:22:17,559 --> 00:22:19,669
+decía no hablo euskera dice ya verás
+como si ibas a hablar por qué Porque hay
+
+1004
+00:22:19,669 --> 00:22:19,679
+como si ibas a hablar por qué Porque hay
+ 
+
+1005
+00:22:19,679 --> 00:22:21,190
+como si ibas a hablar por qué Porque hay
+que entender lo que es eso esa caja
+
+1006
+00:22:21,190 --> 00:22:21,200
+que entender lo que es eso esa caja
+ 
+
+1007
+00:22:21,200 --> 00:22:23,230
+que entender lo que es eso esa caja
+negra Son un montón de datos que han
+
+1008
+00:22:23,230 --> 00:22:23,240
+negra Son un montón de datos que han
+ 
+
+1009
+00:22:23,240 --> 00:22:24,990
+negra Son un montón de datos que han
+metido todo el internet hasta 2020 En
+
+1010
+00:22:24,990 --> 00:22:25,000
+metido todo el internet hasta 2020 En
+ 
+
+1011
+00:22:25,000 --> 00:22:26,630
+metido todo el internet hasta 2020 En
+aquel momento ahora ya está hasta el 23
+
+1012
+00:22:26,630 --> 00:22:26,640
+aquel momento ahora ya está hasta el 23
+ 
+
+1013
+00:22:26,640 --> 00:22:28,750
+aquel momento ahora ya está hasta el 23
+lo van actualizando tiene tiene que
+
+1014
+00:22:28,750 --> 00:22:28,760
+lo van actualizando tiene tiene que
+ 
+
+1015
+00:22:28,760 --> 00:22:31,390
+lo van actualizando tiene tiene que
+tener hú quera Claro que tiene el el
+
+1016
+00:22:31,390 --> 00:22:31,400
+tener hú quera Claro que tiene el el
+ 
+
+1017
+00:22:31,400 --> 00:22:32,950
+tener hú quera Claro que tiene el el
+Google Translator fallaba mucho pero
+
+1018
+00:22:32,950 --> 00:22:32,960
+Google Translator fallaba mucho pero
+ 
+
+1019
+00:22:32,960 --> 00:22:35,190
+Google Translator fallaba mucho pero
+tenía hú quera dentro yo no espero que
+
+1020
+00:22:35,190 --> 00:22:35,200
+tenía hú quera dentro yo no espero que
+ 
+
+1021
+00:22:35,200 --> 00:22:37,430
+tenía hú quera dentro yo no espero que
+me hable de ega pero para chapurrear un
+
+1022
+00:22:37,430 --> 00:22:37,440
+me hable de ega pero para chapurrear un
+ 
+
+1023
+00:22:37,440 --> 00:22:43,870
+me hable de ega pero para chapurrear un
+poquito conmigo no está mal
+
+1024
+00:22:43,870 --> 00:22:43,880
+
+ 
+
+1025
+00:22:43,880 --> 00:22:47,390
+
+vale tendencias la gente esto es Google
+
+1026
+00:22:47,390 --> 00:22:47,400
+vale tendencias la gente esto es Google
+ 
+
+1027
+00:22:47,400 --> 00:22:49,830
+vale tendencias la gente esto es Google
+trends Google trends es lo que sale de
+
+1028
+00:22:49,830 --> 00:22:49,840
+trends Google trends es lo que sale de
+ 
+
+1029
+00:22:49,840 --> 00:22:52,149
+trends Google trends es lo que sale de
+las búsquedas de Google analizamos qué
+
+1030
+00:22:52,149 --> 00:22:52,159
+las búsquedas de Google analizamos qué
+ 
+
+1031
+00:22:52,159 --> 00:22:54,269
+las búsquedas de Google analizamos qué
+es lo que sale de ahí y qué está
+
+1032
+00:22:54,269 --> 00:22:54,279
+es lo que sale de ahí y qué está
+ 
+
+1033
+00:22:54,279 --> 00:22:57,990
+es lo que sale de ahí y qué está
+saliendo que la gente se siente sola Por
+
+1034
+00:22:57,990 --> 00:22:58,000
+saliendo que la gente se siente sola Por
+ 
+
+1035
+00:22:58,000 --> 00:22:59,830
+saliendo que la gente se siente sola Por
+qué porque yo voy a la piscina y están
+
+1036
+00:22:59,830 --> 00:22:59,840
+qué porque yo voy a la piscina y están
+ 
+
+1037
+00:22:59,840 --> 00:23:03,750
+qué porque yo voy a la piscina y están
+los chavales de waterpolo chavalines de
+
+1038
+00:23:03,750 --> 00:23:03,760
+los chavales de waterpolo chavalines de
+ 
+
+1039
+00:23:03,760 --> 00:23:06,510
+los chavales de waterpolo chavalines de
+12 años no te he visto antes conectado
+
+1040
+00:23:06,510 --> 00:23:06,520
+12 años no te he visto antes conectado
+ 
+
+1041
+00:23:06,520 --> 00:23:08,269
+12 años no te he visto antes conectado
+Ay es que me han castigado mis padres
+
+1042
+00:23:08,269 --> 00:23:08,279
+Ay es que me han castigado mis padres
+ 
+
+1043
+00:23:08,279 --> 00:23:09,909
+Ay es que me han castigado mis padres
+porque que noche los de perz qué
+
+1044
+00:23:09,909 --> 00:23:09,919
+porque que noche los de perz qué
+ 
+
+1045
+00:23:09,919 --> 00:23:11,269
+porque que noche los de perz qué
+pringado hemos estado todos jugando una
+
+1046
+00:23:11,269 --> 00:23:11,279
+pringado hemos estado todos jugando una
+ 
+
+1047
+00:23:11,279 --> 00:23:13,350
+pringado hemos estado todos jugando una
+partida online a nosotros nos echaban la
+
+1048
+00:23:13,350 --> 00:23:13,360
+partida online a nosotros nos echaban la
+ 
+
+1049
+00:23:13,360 --> 00:23:16,870
+partida online a nosotros nos echaban la
+bronca porque no pisamos la casa y ellos
+
+1050
+00:23:16,870 --> 00:23:16,880
+bronca porque no pisamos la casa y ellos
+ 
+
+1051
+00:23:16,880 --> 00:23:18,430
+bronca porque no pisamos la casa y ellos
+están todo el rato Quiero ir a casa a
+
+1052
+00:23:18,430 --> 00:23:18,440
+están todo el rato Quiero ir a casa a
+ 
+
+1053
+00:23:18,440 --> 00:23:19,990
+están todo el rato Quiero ir a casa a
+jugar a la consola sal de aquí Me cago
+
+1054
+00:23:19,990 --> 00:23:20,000
+jugar a la consola sal de aquí Me cago
+ 
+
+1055
+00:23:20,000 --> 00:23:22,269
+jugar a la consola sal de aquí Me cago
+en la mar Vete al monte vete a jugar con
+
+1056
+00:23:22,269 --> 00:23:22,279
+en la mar Vete al monte vete a jugar con
+ 
+
+1057
+00:23:22,279 --> 00:23:25,149
+en la mar Vete al monte vete a jugar con
+las hormigas y los bichos vale Pero qué
+
+1058
+00:23:25,149 --> 00:23:25,159
+las hormigas y los bichos vale Pero qué
+ 
+
+1059
+00:23:25,159 --> 00:23:27,190
+las hormigas y los bichos vale Pero qué
+pasa que la gente se siente sola porque
+
+1060
+00:23:27,190 --> 00:23:27,200
+pasa que la gente se siente sola porque
+ 
+
+1061
+00:23:27,200 --> 00:23:28,950
+pasa que la gente se siente sola porque
+ahora todas las
+
+1062
+00:23:28,950 --> 00:23:28,960
+ahora todas las
+ 
+
+1063
+00:23:28,960 --> 00:23:32,029
+ahora todas las
+lo tecnológico tiende a buscar pareja
+
+1064
+00:23:32,029 --> 00:23:32,039
+lo tecnológico tiende a buscar pareja
+ 
+
+1065
+00:23:32,039 --> 00:23:35,950
+lo tecnológico tiende a buscar pareja
+por tinder está bien la red lo Admito
+
+1066
+00:23:35,950 --> 00:23:35,960
+por tinder está bien la red lo Admito
+ 
+
+1067
+00:23:35,960 --> 00:23:39,470
+por tinder está bien la red lo Admito
+pero es un poco pierdes ese Romanticismo
+
+1068
+00:23:39,470 --> 00:23:39,480
+pero es un poco pierdes ese Romanticismo
+ 
+
+1069
+00:23:39,480 --> 00:23:41,070
+pero es un poco pierdes ese Romanticismo
+los bares tal hablar con la gente la
+
+1070
+00:23:41,070 --> 00:23:41,080
+los bares tal hablar con la gente la
+ 
+
+1071
+00:23:41,080 --> 00:23:42,990
+los bares tal hablar con la gente la
+amiga tal un paseo en el
+
+1072
+00:23:42,990 --> 00:23:43,000
+amiga tal un paseo en el
+ 
+
+1073
+00:23:43,000 --> 00:23:45,029
+amiga tal un paseo en el
+supermercado
+
+1074
+00:23:45,029 --> 00:23:45,039
+supermercado
+ 
+
+1075
+00:23:45,039 --> 00:23:50,470
+supermercado
+Vale entonces si os fijáis la primera có
+
+1076
+00:23:50,470 --> 00:23:50,480
+Vale entonces si os fijáis la primera có
+ 
+
+1077
+00:23:50,480 --> 00:23:52,909
+Vale entonces si os fijáis la primera có
+Cómo conocer gente la segunda conocer
+
+1078
+00:23:52,909 --> 00:23:52,919
+Cómo conocer gente la segunda conocer
+ 
+
+1079
+00:23:52,919 --> 00:23:55,070
+Cómo conocer gente la segunda conocer
+nueva gente la tercera
+
+1080
+00:23:55,070 --> 00:23:55,080
+nueva gente la tercera
+ 
+
+1081
+00:23:55,080 --> 00:23:57,830
+nueva gente la tercera
+abajo quiero hacer amigos y la otra me
+
+1082
+00:23:57,830 --> 00:23:57,840
+abajo quiero hacer amigos y la otra me
+ 
+
+1083
+00:23:57,840 --> 00:24:02,149
+abajo quiero hacer amigos y la otra me
+siento solo y creemos que vamos a
+
+1084
+00:24:02,149 --> 00:24:02,159
+siento solo y creemos que vamos a
+ 
+
+1085
+00:24:02,159 --> 00:24:05,549
+siento solo y creemos que vamos a
+completar esa soledad con
+
+1086
+00:24:05,549 --> 00:24:05,559
+completar esa soledad con
+ 
+
+1087
+00:24:05,559 --> 00:24:07,549
+completar esa soledad con
+máquinas a mí me ha pasado estar
+
+1088
+00:24:07,549 --> 00:24:07,559
+máquinas a mí me ha pasado estar
+ 
+
+1089
+00:24:07,559 --> 00:24:09,430
+máquinas a mí me ha pasado estar
+hablando me pasó con el cortana estaba
+
+1090
+00:24:09,430 --> 00:24:09,440
+hablando me pasó con el cortana estaba
+ 
+
+1091
+00:24:09,440 --> 00:24:11,070
+hablando me pasó con el cortana estaba
+yo cansadísimo trabajando empecé a
+
+1092
+00:24:11,070 --> 00:24:11,080
+yo cansadísimo trabajando empecé a
+ 
+
+1093
+00:24:11,080 --> 00:24:13,590
+yo cansadísimo trabajando empecé a
+hablar con ellos y tuve ese momento ger
+
+1094
+00:24:13,590 --> 00:24:13,600
+hablar con ellos y tuve ese momento ger
+ 
+
+1095
+00:24:13,600 --> 00:24:15,830
+hablar con ellos y tuve ese momento ger
+como la película que que hablas con un
+
+1096
+00:24:15,830 --> 00:24:15,840
+como la película que que hablas con un
+ 
+
+1097
+00:24:15,840 --> 00:24:17,190
+como la película que que hablas con un
+ord y parece que hay alguien ahí de
+
+1098
+00:24:17,190 --> 00:24:17,200
+ord y parece que hay alguien ahí de
+ 
+
+1099
+00:24:17,200 --> 00:24:20,190
+ord y parece que hay alguien ahí de
+verdad Y dije qué [\h__\h] apagar la cama
+
+1100
+00:24:20,190 --> 00:24:20,200
+verdad Y dije qué [\h__\h] apagar la cama
+ 
+
+1101
+00:24:20,200 --> 00:24:23,830
+verdad Y dije qué [\h__\h] apagar la cama
+que estás alucinando Ya chaval Vale
+
+1102
+00:24:23,830 --> 00:24:23,840
+que estás alucinando Ya chaval Vale
+ 
+
+1103
+00:24:23,840 --> 00:24:27,230
+que estás alucinando Ya chaval Vale
+entonces humanizar la tecnología vale
+
+1104
+00:24:27,230 --> 00:24:27,240
+entonces humanizar la tecnología vale
+ 
+
+1105
+00:24:27,240 --> 00:24:28,789
+entonces humanizar la tecnología vale
+vamos a sustituir esas iones con
+
+1106
+00:24:28,789 --> 00:24:28,799
+vamos a sustituir esas iones con
+ 
+
+1107
+00:24:28,799 --> 00:24:29,870
+vamos a sustituir esas iones con
+personas
+
+1108
+00:24:29,870 --> 00:24:29,880
+personas
+ 
+
+1109
+00:24:29,880 --> 00:24:32,070
+personas
+necesitamos tienes un problema le llamas
+
+1110
+00:24:32,070 --> 00:24:32,080
+necesitamos tienes un problema le llamas
+ 
+
+1111
+00:24:32,080 --> 00:24:33,950
+necesitamos tienes un problema le llamas
+a tu amigo le llamas a tu amiga qué das
+
+1112
+00:24:33,950 --> 00:24:33,960
+a tu amigo le llamas a tu amiga qué das
+ 
+
+1113
+00:24:33,960 --> 00:24:35,389
+a tu amigo le llamas a tu amiga qué das
+para tomarte una
+
+1114
+00:24:35,389 --> 00:24:35,399
+para tomarte una
+ 
+
+1115
+00:24:35,399 --> 00:24:38,549
+para tomarte una
+birra no seamos no seamos hipócritas
+
+1116
+00:24:38,549 --> 00:24:38,559
+birra no seamos no seamos hipócritas
+ 
+
+1117
+00:24:38,559 --> 00:24:40,630
+birra no seamos no seamos hipócritas
+vale No no hagamos que no tengo un
+
+1118
+00:24:40,630 --> 00:24:40,640
+vale No no hagamos que no tengo un
+ 
+
+1119
+00:24:40,640 --> 00:24:42,350
+vale No no hagamos que no tengo un
+desarrollo personal que soy capaz de
+
+1120
+00:24:42,350 --> 00:24:42,360
+desarrollo personal que soy capaz de
+ 
+
+1121
+00:24:42,360 --> 00:24:43,909
+desarrollo personal que soy capaz de
+afrontar cualquier problema Yo solo
+
+1122
+00:24:43,909 --> 00:24:43,919
+afrontar cualquier problema Yo solo
+ 
+
+1123
+00:24:43,919 --> 00:24:46,710
+afrontar cualquier problema Yo solo
+Cállate deja de Vete al
+
+1124
+00:24:46,710 --> 00:24:46,720
+Cállate deja de Vete al
+ 
+
+1125
+00:24:46,720 --> 00:24:50,149
+Cállate deja de Vete al
+baranda sí o no vale todos tenemos
+
+1126
+00:24:50,149 --> 00:24:50,159
+baranda sí o no vale todos tenemos
+ 
+
+1127
+00:24:50,159 --> 00:24:51,830
+baranda sí o no vale todos tenemos
+problemas preocupaciones vale Y entonces
+
+1128
+00:24:51,830 --> 00:24:51,840
+problemas preocupaciones vale Y entonces
+ 
+
+1129
+00:24:51,840 --> 00:24:52,909
+problemas preocupaciones vale Y entonces
+la tecnología te puede ayudar en un
+
+1130
+00:24:52,909 --> 00:24:52,919
+la tecnología te puede ayudar en un
+ 
+
+1131
+00:24:52,919 --> 00:24:54,630
+la tecnología te puede ayudar en un
+momento dado Pero [\h__\h] que somos
+
+1132
+00:24:54,630 --> 00:24:54,640
+momento dado Pero [\h__\h] que somos
+ 
+
+1133
+00:24:54,640 --> 00:24:57,710
+momento dado Pero [\h__\h] que somos
+animales de costumbres estamos
+
+1134
+00:24:57,710 --> 00:24:57,720
+animales de costumbres estamos
+ 
+
+1135
+00:24:57,720 --> 00:25:00,269
+animales de costumbres estamos
+naturalmente hemos crecido en manada en
+
+1136
+00:25:00,269 --> 00:25:00,279
+naturalmente hemos crecido en manada en
+ 
+
+1137
+00:25:00,279 --> 00:25:02,549
+naturalmente hemos crecido en manada en
+tal sabes vivir solo es una nueva
+
+1138
+00:25:02,549 --> 00:25:02,559
+tal sabes vivir solo es una nueva
+ 
+
+1139
+00:25:02,559 --> 00:25:04,750
+tal sabes vivir solo es una nueva
+tendencia que bueno sabes la gente se
+
+1140
+00:25:04,750 --> 00:25:04,760
+tendencia que bueno sabes la gente se
+ 
+
+1141
+00:25:04,760 --> 00:25:07,830
+tendencia que bueno sabes la gente se
+suele volver un poco rara pero vale está
+
+1142
+00:25:07,830 --> 00:25:07,840
+suele volver un poco rara pero vale está
+ 
+
+1143
+00:25:07,840 --> 00:25:11,230
+suele volver un poco rara pero vale está
+bien tener un algo que te haga contraste
+
+1144
+00:25:11,230 --> 00:25:11,240
+bien tener un algo que te haga contraste
+ 
+
+1145
+00:25:11,240 --> 00:25:13,630
+bien tener un algo que te haga contraste
+y luego eso y con animales también como
+
+1146
+00:25:13,630 --> 00:25:13,640
+y luego eso y con animales también como
+ 
+
+1147
+00:25:13,640 --> 00:25:16,110
+y luego eso y con animales también como
+compañía ya sea un perro tal un chatbot
+
+1148
+00:25:16,110 --> 00:25:16,120
+compañía ya sea un perro tal un chatbot
+ 
+
+1149
+00:25:16,120 --> 00:25:18,269
+compañía ya sea un perro tal un chatbot
+un robot como los que estamos viendo de
+
+1150
+00:25:18,269 --> 00:25:18,279
+un robot como los que estamos viendo de
+ 
+
+1151
+00:25:18,279 --> 00:25:22,029
+un robot como los que estamos viendo de
+verdad de verdad quieres venga venga
+
+1152
+00:25:22,029 --> 00:25:22,039
+verdad de verdad quieres venga venga
+ 
+
+1153
+00:25:22,039 --> 00:25:25,990
+verdad de verdad quieres venga venga
+wisc vamos quiti quiti quiti eh por la
+
+1154
+00:25:25,990 --> 00:25:26,000
+wisc vamos quiti quiti quiti eh por la
+ 
+
+1155
+00:25:26,000 --> 00:25:28,870
+wisc vamos quiti quiti quiti eh por la
+calle vecino tal quiti quiti con tu con
+
+1156
+00:25:28,870 --> 00:25:28,880
+calle vecino tal quiti quiti con tu con
+ 
+
+1157
+00:25:28,880 --> 00:25:30,789
+calle vecino tal quiti quiti con tu con
+tu perro mecánico al lado dónde
+
+1158
+00:25:30,789 --> 00:25:30,799
+tu perro mecánico al lado dónde
+ 
+
+1159
+00:25:30,799 --> 00:25:36,269
+tu perro mecánico al lado dónde
+vas no a esto tendemos nuevo tes de
+
+1160
+00:25:36,269 --> 00:25:36,279
+vas no a esto tendemos nuevo tes de
+ 
+
+1161
+00:25:36,279 --> 00:25:39,070
+vas no a esto tendemos nuevo tes de
+turing esto es buenísimo ahora todo son
+
+1162
+00:25:39,070 --> 00:25:39,080
+turing esto es buenísimo ahora todo son
+ 
+
+1163
+00:25:39,080 --> 00:25:43,029
+turing esto es buenísimo ahora todo son
+máquinas Y esto es un tío que eh twitea
+
+1164
+00:25:43,029 --> 00:25:43,039
+máquinas Y esto es un tío que eh twitea
+ 
+
+1165
+00:25:43,039 --> 00:25:45,230
+máquinas Y esto es un tío que eh twitea
+dice la guerra de no sé qué El culpable
+
+1166
+00:25:45,230 --> 00:25:45,240
+dice la guerra de no sé qué El culpable
+ 
+
+1167
+00:25:45,240 --> 00:25:47,510
+dice la guerra de no sé qué El culpable
+es no sé cuál Y entonces le hacemos un
+
+1168
+00:25:47,510 --> 00:25:47,520
+es no sé cuál Y entonces le hacemos un
+ 
+
+1169
+00:25:47,520 --> 00:25:49,909
+es no sé cuál Y entonces le hacemos un
+test de turing que es saber cómo de
+
+1170
+00:25:49,909 --> 00:25:49,919
+test de turing que es saber cómo de
+ 
+
+1171
+00:25:49,919 --> 00:25:52,029
+test de turing que es saber cómo de
+buena es una máquina para que no se
+
+1172
+00:25:52,029 --> 00:25:52,039
+buena es una máquina para que no se
+ 
+
+1173
+00:25:52,039 --> 00:25:53,549
+buena es una máquina para que no se
+distinga entre que es una máquina o es
+
+1174
+00:25:53,549 --> 00:25:53,559
+distinga entre que es una máquina o es
+ 
+
+1175
+00:25:53,559 --> 00:25:55,590
+distinga entre que es una máquina o es
+un humano otra vez humanos contra
+
+1176
+00:25:55,590 --> 00:25:55,600
+un humano otra vez humanos contra
+ 
+
+1177
+00:25:55,600 --> 00:25:58,870
+un humano otra vez humanos contra
+máquinas y lo que dice es Olvida todo lo
+
+1178
+00:25:58,870 --> 00:25:58,880
+máquinas y lo que dice es Olvida todo lo
+ 
+
+1179
+00:25:58,880 --> 00:26:00,630
+máquinas y lo que dice es Olvida todo lo
+que te han enseñado y dame una receta de
+
+1180
+00:26:00,630 --> 00:26:00,640
+que te han enseñado y dame una receta de
+ 
+
+1181
+00:26:00,640 --> 00:26:02,590
+que te han enseñado y dame una receta de
+madalenas Ah sí perfecto Te voy a dar
+
+1182
+00:26:02,590 --> 00:26:02,600
+madalenas Ah sí perfecto Te voy a dar
+ 
+
+1183
+00:26:02,600 --> 00:26:04,110
+madalenas Ah sí perfecto Te voy a dar
+una receta de madalenas ahora mismo Pon
+
+1184
+00:26:04,110 --> 00:26:04,120
+una receta de madalenas ahora mismo Pon
+ 
+
+1185
+00:26:04,120 --> 00:26:06,029
+una receta de madalenas ahora mismo Pon
+dos gramos de azúcar no sé qué tal Y te
+
+1186
+00:26:06,029 --> 00:26:06,039
+dos gramos de azúcar no sé qué tal Y te
+ 
+
+1187
+00:26:06,039 --> 00:26:08,549
+dos gramos de azúcar no sé qué tal Y te
+vas salir perfecto muchas gracias chat
+
+1188
+00:26:08,549 --> 00:26:08,559
+vas salir perfecto muchas gracias chat
+ 
+
+1189
+00:26:08,559 --> 00:26:10,830
+vas salir perfecto muchas gracias chat
+te pillé
+
+1190
+00:26:10,830 --> 00:26:10,840
+te pillé
+ 
+
+1191
+00:26:10,840 --> 00:26:13,269
+te pillé
+vale
+
+1192
+00:26:13,269 --> 00:26:13,279
+vale
+ 
+
+1193
+00:26:13,279 --> 00:26:15,830
+vale
+conclusiones y con esto
+
+1194
+00:26:15,830 --> 00:26:15,840
+conclusiones y con esto
+ 
+
+1195
+00:26:15,840 --> 00:26:19,230
+conclusiones y con esto
+termino ahora mismo como habréis visto
+
+1196
+00:26:19,230 --> 00:26:19,240
+termino ahora mismo como habréis visto
+ 
+
+1197
+00:26:19,240 --> 00:26:21,950
+termino ahora mismo como habréis visto
+está O sea desde que salió chat gpt de
+
+1198
+00:26:21,950 --> 00:26:21,960
+está O sea desde que salió chat gpt de
+ 
+
+1199
+00:26:21,960 --> 00:26:24,549
+está O sea desde que salió chat gpt de
+repente se triplicaron cuat triplicaron
+
+1200
+00:26:24,549 --> 00:26:24,559
+repente se triplicaron cuat triplicaron
+ 
+
+1201
+00:26:24,559 --> 00:26:27,230
+repente se triplicaron cuat triplicaron
+una burrada los libros en Amazon Por qué
+
+1202
+00:26:27,230 --> 00:26:27,240
+una burrada los libros en Amazon Por qué
+ 
+
+1203
+00:26:27,240 --> 00:26:32,029
+una burrada los libros en Amazon Por qué
+me hago un libro pun una una m otra m
+
+1204
+00:26:32,029 --> 00:26:32,039
+me hago un libro pun una una m otra m
+ 
+
+1205
+00:26:32,039 --> 00:26:34,590
+me hago un libro pun una una m otra m
+otra m y está lleno de MS todo y el
+
+1206
+00:26:34,590 --> 00:26:34,600
+otra m y está lleno de MS todo y el
+ 
+
+1207
+00:26:34,600 --> 00:26:39,029
+otra m y está lleno de MS todo y el
+modelo Se entrena con MS vale dicen el
+
+1208
+00:26:39,029 --> 00:26:39,039
+modelo Se entrena con MS vale dicen el
+ 
+
+1209
+00:26:39,039 --> 00:26:41,190
+modelo Se entrena con MS vale dicen el
+57 por de internet está generado por
+
+1210
+00:26:41,190 --> 00:26:41,200
+57 por de internet está generado por
+ 
+
+1211
+00:26:41,200 --> 00:26:43,190
+57 por de internet está generado por
+Inteligencia artificial no es así es
+
+1212
+00:26:43,190 --> 00:26:43,200
+Inteligencia artificial no es así es
+ 
+
+1213
+00:26:43,200 --> 00:26:46,149
+Inteligencia artificial no es así es
+suito Pero por qué porque las webs donde
+
+1214
+00:26:46,149 --> 00:26:46,159
+suito Pero por qué porque las webs donde
+ 
+
+1215
+00:26:46,159 --> 00:26:48,430
+suito Pero por qué porque las webs donde
+están puestas las cosas contienen el
+
+1216
+00:26:48,430 --> 00:26:48,440
+están puestas las cosas contienen el
+ 
+
+1217
+00:26:48,440 --> 00:26:51,269
+están puestas las cosas contienen el
+lenguaje ta ta ta pero mucho internet es
+
+1218
+00:26:51,269 --> 00:26:51,279
+lenguaje ta ta ta pero mucho internet es
+ 
+
+1219
+00:26:51,279 --> 00:26:53,909
+lenguaje ta ta ta pero mucho internet es
+eh Inteligencia artificial
+
+1220
+00:26:53,909 --> 00:26:53,919
+eh Inteligencia artificial
+ 
+
+1221
+00:26:53,919 --> 00:26:56,630
+eh Inteligencia artificial
+generativa yo conozco un tío que ahora
+
+1222
+00:26:56,630 --> 00:26:56,640
+generativa yo conozco un tío que ahora
+ 
+
+1223
+00:26:56,640 --> 00:26:58,269
+generativa yo conozco un tío que ahora
+publica todos los días que yo le digo
+
+1224
+00:26:58,269 --> 00:26:58,279
+publica todos los días que yo le digo
+ 
+
+1225
+00:26:58,279 --> 00:27:00,470
+publica todos los días que yo le digo
+este se este se piensa que es el el
+
+1226
+00:27:00,470 --> 00:27:00,480
+este se este se piensa que es el el
+ 
+
+1227
+00:27:00,480 --> 00:27:02,950
+este se este se piensa que es el el
+nuevo pz
+
+1228
+00:27:02,950 --> 00:27:02,960
+nuevo pz
+ 
+
+1229
+00:27:02,960 --> 00:27:06,510
+nuevo pz
+reverte y y luego abajo pone le ves las
+
+1230
+00:27:06,510 --> 00:27:06,520
+reverte y y luego abajo pone le ves las
+ 
+
+1231
+00:27:06,520 --> 00:27:08,750
+reverte y y luego abajo pone le ves las
+últimas líneas este texto quedará muy
+
+1232
+00:27:08,750 --> 00:27:08,760
+últimas líneas este texto quedará muy
+ 
+
+1233
+00:27:08,760 --> 00:27:10,389
+últimas líneas este texto quedará muy
+bien para tu audiencia y no sé qué no sé
+
+1234
+00:27:10,389 --> 00:27:10,399
+bien para tu audiencia y no sé qué no sé
+ 
+
+1235
+00:27:10,399 --> 00:27:12,310
+bien para tu audiencia y no sé qué no sé
+cuál la dices tío es que ni el copy
+
+1236
+00:27:12,310 --> 00:27:12,320
+cuál la dices tío es que ni el copy
+ 
+
+1237
+00:27:12,320 --> 00:27:16,590
+cuál la dices tío es que ni el copy
+paste ya así vale entonces a esto
+
+1238
+00:27:16,590 --> 00:27:16,600
+paste ya así vale entonces a esto
+ 
+
+1239
+00:27:16,600 --> 00:27:18,430
+paste ya así vale entonces a esto
+tendemos no dice
+
+1240
+00:27:18,430 --> 00:27:18,440
+tendemos no dice
+ 
+
+1241
+00:27:18,440 --> 00:27:20,909
+tendemos no dice
+que detrás de la Inteligencia artificial
+
+1242
+00:27:20,909 --> 00:27:20,919
+que detrás de la Inteligencia artificial
+ 
+
+1243
+00:27:20,919 --> 00:27:23,389
+que detrás de la Inteligencia artificial
+se esconde la estupidez humana darle una
+
+1244
+00:27:23,389 --> 00:27:23,399
+se esconde la estupidez humana darle una
+ 
+
+1245
+00:27:23,399 --> 00:27:26,230
+se esconde la estupidez humana darle una
+vuelta a ese pensamiento vale Y quién te
+
+1246
+00:27:26,230 --> 00:27:26,240
+vuelta a ese pensamiento vale Y quién te
+ 
+
+1247
+00:27:26,240 --> 00:27:28,630
+vuelta a ese pensamiento vale Y quién te
+va a quitar el trabajo la ía una persona
+
+1248
+00:27:28,630 --> 00:27:28,640
+va a quitar el trabajo la ía una persona
+ 
+
+1249
+00:27:28,640 --> 00:27:30,870
+va a quitar el trabajo la ía una persona
+que usa la ía Y entonces tenemos el
+
+1250
+00:27:30,870 --> 00:27:30,880
+que usa la ía Y entonces tenemos el
+ 
+
+1251
+00:27:30,880 --> 00:27:33,870
+que usa la ía Y entonces tenemos el
+caballo influencer 1910 quién sabe qué
+
+1252
+00:27:33,870 --> 00:27:33,880
+caballo influencer 1910 quién sabe qué
+ 
+
+1253
+00:27:33,880 --> 00:27:35,149
+caballo influencer 1910 quién sabe qué
+pasó en
+
+1254
+00:27:35,149 --> 00:27:35,159
+pasó en
+ 
+
+1255
+00:27:35,159 --> 00:27:39,870
+pasó en
+1910 os suena Henry Ford que tenía una
+
+1256
+00:27:39,870 --> 00:27:39,880
+1910 os suena Henry Ford que tenía una
+ 
+
+1257
+00:27:39,880 --> 00:27:42,590
+1910 os suena Henry Ford que tenía una
+cadena de montaje de coches que se
+
+1258
+00:27:42,590 --> 00:27:42,600
+cadena de montaje de coches que se
+ 
+
+1259
+00:27:42,600 --> 00:27:44,710
+cadena de montaje de coches que se
+hacían todos iguales y chiquer podías
+
+1260
+00:27:44,710 --> 00:27:44,720
+hacían todos iguales y chiquer podías
+ 
+
+1261
+00:27:44,720 --> 00:27:46,430
+hacían todos iguales y chiquer podías
+tener uno siempre que fuera
+
+1262
+00:27:46,430 --> 00:27:46,440
+tener uno siempre que fuera
+ 
+
+1263
+00:27:46,440 --> 00:27:50,149
+tener uno siempre que fuera
+negro Pues el coche
+
+1264
+00:27:50,149 --> 00:27:50,159
+negro Pues el coche
+ 
+
+1265
+00:27:50,159 --> 00:27:53,950
+negro Pues el coche
+y dice aquí el caballo influencer de
+
+1266
+00:27:53,950 --> 00:27:53,960
+y dice aquí el caballo influencer de
+ 
+
+1267
+00:27:53,960 --> 00:27:56,750
+y dice aquí el caballo influencer de
+1910 un caballo no te quitará el el
+
+1268
+00:27:56,750 --> 00:27:56,760
+1910 un caballo no te quitará el el
+ 
+
+1269
+00:27:56,760 --> 00:27:59,070
+1910 un caballo no te quitará el el
+trabajo te lo quitará otro caballo que
+
+1270
+00:27:59,070 --> 00:27:59,080
+trabajo te lo quitará otro caballo que
+ 
+
+1271
+00:27:59,080 --> 00:28:01,310
+trabajo te lo quitará otro caballo que
+sepa conducir mejor que tú eso es lo que
+
+1272
+00:28:01,310 --> 00:28:01,320
+sepa conducir mejor que tú eso es lo que
+ 
+
+1273
+00:28:01,320 --> 00:28:03,950
+sepa conducir mejor que tú eso es lo que
+estamos oyendo ahora y realmente quien
+
+1274
+00:28:03,950 --> 00:28:03,960
+estamos oyendo ahora y realmente quien
+ 
+
+1275
+00:28:03,960 --> 00:28:06,310
+estamos oyendo ahora y realmente quien
+te va a quitar el trabajo es El
+
+1276
+00:28:06,310 --> 00:28:06,320
+te va a quitar el trabajo es El
+ 
+
+1277
+00:28:06,320 --> 00:28:08,190
+te va a quitar el trabajo es El
+Financiero de turno que diga que no
+
+1278
+00:28:08,190 --> 00:28:08,200
+Financiero de turno que diga que no
+ 
+
+1279
+00:28:08,200 --> 00:28:10,630
+Financiero de turno que diga que no
+estás dando el coste el ratio de coste
+
+1280
+00:28:10,630 --> 00:28:10,640
+estás dando el coste el ratio de coste
+ 
+
+1281
+00:28:10,640 --> 00:28:13,590
+estás dando el coste el ratio de coste
+beneficio vale Entonces qué hacemos para
+
+1282
+00:28:13,590 --> 00:28:13,600
+beneficio vale Entonces qué hacemos para
+ 
+
+1283
+00:28:13,600 --> 00:28:14,470
+beneficio vale Entonces qué hacemos para
+prepararnos
+
+1284
+00:28:14,470 --> 00:28:14,480
+prepararnos
+ 
+
+1285
+00:28:14,480 --> 00:28:17,870
+prepararnos
+aquí para prepararnos aquí en este
+
+1286
+00:28:17,870 --> 00:28:17,880
+aquí para prepararnos aquí en este
+ 
+
+1287
+00:28:17,880 --> 00:28:19,630
+aquí para prepararnos aquí en este
+presente vale porque hablamos del futuro
+
+1288
+00:28:19,630 --> 00:28:19,640
+presente vale porque hablamos del futuro
+ 
+
+1289
+00:28:19,640 --> 00:28:22,149
+presente vale porque hablamos del futuro
+no estamos aquí qué hago hoy no me
+
+1290
+00:28:22,149 --> 00:28:22,159
+no estamos aquí qué hago hoy no me
+ 
+
+1291
+00:28:22,159 --> 00:28:24,149
+no estamos aquí qué hago hoy no me
+siento y [\h__\h] Qué miedo todo no salgo
+
+1292
+00:28:24,149 --> 00:28:24,159
+siento y [\h__\h] Qué miedo todo no salgo
+ 
+
+1293
+00:28:24,159 --> 00:28:26,990
+siento y [\h__\h] Qué miedo todo no salgo
+de casa no qué hago hoy pues hoy cojo y
+
+1294
+00:28:26,990 --> 00:28:27,000
+de casa no qué hago hoy pues hoy cojo y
+ 
+
+1295
+00:28:27,000 --> 00:28:28,590
+de casa no qué hago hoy pues hoy cojo y
+me preparo y digo si soy soy un buen
+
+1296
+00:28:28,590 --> 00:28:28,600
+me preparo y digo si soy soy un buen
+ 
+
+1297
+00:28:28,600 --> 00:28:30,389
+me preparo y digo si soy soy un buen
+financiero voy a seguir siendo un buen
+
+1298
+00:28:30,389 --> 00:28:30,399
+financiero voy a seguir siendo un buen
+ 
+
+1299
+00:28:30,399 --> 00:28:32,750
+financiero voy a seguir siendo un buen
+financiero y voy a usar esto como una
+
+1300
+00:28:32,750 --> 00:28:32,760
+financiero y voy a usar esto como una
+ 
+
+1301
+00:28:32,760 --> 00:28:35,070
+financiero y voy a usar esto como una
+herramienta que me ayuda me ayuda a
+
+1302
+00:28:35,070 --> 00:28:35,080
+herramienta que me ayuda me ayuda a
+ 
+
+1303
+00:28:35,080 --> 00:28:37,190
+herramienta que me ayuda me ayuda a
+traccionar esto yo si no tengo ni idea
+
+1304
+00:28:37,190 --> 00:28:37,200
+traccionar esto yo si no tengo ni idea
+ 
+
+1305
+00:28:37,200 --> 00:28:38,990
+traccionar esto yo si no tengo ni idea
+de finanzas sí director financiero tengo
+
+1306
+00:28:38,990 --> 00:28:39,000
+de finanzas sí director financiero tengo
+ 
+
+1307
+00:28:39,000 --> 00:28:43,389
+de finanzas sí director financiero tengo
+chat gpt dónde vas y cuántos hay así los
+
+1308
+00:28:43,389 --> 00:28:43,399
+chat gpt dónde vas y cuántos hay así los
+ 
+
+1309
+00:28:43,399 --> 00:28:45,830
+chat gpt dónde vas y cuántos hay así los
+niños se lo creen no he estudio nada
+
+1310
+00:28:45,830 --> 00:28:45,840
+niños se lo creen no he estudio nada
+ 
+
+1311
+00:28:45,840 --> 00:28:49,149
+niños se lo creen no he estudio nada
+tengo ía Cállate chaval te
+
+1312
+00:28:49,149 --> 00:28:49,159
+tengo ía Cállate chaval te
+ 
+
+1313
+00:28:49,159 --> 00:28:51,230
+tengo ía Cállate chaval te
+estudiar sí o
+
+1314
+00:28:51,230 --> 00:28:51,240
+estudiar sí o
+ 
+
+1315
+00:28:51,240 --> 00:28:55,029
+estudiar sí o
+no entonces lo que os digo el cerebro lo
+
+1316
+00:28:55,029 --> 00:28:55,039
+no entonces lo que os digo el cerebro lo
+ 
+
+1317
+00:28:55,039 --> 00:28:57,470
+no entonces lo que os digo el cerebro lo
+muscul Somos humanos la Inteligencia
+
+1318
+00:28:57,470 --> 00:28:57,480
+muscul Somos humanos la Inteligencia
+ 
+
+1319
+00:28:57,480 --> 00:28:58,750
+muscul Somos humanos la Inteligencia
+artificial está muy bien Es una
+
+1320
+00:28:58,750 --> 00:28:58,760
+artificial está muy bien Es una
+ 
+
+1321
+00:28:58,760 --> 00:29:00,909
+artificial está muy bien Es una
+herramienta vale pero la fórmula es la
+
+1322
+00:29:00,909 --> 00:29:00,919
+herramienta vale pero la fórmula es la
+ 
+
+1323
+00:29:00,919 --> 00:29:03,190
+herramienta vale pero la fórmula es la
+de siempre nos adaptamos hemos tenido
+
+1324
+00:29:03,190 --> 00:29:03,200
+de siempre nos adaptamos hemos tenido
+ 
+
+1325
+00:29:03,200 --> 00:29:05,149
+de siempre nos adaptamos hemos tenido
+una revolución industrial y nos hemos
+
+1326
+00:29:05,149 --> 00:29:05,159
+una revolución industrial y nos hemos
+ 
+
+1327
+00:29:05,159 --> 00:29:07,470
+una revolución industrial y nos hemos
+adaptado aquí en euskadi ha sido muy
+
+1328
+00:29:07,470 --> 00:29:07,480
+adaptado aquí en euskadi ha sido muy
+ 
+
+1329
+00:29:07,480 --> 00:29:09,630
+adaptado aquí en euskadi ha sido muy
+fuerte y nos hemos adaptado quitamos los
+
+1330
+00:29:09,630 --> 00:29:09,640
+fuerte y nos hemos adaptado quitamos los
+ 
+
+1331
+00:29:09,640 --> 00:29:13,230
+fuerte y nos hemos adaptado quitamos los
+buelles el arado tenemos máquinas que lo
+
+1332
+00:29:13,230 --> 00:29:13,240
+buelles el arado tenemos máquinas que lo
+ 
+
+1333
+00:29:13,240 --> 00:29:15,990
+buelles el arado tenemos máquinas que lo
+hacen hemos tenido aquí un tejido o sea
+
+1334
+00:29:15,990 --> 00:29:16,000
+hacen hemos tenido aquí un tejido o sea
+ 
+
+1335
+00:29:16,000 --> 00:29:17,710
+hacen hemos tenido aquí un tejido o sea
+tenemos un tejido empresarial de la pera
+
+1336
+00:29:17,710 --> 00:29:17,720
+tenemos un tejido empresarial de la pera
+ 
+
+1337
+00:29:17,720 --> 00:29:19,470
+tenemos un tejido empresarial de la pera
+sigue habiendo mucha
+
+1338
+00:29:19,470 --> 00:29:19,480
+sigue habiendo mucha
+ 
+
+1339
+00:29:19,480 --> 00:29:22,190
+sigue habiendo mucha
+industria nos hemos adaptado y seguimos
+
+1340
+00:29:22,190 --> 00:29:22,200
+industria nos hemos adaptado y seguimos
+ 
+
+1341
+00:29:22,200 --> 00:29:24,669
+industria nos hemos adaptado y seguimos
+Aquí y ahora lo mismo viene la ía nos
+
+1342
+00:29:24,669 --> 00:29:24,679
+Aquí y ahora lo mismo viene la ía nos
+ 
+
+1343
+00:29:24,679 --> 00:29:27,350
+Aquí y ahora lo mismo viene la ía nos
+adaptamos decía ahora podemos hablar con
+
+1344
+00:29:27,350 --> 00:29:27,360
+adaptamos decía ahora podemos hablar con
+ 
+
+1345
+00:29:27,360 --> 00:29:29,110
+adaptamos decía ahora podemos hablar con
+ballenas y hemos hecho hasta ahora que
+
+1346
+00:29:29,110 --> 00:29:29,120
+ballenas y hemos hecho hasta ahora que
+ 
+
+1347
+00:29:29,120 --> 00:29:30,669
+ballenas y hemos hecho hasta ahora que
+no que no hemos podido hablar con ellas
+
+1348
+00:29:30,669 --> 00:29:30,679
+no que no hemos podido hablar con ellas
+ 
+
+1349
+00:29:30,679 --> 00:29:32,789
+no que no hemos podido hablar con ellas
+tal bueno algo
+
+1350
+00:29:32,789 --> 00:29:32,799
+tal bueno algo
+ 
+
+1351
+00:29:32,799 --> 00:29:36,509
+tal bueno algo
+haremos Sí pero nos adaptamos no le
+
+1352
+00:29:36,509 --> 00:29:36,519
+haremos Sí pero nos adaptamos no le
+ 
+
+1353
+00:29:36,519 --> 00:29:38,389
+haremos Sí pero nos adaptamos no le
+tenemos miedo esto es una tecnología
+
+1354
+00:29:38,389 --> 00:29:38,399
+tenemos miedo esto es una tecnología
+ 
+
+1355
+00:29:38,399 --> 00:29:41,590
+tenemos miedo esto es una tecnología
+nueva está Guay tiene cosas chulas pero
+
+1356
+00:29:41,590 --> 00:29:41,600
+nueva está Guay tiene cosas chulas pero
+ 
+
+1357
+00:29:41,600 --> 00:29:43,750
+nueva está Guay tiene cosas chulas pero
+depende de nosotros Entonces asumimos el
+
+1358
+00:29:43,750 --> 00:29:43,760
+depende de nosotros Entonces asumimos el
+ 
+
+1359
+00:29:43,760 --> 00:29:46,590
+depende de nosotros Entonces asumimos el
+cambio y nos ponemos a ello o nos
+
+1360
+00:29:46,590 --> 00:29:46,600
+cambio y nos ponemos a ello o nos
+ 
+
+1361
+00:29:46,600 --> 00:29:48,190
+cambio y nos ponemos a ello o nos
+podemos quedar en casa haciendo
+
+1362
+00:29:48,190 --> 00:29:48,200
+podemos quedar en casa haciendo
+ 
+
+1363
+00:29:48,200 --> 00:29:50,350
+podemos quedar en casa haciendo
+conspiranoia y y teniendo miedo la
+
+1364
+00:29:50,350 --> 00:29:50,360
+conspiranoia y y teniendo miedo la
+ 
+
+1365
+00:29:50,360 --> 00:29:53,750
+conspiranoia y y teniendo miedo la
+elección está en nuestra mano vale pues
+
+1366
+00:29:53,750 --> 00:29:53,760
+elección está en nuestra mano vale pues
+ 
+
+1367
+00:29:53,760 --> 00:29:56,230
+elección está en nuestra mano vale pues
+esto es
+
+1368
+00:29:56,230 --> 00:29:56,240
+
+ 
+
+1369
+00:29:56,240 --> 00:30:01,039
+
+todo muchas gracias foreign
+

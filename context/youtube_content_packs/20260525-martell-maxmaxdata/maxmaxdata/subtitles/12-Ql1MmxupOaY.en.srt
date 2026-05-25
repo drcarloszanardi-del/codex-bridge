@@ -1,0 +1,1229 @@
+1
+00:00:00,040 --> 00:00:03,110
+
+And Pablo Álvarez Azaga, CEO of MMD, professor
+
+2
+00:00:03,110 --> 00:00:03,120
+And Pablo Álvarez Azaga, CEO of MMD, professor
+ 
+
+3
+00:00:03,120 --> 00:00:05,510
+And Pablo Álvarez Azaga, CEO of MMD, professor
+of Big Data, Business Intelligence, and
+
+4
+00:00:05,510 --> 00:00:05,520
+of Big Data, Business Intelligence, and
+ 
+
+5
+00:00:05,520 --> 00:00:06,550
+of Big Data, Business Intelligence, and
+Artificial Intelligence at the
+
+6
+00:00:06,550 --> 00:00:06,560
+Artificial Intelligence at the
+ 
+
+7
+00:00:06,560 --> 00:00:09,070
+Artificial Intelligence at the
+University of Deusto, how are you?
+
+8
+00:00:09,070 --> 00:00:09,080
+University of Deusto, how are you?
+ 
+
+9
+00:00:09,080 --> 00:00:11,870
+University of Deusto, how are you?
+You have some very complicated roles, huh?
+
+10
+00:00:11,870 --> 00:00:11,880
+You have some very complicated roles, huh?
+ 
+
+11
+00:00:11,880 --> 00:00:13,270
+You have some very complicated roles, huh?
+For the radio, let's go.
+
+12
+00:00:13,270 --> 00:00:13,280
+For the radio, let's go.
+ 
+
+13
+00:00:13,280 --> 00:00:16,070
+For the radio, let's go.
+And how does this really translate?
+
+14
+00:00:16,070 --> 00:00:16,080
+And how does this really translate?
+ 
+
+15
+00:00:16,080 --> 00:00:17,630
+And how does this really translate?
+What are you going to explain today here at
+
+16
+00:00:17,630 --> 00:00:17,640
+What are you going to explain today here at
+ 
+
+17
+00:00:17,640 --> 00:00:19,830
+What are you going to explain today here at
+the Europa Palace, within the
+
+18
+00:00:19,830 --> 00:00:19,840
+the Europa Palace, within the
+ 
+
+19
+00:00:19,840 --> 00:00:21,070
+the Europa Palace, within the
+Araba
+
+20
+00:00:21,070 --> 00:00:21,080
+Araba
+ 
+
+21
+00:00:21,080 --> 00:00:24,269
+Araba
+Intelligente space? Well, today I'm going to
+
+22
+00:00:24,269 --> 00:00:24,279
+Intelligente space? Well, today I'm going to
+ 
+
+23
+00:00:24,279 --> 00:00:25,830
+Intelligente space? Well, today I'm going to
+talk about
+
+24
+00:00:25,830 --> 00:00:25,840
+talk about
+ 
+
+25
+00:00:25,840 --> 00:00:27,310
+talk about
+Artificial Intelligence at the University of Deusto.
+
+26
+00:00:27,310 --> 00:00:27,320
+Artificial Intelligence at the University of Deusto.
+ 
+
+27
+00:00:27,320 --> 00:00:30,109
+Artificial Intelligence at the University of Deusto.
+I'm a professor in various faculties where I
+
+28
+00:00:30,109 --> 00:00:30,119
+I'm a professor in various faculties where I
+ 
+
+29
+00:00:30,119 --> 00:00:31,749
+I'm a professor in various faculties where I
+teach Big Data and Business
+
+30
+00:00:31,749 --> 00:00:31,759
+teach Big Data and Business
+ 
+
+31
+00:00:31,759 --> 00:00:34,150
+teach Big Data and Business
+Intelligence, which ultimately amounts to
+
+32
+00:00:34,150 --> 00:00:34,160
+Intelligence, which ultimately amounts to
+ 
+
+33
+00:00:34,160 --> 00:00:36,630
+Intelligence, which ultimately amounts to
+an advanced analysis of numbers so that it
+
+34
+00:00:36,630 --> 00:00:36,640
+an advanced analysis of numbers so that it
+ 
+
+35
+00:00:36,640 --> 00:00:38,590
+an advanced analysis of numbers so that it
+can be used in business
+
+36
+00:00:38,590 --> 00:00:38,600
+can be used in business
+ 
+
+37
+00:00:38,600 --> 00:00:41,110
+can be used in business
+to make better decisions, grounded
+
+38
+00:00:41,110 --> 00:00:41,120
+to make better decisions, grounded
+ 
+
+39
+00:00:41,120 --> 00:00:44,190
+to make better decisions, grounded
+in the world of ordinary people, of course, which is
+
+40
+00:00:44,190 --> 00:00:44,200
+in the world of ordinary people, of course, which is
+ 
+
+41
+00:00:44,200 --> 00:00:45,790
+in the world of ordinary people, of course, which is
+most of what's happening in our audience.
+
+42
+00:00:45,790 --> 00:00:45,800
+most of what's happening in our audience.
+ 
+
+43
+00:00:45,800 --> 00:00:47,350
+most of what's happening in our audience.
+Because if we start
+
+44
+00:00:47,350 --> 00:00:47,360
+Because if we start
+ 
+
+45
+00:00:47,360 --> 00:00:48,750
+Because if we start
+talking about these terms, people are going to say, "What are they
+
+46
+00:00:48,750 --> 00:00:48,760
+talking about these terms, people are going to say, "What are they
+ 
+
+47
+00:00:48,760 --> 00:00:51,470
+talking about these terms, people are going to say, "What are they
+talking about? These terms can't be
+
+48
+00:00:51,470 --> 00:00:51,480
+talking about? These terms can't be
+ 
+
+49
+00:00:51,480 --> 00:00:53,470
+talking about? These terms can't be
+naturalized, they can't be..." I
+
+50
+00:00:53,470 --> 00:00:53,480
+naturalized, they can't be..." I
+ 
+
+51
+00:00:53,480 --> 00:00:55,869
+naturalized, they can't be..." I
+try, yes, I try in my communication to
+
+52
+00:00:55,869 --> 00:00:55,879
+try, yes, I try in my communication to
+ 
+
+53
+00:00:55,879 --> 00:00:58,270
+try, yes, I try in my communication to
+ground things and say, "Look,
+
+54
+00:00:58,270 --> 00:00:58,280
+ground things and say, "Look,
+ 
+
+55
+00:00:58,280 --> 00:01:00,310
+ground things and say, "Look,
+this thing that has this name is really this, this, this,
+
+56
+00:01:00,310 --> 00:01:00,320
+this thing that has this name is really this, this, this,
+ 
+
+57
+00:01:00,320 --> 00:01:02,150
+this thing that has this name is really this, this, this,
+and this," in a more
+
+58
+00:01:02,150 --> 00:01:02,160
+and this," in a more
+ 
+
+59
+00:01:02,160 --> 00:01:04,750
+and this," in a more
+natural way. So, in today's presentation, what I'm here to do
+
+60
+00:01:04,750 --> 00:01:04,760
+natural way. So, in today's presentation, what I'm here to do
+ 
+
+61
+00:01:04,760 --> 00:01:07,190
+natural way. So, in today's presentation, what I'm here to do
+is convey what
+
+62
+00:01:07,190 --> 00:01:07,200
+is convey what
+ 
+
+63
+00:01:07,200 --> 00:01:09,109
+is convey what
+Artificial Intelligence is, to
+
+64
+00:01:09,109 --> 00:01:09,119
+Artificial Intelligence is, to
+ 
+
+65
+00:01:09,119 --> 00:01:12,950
+Artificial Intelligence is, to
+demystify it.  All these loud cries
+
+66
+00:01:12,950 --> 00:01:12,960
+demystify it.  All these loud cries
+ 
+
+67
+00:01:12,960 --> 00:01:14,590
+demystify it.  All these loud cries
+in the air right now about
+
+68
+00:01:14,590 --> 00:01:14,600
+in the air right now about
+ 
+
+69
+00:01:14,600 --> 00:01:16,749
+in the air right now about
+whether it's coming to take jobs, whether people will be left behind,
+
+70
+00:01:16,749 --> 00:01:16,759
+whether it's coming to take jobs, whether people will be left behind,
+ 
+
+71
+00:01:16,759 --> 00:01:19,390
+whether it's coming to take jobs, whether people will be left behind,
+what is this? Are
+
+72
+00:01:19,390 --> 00:01:19,400
+what is this? Are
+ 
+
+73
+00:01:19,400 --> 00:01:22,590
+what is this? Are
+robots coming? Are we going to Mars? No. So I'm here
+
+74
+00:01:22,590 --> 00:01:22,600
+robots coming? Are we going to Mars? No. So I'm here
+ 
+
+75
+00:01:22,600 --> 00:01:24,310
+robots coming? Are we going to Mars? No. So I'm here
+to bring a touch of reality
+
+76
+00:01:24,310 --> 00:01:24,320
+to bring a touch of reality
+ 
+
+77
+00:01:24,320 --> 00:01:26,030
+to bring a touch of reality
+to the
+
+78
+00:01:26,030 --> 00:01:26,040
+to the
+ 
+
+79
+00:01:26,040 --> 00:01:30,109
+to the
+matter. You'll have to see the presentation.
+
+80
+00:01:30,109 --> 00:01:30,119
+matter. You'll have to see the presentation.
+ 
+
+81
+00:01:30,119 --> 00:01:33,950
+matter. You'll have to see the presentation.
+A spoiler alert, Pablo: What is generative AI?
+
+82
+00:01:33,950 --> 00:01:35,830
+A spoiler alert, Pablo: What is generative AI?
+ 
+
+83
+00:01:35,830 --> 00:01:38,310
+
+ 
+
+84
+00:01:38,310 --> 00:01:42,469
+
+ 
+
+85
+00:01:42,469 --> 00:01:45,149
+
+ 
+
+86
+00:01:45,149 --> 00:01:45,159
+
+ 
+
+87
+00:01:45,159 --> 00:01:47,749
+
+Well, artificial intelligence that generates things like text, music, voice, images, chat, and GPT. It's a tool that generates voice, text, and images. In fact, well, the images are
+
+88
+00:01:47,749 --> 00:01:47,759
+Well, artificial intelligence that generates things like text, music, voice, images, chat, and GPT. It's a tool that generates voice, text, and images. In fact, well, the images are
+ 
+
+89
+00:01:47,759 --> 00:01:50,670
+Well, artificial intelligence that generates things like text, music, voice, images, chat, and GPT. It's a tool that generates voice, text, and images. In fact, well, the images are
+from Dali 3, but it comes from GPT. Yes, uh-
+
+90
+00:01:50,670 --> 00:01:50,680
+from Dali 3, but it comes from GPT. Yes, uh-
+ 
+
+91
+00:01:50,680 --> 00:01:54,350
+from Dali 3, but it comes from GPT. Yes, uh-
+huh. Innovation without dehumanization or
+
+92
+00:01:54,350 --> 00:01:54,360
+huh. Innovation without dehumanization or
+ 
+
+93
+00:01:54,360 --> 00:01:56,749
+huh. Innovation without dehumanization or
+misinformation. That's the talk. That's
+
+94
+00:01:56,749 --> 00:01:56,759
+misinformation. That's the talk. That's
+ 
+
+95
+00:01:56,759 --> 00:01:59,230
+misinformation. That's the talk. That's
+the concept. That's the title. Also
+
+96
+00:01:59,230 --> 00:01:59,240
+the concept. That's the title. Also
+ 
+
+97
+00:01:59,240 --> 00:02:01,069
+the concept. That's the title. Also
+quite long:
+
+98
+00:02:01,069 --> 00:02:01,079
+quite long:
+ 
+
+99
+00:02:01,079 --> 00:02:01,870
+quite long:
+without
+
+100
+00:02:01,870 --> 00:02:01,880
+without
+ 
+
+101
+00:02:01,880 --> 00:02:04,109
+without
+dehumanization, of course. Logically, the
+
+102
+00:02:04,109 --> 00:02:04,119
+dehumanization, of course. Logically, the
+ 
+
+103
+00:02:04,119 --> 00:02:06,230
+dehumanization, of course. Logically, the
+human being is behind it; the intelligence
+
+104
+00:02:06,230 --> 00:02:06,240
+human being is behind it; the intelligence
+ 
+
+105
+00:02:06,240 --> 00:02:07,990
+human being is behind it; the intelligence
+has to be provided by the human being. Yes. And it's
+
+106
+00:02:07,990 --> 00:02:08,000
+has to be provided by the human being. Yes. And it's
+ 
+
+107
+00:02:08,000 --> 00:02:09,070
+has to be provided by the human being. Yes. And it's
+very important, as you
+
+108
+00:02:09,070 --> 00:02:09,080
+very important, as you
+ 
+
+109
+00:02:09,080 --> 00:02:10,710
+very important, as you
+mentioned, that this is currently a
+
+110
+00:02:10,710 --> 00:02:14,229
+mentioned, that this is currently a
+ 
+
+111
+00:02:14,229 --> 00:02:14,239
+
+ 
+
+112
+00:02:14,239 --> 00:02:17,110
+
+human-to-human conversation that says, "And what happens
+
+113
+00:02:17,110 --> 00:02:17,120
+human-to-human conversation that says, "And what happens
+ 
+
+114
+00:02:17,120 --> 00:02:19,470
+human-to-human conversation that says, "And what happens
+there? How uncertain is there? In the future,
+
+115
+00:02:19,470 --> 00:02:19,480
+there? How uncertain is there? In the future,
+ 
+
+116
+00:02:19,480 --> 00:02:21,670
+there? How uncertain is there? In the future,
+machines will be talking to machines. We'll be
+
+117
+00:02:21,670 --> 00:02:21,680
+machines will be talking to machines. We'll be
+ 
+
+118
+00:02:21,680 --> 00:02:23,670
+machines will be talking to machines. We'll be
+talking to machines. We'll be
+
+119
+00:02:23,670 --> 00:02:23,680
+talking to machines. We'll be
+ 
+
+120
+00:02:23,680 --> 00:02:25,589
+talking to machines. We'll be
+interacting with machines. Well, we do it now.
+
+121
+00:02:25,589 --> 00:02:25,599
+interacting with machines. Well, we do it now.
+ 
+
+122
+00:02:25,599 --> 00:02:27,270
+interacting with machines. Well, we do it now.
+When we call a
+
+123
+00:02:27,270 --> 00:02:27,280
+When we call a
+ 
+
+124
+00:02:27,280 --> 00:02:29,910
+When we call a
+company and a robot answers, we're..."
+
+125
+00:02:29,910 --> 00:02:29,920
+company and a robot answers, we're..."
+ 
+
+126
+00:02:29,920 --> 00:02:31,030
+company and a robot answers, we're..."
+Talking to machines? Yes, with an answering machine,
+
+127
+00:02:31,030 --> 00:02:31,040
+Talking to machines? Yes, with an answering machine,
+ 
+
+128
+00:02:31,040 --> 00:02:33,430
+Talking to machines? Yes, with an answering machine,
+not a student answering machine,
+
+129
+00:02:33,430 --> 00:02:33,440
+not a student answering machine,
+ 
+
+130
+00:02:33,440 --> 00:02:35,390
+not a student answering machine,
+if that option is available, and so on. No, if you want to
+
+131
+00:02:35,390 --> 00:02:35,400
+if that option is available, and so on. No, if you want to
+ 
+
+132
+00:02:35,400 --> 00:02:37,430
+if that option is available, and so on. No, if you want to
+talk to the department,
+
+133
+00:02:37,430 --> 00:02:37,440
+talk to the department,
+ 
+
+134
+00:02:37,440 --> 00:02:40,190
+talk to the department,
+but right now, those are already
+
+135
+00:02:40,190 --> 00:02:40,200
+but right now, those are already
+ 
+
+136
+00:02:40,200 --> 00:02:42,350
+but right now, those are already
+programming options: press one,
+
+137
+00:02:42,350 --> 00:02:42,360
+programming options: press one,
+ 
+
+138
+00:02:42,360 --> 00:02:44,030
+programming options: press one,
+press two, it takes you through a... Peace.
+
+139
+00:02:44,030 --> 00:02:44,040
+press two, it takes you through a... Peace.
+ 
+
+140
+00:02:44,040 --> 00:02:45,910
+press two, it takes you through a... Peace.
+Generative artificial intelligence, what
+
+141
+00:02:45,910 --> 00:02:45,920
+Generative artificial intelligence, what
+ 
+
+142
+00:02:45,920 --> 00:02:48,790
+Generative artificial intelligence, what
+you do is not a predictor of
+
+143
+00:02:48,790 --> 00:02:48,800
+you do is not a predictor of
+ 
+
+144
+00:02:48,800 --> 00:02:50,710
+you do is not a predictor of
+a response that will never be the
+
+145
+00:02:50,710 --> 00:02:50,720
+a response that will never be the
+ 
+
+146
+00:02:50,720 --> 00:02:53,270
+a response that will never be the
+same. So you don't know what's going to
+
+147
+00:02:53,270 --> 00:02:53,280
+same. So you don't know what's going to
+ 
+
+148
+00:02:53,280 --> 00:02:55,070
+same. So you don't know what's going to
+happen, and so there's also a lot of fear. That's why
+
+149
+00:02:55,070 --> 00:02:55,080
+happen, and so there's also a lot of fear. That's why
+ 
+
+150
+00:02:55,080 --> 00:02:56,509
+happen, and so there's also a lot of fear. That's why
+we were saying that part of it is up to
+
+151
+00:02:56,509 --> 00:02:56,519
+we were saying that part of it is up to
+ 
+
+152
+00:02:56,519 --> 00:02:58,830
+we were saying that part of it is up to
+us, the people, to adapt
+
+153
+00:02:58,830 --> 00:02:58,840
+us, the people, to adapt
+ 
+
+154
+00:02:58,840 --> 00:03:00,949
+us, the people, to adapt
+the technology; another part is up to governments and
+
+155
+00:03:00,949 --> 00:03:00,959
+the technology; another part is up to governments and
+ 
+
+156
+00:03:00,959 --> 00:03:03,309
+the technology; another part is up to governments and
+companies to say, "Hey, here's the genie we
+
+157
+00:03:03,309 --> 00:03:03,319
+companies to say, "Hey, here's the genie we
+ 
+
+158
+00:03:03,319 --> 00:03:06,190
+companies to say, "Hey, here's the genie we
+have inside the bottle. It says
+
+159
+00:03:06,190 --> 00:03:06,200
+have inside the bottle. It says
+ 
+
+160
+00:03:06,200 --> 00:03:07,910
+have inside the bottle. It says
+many things, and some it shouldn't
+
+161
+00:03:07,910 --> 00:03:07,920
+many things, and some it shouldn't
+ 
+
+162
+00:03:07,920 --> 00:03:10,470
+many things, and some it shouldn't
+say if it's unpredictable. So
+
+163
+00:03:10,470 --> 00:03:10,480
+say if it's unpredictable. So
+ 
+
+164
+00:03:10,480 --> 00:03:12,630
+say if it's unpredictable. So
+limit it and guide it through policies," which is one
+
+165
+00:03:12,630 --> 00:03:12,640
+limit it and guide it through policies," which is one
+ 
+
+166
+00:03:12,640 --> 00:03:14,670
+limit it and guide it through policies," which is one
+area where
+
+167
+00:03:14,670 --> 00:03:14,680
+area where
+ 
+
+168
+00:03:14,680 --> 00:03:17,470
+area where
+the developers of these
+
+169
+00:03:17,470 --> 00:03:17,480
+the developers of these
+ 
+
+170
+00:03:17,480 --> 00:03:19,509
+the developers of these
+generative artificial intelligences are putting a lot of effort. Of
+
+171
+00:03:19,509 --> 00:03:19,519
+generative artificial intelligences are putting a lot of effort. Of
+ 
+
+172
+00:03:19,519 --> 00:03:21,470
+generative artificial intelligences are putting a lot of effort. Of
+course, the fear that machines will
+
+173
+00:03:21,470 --> 00:03:21,480
+course, the fear that machines will
+ 
+
+174
+00:03:21,480 --> 00:03:23,309
+course, the fear that machines will
+govern us... no, ultimately, they won't give you
+
+175
+00:03:23,309 --> 00:03:23,319
+govern us... no, ultimately, they won't give you
+ 
+
+176
+00:03:23,319 --> 00:03:24,910
+govern us... no, ultimately, they won't give you
+medical advice. You say, "Hey, I feel
+
+177
+00:03:24,910 --> 00:03:24,920
+medical advice. You say, "Hey, I feel
+ 
+
+178
+00:03:24,920 --> 00:03:26,309
+medical advice. You say, "Hey, I feel
+unwell," and it says, "Well, if you feel unwell,
+
+179
+00:03:26,309 --> 00:03:26,319
+unwell," and it says, "Well, if you feel unwell,
+ 
+
+180
+00:03:26,319 --> 00:03:28,110
+unwell," and it says, "Well, if you feel unwell,
+instead of telling you, 'Go to the
+
+181
+00:03:28,110 --> 00:03:28,120
+instead of telling you, 'Go to the
+ 
+
+182
+00:03:28,120 --> 00:03:30,229
+instead of telling you, 'Go to the
+doctor,' which it does tell you now, it says, '
+
+183
+00:03:30,229 --> 00:03:30,239
+doctor,' which it does tell you now, it says, '
+ 
+
+184
+00:03:30,239 --> 00:03:31,990
+doctor,' which it does tell you now, it says, '
+Well, check your pulse, check this,' I don't know
+
+185
+00:03:31,990 --> 00:03:32,000
+Well, check your pulse, check this,' I don't know
+ 
+
+186
+00:03:32,000 --> 00:03:33,550
+Well, check your pulse, check this,' I don't know
+what." People are starting to self-diagnose.  Yes,
+
+187
+00:03:33,550 --> 00:03:33,560
+what." People are starting to self-diagnose.  Yes,
+ 
+
+188
+00:03:33,560 --> 00:03:35,350
+what." People are starting to self-diagnose.  Yes,
+and that "Dr. Google" effect that existed
+
+189
+00:03:35,350 --> 00:03:35,360
+and that "Dr. Google" effect that existed
+ 
+
+190
+00:03:35,360 --> 00:03:37,910
+and that "Dr. Google" effect that existed
+before, we're starting to see it, but with
+
+191
+00:03:37,910 --> 00:03:37,920
+before, we're starting to see it, but with
+ 
+
+192
+00:03:37,920 --> 00:03:40,070
+before, we're starting to see it, but with
+GPT chat. In fact, queries are starting to
+
+193
+00:03:40,070 --> 00:03:40,080
+GPT chat. In fact, queries are starting to
+ 
+
+194
+00:03:40,080 --> 00:03:42,470
+GPT chat. In fact, queries are starting to
+focus more on artificial intelligence
+
+195
+00:03:42,470 --> 00:03:42,480
+focus more on artificial intelligence
+ 
+
+196
+00:03:42,480 --> 00:03:45,030
+focus more on artificial intelligence
+than on search engines. But of course, we have to
+
+197
+00:03:45,030 --> 00:03:45,040
+than on search engines. But of course, we have to
+ 
+
+198
+00:03:45,040 --> 00:03:47,149
+than on search engines. But of course, we have to
+know how to manage all of this. I don't know if we're
+
+199
+00:03:47,149 --> 00:03:47,159
+know how to manage all of this. I don't know if we're
+ 
+
+200
+00:03:47,159 --> 00:03:48,670
+know how to manage all of this. I don't know if we're
+ready yet; we're still in the early stages.
+
+201
+00:03:48,670 --> 00:03:48,680
+ready yet; we're still in the early stages.
+ 
+
+202
+00:03:48,680 --> 00:03:50,910
+ready yet; we're still in the early stages.
+How are we? What stage are we at?
+
+203
+00:03:50,910 --> 00:03:50,920
+How are we? What stage are we at?
+ 
+
+204
+00:03:50,920 --> 00:03:53,069
+How are we? What stage are we at?
+
+205
+00:03:53,069 --> 00:03:53,079
+
+ 
+
+206
+00:03:53,079 --> 00:03:55,589
+
+Everyone has their time, and
+
+207
+00:03:55,589 --> 00:03:55,599
+Everyone has their time, and
+ 
+
+208
+00:03:55,599 --> 00:03:57,030
+Everyone has their time, and
+think about it: how many hours have you put in to
+
+209
+00:03:57,030 --> 00:03:57,040
+think about it: how many hours have you put in to
+ 
+
+210
+00:03:57,040 --> 00:04:02,350
+think about it: how many hours have you put in to
+learn this? Well, I'm in the middle of it, okay,
+
+211
+00:04:02,350 --> 00:04:02,360
+learn this? Well, I'm in the middle of it, okay,
+ 
+
+212
+00:04:02,360 --> 00:04:04,309
+learn this? Well, I'm in the middle of it, okay,
+but I'm a curious person. But
+
+213
+00:04:04,309 --> 00:04:04,319
+but I'm a curious person. But
+ 
+
+214
+00:04:04,319 --> 00:04:06,789
+but I'm a curious person. But
+normally, it's not... companies are starting to become
+
+215
+00:04:06,789 --> 00:04:06,799
+normally, it's not... companies are starting to become
+ 
+
+216
+00:04:06,799 --> 00:04:09,309
+normally, it's not... companies are starting to become
+aware of it, they're starting
+
+217
+00:04:09,309 --> 00:04:09,319
+aware of it, they're starting
+ 
+
+218
+00:04:09,319 --> 00:04:12,589
+aware of it, they're starting
+to give training talks, but it's not
+
+219
+00:04:12,589 --> 00:04:12,599
+to give training talks, but it's not
+ 
+
+220
+00:04:12,599 --> 00:04:14,869
+to give training talks, but it's not
+integrated into the education system. So, we have to
+
+221
+00:04:14,869 --> 00:04:14,879
+integrated into the education system. So, we have to
+ 
+
+222
+00:04:14,879 --> 00:04:18,310
+integrated into the education system. So, we have to
+grasp it very
+
+223
+00:04:18,310 --> 00:04:18,320
+grasp it very
+ 
+
+224
+00:04:18,320 --> 00:04:20,509
+grasp it very
+effectively and integrate it
+
+225
+00:04:20,509 --> 00:04:20,519
+effectively and integrate it
+ 
+
+226
+00:04:20,519 --> 00:04:22,950
+effectively and integrate it
+very well to make good use
+
+227
+00:04:22,950 --> 00:04:22,960
+very well to make good use
+ 
+
+228
+00:04:22,960 --> 00:04:25,189
+very well to make good use
+of it. Rigorous and direct. Here we are at
+
+229
+00:04:25,189 --> 00:04:25,199
+of it. Rigorous and direct. Here we are at
+ 
+
+230
+00:04:25,199 --> 00:04:27,830
+of it. Rigorous and direct. Here we are at
+the Europa Palace. AI in the Basque Country: challenges and
+
+231
+00:04:27,830 --> 00:04:27,840
+the Europa Palace. AI in the Basque Country: challenges and
+ 
+
+232
+00:04:27,840 --> 00:04:30,270
+the Europa Palace. AI in the Basque Country: challenges and
+opportunities of generative AI
+
+233
+00:04:30,270 --> 00:04:30,280
+opportunities of generative AI
+ 
+
+234
+00:04:30,280 --> 00:04:33,510
+opportunities of generative AI
+without dehumanization or misinformation. We are
+
+235
+00:04:33,510 --> 00:04:33,520
+without dehumanization or misinformation. We are
+ 
+
+236
+00:04:33,520 --> 00:04:35,469
+without dehumanization or misinformation. We are
+very grateful to the
+
+237
+00:04:35,469 --> 00:04:35,479
+very grateful to the
+ 
+
+238
+00:04:35,479 --> 00:04:36,990
+very grateful to the
+strategy director of the Basque
+
+239
+00:04:36,990 --> 00:04:37,000
+strategy director of the Basque
+ 
+
+240
+00:04:37,000 --> 00:04:40,749
+strategy director of the Basque
+Artificial Intelligence Center,
+
+241
+00:04:40,749 --> 00:04:40,759
+Artificial Intelligence Center,
+ 
+
+242
+00:04:40,759 --> 00:04:45,110
+Artificial Intelligence Center,
+Ja Rasco, and to Pablo Álvarez MMD, professor
+
+243
+00:04:45,110 --> 00:04:45,120
+Ja Rasco, and to Pablo Álvarez MMD, professor
+ 
+
+244
+00:04:45,120 --> 00:04:47,790
+Ja Rasco, and to Pablo Álvarez MMD, professor
+of Big Data at the University of Deusto.
+
+245
+00:04:47,790 --> 00:04:47,800
+of Big Data at the University of Deusto.
+ 
+
+246
+00:04:47,800 --> 00:04:51,199
+of Big Data at the University of Deusto.
+A big hug.
+

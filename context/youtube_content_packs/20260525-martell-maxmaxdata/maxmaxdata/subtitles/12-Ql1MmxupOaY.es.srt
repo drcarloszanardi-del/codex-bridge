@@ -1,0 +1,1255 @@
+1
+00:00:00,040 --> 00:00:03,110
+
+y Pablo Álvarez azaga ceod mmd profesor
+
+2
+00:00:03,110 --> 00:00:03,120
+y Pablo Álvarez azaga ceod mmd profesor
+ 
+
+3
+00:00:03,120 --> 00:00:05,510
+y Pablo Álvarez azaga ceod mmd profesor
+de Big Data business intelligence e
+
+4
+00:00:05,510 --> 00:00:05,520
+de Big Data business intelligence e
+ 
+
+5
+00:00:05,520 --> 00:00:06,550
+de Big Data business intelligence e
+Inteligencia artificial en la
+
+6
+00:00:06,550 --> 00:00:06,560
+Inteligencia artificial en la
+ 
+
+7
+00:00:06,560 --> 00:00:09,070
+Inteligencia artificial en la
+universidad de deusto qué tal Pablo
+
+8
+00:00:09,070 --> 00:00:09,080
+universidad de deusto qué tal Pablo
+ 
+
+9
+00:00:09,080 --> 00:00:11,870
+universidad de deusto qué tal Pablo
+tenéis unos cargos muy complicados eh
+
+10
+00:00:11,870 --> 00:00:11,880
+tenéis unos cargos muy complicados eh
+ 
+
+11
+00:00:11,880 --> 00:00:13,270
+tenéis unos cargos muy complicados eh
+para la radio
+
+12
+00:00:13,270 --> 00:00:13,280
+para la radio
+ 
+
+13
+00:00:13,280 --> 00:00:16,070
+para la radio
+vamos y esto Cómo se traduce realmente
+
+14
+00:00:16,070 --> 00:00:16,080
+vamos y esto Cómo se traduce realmente
+ 
+
+15
+00:00:16,080 --> 00:00:17,630
+vamos y esto Cómo se traduce realmente
+qué es lo que Vais a explicar hoy aquí
+
+16
+00:00:17,630 --> 00:00:17,640
+qué es lo que Vais a explicar hoy aquí
+ 
+
+17
+00:00:17,640 --> 00:00:19,830
+qué es lo que Vais a explicar hoy aquí
+en el Palacio Europa dentro del espacio
+
+18
+00:00:19,830 --> 00:00:19,840
+en el Palacio Europa dentro del espacio
+ 
+
+19
+00:00:19,840 --> 00:00:21,070
+en el Palacio Europa dentro del espacio
+araba
+
+20
+00:00:21,070 --> 00:00:21,080
+araba
+ 
+
+21
+00:00:21,080 --> 00:00:24,269
+araba
+inteligente bueno eh hoy voy a hoy voy a
+
+22
+00:00:24,269 --> 00:00:24,279
+inteligente bueno eh hoy voy a hoy voy a
+ 
+
+23
+00:00:24,279 --> 00:00:25,830
+inteligente bueno eh hoy voy a hoy voy a
+hablar de de tema de Inteligencia
+
+24
+00:00:25,830 --> 00:00:25,840
+hablar de de tema de Inteligencia
+ 
+
+25
+00:00:25,840 --> 00:00:27,310
+hablar de de tema de Inteligencia
+artificial en la universidad de deusto
+
+26
+00:00:27,310 --> 00:00:27,320
+artificial en la universidad de deusto
+ 
+
+27
+00:00:27,320 --> 00:00:30,109
+artificial en la universidad de deusto
+soy profesor en distintas facultades las
+
+28
+00:00:30,109 --> 00:00:30,119
+soy profesor en distintas facultades las
+ 
+
+29
+00:00:30,119 --> 00:00:31,749
+soy profesor en distintas facultades las
+que enseño temas de Big Data business
+
+30
+00:00:31,749 --> 00:00:31,759
+que enseño temas de Big Data business
+ 
+
+31
+00:00:31,759 --> 00:00:34,150
+que enseño temas de Big Data business
+intelligence que al final viene a ser
+
+32
+00:00:34,150 --> 00:00:34,160
+intelligence que al final viene a ser
+ 
+
+33
+00:00:34,160 --> 00:00:36,630
+intelligence que al final viene a ser
+todo un análisis avanzado de números
+
+34
+00:00:36,630 --> 00:00:36,640
+todo un análisis avanzado de números
+ 
+
+35
+00:00:36,640 --> 00:00:38,590
+todo un análisis avanzado de números
+para que se pueda emplear en negocios
+
+36
+00:00:38,590 --> 00:00:38,600
+para que se pueda emplear en negocios
+ 
+
+37
+00:00:38,600 --> 00:00:41,110
+para que se pueda emplear en negocios
+para tomar mejores decisiones aterrizado
+
+38
+00:00:41,110 --> 00:00:41,120
+para tomar mejores decisiones aterrizado
+ 
+
+39
+00:00:41,120 --> 00:00:44,190
+para tomar mejores decisiones aterrizado
+al mundo de los mortales claro son la
+
+40
+00:00:44,190 --> 00:00:44,200
+al mundo de los mortales claro son la
+ 
+
+41
+00:00:44,200 --> 00:00:45,790
+al mundo de los mortales claro son la
+mayoría de los que nos están escuchando
+
+42
+00:00:45,790 --> 00:00:45,800
+mayoría de los que nos están escuchando
+ 
+
+43
+00:00:45,800 --> 00:00:47,350
+mayoría de los que nos están escuchando
+Claro porque es que si nos ponemos a
+
+44
+00:00:47,350 --> 00:00:47,360
+Claro porque es que si nos ponemos a
+ 
+
+45
+00:00:47,360 --> 00:00:48,750
+Claro porque es que si nos ponemos a
+hablar de esos términos van a decir
+
+46
+00:00:48,750 --> 00:00:48,760
+hablar de esos términos van a decir
+ 
+
+47
+00:00:48,760 --> 00:00:51,470
+hablar de esos términos van a decir
+estos de qué hablan esos términos no se
+
+48
+00:00:51,470 --> 00:00:51,480
+estos de qué hablan esos términos no se
+ 
+
+49
+00:00:51,480 --> 00:00:53,470
+estos de qué hablan esos términos no se
+pueden naturalizar no se pueden yo
+
+50
+00:00:53,470 --> 00:00:53,480
+pueden naturalizar no se pueden yo
+ 
+
+51
+00:00:53,480 --> 00:00:55,869
+pueden naturalizar no se pueden yo
+Procuro Sí sí Procuro en la comunicación
+
+52
+00:00:55,869 --> 00:00:55,879
+Procuro Sí sí Procuro en la comunicación
+ 
+
+53
+00:00:55,879 --> 00:00:58,270
+Procuro Sí sí Procuro en la comunicación
+Procuro aterrizar losos y decir mira
+
+54
+00:00:58,270 --> 00:00:58,280
+Procuro aterrizar losos y decir mira
+ 
+
+55
+00:00:58,280 --> 00:01:00,310
+Procuro aterrizar losos y decir mira
+esto que tiene este nombre realmente es
+
+56
+00:01:00,310 --> 00:01:00,320
+esto que tiene este nombre realmente es
+ 
+
+57
+00:01:00,320 --> 00:01:02,150
+esto que tiene este nombre realmente es
+esto esto esto y esto de una manera más
+
+58
+00:01:02,150 --> 00:01:02,160
+esto esto esto y esto de una manera más
+ 
+
+59
+00:01:02,160 --> 00:01:04,750
+esto esto esto y esto de una manera más
+natural entonces en la ponencia de hoy
+
+60
+00:01:04,750 --> 00:01:04,760
+natural entonces en la ponencia de hoy
+ 
+
+61
+00:01:04,760 --> 00:01:07,190
+natural entonces en la ponencia de hoy
+lo que vengo es a transmitir lo que es
+
+62
+00:01:07,190 --> 00:01:07,200
+lo que vengo es a transmitir lo que es
+ 
+
+63
+00:01:07,200 --> 00:01:09,109
+lo que vengo es a transmitir lo que es
+la Inteligencia artificial
+
+64
+00:01:09,109 --> 00:01:09,119
+la Inteligencia artificial
+ 
+
+65
+00:01:09,119 --> 00:01:12,950
+la Inteligencia artificial
+desmitificar todos estos grandes gritos
+
+66
+00:01:12,950 --> 00:01:12,960
+desmitificar todos estos grandes gritos
+ 
+
+67
+00:01:12,960 --> 00:01:14,590
+desmitificar todos estos grandes gritos
+que hay en el cielo ahora mismo de que
+
+68
+00:01:14,590 --> 00:01:14,600
+que hay en el cielo ahora mismo de que
+ 
+
+69
+00:01:14,600 --> 00:01:16,749
+que hay en el cielo ahora mismo de que
+si viene a quitar trabajo si la gente se
+
+70
+00:01:16,749 --> 00:01:16,759
+si viene a quitar trabajo si la gente se
+ 
+
+71
+00:01:16,759 --> 00:01:19,390
+si viene a quitar trabajo si la gente se
+queda atrás qué es esto vienen los
+
+72
+00:01:19,390 --> 00:01:19,400
+queda atrás qué es esto vienen los
+ 
+
+73
+00:01:19,400 --> 00:01:22,590
+queda atrás qué es esto vienen los
+robots nos vamos a Marte no entonces
+
+74
+00:01:22,590 --> 00:01:22,600
+robots nos vamos a Marte no entonces
+ 
+
+75
+00:01:22,600 --> 00:01:24,310
+robots nos vamos a Marte no entonces
+vengo a poner un puntito de realidad
+
+76
+00:01:24,310 --> 00:01:24,320
+vengo a poner un puntito de realidad
+ 
+
+77
+00:01:24,320 --> 00:01:26,030
+vengo a poner un puntito de realidad
+sobre el
+
+78
+00:01:26,030 --> 00:01:26,040
+sobre el
+ 
+
+79
+00:01:26,040 --> 00:01:30,109
+sobre el
+asunto tendrás que ver la ponencia
+
+80
+00:01:30,109 --> 00:01:30,119
+asunto tendrás que ver la ponencia
+ 
+
+81
+00:01:30,119 --> 00:01:33,950
+asunto tendrás que ver la ponencia
+un spoiler Pablo Qué es la ía generativa
+
+82
+00:01:33,950 --> 00:01:33,960
+un spoiler Pablo Qué es la ía generativa
+ 
+
+83
+00:01:33,960 --> 00:01:35,830
+un spoiler Pablo Qué es la ía generativa
+pues la Inteligencia artificial que
+
+84
+00:01:35,830 --> 00:01:35,840
+pues la Inteligencia artificial que
+ 
+
+85
+00:01:35,840 --> 00:01:38,310
+pues la Inteligencia artificial que
+genera cosas como puede ser el texto la
+
+86
+00:01:38,310 --> 00:01:38,320
+genera cosas como puede ser el texto la
+ 
+
+87
+00:01:38,320 --> 00:01:42,469
+genera cosas como puede ser el texto la
+música La Voz imágenes chat gpt Es una
+
+88
+00:01:42,469 --> 00:01:42,479
+música La Voz imágenes chat gpt Es una
+ 
+
+89
+00:01:42,479 --> 00:01:45,149
+música La Voz imágenes chat gpt Es una
+herramienta que genera voz texto e
+
+90
+00:01:45,149 --> 00:01:45,159
+herramienta que genera voz texto e
+ 
+
+91
+00:01:45,159 --> 00:01:47,749
+herramienta que genera voz texto e
+imágenes de hecho Bueno las imágenes son
+
+92
+00:01:47,749 --> 00:01:47,759
+imágenes de hecho Bueno las imágenes son
+ 
+
+93
+00:01:47,759 --> 00:01:50,670
+imágenes de hecho Bueno las imágenes son
+de Dali 3 pero viene por por el gpt Sí
+
+94
+00:01:50,670 --> 00:01:50,680
+de Dali 3 pero viene por por el gpt Sí
+ 
+
+95
+00:01:50,680 --> 00:01:54,350
+de Dali 3 pero viene por por el gpt Sí
+ajá Innovación sin deshumanización ni
+
+96
+00:01:54,350 --> 00:01:54,360
+ajá Innovación sin deshumanización ni
+ 
+
+97
+00:01:54,360 --> 00:01:56,749
+ajá Innovación sin deshumanización ni
+desinformación Esa es la charla Ese es
+
+98
+00:01:56,749 --> 00:01:56,759
+desinformación Esa es la charla Ese es
+ 
+
+99
+00:01:56,759 --> 00:01:59,230
+desinformación Esa es la charla Ese es
+el concepto Ese es el título También
+
+100
+00:01:59,230 --> 00:01:59,240
+el concepto Ese es el título También
+ 
+
+101
+00:01:59,240 --> 00:02:01,069
+el concepto Ese es el título También
+bien largo
+
+102
+00:02:01,069 --> 00:02:01,079
+bien largo
+ 
+
+103
+00:02:01,079 --> 00:02:01,870
+bien largo
+sin
+
+104
+00:02:01,870 --> 00:02:01,880
+sin
+ 
+
+105
+00:02:01,880 --> 00:02:04,109
+sin
+deshumanización claro lógicamente el ser
+
+106
+00:02:04,109 --> 00:02:04,119
+deshumanización claro lógicamente el ser
+ 
+
+107
+00:02:04,119 --> 00:02:06,230
+deshumanización claro lógicamente el ser
+humano está detrás la inteligencia la
+
+108
+00:02:06,230 --> 00:02:06,240
+humano está detrás la inteligencia la
+ 
+
+109
+00:02:06,240 --> 00:02:07,990
+humano está detrás la inteligencia la
+tiene que poner el ser humano sí Y es
+
+110
+00:02:07,990 --> 00:02:08,000
+tiene que poner el ser humano sí Y es
+ 
+
+111
+00:02:08,000 --> 00:02:09,070
+tiene que poner el ser humano sí Y es
+muy importante que igual que has
+
+112
+00:02:09,070 --> 00:02:09,080
+muy importante que igual que has
+ 
+
+113
+00:02:09,080 --> 00:02:10,710
+muy importante que igual que has
+comentado no que esto está siendo ahora
+
+114
+00:02:10,710 --> 00:02:10,720
+comentado no que esto está siendo ahora
+ 
+
+115
+00:02:10,720 --> 00:02:14,229
+comentado no que esto está siendo ahora
+mismo un una locución hecha por humanos
+
+116
+00:02:14,229 --> 00:02:14,239
+mismo un una locución hecha por humanos
+ 
+
+117
+00:02:14,239 --> 00:02:17,110
+mismo un una locución hecha por humanos
+de Humanos a humanos que dice y qué pasa
+
+118
+00:02:17,110 --> 00:02:17,120
+de Humanos a humanos que dice y qué pasa
+ 
+
+119
+00:02:17,120 --> 00:02:19,470
+de Humanos a humanos que dice y qué pasa
+ahí qué incierto hay No en el futuro de
+
+120
+00:02:19,470 --> 00:02:19,480
+ahí qué incierto hay No en el futuro de
+ 
+
+121
+00:02:19,480 --> 00:02:21,670
+ahí qué incierto hay No en el futuro de
+van a ser máquinas hablando con máquinas
+
+122
+00:02:21,670 --> 00:02:21,680
+van a ser máquinas hablando con máquinas
+ 
+
+123
+00:02:21,680 --> 00:02:23,670
+van a ser máquinas hablando con máquinas
+estaremos hablando con máquinas vamos a
+
+124
+00:02:23,670 --> 00:02:23,680
+estaremos hablando con máquinas vamos a
+ 
+
+125
+00:02:23,680 --> 00:02:25,589
+estaremos hablando con máquinas vamos a
+interactuar con máquinas Bueno ahora lo
+
+126
+00:02:25,589 --> 00:02:25,599
+interactuar con máquinas Bueno ahora lo
+ 
+
+127
+00:02:25,599 --> 00:02:27,270
+interactuar con máquinas Bueno ahora lo
+hacemos No cuando llamamos a una
+
+128
+00:02:27,270 --> 00:02:27,280
+hacemos No cuando llamamos a una
+ 
+
+129
+00:02:27,280 --> 00:02:29,910
+hacemos No cuando llamamos a una
+compañía y nos sale un robot estamos
+
+130
+00:02:29,910 --> 00:02:29,920
+compañía y nos sale un robot estamos
+ 
+
+131
+00:02:29,920 --> 00:02:31,030
+compañía y nos sale un robot estamos
+hablando con máquinas Sí con un
+
+132
+00:02:31,030 --> 00:02:31,040
+hablando con máquinas Sí con un
+ 
+
+133
+00:02:31,040 --> 00:02:33,430
+hablando con máquinas Sí con un
+contestador automático no de de alumno
+
+134
+00:02:33,430 --> 00:02:33,440
+contestador automático no de de alumno
+ 
+
+135
+00:02:33,440 --> 00:02:35,390
+contestador automático no de de alumno
+si está opción y tales No si quiere
+
+136
+00:02:35,390 --> 00:02:35,400
+si está opción y tales No si quiere
+ 
+
+137
+00:02:35,400 --> 00:02:37,430
+si está opción y tales No si quiere
+hablar con el departamento
+
+138
+00:02:37,430 --> 00:02:37,440
+hablar con el departamento
+ 
+
+139
+00:02:37,440 --> 00:02:40,190
+hablar con el departamento
+de pero ahora mismo ya eso eso ya son
+
+140
+00:02:40,190 --> 00:02:40,200
+de pero ahora mismo ya eso eso ya son
+ 
+
+141
+00:02:40,200 --> 00:02:42,350
+de pero ahora mismo ya eso eso ya son
+opciones de programación de pulsa uno
+
+142
+00:02:42,350 --> 00:02:42,360
+opciones de programación de pulsa uno
+ 
+
+143
+00:02:42,360 --> 00:02:44,030
+opciones de programación de pulsa uno
+pulsa dos te lleva por un Paz la
+
+144
+00:02:44,030 --> 00:02:44,040
+pulsa dos te lleva por un Paz la
+ 
+
+145
+00:02:44,040 --> 00:02:45,910
+pulsa dos te lleva por un Paz la
+Inteligencia artificial generativa lo
+
+146
+00:02:45,910 --> 00:02:45,920
+Inteligencia artificial generativa lo
+ 
+
+147
+00:02:45,920 --> 00:02:48,790
+Inteligencia artificial generativa lo
+que te haces tú no es un predictor de
+
+148
+00:02:48,790 --> 00:02:48,800
+que te haces tú no es un predictor de
+ 
+
+149
+00:02:48,800 --> 00:02:50,710
+que te haces tú no es un predictor de
+una respuesta que nunca va a ser la
+
+150
+00:02:50,710 --> 00:02:50,720
+una respuesta que nunca va a ser la
+ 
+
+151
+00:02:50,720 --> 00:02:53,270
+una respuesta que nunca va a ser la
+misma Entonces tú no sabes lo que va a
+
+152
+00:02:53,270 --> 00:02:53,280
+misma Entonces tú no sabes lo que va a
+ 
+
+153
+00:02:53,280 --> 00:02:55,070
+misma Entonces tú no sabes lo que va a
+pasar y entonces también hay mucho miedo
+
+154
+00:02:55,070 --> 00:02:55,080
+pasar y entonces también hay mucho miedo
+ 
+
+155
+00:02:55,080 --> 00:02:56,509
+pasar y entonces también hay mucho miedo
+por eso decíamos que una parte es
+
+156
+00:02:56,509 --> 00:02:56,519
+por eso decíamos que una parte es
+ 
+
+157
+00:02:56,519 --> 00:02:58,830
+por eso decíamos que una parte es
+nuestra de las personas de ir adaptando
+
+158
+00:02:58,830 --> 00:02:58,840
+nuestra de las personas de ir adaptando
+ 
+
+159
+00:02:58,840 --> 00:03:00,949
+nuestra de las personas de ir adaptando
+la tecnología otra parte los gobiernos y
+
+160
+00:03:00,949 --> 00:03:00,959
+la tecnología otra parte los gobiernos y
+ 
+
+161
+00:03:00,959 --> 00:03:03,309
+la tecnología otra parte los gobiernos y
+las empresas de decir Oye aquí el genio
+
+162
+00:03:03,309 --> 00:03:03,319
+las empresas de decir Oye aquí el genio
+ 
+
+163
+00:03:03,319 --> 00:03:06,190
+las empresas de decir Oye aquí el genio
+que tenemos dentro de la botella dice
+
+164
+00:03:06,190 --> 00:03:06,200
+que tenemos dentro de la botella dice
+ 
+
+165
+00:03:06,200 --> 00:03:07,910
+que tenemos dentro de la botella dice
+muchas cosas y algunas no debería
+
+166
+00:03:07,910 --> 00:03:07,920
+muchas cosas y algunas no debería
+ 
+
+167
+00:03:07,920 --> 00:03:10,470
+muchas cosas y algunas no debería
+decirla si es impredecible entonces
+
+168
+00:03:10,470 --> 00:03:10,480
+decirla si es impredecible entonces
+ 
+
+169
+00:03:10,480 --> 00:03:12,630
+decirla si es impredecible entonces
+acotar y llevarle por políticas que es
+
+170
+00:03:12,630 --> 00:03:12,640
+acotar y llevarle por políticas que es
+ 
+
+171
+00:03:12,640 --> 00:03:14,670
+acotar y llevarle por políticas que es
+una una parte donde están poniendo mucho
+
+172
+00:03:14,670 --> 00:03:14,680
+una una parte donde están poniendo mucho
+ 
+
+173
+00:03:14,680 --> 00:03:17,470
+una una parte donde están poniendo mucho
+esfuerzo los desarrolladores de de estas
+
+174
+00:03:17,470 --> 00:03:17,480
+esfuerzo los desarrolladores de de estas
+ 
+
+175
+00:03:17,480 --> 00:03:19,509
+esfuerzo los desarrolladores de de estas
+inteligencias artificiales generativas
+
+176
+00:03:19,509 --> 00:03:19,519
+inteligencias artificiales generativas
+ 
+
+177
+00:03:19,519 --> 00:03:21,470
+inteligencias artificiales generativas
+claro el miedo de que las máquinas nos
+
+178
+00:03:21,470 --> 00:03:21,480
+claro el miedo de que las máquinas nos
+ 
+
+179
+00:03:21,480 --> 00:03:23,309
+claro el miedo de que las máquinas nos
+gobiernen no finalmente no te den un
+
+180
+00:03:23,309 --> 00:03:23,319
+gobiernen no finalmente no te den un
+ 
+
+181
+00:03:23,319 --> 00:03:24,910
+gobiernen no finalmente no te den un
+consejo médico dices Oye me encuentro
+
+182
+00:03:24,910 --> 00:03:24,920
+consejo médico dices Oye me encuentro
+ 
+
+183
+00:03:24,920 --> 00:03:26,309
+consejo médico dices Oye me encuentro
+mal y dice Bueno si te encuentras mal
+
+184
+00:03:26,309 --> 00:03:26,319
+mal y dice Bueno si te encuentras mal
+ 
+
+185
+00:03:26,319 --> 00:03:28,110
+mal y dice Bueno si te encuentras mal
+deberías en lugar de decirte Vete al
+
+186
+00:03:28,110 --> 00:03:28,120
+deberías en lugar de decirte Vete al
+ 
+
+187
+00:03:28,120 --> 00:03:30,229
+deberías en lugar de decirte Vete al
+médico que sí te lo dice ahora te dice
+
+188
+00:03:30,229 --> 00:03:30,239
+médico que sí te lo dice ahora te dice
+ 
+
+189
+00:03:30,239 --> 00:03:31,990
+médico que sí te lo dice ahora te dice
+Bueno pues mírate el pulso mírate no sé
+
+190
+00:03:31,990 --> 00:03:32,000
+Bueno pues mírate el pulso mírate no sé
+ 
+
+191
+00:03:32,000 --> 00:03:33,550
+Bueno pues mírate el pulso mírate no sé
+qué la gente empieza a auto escultar si
+
+192
+00:03:33,550 --> 00:03:33,560
+qué la gente empieza a auto escultar si
+ 
+
+193
+00:03:33,560 --> 00:03:35,350
+qué la gente empieza a auto escultar si
+y ese efecto Doctor Google que había
+
+194
+00:03:35,350 --> 00:03:35,360
+y ese efecto Doctor Google que había
+ 
+
+195
+00:03:35,360 --> 00:03:37,910
+y ese efecto Doctor Google que había
+antes lo empezamos a tener pero con chat
+
+196
+00:03:37,910 --> 00:03:37,920
+antes lo empezamos a tener pero con chat
+ 
+
+197
+00:03:37,920 --> 00:03:40,070
+antes lo empezamos a tener pero con chat
+gpt de hecho las consultas empiezan a
+
+198
+00:03:40,070 --> 00:03:40,080
+gpt de hecho las consultas empiezan a
+ 
+
+199
+00:03:40,080 --> 00:03:42,470
+gpt de hecho las consultas empiezan a
+atender más a inteligencias artificiales
+
+200
+00:03:42,470 --> 00:03:42,480
+atender más a inteligencias artificiales
+ 
+
+201
+00:03:42,480 --> 00:03:45,030
+atender más a inteligencias artificiales
+que a buscadores pero claro Hay que
+
+202
+00:03:45,030 --> 00:03:45,040
+que a buscadores pero claro Hay que
+ 
+
+203
+00:03:45,040 --> 00:03:47,149
+que a buscadores pero claro Hay que
+saber manejar todo esto no yo no sé si
+
+204
+00:03:47,149 --> 00:03:47,159
+saber manejar todo esto no yo no sé si
+ 
+
+205
+00:03:47,159 --> 00:03:48,670
+saber manejar todo esto no yo no sé si
+estamos todavía preparados estamos en
+
+206
+00:03:48,670 --> 00:03:48,680
+estamos todavía preparados estamos en
+ 
+
+207
+00:03:48,680 --> 00:03:50,910
+estamos todavía preparados estamos en
+mantillas Cómo estamos En qué fase nos
+
+208
+00:03:50,910 --> 00:03:50,920
+mantillas Cómo estamos En qué fase nos
+ 
+
+209
+00:03:50,920 --> 00:03:53,069
+mantillas Cómo estamos En qué fase nos
+encontramos
+
+210
+00:03:53,069 --> 00:03:53,079
+encontramos
+ 
+
+211
+00:03:53,079 --> 00:03:55,589
+encontramos
+ante verdes todos son horas en la vida y
+
+212
+00:03:55,589 --> 00:03:55,599
+ante verdes todos son horas en la vida y
+ 
+
+213
+00:03:55,599 --> 00:03:57,030
+ante verdes todos son horas en la vida y
+piensa Cuántas horas has metido para
+
+214
+00:03:57,030 --> 00:03:57,040
+piensa Cuántas horas has metido para
+ 
+
+215
+00:03:57,040 --> 00:04:02,350
+piensa Cuántas horas has metido para
+aprender esto yo cl pues estoy en ell
+
+216
+00:04:02,350 --> 00:04:02,360
+aprender esto yo cl pues estoy en ell
+ 
+
+217
+00:04:02,360 --> 00:04:04,309
+aprender esto yo cl pues estoy en ell
+vale pero una persona curiosa pero de
+
+218
+00:04:04,309 --> 00:04:04,319
+vale pero una persona curiosa pero de
+ 
+
+219
+00:04:04,319 --> 00:04:06,789
+vale pero una persona curiosa pero de
+normal no se está se está empezando a
+
+220
+00:04:06,789 --> 00:04:06,799
+normal no se está se está empezando a
+ 
+
+221
+00:04:06,799 --> 00:04:09,309
+normal no se está se está empezando a
+sensibilizar en las empresas se empieza
+
+222
+00:04:09,309 --> 00:04:09,319
+sensibilizar en las empresas se empieza
+ 
+
+223
+00:04:09,319 --> 00:04:12,589
+sensibilizar en las empresas se empieza
+a dar charlas formativas pero no está
+
+224
+00:04:12,589 --> 00:04:12,599
+a dar charlas formativas pero no está
+ 
+
+225
+00:04:12,599 --> 00:04:14,869
+a dar charlas formativas pero no está
+integrado en el sistema educativo
+
+226
+00:04:14,869 --> 00:04:14,879
+integrado en el sistema educativo
+ 
+
+227
+00:04:14,879 --> 00:04:18,310
+integrado en el sistema educativo
+Esto entonces hay que cogerlo muy
+
+228
+00:04:18,310 --> 00:04:18,320
+Esto entonces hay que cogerlo muy
+ 
+
+229
+00:04:18,320 --> 00:04:20,509
+Esto entonces hay que cogerlo muy
+potente y hay que hay que integrarlo con
+
+230
+00:04:20,509 --> 00:04:20,519
+potente y hay que hay que integrarlo con
+ 
+
+231
+00:04:20,519 --> 00:04:22,950
+potente y hay que hay que integrarlo con
+mucha solvencia para hacer un buen uso
+
+232
+00:04:22,950 --> 00:04:22,960
+mucha solvencia para hacer un buen uso
+ 
+
+233
+00:04:22,960 --> 00:04:25,189
+mucha solvencia para hacer un buen uso
+de ello riguroso directo aquí estamos en
+
+234
+00:04:25,189 --> 00:04:25,199
+de ello riguroso directo aquí estamos en
+ 
+
+235
+00:04:25,199 --> 00:04:27,830
+de ello riguroso directo aquí estamos en
+el Palacio Europa ia en euscadi retos y
+
+236
+00:04:27,830 --> 00:04:27,840
+el Palacio Europa ia en euscadi retos y
+ 
+
+237
+00:04:27,840 --> 00:04:30,270
+el Palacio Europa ia en euscadi retos y
+oportunidades ia generativa
+
+238
+00:04:30,270 --> 00:04:30,280
+oportunidades ia generativa
+ 
+
+239
+00:04:30,280 --> 00:04:33,510
+oportunidades ia generativa
+sin deshumanización ni desinformación
+
+240
+00:04:33,510 --> 00:04:33,520
+sin deshumanización ni desinformación
+ 
+
+241
+00:04:33,520 --> 00:04:35,469
+sin deshumanización ni desinformación
+pues Les agradecemos muchísimo a la
+
+242
+00:04:35,469 --> 00:04:35,479
+pues Les agradecemos muchísimo a la
+ 
+
+243
+00:04:35,479 --> 00:04:36,990
+pues Les agradecemos muchísimo a la
+directora de estrategia del bas
+
+244
+00:04:36,990 --> 00:04:37,000
+directora de estrategia del bas
+ 
+
+245
+00:04:37,000 --> 00:04:40,749
+directora de estrategia del bas
+artificial intellig Center El bike rate
+
+246
+00:04:40,749 --> 00:04:40,759
+artificial intellig Center El bike rate
+ 
+
+247
+00:04:40,759 --> 00:04:45,110
+artificial intellig Center El bike rate
+Ja rasco Y a Pablo Álvarez mmd profesor
+
+248
+00:04:45,110 --> 00:04:45,120
+Ja rasco Y a Pablo Álvarez mmd profesor
+ 
+
+249
+00:04:45,120 --> 00:04:47,790
+Ja rasco Y a Pablo Álvarez mmd profesor
+de Big Data de la Universidad de deusto
+
+250
+00:04:47,790 --> 00:04:47,800
+de Big Data de la Universidad de deusto
+ 
+
+251
+00:04:47,800 --> 00:04:51,199
+de Big Data de la Universidad de deusto
+un abrazo fuerte
+

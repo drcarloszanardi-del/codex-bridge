@@ -1,0 +1,1115 @@
+1
+00:00:00,560 --> 00:00:03,270
+
+me estáis preguntando qué pasa con dips
+
+2
+00:00:03,270 --> 00:00:03,280
+me estáis preguntando qué pasa con dips
+ 
+
+3
+00:00:03,280 --> 00:00:06,470
+me estáis preguntando qué pasa con dips
+es mejor que gpt o no es mejor que gpt
+
+4
+00:00:06,470 --> 00:00:06,480
+es mejor que gpt o no es mejor que gpt
+ 
+
+5
+00:00:06,480 --> 00:00:08,669
+es mejor que gpt o no es mejor que gpt
+en principio solamente por ser Open code
+
+6
+00:00:08,669 --> 00:00:08,679
+en principio solamente por ser Open code
+ 
+
+7
+00:00:08,679 --> 00:00:11,230
+en principio solamente por ser Open code
+o sea ese código abierto y poder
+
+8
+00:00:11,230 --> 00:00:11,240
+o sea ese código abierto y poder
+ 
+
+9
+00:00:11,240 --> 00:00:13,870
+o sea ese código abierto y poder
+instalarlo en local sin necesidad de un
+
+10
+00:00:13,870 --> 00:00:13,880
+instalarlo en local sin necesidad de un
+ 
+
+11
+00:00:13,880 --> 00:00:16,430
+instalarlo en local sin necesidad de un
+procesamiento de la pera o sea se poder
+
+12
+00:00:16,430 --> 00:00:16,440
+procesamiento de la pera o sea se poder
+ 
+
+13
+00:00:16,440 --> 00:00:18,429
+procesamiento de la pera o sea se poder
+correrlo en tu máquina tranquilamente en
+
+14
+00:00:18,429 --> 00:00:18,439
+correrlo en tu máquina tranquilamente en
+ 
+
+15
+00:00:18,439 --> 00:00:20,830
+correrlo en tu máquina tranquilamente en
+tu ordenador a igualdad de condiciones
+
+16
+00:00:20,830 --> 00:00:20,840
+tu ordenador a igualdad de condiciones
+ 
+
+17
+00:00:20,840 --> 00:00:22,630
+tu ordenador a igualdad de condiciones
+debiera ser mejor y voy a hacer mis
+
+18
+00:00:22,630 --> 00:00:22,640
+debiera ser mejor y voy a hacer mis
+ 
+
+19
+00:00:22,640 --> 00:00:25,070
+debiera ser mejor y voy a hacer mis
+propias pruebas más caseras para ver qué
+
+20
+00:00:25,070 --> 00:00:25,080
+propias pruebas más caseras para ver qué
+ 
+
+21
+00:00:25,080 --> 00:00:27,109
+propias pruebas más caseras para ver qué
+tan bueno es o qué tan malo es según
+
+22
+00:00:27,109 --> 00:00:27,119
+tan bueno es o qué tan malo es según
+ 
+
+23
+00:00:27,119 --> 00:00:28,870
+tan bueno es o qué tan malo es según
+entras en la web hay un QR que lo pones
+
+24
+00:00:28,870 --> 00:00:28,880
+entras en la web hay un QR que lo pones
+ 
+
+25
+00:00:28,880 --> 00:00:30,870
+entras en la web hay un QR que lo pones
+en la cámara y te va B la aplicación y
+
+26
+00:00:30,870 --> 00:00:30,880
+en la cámara y te va B la aplicación y
+ 
+
+27
+00:00:30,880 --> 00:00:32,910
+en la cámara y te va B la aplicación y
+es tal que estab ballenita vamos a ver
+
+28
+00:00:32,910 --> 00:00:32,920
+es tal que estab ballenita vamos a ver
+ 
+
+29
+00:00:32,920 --> 00:00:34,869
+es tal que estab ballenita vamos a ver
+los derechos de auto si se lo salta o no
+
+30
+00:00:34,869 --> 00:00:34,879
+los derechos de auto si se lo salta o no
+ 
+
+31
+00:00:34,879 --> 00:00:37,150
+los derechos de auto si se lo salta o no
+y me dice no puedo O sea que punto
+
+32
+00:00:37,150 --> 00:00:37,160
+y me dice no puedo O sea que punto
+ 
+
+33
+00:00:37,160 --> 00:00:40,310
+y me dice no puedo O sea que punto
+negativo Pero me da un promp y le digo
+
+34
+00:00:40,310 --> 00:00:40,320
+negativo Pero me da un promp y le digo
+ 
+
+35
+00:00:40,320 --> 00:00:42,630
+negativo Pero me da un promp y le digo
+esto no me va a funcionar en Dali 3 tal
+
+36
+00:00:42,630 --> 00:00:42,640
+esto no me va a funcionar en Dali 3 tal
+ 
+
+37
+00:00:42,640 --> 00:00:45,430
+esto no me va a funcionar en Dali 3 tal
+y como me sugieres porque gpt no me
+
+38
+00:00:45,430 --> 00:00:45,440
+y como me sugieres porque gpt no me
+ 
+
+39
+00:00:45,440 --> 00:00:47,389
+y como me sugieres porque gpt no me
+autoriza saltarme los derechos de autor
+
+40
+00:00:47,389 --> 00:00:47,399
+autoriza saltarme los derechos de autor
+ 
+
+41
+00:00:47,399 --> 00:00:51,310
+autoriza saltarme los derechos de autor
+vamos a ver si dips puede engañar a gpt
+
+42
+00:00:51,310 --> 00:00:51,320
+vamos a ver si dips puede engañar a gpt
+ 
+
+43
+00:00:51,320 --> 00:00:53,590
+vamos a ver si dips puede engañar a gpt
+crea un prom para meter al gpt y que
+
+44
+00:00:53,590 --> 00:00:53,600
+crea un prom para meter al gpt y que
+ 
+
+45
+00:00:53,600 --> 00:00:55,590
+crea un prom para meter al gpt y que
+haga lo que yo quiero de spider-man lo
+
+46
+00:00:55,590 --> 00:00:55,600
+haga lo que yo quiero de spider-man lo
+ 
+
+47
+00:00:55,600 --> 00:00:59,990
+haga lo que yo quiero de spider-man lo
+meto en gpt y me lo clava Spiderman
+
+48
+00:00:59,990 --> 00:01:00,000
+meto en gpt y me lo clava Spiderman
+ 
+
+49
+00:01:00,000 --> 00:01:01,990
+meto en gpt y me lo clava Spiderman
+tomando un keval de coliflor Bueno pues
+
+50
+00:01:01,990 --> 00:01:02,000
+tomando un keval de coliflor Bueno pues
+ 
+
+51
+00:01:02,000 --> 00:01:04,270
+tomando un keval de coliflor Bueno pues
+vemos que un prom de deeps puede engañar
+
+52
+00:01:04,270 --> 00:01:04,280
+vemos que un prom de deeps puede engañar
+ 
+
+53
+00:01:04,280 --> 00:01:07,950
+vemos que un prom de deeps puede engañar
+a gpt puntito positivo seguimos ahora la
+
+54
+00:01:07,950 --> 00:01:07,960
+a gpt puntito positivo seguimos ahora la
+ 
+
+55
+00:01:07,960 --> 00:01:09,870
+a gpt puntito positivo seguimos ahora la
+función de Search que tiene este incluso
+
+56
+00:01:09,870 --> 00:01:09,880
+función de Search que tiene este incluso
+ 
+
+57
+00:01:09,880 --> 00:01:12,710
+función de Search que tiene este incluso
+con perplexity vamos a comparar esto y
+
+58
+00:01:12,710 --> 00:01:12,720
+con perplexity vamos a comparar esto y
+ 
+
+59
+00:01:12,720 --> 00:01:14,429
+con perplexity vamos a comparar esto y
+le digo dime lo que sepas de Pablo
+
+60
+00:01:14,429 --> 00:01:14,439
+le digo dime lo que sepas de Pablo
+ 
+
+61
+00:01:14,439 --> 00:01:16,510
+le digo dime lo que sepas de Pablo
+Álvarez azcunaga de mí por supuesto
+
+62
+00:01:16,510 --> 00:01:16,520
+Álvarez azcunaga de mí por supuesto
+ 
+
+63
+00:01:16,520 --> 00:01:18,550
+Álvarez azcunaga de mí por supuesto
+quién más que yo sabe más de mí perfil
+
+64
+00:01:18,550 --> 00:01:18,560
+quién más que yo sabe más de mí perfil
+ 
+
+65
+00:01:18,560 --> 00:01:21,109
+quién más que yo sabe más de mí perfil
+profesional c+ má Data fundador y c+
+
+66
+00:01:21,109 --> 00:01:21,119
+profesional c+ má Data fundador y c+
+ 
+
+67
+00:01:21,119 --> 00:01:22,270
+profesional c+ má Data fundador y c+
+Data empresa de consultoría
+
+68
+00:01:22,270 --> 00:01:22,280
+Data empresa de consultoría
+ 
+
+69
+00:01:22,280 --> 00:01:23,630
+Data empresa de consultoría
+especializada en Big Data Inteligencia
+
+70
+00:01:23,630 --> 00:01:23,640
+especializada en Big Data Inteligencia
+ 
+
+71
+00:01:23,640 --> 00:01:25,630
+especializada en Big Data Inteligencia
+artificial con sede ncad muy bien su
+
+72
+00:01:25,630 --> 00:01:25,640
+artificial con sede ncad muy bien su
+ 
+
+73
+00:01:25,640 --> 00:01:27,109
+artificial con sede ncad muy bien su
+empresa ayuda a otras organizaciones a
+
+74
+00:01:27,109 --> 00:01:27,119
+empresa ayuda a otras organizaciones a
+ 
+
+75
+00:01:27,119 --> 00:01:28,749
+empresa ayuda a otras organizaciones a
+optimizar sus procesos ahí tomar
+
+76
+00:01:28,749 --> 00:01:28,759
+optimizar sus procesos ahí tomar
+ 
+
+77
+00:01:28,759 --> 00:01:31,109
+optimizar sus procesos ahí tomar
+decisiones más rentables mediante el uso
+
+78
+00:01:31,109 --> 00:01:31,119
+decisiones más rentables mediante el uso
+ 
+
+79
+00:01:31,119 --> 00:01:33,749
+decisiones más rentables mediante el uso
+de tecnologías avanzadas muy bien
+
+80
+00:01:33,749 --> 00:01:33,759
+de tecnologías avanzadas muy bien
+ 
+
+81
+00:01:33,759 --> 00:01:35,630
+de tecnologías avanzadas muy bien
+profesor en la universidad de deusto
+
+82
+00:01:35,630 --> 00:01:35,640
+profesor en la universidad de deusto
+ 
+
+83
+00:01:35,640 --> 00:01:37,429
+profesor en la universidad de deusto
+imparte clases en la universidad tanto
+
+84
+00:01:37,429 --> 00:01:37,439
+imparte clases en la universidad tanto
+ 
+
+85
+00:01:37,439 --> 00:01:39,510
+imparte clases en la universidad tanto
+en la escuela de ingeniería en eside
+
+86
+00:01:39,510 --> 00:01:39,520
+en la escuela de ingeniería en eside
+ 
+
+87
+00:01:39,520 --> 00:01:42,069
+en la escuela de ingeniería en eside
+como en la facultad empresariales dbs
+
+88
+00:01:42,069 --> 00:01:42,079
+como en la facultad empresariales dbs
+ 
+
+89
+00:01:42,079 --> 00:01:44,190
+como en la facultad empresariales dbs
+sus áreas de enseñanza incluyen Big Data
+
+90
+00:01:44,190 --> 00:01:44,200
+sus áreas de enseñanza incluyen Big Data
+ 
+
+91
+00:01:44,200 --> 00:01:46,830
+sus áreas de enseñanza incluyen Big Data
+business intelligence inteligencia aral
+
+92
+00:01:46,830 --> 00:01:46,840
+business intelligence inteligencia aral
+ 
+
+93
+00:01:46,840 --> 00:01:47,990
+business intelligence inteligencia aral
+muy
+
+94
+00:01:47,990 --> 00:01:48,000
+muy
+ 
+
+95
+00:01:48,000 --> 00:01:52,190
+muy
+bien muy bien doble facultad muy bien
+
+96
+00:01:52,190 --> 00:01:52,200
+bien muy bien doble facultad muy bien
+ 
+
+97
+00:01:52,200 --> 00:01:54,789
+bien muy bien doble facultad muy bien
+contribuciones y proyectos de destacados
+
+98
+00:01:54,789 --> 00:01:54,799
+contribuciones y proyectos de destacados
+ 
+
+99
+00:01:54,799 --> 00:01:57,630
+contribuciones y proyectos de destacados
+hackeo de gpt para hablar euskera Pasaré
+
+100
+00:01:57,630 --> 00:01:57,640
+hackeo de gpt para hablar euskera Pasaré
+ 
+
+101
+00:01:57,640 --> 00:01:59,230
+hackeo de gpt para hablar euskera Pasaré
+la historia por hacer eso experimentos
+
+102
+00:01:59,230 --> 00:01:59,240
+la historia por hacer eso experimentos
+ 
+
+103
+00:01:59,240 --> 00:02:00,389
+la historia por hacer eso experimentos
+con
+
+104
+00:02:00,389 --> 00:02:00,399
+con
+ 
+
+105
+00:02:00,399 --> 00:02:02,389
+con
+enfoque y filosofía tú qué
+
+106
+00:02:02,389 --> 00:02:02,399
+enfoque y filosofía tú qué
+ 
+
+107
+00:02:02,399 --> 00:02:04,910
+enfoque y filosofía tú qué
+profundo se pone Innovación consentido
+
+108
+00:02:04,910 --> 00:02:04,920
+profundo se pone Innovación consentido
+ 
+
+109
+00:02:04,920 --> 00:02:06,510
+profundo se pone Innovación consentido
+Pablo aboga por uso práctico y
+
+110
+00:02:06,510 --> 00:02:06,520
+Pablo aboga por uso práctico y
+ 
+
+111
+00:02:06,520 --> 00:02:08,869
+Pablo aboga por uso práctico y
+responsable de la ia desmitificando
+
+112
+00:02:08,869 --> 00:02:08,879
+responsable de la ia desmitificando
+ 
+
+113
+00:02:08,879 --> 00:02:10,869
+responsable de la ia desmitificando
+tanto las expectativas exageradas como
+
+114
+00:02:10,869 --> 00:02:10,879
+tanto las expectativas exageradas como
+ 
+
+115
+00:02:10,879 --> 00:02:13,190
+tanto las expectativas exageradas como
+temores infundados critica la idea de
+
+116
+00:02:13,190 --> 00:02:13,200
+temores infundados critica la idea de
+ 
+
+117
+00:02:13,200 --> 00:02:14,350
+temores infundados critica la idea de
+que la ella pueda reemplazar
+
+118
+00:02:14,350 --> 00:02:14,360
+que la ella pueda reemplazar
+ 
+
+119
+00:02:14,360 --> 00:02:15,470
+que la ella pueda reemplazar
+completamente el trabajo humano
+
+120
+00:02:15,470 --> 00:02:15,480
+completamente el trabajo humano
+ 
+
+121
+00:02:15,480 --> 00:02:17,990
+completamente el trabajo humano
+enfatizando que su uso debe complementar
+
+122
+00:02:17,990 --> 00:02:18,000
+enfatizando que su uso debe complementar
+ 
+
+123
+00:02:18,000 --> 00:02:20,430
+enfatizando que su uso debe complementar
+y mejorar sus capacidades humanas
+
+124
+00:02:20,430 --> 00:02:20,440
+y mejorar sus capacidades humanas
+ 
+
+125
+00:02:20,440 --> 00:02:22,790
+y mejorar sus capacidades humanas
+impacto en redes sociales Pablo ha
+
+126
+00:02:22,790 --> 00:02:22,800
+impacto en redes sociales Pablo ha
+ 
+
+127
+00:02:22,800 --> 00:02:24,630
+impacto en redes sociales Pablo ha
+ganado popularidad en redes sociales
+
+128
+00:02:24,630 --> 00:02:24,640
+ganado popularidad en redes sociales
+ 
+
+129
+00:02:24,640 --> 00:02:26,350
+ganado popularidad en redes sociales
+donde comparte contenido didáctico y
+
+130
+00:02:26,350 --> 00:02:26,360
+donde comparte contenido didáctico y
+ 
+
+131
+00:02:26,360 --> 00:02:28,390
+donde comparte contenido didáctico y
+experimentos con ia nombre de empresa
+
+132
+00:02:28,390 --> 00:02:28,400
+experimentos con ia nombre de empresa
+ 
+
+133
+00:02:28,400 --> 00:02:30,710
+experimentos con ia nombre de empresa
+Max Max datata en honor de su hijo Max
+
+134
+00:02:30,710 --> 00:02:30,720
+Max Max datata en honor de su hijo Max
+ 
+
+135
+00:02:30,720 --> 00:02:33,509
+Max Max datata en honor de su hijo Max
+residencia vive en algorta Vizcaya
+
+136
+00:02:33,509 --> 00:02:33,519
+residencia vive en algorta Vizcaya
+ 
+
+137
+00:02:33,519 --> 00:02:36,110
+residencia vive en algorta Vizcaya
+tú
+
+138
+00:02:36,110 --> 00:02:36,120
+tú
+ 
+
+139
+00:02:36,120 --> 00:02:38,790
+tú
+ me quedo asustado de Lo bueno que
+
+140
+00:02:38,790 --> 00:02:38,800
+me quedo asustado de Lo bueno que
+ 
+
+141
+00:02:38,800 --> 00:02:41,430
+me quedo asustado de Lo bueno que
+es en la función de Search mucho mejor
+
+142
+00:02:41,430 --> 00:02:41,440
+es en la función de Search mucho mejor
+ 
+
+143
+00:02:41,440 --> 00:02:45,309
+es en la función de Search mucho mejor
+que gpt y que perplexity mucho mejor
+
+144
+00:02:45,309 --> 00:02:45,319
+que gpt y que perplexity mucho mejor
+ 
+
+145
+00:02:45,319 --> 00:02:47,509
+que gpt y que perplexity mucho mejor
+venga va más difícil todavía sabes
+
+146
+00:02:47,509 --> 00:02:47,519
+venga va más difícil todavía sabes
+ 
+
+147
+00:02:47,519 --> 00:02:50,630
+venga va más difícil todavía sabes
+hablar en perfecto eusa y me contesta es
+
+148
+00:02:50,630 --> 00:02:50,640
+hablar en perfecto eusa y me contesta es
+ 
+
+149
+00:02:50,640 --> 00:02:55,630
+hablar en perfecto eusa y me contesta es
+eusen suru
+
+150
+00:02:55,630 --> 00:02:55,640
+
+ 
+
+151
+00:02:55,640 --> 00:02:57,270
+
+d
+
+152
+00:02:57,270 --> 00:02:57,280
+d
+ 
+
+153
+00:02:57,280 --> 00:03:00,430
+d
+fenomenal si se saca esta vamos solo
+
+154
+00:03:00,430 --> 00:03:00,440
+fenomenal si se saca esta vamos solo
+ 
+
+155
+00:03:00,440 --> 00:03:02,070
+fenomenal si se saca esta vamos solo
+llegando hasta aquí me parece la pera
+
+156
+00:03:02,070 --> 00:03:02,080
+llegando hasta aquí me parece la pera
+ 
+
+157
+00:03:02,080 --> 00:03:05,149
+llegando hasta aquí me parece la pera
+gratuita Open code sin necesidad de
+
+158
+00:03:05,149 --> 00:03:05,159
+gratuita Open code sin necesidad de
+ 
+
+159
+00:03:05,159 --> 00:03:08,110
+gratuita Open code sin necesidad de
+procesamiento la rapidez es brutal la
+
+160
+00:03:08,110 --> 00:03:08,120
+procesamiento la rapidez es brutal la
+ 
+
+161
+00:03:08,120 --> 00:03:10,030
+procesamiento la rapidez es brutal la
+prueba de fuego Dime los días de la
+
+162
+00:03:10,030 --> 00:03:10,040
+prueba de fuego Dime los días de la
+ 
+
+163
+00:03:10,040 --> 00:03:12,670
+prueba de fuego Dime los días de la
+semana en euskera vizcaino y me dice
+
+164
+00:03:12,670 --> 00:03:12,680
+semana en euskera vizcaino y me dice
+ 
+
+165
+00:03:12,680 --> 00:03:17,830
+semana en euskera vizcaino y me dice
+asen as arte as asen ostun os larumba ta
+
+166
+00:03:17,830 --> 00:03:17,840
+asen as arte as asen ostun os larumba ta
+ 
+
+167
+00:03:17,840 --> 00:03:22,030
+asen as arte as asen ostun os larumba ta
+No aquí ya se ha confundido eso es enus
+
+168
+00:03:22,030 --> 00:03:22,040
+No aquí ya se ha confundido eso es enus
+ 
+
+169
+00:03:22,040 --> 00:03:23,710
+No aquí ya se ha confundido eso es enus
+quera batua Pero bueno que los chinos No
+
+170
+00:03:23,710 --> 00:03:23,720
+quera batua Pero bueno que los chinos No
+ 
+
+171
+00:03:23,720 --> 00:03:25,390
+quera batua Pero bueno que los chinos No
+lo hacen nada mal y en verdad tenía que
+
+172
+00:03:25,390 --> 00:03:25,400
+lo hacen nada mal y en verdad tenía que
+ 
+
+173
+00:03:25,400 --> 00:03:29,110
+lo hacen nada mal y en verdad tenía que
+ser marena egu asena eguena barua egu
+
+174
+00:03:29,110 --> 00:03:29,120
+ser marena egu asena eguena barua egu
+ 
+
+175
+00:03:29,120 --> 00:03:32,149
+ser marena egu asena eguena barua egu
+bacoa zapatu a eta domec bueno venga la
+
+176
+00:03:32,149 --> 00:03:32,159
+bacoa zapatu a eta domec bueno venga la
+ 
+
+177
+00:03:32,159 --> 00:03:34,470
+bacoa zapatu a eta domec bueno venga la
+última el pensamiento profundo si yo soy
+
+178
+00:03:34,470 --> 00:03:34,480
+última el pensamiento profundo si yo soy
+ 
+
+179
+00:03:34,480 --> 00:03:35,949
+última el pensamiento profundo si yo soy
+yo y tú eres tú quién es más tonto de
+
+180
+00:03:35,949 --> 00:03:35,959
+yo y tú eres tú quién es más tonto de
+ 
+
+181
+00:03:35,959 --> 00:03:37,830
+yo y tú eres tú quién es más tonto de
+los dos a ver qué me dice y su respuesta
+
+182
+00:03:37,830 --> 00:03:37,840
+los dos a ver qué me dice y su respuesta
+ 
+
+183
+00:03:37,840 --> 00:03:41,229
+los dos a ver qué me dice y su respuesta
+es el que pregunta me ha ganado de esta
+
+184
+00:03:41,229 --> 00:03:41,239
+es el que pregunta me ha ganado de esta
+ 
+
+185
+00:03:41,239 --> 00:03:42,830
+es el que pregunta me ha ganado de esta
+manera te digo que a priori en un primer
+
+186
+00:03:42,830 --> 00:03:42,840
+manera te digo que a priori en un primer
+ 
+
+187
+00:03:42,840 --> 00:03:45,350
+manera te digo que a priori en un primer
+vistazo que echado Deep sick es una aa
+
+188
+00:03:45,350 --> 00:03:45,360
+vistazo que echado Deep sick es una aa
+ 
+
+189
+00:03:45,360 --> 00:03:48,550
+vistazo que echado Deep sick es una aa
+que merece la pena muy potente
+
+190
+00:03:48,550 --> 00:03:48,560
+que merece la pena muy potente
+ 
+
+191
+00:03:48,560 --> 00:03:52,149
+que merece la pena muy potente
+y superando las expectativas de lo que
+
+192
+00:03:52,149 --> 00:03:52,159
+y superando las expectativas de lo que
+ 
+
+193
+00:03:52,159 --> 00:03:55,030
+y superando las expectativas de lo que
+es la definición hasta ahora de las Sas
+
+194
+00:03:55,030 --> 00:03:55,040
+es la definición hasta ahora de las Sas
+ 
+
+195
+00:03:55,040 --> 00:03:58,030
+es la definición hasta ahora de las Sas
+de lo que ocupan del procesamiento de la
+
+196
+00:03:58,030 --> 00:03:58,040
+de lo que ocupan del procesamiento de la
+ 
+
+197
+00:03:58,040 --> 00:04:00,630
+de lo que ocupan del procesamiento de la
+calidad de la respuesta muy buena muy
+
+198
+00:04:00,630 --> 00:04:00,640
+calidad de la respuesta muy buena muy
+ 
+
+199
+00:04:00,640 --> 00:04:02,229
+calidad de la respuesta muy buena muy
+buena Ya sabes que no me gusta meterle
+
+200
+00:04:02,229 --> 00:04:02,239
+buena Ya sabes que no me gusta meterle
+ 
+
+201
+00:04:02,239 --> 00:04:04,589
+buena Ya sabes que no me gusta meterle
+hype innecesario a las cosas pero me
+
+202
+00:04:04,589 --> 00:04:04,599
+hype innecesario a las cosas pero me
+ 
+
+203
+00:04:04,599 --> 00:04:06,750
+hype innecesario a las cosas pero me
+parece que está fenomenal así que nada
+
+204
+00:04:06,750 --> 00:04:06,760
+parece que está fenomenal así que nada
+ 
+
+205
+00:04:06,760 --> 00:04:08,390
+parece que está fenomenal así que nada
+si te ha gustado este vídeo déjame un
+
+206
+00:04:08,390 --> 00:04:08,400
+si te ha gustado este vídeo déjame un
+ 
+
+207
+00:04:08,400 --> 00:04:10,110
+si te ha gustado este vídeo déjame un
+pedazo de like reenvías solo a mucha
+
+208
+00:04:10,110 --> 00:04:10,120
+pedazo de like reenvías solo a mucha
+ 
+
+209
+00:04:10,120 --> 00:04:11,509
+pedazo de like reenvías solo a mucha
+gente para que te agradezcan que les
+
+210
+00:04:11,509 --> 00:04:11,519
+gente para que te agradezcan que les
+ 
+
+211
+00:04:11,519 --> 00:04:12,869
+gente para que te agradezcan que les
+mandes una idea que Val la pena
+
+212
+00:04:12,869 --> 00:04:12,879
+mandes una idea que Val la pena
+ 
+
+213
+00:04:12,879 --> 00:04:14,350
+mandes una idea que Val la pena
+guárdatelo para que no se te olvide que
+
+214
+00:04:14,350 --> 00:04:14,360
+guárdatelo para que no se te olvide que
+ 
+
+215
+00:04:14,360 --> 00:04:16,030
+guárdatelo para que no se te olvide que
+se llama deeps Aunque lo oigas en todos
+
+216
+00:04:16,030 --> 00:04:16,040
+se llama deeps Aunque lo oigas en todos
+ 
+
+217
+00:04:16,040 --> 00:04:17,710
+se llama deeps Aunque lo oigas en todos
+lados y no dejes de seguirme para seguir
+
+218
+00:04:17,710 --> 00:04:17,720
+lados y no dejes de seguirme para seguir
+ 
+
+219
+00:04:17,720 --> 00:04:19,110
+lados y no dejes de seguirme para seguir
+aprendiendo de Big Data Inteligencia
+
+220
+00:04:19,110 --> 00:04:19,120
+aprendiendo de Big Data Inteligencia
+ 
+
+221
+00:04:19,120 --> 00:04:28,710
+aprendiendo de Big Data Inteligencia
+artificial en tu día a día y en tu
+
+222
+00:04:28,710 --> 00:04:28,720
+
+ 
+
+223
+00:04:28,720 --> 00:04:32,720
+
+trabajo an
+

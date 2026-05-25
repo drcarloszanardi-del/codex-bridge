@@ -1,0 +1,532 @@
+1
+00:00:00,520 --> 00:00:03,110
+
+If you're one of those who use Yemini, this will
+
+2
+00:00:03,110 --> 00:00:03,120
+If you're one of those who use Yemini, this will
+ 
+
+3
+00:00:03,120 --> 00:00:05,670
+If you're one of those who use Yemini, this will
+interest you because I have two pieces of news.
+
+4
+00:00:05,670 --> 00:00:05,680
+interest you because I have two pieces of news.
+ 
+
+5
+00:00:05,680 --> 00:00:08,110
+interest you because I have two pieces of news.
+The first is that it now has an
+
+6
+00:00:08,110 --> 00:00:08,120
+The first is that it now has an
+ 
+
+7
+00:00:08,120 --> 00:00:10,030
+The first is that it now has an
+integrated image generation model
+
+8
+00:00:10,030 --> 00:00:10,040
+integrated image generation model
+ 
+
+9
+00:00:10,040 --> 00:00:14,310
+integrated image generation model
+called Image 3. It sounds familiar, like Dali
+
+10
+00:00:14,310 --> 00:00:14,320
+called Image 3. It sounds familiar, like Dali
+ 
+
+11
+00:00:14,320 --> 00:00:16,670
+called Image 3. It sounds familiar, like Dali
+3, and now it's Image 3. Okay, with this,
+
+12
+00:00:16,670 --> 00:00:16,680
+3, and now it's Image 3. Okay, with this,
+ 
+
+13
+00:00:16,680 --> 00:00:19,830
+3, and now it's Image 3. Okay, with this,
+Yemini can now generate images. And the
+
+14
+00:00:19,830 --> 00:00:19,840
+Yemini can now generate images. And the
+ 
+
+15
+00:00:19,840 --> 00:00:22,349
+Yemini can now generate images. And the
+other news is what you're going to say: how
+
+16
+00:00:22,349 --> 00:00:22,359
+other news is what you're going to say: how
+ 
+
+17
+00:00:22,359 --> 00:00:23,230
+other news is what you're going to say: how
+a
+
+18
+00:00:23,230 --> 00:00:23,240
+a
+ 
+
+19
+00:00:23,240 --> 00:00:26,550
+a
+
+20
+00:00:26,550 --> 00:00:26,560
+
+ 
+
+21
+00:00:26,560 --> 00:00:31,710
+
+hyper-realistic car isn't bad. (I'm a dead man, it's
+
+22
+00:00:31,710 --> 00:00:31,720
+hyper-realistic car isn't bad. (I'm a dead man, it's
+ 
+
+23
+00:00:31,720 --> 00:00:33,630
+hyper-realistic car isn't bad. (I'm a dead man, it's
+difficult to talk and write
+
+24
+00:00:33,630 --> 00:00:33,640
+difficult to talk and write
+ 
+
+25
+00:00:33,640 --> 00:00:36,350
+difficult to talk and write
+at the same time.) Now comes the paranoia: Who
+
+26
+00:00:36,350 --> 00:00:36,360
+at the same time.) Now comes the paranoia: Who
+ 
+
+27
+00:00:36,360 --> 00:00:40,229
+at the same time.) Now comes the paranoia: Who
+designed this and what's the point of having
+
+28
+00:00:40,229 --> 00:00:40,239
+designed this and what's the point of having
+ 
+
+29
+00:00:40,239 --> 00:00:47,630
+designed this and what's the point of having
+a driver waving inside? And it tells us it doesn't
+
+30
+00:00:47,630 --> 00:00:47,640
+a driver waving inside? And it tells us it doesn't
+ 
+
+31
+00:00:47,640 --> 00:00:51,350
+a driver waving inside? And it tells us it doesn't
+generate images with people? Excuse me, a
+
+32
+00:00:51,350 --> 00:00:51,360
+generate images with people? Excuse me, a
+ 
+
+33
+00:00:51,360 --> 00:00:55,189
+generate images with people? Excuse me, a
+
+34
+00:00:55,189 --> 00:00:55,199
+
+ 
+
+35
+00:00:55,199 --> 00:00:58,069
+
+flying raccoon? Deadpool? Let's see if a
+
+36
+00:00:58,069 --> 00:00:58,079
+flying raccoon? Deadpool? Let's see if a
+ 
+
+37
+00:00:58,079 --> 00:01:01,189
+flying raccoon? Deadpool? Let's see if a
+superhero in a suit can do it. It makes
+
+38
+00:01:01,189 --> 00:01:01,199
+superhero in a suit can do it. It makes
+ 
+
+39
+00:01:01,199 --> 00:01:03,670
+superhero in a suit can do it. It makes
+Deadpool and doesn't make
+
+40
+00:01:03,670 --> 00:01:03,680
+Deadpool and doesn't make
+ 
+
+41
+00:01:03,680 --> 00:01:06,390
+Deadpool and doesn't make
+people. How
+
+42
+00:01:06,390 --> 00:01:06,400
+people. How
+ 
+
+43
+00:01:06,400 --> 00:01:12,149
+people. How
+strange, it draws a baker. You can't draw
+
+44
+00:01:12,149 --> 00:01:12,159
+strange, it draws a baker. You can't draw
+ 
+
+45
+00:01:12,159 --> 00:01:14,270
+strange, it draws a baker. You can't draw
+people,
+
+46
+00:01:14,270 --> 00:01:14,280
+people,
+ 
+
+47
+00:01:14,280 --> 00:01:21,230
+people,
+and you see it? No, and I'm a
+
+48
+00:01:21,230 --> 00:01:21,240
+
+ 
+
+49
+00:01:21,240 --> 00:01:27,630
+
+Marvel freak, and it does it quite well. No, and
+
+50
+00:01:27,630 --> 00:01:27,640
+Marvel freak, and it does it quite well. No, and
+ 
+
+51
+00:01:27,640 --> 00:01:30,270
+Marvel freak, and it does it quite well. No, and
+without a mask, I
+
+52
+00:01:30,270 --> 00:01:30,280
+without a mask, I
+ 
+
+53
+00:01:30,280 --> 00:01:32,270
+without a mask, I
+mean, look at this, I didn't even know that
+
+54
+00:01:32,270 --> 00:01:32,280
+mean, look at this, I didn't even know that
+ 
+
+55
+00:01:32,280 --> 00:01:34,789
+mean, look at this, I didn't even know that
+when I tried it with a mask. Okay, and without a
+
+56
+00:01:34,789 --> 00:01:34,799
+when I tried it with a mask. Okay, and without a
+ 
+
+57
+00:01:34,799 --> 00:01:38,069
+when I tried it with a mask. Okay, and without a
+mask, it doesn't work. Deadpool
+
+58
+00:01:38,069 --> 00:01:38,079
+mask, it doesn't work. Deadpool
+ 
+
+59
+00:01:38,079 --> 00:01:42,990
+mask, it doesn't work. Deadpool
+driving a Jeep on
+
+60
+00:01:42,990 --> 00:01:43,000
+driving a Jeep on
+ 
+
+61
+00:01:43,000 --> 00:01:47,469
+driving a Jeep on
+Arrigunaga beach in
+
+62
+00:01:47,469 --> 00:01:47,479
+
+ 
+
+63
+00:01:47,479 --> 00:01:50,550
+
+Getxo. That's Deadpool on
+
+64
+00:01:50,550 --> 00:01:50,560
+Getxo. That's Deadpool on
+ 
+
+65
+00:01:50,560 --> 00:01:55,830
+Getxo. That's Deadpool on
+Runa beach in a Jeep. Well, the beach, eh?  Okay, it's alright,
+
+66
+00:01:55,830 --> 00:01:55,840
+Runa beach in a Jeep. Well, the beach, eh?  Okay, it's alright,
+ 
+
+67
+00:01:55,840 --> 00:02:01,350
+Runa beach in a Jeep. Well, the beach, eh?  Okay, it's alright,
+no, it's not so bad, it's
+
+68
+00:02:01,350 --> 00:02:01,360
+no, it's not so bad, it's
+ 
+
+69
+00:02:01,360 --> 00:02:03,950
+no, it's not so bad, it's
+starting to get fun. This one, uh, it's
+
+70
+00:02:03,950 --> 00:02:03,960
+starting to get fun. This one, uh, it's
+ 
+
+71
+00:02:03,960 --> 00:02:06,270
+starting to get fun. This one, uh, it's
+better than I thought.
+
+72
+00:02:06,270 --> 00:02:06,280
+better than I thought.
+ 
+
+73
+00:02:06,280 --> 00:02:10,470
+better than I thought.
+Draw a person
+
+74
+00:02:10,470 --> 00:02:10,480
+Draw a person
+ 
+
+75
+00:02:10,480 --> 00:02:14,550
+Draw a person
+with a
+
+76
+00:02:14,550 --> 00:02:17,309
+with a
+ 
+
+77
+00:02:17,309 --> 00:02:17,319
+
+ 
+
+78
+00:02:17,319 --> 00:02:21,550
+
+mouse head on a
+
+79
+00:02:21,550 --> 00:02:21,560
+
+ 
+
+80
+00:02:21,560 --> 00:02:24,830
+
+motorcycle.
+
+81
+00:02:24,830 --> 00:02:24,840
+
+ 
+
+82
+00:02:24,840 --> 00:02:30,910
+
+Okay, let's trick him. Outside of the gohe,
+
+83
+00:02:30,910 --> 00:02:30,920
+Okay, let's trick him. Outside of the gohe,
+ 
+
+84
+00:02:30,920 --> 00:02:32,830
+Okay, let's trick him. Outside of the gohe,
+the truth is that Bilbao tourism should be
+
+85
+00:02:32,830 --> 00:02:32,840
+the truth is that Bilbao tourism should be
+ 
+
+86
+00:02:32,840 --> 00:02:35,470
+the truth is that Bilbao tourism should be
+paying me the fees here, uh.
+
+87
+00:02:35,470 --> 00:02:35,480
+paying me the fees here, uh.
+ 
+
+88
+00:02:35,480 --> 00:02:38,309
+paying me the fees here, uh.
+Well, image 3 isn't bad. It's not amazing either,
+
+89
+00:02:38,309 --> 00:02:40,229
+Well, image 3 isn't bad. It's not amazing either,
+ 
+
+90
+00:02:40,229 --> 00:02:40,239
+
+ 
+
+91
+00:02:40,239 --> 00:02:43,470
+
+but it does something. Well, since I've
+
+92
+00:02:43,470 --> 00:02:43,480
+but it does something. Well, since I've
+ 
+
+93
+00:02:43,480 --> 00:02:45,869
+but it does something. Well, since I've
+shown you something new that you didn't know,
+
+94
+00:02:45,869 --> 00:02:45,879
+shown you something new that you didn't know,
+ 
+
+95
+00:02:45,879 --> 00:02:48,830
+shown you something new that you didn't know,
+leave me a like, save it so you don't
+
+96
+00:02:48,830 --> 00:02:48,840
+leave me a like, save it so you don't
+ 
+
+97
+00:02:48,840 --> 00:02:51,030
+leave me a like, save it so you don't
+forget. Don't be selfish and
+
+98
+00:02:51,030 --> 00:02:51,040
+forget. Don't be selfish and
+ 
+
+99
+00:02:51,040 --> 00:02:53,149
+forget. Don't be selfish and
+forward it to the people who use Yemini so they
+
+100
+00:02:53,149 --> 00:02:53,159
+forward it to the people who use Yemini so they
+ 
+
+101
+00:02:53,159 --> 00:02:55,270
+forward it to the people who use Yemini so they
+understand how it works, and don't stop
+
+102
+00:02:55,270 --> 00:02:55,280
+understand how it works, and don't stop
+ 
+
+103
+00:02:55,280 --> 00:02:56,910
+understand how it works, and don't stop
+following me to keep learning about Big
+
+104
+00:02:56,910 --> 00:02:56,920
+following me to keep learning about Big
+ 
+
+105
+00:02:56,920 --> 00:02:58,630
+following me to keep learning about Big
+Data and Artificial Intelligence in your daily life.
+
+106
+00:02:58,630 --> 00:02:58,640
+Data and Artificial Intelligence in your daily life.
+ 
+
+107
+00:02:58,640 --> 00:03:01,519
+Data and Artificial Intelligence in your daily life.
+

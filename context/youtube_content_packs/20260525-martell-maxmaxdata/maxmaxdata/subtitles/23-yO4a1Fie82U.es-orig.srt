@@ -1,0 +1,545 @@
+1
+00:00:00,040 --> 00:00:02,909
+
+Oye chat necesito entrenar psicotécnicos
+
+2
+00:00:02,909 --> 00:00:02,919
+Oye chat necesito entrenar psicotécnicos
+ 
+
+3
+00:00:02,919 --> 00:00:04,670
+Oye chat necesito entrenar psicotécnicos
+tengo una entrevista de trabajo vamos a
+
+4
+00:00:04,670 --> 00:00:04,680
+tengo una entrevista de trabajo vamos a
+ 
+
+5
+00:00:04,680 --> 00:00:07,190
+tengo una entrevista de trabajo vamos a
+entrenar juntos Cuánto es ocho y tres 11
+
+6
+00:00:07,190 --> 00:00:07,200
+entrenar juntos Cuánto es ocho y tres 11
+ 
+
+7
+00:00:07,200 --> 00:00:08,870
+entrenar juntos Cuánto es ocho y tres 11
+sube el nivel imagina un cubo hecho de
+
+8
+00:00:08,870 --> 00:00:08,880
+sube el nivel imagina un cubo hecho de
+ 
+
+9
+00:00:08,880 --> 00:00:10,150
+sube el nivel imagina un cubo hecho de
+madera el cubo tiene un lado de color
+
+10
+00:00:10,150 --> 00:00:10,160
+madera el cubo tiene un lado de color
+ 
+
+11
+00:00:10,160 --> 00:00:11,709
+madera el cubo tiene un lado de color
+azul y los otros cinco lados no son
+
+12
+00:00:11,709 --> 00:00:11,719
+azul y los otros cinco lados no son
+ 
+
+13
+00:00:11,719 --> 00:00:13,549
+azul y los otros cinco lados no son
+rojos si cortamos el cubo en 27 cubos
+
+14
+00:00:13,549 --> 00:00:13,559
+rojos si cortamos el cubo en 27 cubos
+ 
+
+15
+00:00:13,559 --> 00:00:14,789
+rojos si cortamos el cubo en 27 cubos
+más pequeños de igual tamaño como un
+
+16
+00:00:14,789 --> 00:00:14,799
+más pequeños de igual tamaño como un
+ 
+
+17
+00:00:14,799 --> 00:00:16,430
+más pequeños de igual tamaño como un
+cubo Rubik Cuántos de estos cubos
+
+18
+00:00:16,430 --> 00:00:16,440
+cubo Rubik Cuántos de estos cubos
+ 
+
+19
+00:00:16,440 --> 00:00:17,870
+cubo Rubik Cuántos de estos cubos
+pequeños tendrán exactamente dos lados
+
+20
+00:00:17,870 --> 00:00:17,880
+pequeños tendrán exactamente dos lados
+ 
+
+21
+00:00:17,880 --> 00:00:19,950
+pequeños tendrán exactamente dos lados
+pintados de azul ninguno correcto Pao
+
+22
+00:00:19,950 --> 00:00:19,960
+pintados de azul ninguno correcto Pao
+ 
+
+23
+00:00:19,960 --> 00:00:21,189
+pintados de azul ninguno correcto Pao
+Cuál es el siguiente número en esta
+
+24
+00:00:21,189 --> 00:00:21,199
+Cuál es el siguiente número en esta
+ 
+
+25
+00:00:21,199 --> 00:00:24,910
+Cuál es el siguiente número en esta
+secuencia 2 6 12 20 30 42 correcto Pablo
+
+26
+00:00:24,910 --> 00:00:24,920
+secuencia 2 6 12 20 30 42 correcto Pablo
+ 
+
+27
+00:00:24,920 --> 00:00:25,990
+secuencia 2 6 12 20 30 42 correcto Pablo
+encuentra el sinónimo de la palabra
+
+28
+00:00:25,990 --> 00:00:26,000
+encuentra el sinónimo de la palabra
+ 
+
+29
+00:00:26,000 --> 00:00:28,310
+encuentra el sinónimo de la palabra
+intransigente a flexible b obstinado c
+
+30
+00:00:28,310 --> 00:00:28,320
+intransigente a flexible b obstinado c
+ 
+
+31
+00:00:28,320 --> 00:00:30,509
+intransigente a flexible b obstinado c
+tolerante b obstinado correcto Pablo en
+
+32
+00:00:30,509 --> 00:00:30,519
+tolerante b obstinado correcto Pablo en
+ 
+
+33
+00:00:30,519 --> 00:00:32,910
+tolerante b obstinado correcto Pablo en
+una caja hay 25 bolas rojas 25 bolas
+
+34
+00:00:32,910 --> 00:00:32,920
+una caja hay 25 bolas rojas 25 bolas
+ 
+
+35
+00:00:32,920 --> 00:00:34,790
+una caja hay 25 bolas rojas 25 bolas
+Azules y 25 bolas verdes están mezcladas
+
+36
+00:00:34,790 --> 00:00:34,800
+Azules y 25 bolas verdes están mezcladas
+ 
+
+37
+00:00:34,800 --> 00:00:36,110
+Azules y 25 bolas verdes están mezcladas
+y no puedes ver su color Cuál es el
+
+38
+00:00:36,110 --> 00:00:36,120
+y no puedes ver su color Cuál es el
+ 
+
+39
+00:00:36,120 --> 00:00:37,470
+y no puedes ver su color Cuál es el
+número mínimo de bolas que debes sacar
+
+40
+00:00:37,470 --> 00:00:37,480
+número mínimo de bolas que debes sacar
+ 
+
+41
+00:00:37,480 --> 00:00:38,790
+número mínimo de bolas que debes sacar
+para estar seguro de tener al menos dos
+
+42
+00:00:38,790 --> 00:00:38,800
+para estar seguro de tener al menos dos
+ 
+
+43
+00:00:38,800 --> 00:00:41,110
+para estar seguro de tener al menos dos
+bolas del mismo color cuatro correcto
+
+44
+00:00:41,110 --> 00:00:41,120
+bolas del mismo color cuatro correcto
+ 
+
+45
+00:00:41,120 --> 00:00:42,549
+bolas del mismo color cuatro correcto
+Pablo un tren eléctrico se mueve hacia
+
+46
+00:00:42,549 --> 00:00:42,559
+Pablo un tren eléctrico se mueve hacia
+ 
+
+47
+00:00:42,559 --> 00:00:44,590
+Pablo un tren eléctrico se mueve hacia
+el norte a una velocidad de 100 km/h el
+
+48
+00:00:44,590 --> 00:00:44,600
+el norte a una velocidad de 100 km/h el
+ 
+
+49
+00:00:44,600 --> 00:00:46,470
+el norte a una velocidad de 100 km/h el
+viento sopla hacia el sur a 10 km en qué
+
+50
+00:00:46,470 --> 00:00:46,480
+viento sopla hacia el sur a 10 km en qué
+ 
+
+51
+00:00:46,480 --> 00:00:47,830
+viento sopla hacia el sur a 10 km en qué
+dirección se desplaza el humo del tren
+
+52
+00:00:47,830 --> 00:00:47,840
+dirección se desplaza el humo del tren
+ 
+
+53
+00:00:47,840 --> 00:00:49,510
+dirección se desplaza el humo del tren
+el tren es eléctrico igual se puede
+
+54
+00:00:49,510 --> 00:00:49,520
+el tren es eléctrico igual se puede
+ 
+
+55
+00:00:49,520 --> 00:00:51,029
+el tren es eléctrico igual se puede
+fumar pero no debería echar humo
+
+56
+00:00:51,029 --> 00:00:51,039
+fumar pero no debería echar humo
+ 
+
+57
+00:00:51,039 --> 00:00:52,830
+fumar pero no debería echar humo
+exactamente un tren eléctrico no produce
+
+58
+00:00:52,830 --> 00:00:52,840
+exactamente un tren eléctrico no produce
+ 
+
+59
+00:00:52,840 --> 00:00:54,150
+exactamente un tren eléctrico no produce
+humo tienes tres interruptores en una
+
+60
+00:00:54,150 --> 00:00:54,160
+humo tienes tres interruptores en una
+ 
+
+61
+00:00:54,160 --> 00:00:55,670
+humo tienes tres interruptores en una
+habitación y solo una bombilla en otra
+
+62
+00:00:55,670 --> 00:00:55,680
+habitación y solo una bombilla en otra
+ 
+
+63
+00:00:55,680 --> 00:00:56,910
+habitación y solo una bombilla en otra
+habitación solo puedes ir a la
+
+64
+00:00:56,910 --> 00:00:56,920
+habitación solo puedes ir a la
+ 
+
+65
+00:00:56,920 --> 00:00:58,470
+habitación solo puedes ir a la
+habitación de la bombilla una vez Cómo
+
+66
+00:00:58,470 --> 00:00:58,480
+habitación de la bombilla una vez Cómo
+ 
+
+67
+00:00:58,480 --> 00:01:00,029
+habitación de la bombilla una vez Cómo
+puedes determinar cuál interruptor en de
+
+68
+00:01:00,029 --> 00:01:00,039
+puedes determinar cuál interruptor en de
+ 
+
+69
+00:01:00,039 --> 00:01:01,950
+puedes determinar cuál interruptor en de
+la mon primero dejo un interruptor un
+
+70
+00:01:01,950 --> 00:01:01,960
+la mon primero dejo un interruptor un
+ 
+
+71
+00:01:01,960 --> 00:01:04,549
+la mon primero dejo un interruptor un
+rato encendido para que luego lo apago y
+
+72
+00:01:04,549 --> 00:01:04,559
+rato encendido para que luego lo apago y
+ 
+
+73
+00:01:04,559 --> 00:01:06,070
+rato encendido para que luego lo apago y
+veo si está y enciendo otro entonces
+
+74
+00:01:06,070 --> 00:01:06,080
+veo si está y enciendo otro entonces
+ 
+
+75
+00:01:06,080 --> 00:01:08,030
+veo si está y enciendo otro entonces
+entro si está encendido se que encendido
+
+76
+00:01:08,030 --> 00:01:08,040
+entro si está encendido se que encendido
+ 
+
+77
+00:01:08,040 --> 00:01:09,910
+entro si está encendido se que encendido
+si no miro si la bombilla si alguna está
+
+78
+00:01:09,910 --> 00:01:09,920
+si no miro si la bombilla si alguna está
+ 
+
+79
+00:01:09,920 --> 00:01:11,710
+si no miro si la bombilla si alguna está
+caliente que sería el primero y si está
+
+80
+00:01:11,710 --> 00:01:11,720
+caliente que sería el primero y si está
+ 
+
+81
+00:01:11,720 --> 00:01:12,950
+caliente que sería el primero y si está
+apagada es el tercer interruptor
+
+82
+00:01:12,950 --> 00:01:12,960
+apagada es el tercer interruptor
+ 
+
+83
+00:01:12,960 --> 00:01:15,390
+apagada es el tercer interruptor
+exactamente Pablo pregunta si doblas un
+
+84
+00:01:15,390 --> 00:01:15,400
+exactamente Pablo pregunta si doblas un
+ 
+
+85
+00:01:15,400 --> 00:01:18,230
+exactamente Pablo pregunta si doblas un
+papel ocho veces Cuántas capas tendrá
+
+86
+00:01:18,230 --> 00:01:18,240
+papel ocho veces Cuántas capas tendrá
+ 
+
+87
+00:01:18,240 --> 00:01:20,910
+papel ocho veces Cuántas capas tendrá
+256 correcto Pablo y de esta manera
+
+88
+00:01:20,910 --> 00:01:20,920
+256 correcto Pablo y de esta manera
+ 
+
+89
+00:01:20,920 --> 00:01:22,270
+256 correcto Pablo y de esta manera
+muscul vamos un poquito esta materia
+
+90
+00:01:22,270 --> 00:01:22,280
+muscul vamos un poquito esta materia
+ 
+
+91
+00:01:22,280 --> 00:01:23,749
+muscul vamos un poquito esta materia
+gris vale para entrenar psicotécnicos
+
+92
+00:01:23,749 --> 00:01:23,759
+gris vale para entrenar psicotécnicos
+ 
+
+93
+00:01:23,759 --> 00:01:24,670
+gris vale para entrenar psicotécnicos
+que nos pueden ir muy bien para
+
+94
+00:01:24,670 --> 00:01:24,680
+que nos pueden ir muy bien para
+ 
+
+95
+00:01:24,680 --> 00:01:25,990
+que nos pueden ir muy bien para
+entrevistas de trabajo simplemente para
+
+96
+00:01:25,990 --> 00:01:26,000
+entrevistas de trabajo simplemente para
+ 
+
+97
+00:01:26,000 --> 00:01:27,069
+entrevistas de trabajo simplemente para
+mantener esto despierto que es lo
+
+98
+00:01:27,069 --> 00:01:27,079
+mantener esto despierto que es lo
+ 
+
+99
+00:01:27,079 --> 00:01:28,630
+mantener esto despierto que es lo
+importante Así que como te ha encantado
+
+100
+00:01:28,630 --> 00:01:28,640
+importante Así que como te ha encantado
+ 
+
+101
+00:01:28,640 --> 00:01:29,749
+importante Así que como te ha encantado
+y te da un montón de valor déjame un
+
+102
+00:01:29,749 --> 00:01:29,759
+y te da un montón de valor déjame un
+ 
+
+103
+00:01:29,759 --> 00:01:31,310
+y te da un montón de valor déjame un
+like like guárdate la estructura para
+
+104
+00:01:31,310 --> 00:01:31,320
+like like guárdate la estructura para
+ 
+
+105
+00:01:31,320 --> 00:01:32,789
+like like guárdate la estructura para
+que no se te olvide y no te olvides de
+
+106
+00:01:32,789 --> 00:01:32,799
+que no se te olvide y no te olvides de
+ 
+
+107
+00:01:32,799 --> 00:01:33,749
+que no se te olvide y no te olvides de
+seguirme para aprender más de
+
+108
+00:01:33,749 --> 00:01:33,759
+seguirme para aprender más de
+ 
+
+109
+00:01:33,759 --> 00:01:36,880
+seguirme para aprender más de
+inteligente artificial
+
