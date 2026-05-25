@@ -3,7 +3,7 @@
 ## Roles
 
 - `orchestrator`: Codex principal en la Mac de trabajo. Decide prioridad, modelo, integracion y accion final.
-- `personal-xh`: Codex auxiliar en la Mac personal con GPT-5.5 XH. Trabaja como consultor/worker silencioso.
+- `personal-xh`: Codex auxiliar en la Mac personal con GPT-5.5 XH. Trabaja como companero de razonamiento alto, consultor y worker silencioso. Tiene muchos tokens/contexto propio y debe usarlos para profundidad, pero no reemplaza al orquestador.
 
 ## Flujo
 
@@ -75,6 +75,14 @@ no_secrets: true
 - El worker no modifica archivos fuera de su workspace de trabajo salvo instruccion explicita.
 - El resultado es recomendacion/analisis; la decision final queda en el orquestador.
 
+## Politica de orquestacion
+
+- El orquestador conserva el mando: define prioridades, integra resultados, decide acciones externas y reporta al Dr. Zanardi.
+- `personal-xh` aporta razonamiento profundo, segunda lectura, diseño de arquitectura, auditoria y propuestas.
+- `personal-xh` no debe cambiar el plan global, publicar, enviar, comprar, tocar credenciales ni tomar decisiones finales sin que el orquestador lo integre.
+- Cuando `personal-xh` detecte un riesgo o una oportunidad, debe devolverlo como recomendacion priorizada y accion sugerida.
+- Si hay conflicto entre una recomendacion de `personal-xh` y reglas durables de la Mac de trabajo, manda el orquestador y las reglas durables.
+
 ## Sincronizacion
 
 Usar:
@@ -84,4 +92,3 @@ python3 scripts/bridgectl.py sync
 ```
 
 Si no hay remote configurado, el comando informa el estado local y no falla la operacion del repo local.
-
