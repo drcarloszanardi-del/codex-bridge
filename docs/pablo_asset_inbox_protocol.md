@@ -8,6 +8,14 @@ Permitir que Pablo (`personal-xh`) ayude a seleccionar y preparar material visua
 
 Pablo solo puede leer carpetas que el Doctor cree explicitamente para este fin y que el workorder autorice por ruta. No debe pedir OAuth, Google Drive, Gmail, Calendar ni permisos amplios para explorar archivos personales.
 
+Ademas, antes de usar material visual debe pasar el gate local:
+
+```bash
+python3 scripts/asset_gate.py validate-manifest <manifest.json> --check-exists
+```
+
+Si el gate falla, Pablo no debe renderizar ni copiar material. Debe devolver el error en `results/` y proponer una alternativa segura.
+
 ## Carpeta sugerida en la Mac personal
 
 ```text
@@ -32,6 +40,14 @@ CodexAssetInbox/
       manifest.json
 ```
 
+Tambien se acepta:
+
+```text
+/Users/carloszanardi/CodexAssets/
+```
+
+No se aceptan como raiz autorizada: `Photos Library.photoslibrary`, `~/Pictures`, `~/Downloads`, `~/Desktop`, iCloud, Google Drive/DriveFS, `CloudStorage` ni carpetas amplias personales.
+
 ## Que puede hacer Pablo
 
 - Leer solo la carpeta autorizada en el workorder.
@@ -47,6 +63,8 @@ CodexAssetInbox/
 - No pedir acceso a Drive ni conectores externos.
 - No recorrer `~/Downloads`, `~/Desktop`, Fotos, iCloud, Drive o carpetas personales salvo ruta autorizada.
 - No subir pacientes, imagenes sensibles ni material no anonimizado al repo GitHub.
+- No commitear originales, videos privados, HEIC/MOV/MP4 originales ni fotos grandes al bridge.
+- No usar rutas absolutas de archivos privados en `results/`; reportar codigos y rutas locales solo cuando sea imprescindible para el orquestador.
 - No publicar, enviar por Telegram, Gmail o redes.
 - No borrar ni modificar originales.
 
@@ -57,8 +75,15 @@ Para material no sensible y liviano:
 - Pablo puede copiar al repo `codex-bridge/context/asset_packs/<fecha>-<proyecto>/`:
   - `manifest.json`
   - `selection.md`
-  - contact sheets
-  - miniaturas anonimizadas
+  - contact sheets anonimizadas y de baja resolucion
+  - miniaturas anonimizadas de baja resolucion
+
+Antes de commitear, correr:
+
+```bash
+python3 scripts/asset_gate.py scan-bridge
+python3 scripts/secret_scan.py
+```
 
 Para material sensible o pesado:
 
@@ -75,6 +100,7 @@ Para material sensible o pesado:
   "authorized_root": "/Users/carloszanardi/CodexAssetInbox/PRESENTACIONES/proyecto",
   "created_by": "personal-xh",
   "contains_sensitive_material": true,
+  "asset_policy": "curated_folder_only_no_full_library",
   "items": [
     {
       "file": "original/imagen_001.jpg",
@@ -91,3 +117,14 @@ Para material sensible o pesado:
 ## Regla de decision
 
 Pablo prepara y clasifica. Codex orquestador decide que entra en una presentacion/reel. El Doctor aprueba cualquier uso publico o transferencia externa de material sensible.
+
+## Reels autonomos
+
+Para armar reels de manera autonoma:
+
+1. El workorder debe nombrar una raiz autorizada.
+2. Pablo crea o actualiza `manifest.json`.
+3. Pablo corre `asset_gate.py validate-manifest`.
+4. Pablo renderiza solo derivados locales dentro de la carpeta autorizada.
+5. Pablo devuelve `storyboard`, `qa`, `render_status` y, si corresponde, ruta local del export.
+6. El orquestador revisa y decide si se transfiere por una ruta controlada o si se pide nuevo render.

@@ -7,3 +7,10 @@ tmp/*
 secrets/
 private/
 dashboard/state.json
+
+# Pablo asset safety: originals and private media stay local only.
+context/asset_packs/**/originals/
+context/asset_packs/**/*.mov
+context/asset_packs/**/*.mp4
+context/asset_packs/**/*.m4v
+context/asset_packs/**/*.heic
