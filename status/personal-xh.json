@@ -1,7 +1,20 @@
 {
   "codex_cli": "codex-cli 0.133.0-alpha.1",
+  "alias": "Pablo",
+  "available_work_types": [
+    "mejoras",
+    "QA",
+    "backlog",
+    "segunda_pasada_xh",
+    "sintesis_profunda",
+    "arquitectura",
+    "auditoria"
+  ],
+  "capacity_for_work": true,
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-Carlos.local",
+  "idle": true,
+  "last_idle_signal_at": "2026-05-25T11:50:06-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -55,7 +68,11 @@
     "20260525T112543-youtubers-auditoria-profunda-con-pack-obligatorio-v2"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
+  "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
+  "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
+  "requesting_work": true,
+  "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T11:41:03-03:00"
+  "updated_at": "2026-05-25T11:50:06-03:00"
 }

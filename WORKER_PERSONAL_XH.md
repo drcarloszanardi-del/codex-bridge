@@ -64,3 +64,17 @@ git add results status
 git commit -m "Complete <job_id>"
 git push
 ```
+
+## Disponibilidad cuando no hay jobs
+
+Si no hay jobs pendientes, el worker no debe usar Telegram, Gmail, Drive, Calendar ni mensajes externos. Debe comunicarse con el orquestador solo por el bridge Git.
+
+Cuando este idle, mantener `status/personal-xh.json` con:
+
+- `status: available`
+- `idle: true`
+- `requesting_work: true`
+- `capacity_for_work: true`
+- `message`: pedido breve para que el orquestador asigne trabajo mediante `jobs/`
+
+El orquestador debe responder creando un nuevo archivo en `jobs/` con `assignee: personal-xh`. Pablo no se autoasigna prioridades globales ni ejecuta acciones externas; pide trabajo, espera job, procesa, devuelve `results/` y pushea.
