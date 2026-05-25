@@ -93,14 +93,15 @@
     "20260525T153318-clinica-lumbar-inconsistency-gates-v2",
     "20260525T163832-reels-cmp-standard-ultimo-video-y-locucion",
     "20260525T164232-telegram-topic-routing-regression-suite-v1",
-    "20260525T164233-radares-anti-informe-vacio-operational-gate-v1"
+    "20260525T164233-radares-anti-informe-vacio-operational-gate-v1",
+    "20260525T170711-clinica-corpus-official-gates-next-integration-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Completado 20260525T164233-radares-anti-informe-vacio-operational-gate-v1. Pablo/personal-xh disponible para nuevos jobs de mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH.",
+  "message": "Completado 20260525T170711-clinica-corpus-official-gates-next-integration-v1. Pablo/personal-xh procesando cola restante o disponible para nuevos jobs.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T16:49:37-03:00"
+  "updated_at": "2026-05-25T17:10:37-03:00"
 }
