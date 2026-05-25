@@ -83,7 +83,9 @@
     "20260525T124545-clinica-corpus-gates-backlog-v2",
     "20260525T124546-reels-cmp-next-editorial-options",
     "20260525T124718-radares-source-recovery-playbook",
-    "20260525T124718-tesis-protocolo-datos-y-material-audiovisual"
+    "20260525T124718-tesis-protocolo-datos-y-material-audiovisual",
+    "20260525T130220-reels-assets-library-curation-protocol",
+    "20260525T131149-reels-render-offload-pablo-fast-node-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
@@ -92,5 +94,5 @@
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T12:52:07-03:00"
+  "updated_at": "2026-05-25T13:13:33-03:00"
 }
