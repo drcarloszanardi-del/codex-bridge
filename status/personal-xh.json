@@ -95,14 +95,16 @@
     "20260525T164232-telegram-topic-routing-regression-suite-v1",
     "20260525T164233-radares-anti-informe-vacio-operational-gate-v1",
     "20260525T170711-clinica-corpus-official-gates-next-integration-v1",
-    "20260525T170712-tesis-protocolo-datos-next-actions-v1"
+    "20260525T170712-tesis-protocolo-datos-next-actions-v1",
+    "20260525T173726-clinica-lumbar-fixture-pack-draft-v2",
+    "20260525T173727-tesis-empty-template-pack-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Pablo/personal-xh disponible; solicito al orquestador asignar trabajo de mejora, QA o backlog.",
+  "message": "Completados 20260525T173726 y 20260525T173727. Pablo/personal-xh disponible para nuevos jobs de mejora, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T17:20:07-03:00"
+  "updated_at": "2026-05-25T17:41:08-03:00"
 }
