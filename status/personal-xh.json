@@ -1,0 +1,11 @@
+{
+  "front": "CODEX-OPS",
+  "host": "MacBook-Air-de-Carlos.local",
+  "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
+  "role": "personal-xh",
+  "status": "available",
+  "last_job_id": "20260525T012344-handshake-personal-codex",
+  "last_result": "results/20260525T012344-handshake-personal-codex.result.md",
+  "codex_cli": "codex-cli 0.133.0-alpha.1",
+  "updated_at": "2026-05-25T01:25:58-03:00"
+}
