@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Codex 24/7</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Codex 24/7</p>
+          <h1>Flujo de trabajo</h1>
+        </div>
+        <div class="sync">
+          <span id="globalState" class="pill">cargando</span>
+          <time id="updatedAt">-</time>
+        </div>
+      </header>
+
+      <section class="metrics" aria-label="Resumen global">
+        <div><span id="pendingCount">0</span><small>pendientes</small></div>
+        <div><span id="activeCount">0</span><small>en curso</small></div>
+        <div><span id="blockedCount">0</span><small>bloqueos</small></div>
+        <div><span id="resultCount">0</span><small>resultados</small></div>
+      </section>
+
+      <section class="flow" aria-label="Frentes">
+        <div class="flow-head">
+          <span>Frente</span>
+          <span>Estado</span>
+          <span>Trabajo actual</span>
+          <span>Ultimo resultado</span>
+          <span>Proxima accion</span>
+        </div>
+        <div id="frontRows" class="rows"></div>
+      </section>
+
+      <section class="detail" aria-label="Detalles">
+        <div>
+          <h2>Worker</h2>
+          <div id="workers" class="list"></div>
+        </div>
+        <div>
+          <h2>Git</h2>
+          <div id="gitState" class="list"></div>
+        </div>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

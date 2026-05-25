@@ -17,6 +17,7 @@ Objetivo: coordinar trabajo entre Macs sin depender de IP local, Telegram, AirDr
 - `scripts/personal_xh_check.sh`: ciclo local de revision para el worker `personal-xh`.
 - `scripts/personal_xh_poll_loop.sh`: loop opcional de monitoreo con log en `tmp/`.
 - `templates/`: formatos normalizados para resultados.
+- `dashboard/`: vista local simple de frentes, jobs, claims, results y workers.
 
 ## Regla principal
 
@@ -35,3 +36,14 @@ Para tomar un trabajo antes de procesarlo:
 ```bash
 python3 scripts/bridgectl.py claim --job-id <job_id> --assignee personal-xh
 ```
+
+## Dashboard local
+
+Generar el estado y abrir una vista simple:
+
+```bash
+python3 dashboard/dashboard_snapshot.py
+python3 -m http.server 8788
+```
+
+Luego abrir `http://localhost:8788/dashboard/`.
