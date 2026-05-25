@@ -147,6 +147,77 @@ WORK_POOL: list[dict[str, object]] = [
             "implementation_plan",
         ],
     },
+    {
+        "slug": "clinica-corpus-gates-backlog-v2",
+        "title": "Clinica corpus medico-legal: backlog de gates aplicables",
+        "front": "CLINICA",
+        "objective": "Tomar resultados clinicos/corpus previos y priorizar reglas verificables que deban convertirse en gates de historia clinica, consentimiento y parte quirurgico, separando oficial, doctrina e inferencia.",
+        "context": [
+            "context/fronts/clinica.md",
+            "results/20260525T013125-corpus-jurisprudencia-leyes-gates-app-clinica.result.md",
+            "results/20260525T122941-clinica-correcciones-a-fixtures-implementacion.result.md",
+        ],
+        "output": [
+            "gate_backlog",
+            "official_source_requirements",
+            "template_impact",
+            "qa_priority",
+            "do_not_integrate_yet",
+        ],
+    },
+    {
+        "slug": "reels-cmp-next-editorial-options",
+        "title": "Reels CMP: proximas piezas premium y material requerido",
+        "front": "REELS",
+        "objective": "Proponer 3 ideas de reels CMP de alto valor y bajo riesgo para el Dr. Zanardi, con guion corto, asset pack minimo, QA de datos y criterio de publicacion.",
+        "context": [
+            "context/fronts/reels_cmp.md",
+            "results/20260525T122941-reels-dia-patria-assets-and-timeline.result.md",
+            "results/20260525T021049-reels-cmp-premium-pipeline-qa-v1.result.md",
+        ],
+        "output": [
+            "editorial_options",
+            "asset_requests",
+            "risk_filter",
+            "recommended_next_reel",
+            "telegram_topic_report",
+        ],
+    },
+    {
+        "slug": "radares-source-recovery-playbook",
+        "title": "Radares inmobiliaria/instrumental: playbook anti bloqueo de fuentes",
+        "front": "INVERSIONES",
+        "objective": "Disenar un playbook operativo para que los radares no cierren con 'no pude': rutas alternativas, fuentes espejo, cache/snippets, navegador real, comparables y condiciones para escalar a Pablo.",
+        "context": [
+            "context/fronts/radares.md",
+            "results/20260525T122941-radar-anti-empty-script-spec.result.md",
+            "results/20260525T120001-radares-anti-informe-vacio-v1.result.md",
+        ],
+        "output": [
+            "source_recovery_routes",
+            "front_specific_thresholds",
+            "examples",
+            "automation_hooks",
+            "failure_language_ban",
+        ],
+    },
+    {
+        "slug": "tesis-protocolo-datos-y-material-audiovisual",
+        "title": "Tesis: protocolo de datos y uso de material audiovisual",
+        "front": "TESIS",
+        "objective": "Proponer mejoras metodologicas accionables para recoleccion de datos y uso de videos/material quirurgico como insumo contextual, sin modificar el borrador base.",
+        "context": [
+            "results/20260525T021049-tesis-research-ops-protocol-v1.result.md",
+            "context/fronts/presentaciones.md",
+        ],
+        "output": [
+            "data_collection_protocol_improvements",
+            "video_to_variable_mapping",
+            "ethics_privacy_limits",
+            "draft_change_candidates",
+            "questions_for_doctor",
+        ],
+    },
 ]
 
 
