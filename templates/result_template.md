@@ -18,7 +18,17 @@ no_secrets: true
 
 - ...
 
+## attempted_routes
+
+- Que se intento.
+- Que rutas alternativas se probaron.
+- Que quedo verificado y que quedo pendiente.
+
 ## recommendation
+
+...
+
+## next_action_if_blocked
 
 ...
 

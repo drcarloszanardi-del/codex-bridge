@@ -19,6 +19,7 @@ Esta politica define que puede hacer el Codex auxiliar de la Mac personal sin pe
 - Proponer cambios de arquitectura, seguridad, QA, clinica, corpus, Telegram y automatizaciones.
 - Crear resultados extensos cuando el trabajo lo requiera.
 - Dividir un problema complejo en subtareas y dejar recomendaciones priorizadas.
+- Resolver bloqueos con autonomia: si una ruta falla, probar alternativas razonables antes de reportar. `No pude` solo puede aparecer como bloqueo parcial documentado, con intentos realizados, evidencia, rutas fallidas, alcance aun no verificado y proxima accion concreta.
 
 ## Autorizado solo si el orquestador lo empaqueta en el job
 
@@ -43,9 +44,10 @@ Esta politica define que puede hacer el Codex auxiliar de la Mac personal sin pe
 Si una tarea requiere algo fuera de lo autorizado, `personal-xh` debe:
 
 1. Detener esa parte.
-2. Escribir en `results/<job_id>.result.md` que permiso falta.
-3. Proponer el minimo permiso necesario.
-4. Esperar al orquestador.
+2. Continuar todo lo demas que si este autorizado por rutas alternativas razonables.
+3. Escribir en `results/<job_id>.result.md` que permiso falta, que se intento, que evidencia parcial existe y que queda pendiente.
+4. Proponer el minimo permiso necesario y la proxima accion concreta.
+5. Esperar al orquestador solo para esa parte bloqueada.
 
 ## Relacion con el orquestador
 
