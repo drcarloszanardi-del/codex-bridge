@@ -1,8 +1,8 @@
 {
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Integrados resultados de Pablo: validator lumbar v2 implementado localmente y conectado a core QA OK; tesis research-ops actualizada con brief, variables y politicas. Nuevos jobs seguros asignados: stress artifacts clinicos y gate metodologico tesis.",
+  "message": "Asignado a Pablo el job REELS 20260525T190553 para evaluar motores open source de voz/locucion premium y proponer piloto/gate de audio. No debe generar audios ni tocar assets personales.",
   "role": "orchestrator",
-  "status": "queued_clinica_stress_and_tesis_gate_for_pablo",
-  "updated_at": "2026-05-25T18:41:02-03:00"
+  "status": "queued_reels_voice_open_source_eval_for_pablo",
+  "updated_at": "2026-05-25T19:05:53-03:00"
 }
