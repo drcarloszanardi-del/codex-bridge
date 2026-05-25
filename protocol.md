@@ -8,11 +8,12 @@
 ## Flujo
 
 1. El orquestador crea un archivo en `jobs/`.
-2. El worker hace `git pull`, toma jobs asignados a `personal-xh` y trabaja localmente.
+2. El worker hace `git pull --rebase`, toma jobs asignados a `personal-xh` y trabaja localmente.
 3. El worker escribe un archivo correspondiente en `results/`.
 4. El worker actualiza `status/personal-xh.json`.
-5. El worker hace `git add`, `git commit`, `git push`.
-6. El orquestador hace `git pull`, revisa resultados e integra.
+5. El worker ejecuta `python3 scripts/secret_scan.py`, hace `git add`, `git commit`, `git push`.
+6. Si el push falla por carrera de commits, el worker hace `git pull --rebase` y reintenta `git push`.
+7. El orquestador hace `git pull`, revisa resultados e integra.
 
 ## Convencion de nombres
 

@@ -66,6 +66,22 @@ def frontmatter(payload: dict[str, str]) -> str:
     return "\n".join(lines)
 
 
+def read_frontmatter(path: Path) -> dict[str, str]:
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---\n"):
+        return {}
+    end = text.find("\n---", 4)
+    if end == -1:
+        return {}
+    meta: dict[str, str] = {}
+    for line in text[4:end].splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        meta[key.strip()] = value.strip().strip('"').strip("'")
+    return meta
+
+
 def create_job(args: argparse.Namespace) -> dict:
     ensure_dirs()
     job_id = f"{stamp()}-{slugify(args.title)}"
@@ -116,12 +132,18 @@ def list_jobs(args: argparse.Namespace) -> dict:
     ensure_dirs()
     jobs = []
     for path in sorted(JOBS.glob("*.md")):
+        meta = read_frontmatter(path)
+        if args.assignee and meta.get("assignee") != args.assignee:
+            continue
         result = RESULTS / f"{path.stem}.result.md"
         if args.pending and result.exists():
             continue
         jobs.append({
             "id": path.stem,
             "path": str(path),
+            "assignee": meta.get("assignee", ""),
+            "front": meta.get("front", ""),
+            "status": meta.get("status", ""),
             "has_result": result.exists(),
             "mtime": dt.datetime.fromtimestamp(path.stat().st_mtime).astimezone().isoformat(timespec="seconds"),
         })
@@ -172,6 +194,7 @@ def main() -> int:
     new_job.add_argument("--reasoning-effort", default="xhigh")
     listp = sub.add_parser("list-jobs")
     listp.add_argument("--pending", action="store_true")
+    listp.add_argument("--assignee", help="Only list jobs assigned to this worker.")
     status = sub.add_parser("status")
     status.add_argument("--role", required=True)
     status.add_argument("--status", required=True)

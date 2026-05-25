@@ -13,9 +13,18 @@ Objetivo: coordinar trabajo entre Macs sin depender de IP local, Telegram, AirDr
 - `tmp/`: archivos temporales no sensibles.
 - `protocol.md`: reglas del intercambio.
 - `scripts/bridgectl.py`: utilidades locales para crear jobs, listar pendientes, registrar status y sincronizar Git.
+- `scripts/personal_xh_check.sh`: ciclo local de revision para el worker `personal-xh`.
+- `scripts/personal_xh_poll_loop.sh`: loop opcional de monitoreo con log en `tmp/`.
+- `templates/`: formatos normalizados para resultados.
 
 ## Regla principal
 
 No guardar credenciales, secretos, datos de pacientes identificables ni tokens en este repo.
 
 Para datos sensibles, el job debe referir una ruta local segura y pedir revision manual del Codex orquestador.
+
+Antes de publicar cambios operativos, ejecutar:
+
+```bash
+python3 scripts/secret_scan.py
+```

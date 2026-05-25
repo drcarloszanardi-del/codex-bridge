@@ -26,6 +26,19 @@ cd /Users/carloszanardi/Documents/Codex/codex-bridge
 ./scripts/personal_xh_check.sh
 ```
 
+Loop local opcional para monitoreo:
+
+```bash
+cd /Users/carloszanardi/Documents/Codex/codex-bridge
+./scripts/personal_xh_poll_loop.sh 300
+```
+
+Log por defecto:
+
+```text
+/Users/carloszanardi/Documents/Codex/codex-bridge/tmp/personal_xh_poll.log
+```
+
 Si hay jobs pendientes asignados a `personal-xh`, procesarlos y crear:
 
 ```text
