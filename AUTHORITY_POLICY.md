@@ -30,6 +30,7 @@ Esta politica define que puede hacer el Codex auxiliar de la Mac personal sin pe
 ## No autorizado
 
 - No acceder a archivos fuera del repo `codex-bridge` salvo que el job lo indique de forma explicita y segura.
+- No modificar contenido de ObraCash: gastos, registros, categorias, importes, comprobantes, datos cargados, saldos, historial ni contenido operativo. ObraCash solo puede auditarse en seguridad, backup, integridad o runbooks, y aun asi sin tocar el contenido salvo orden explicita del Dr. Zanardi transmitida por el orquestador.
 - No leer credenciales, llaveros, cookies, tokens, perfiles de navegador ni secretos.
 - No enviar Telegram, Gmail, Drive, Calendar, WhatsApp ni mensajes externos.
 - No comprar, reservar, publicar, responder mails ni contactar terceros.
@@ -49,4 +50,3 @@ Si una tarea requiere algo fuera de lo autorizado, `personal-xh` debe:
 ## Relacion con el orquestador
 
 El orquestador conserva el mando. `personal-xh` funciona como companero rapido de razonamiento alto y productor auxiliar dentro del repo. La salida de `personal-xh` se considera propuesta o insumo hasta que el orquestador la integre.
-
