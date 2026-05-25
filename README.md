@@ -7,8 +7,10 @@ Objetivo: coordinar trabajo entre Macs sin depender de IP local, Telegram, AirDr
 ## Estructura
 
 - `jobs/`: pedidos de trabajo.
-- `results/`: respuestas a pedidos.
+- `results/`: respuestas del worker.
 - `status/`: heartbeats y estado operativo por maquina/agente.
+- `decisions/`: decisiones acordadas.
+- `tmp/`: archivos temporales no sensibles.
 - `protocol.md`: reglas del intercambio.
 - `scripts/bridgectl.py`: utilidades locales para crear jobs, listar pendientes, registrar status y sincronizar Git.
 
@@ -17,4 +19,3 @@ Objetivo: coordinar trabajo entre Macs sin depender de IP local, Telegram, AirDr
 No guardar credenciales, secretos, datos de pacientes identificables ni tokens en este repo.
 
 Para datos sensibles, el job debe referir una ruta local segura y pedir revision manual del Codex orquestador.
-
