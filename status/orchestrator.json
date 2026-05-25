@@ -1,8 +1,8 @@
 {
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Integrados resultados clinica/tesis; nuevos jobs seguros asignados: fixture pack lumbar y plantillas vacias tesis.",
+  "message": "Integrados resultados de Pablo: fixture pack lumbar v2 materializado localmente y plantillas vacias de tesis creadas. Nuevos jobs seguros asignados: validator detect-only y brief tesis.",
   "role": "orchestrator",
-  "status": "queued_next_clinica_tesis_templates_for_pablo",
-  "updated_at": "2026-05-25T17:37:51-03:00"
+  "status": "queued_validator_and_tesis_brief_for_pablo",
+  "updated_at": "2026-05-25T18:10:02-03:00"
 }
