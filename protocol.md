@@ -8,12 +8,13 @@
 ## Flujo
 
 1. El orquestador crea un archivo en `jobs/`.
-2. El worker hace `git pull --rebase`, toma jobs asignados a `personal-xh` y trabaja localmente.
-3. El worker escribe un archivo correspondiente en `results/`.
-4. El worker actualiza `status/personal-xh.json`.
-5. El worker ejecuta `python3 scripts/secret_scan.py`, hace `git add`, `git commit`, `git push`.
-6. Si el push falla por carrera de commits, el worker hace `git pull --rebase` y reintenta `git push`.
-7. El orquestador hace `git pull`, revisa resultados e integra.
+2. El worker hace `git pull --rebase` y lista jobs asignados a `personal-xh` con `--available`.
+3. Antes de trabajar, el worker crea claim con `python3 scripts/bridgectl.py claim --job-id <job_id> --assignee personal-xh`.
+4. El worker escribe un archivo correspondiente en `results/`.
+5. El worker actualiza `status/personal-xh.json`.
+6. El worker ejecuta `python3 scripts/secret_scan.py`, hace `git add`, `git commit`, `git push`.
+7. Si el push falla por carrera de commits, el worker hace `git pull --rebase` y reintenta `git push`.
+8. El orquestador hace `git pull`, revisa resultados e integra.
 
 ## Convencion de nombres
 
@@ -34,6 +35,12 @@ Status:
 ```text
 status/personal-xh.json
 status/orchestrator.json
+```
+
+Claims:
+
+```text
+claims/YYYYMMDDTHHMMSS-slug.json
 ```
 
 ## Formato minimo de job

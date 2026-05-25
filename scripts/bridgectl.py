@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 JOBS = ROOT / "jobs"
 RESULTS = ROOT / "results"
 STATUS = ROOT / "status"
+CLAIMS = ROOT / "claims"
 
 
 def now_iso() -> str:
@@ -54,7 +55,7 @@ def run(cmd: list[str], check: bool = False) -> dict:
 
 
 def ensure_dirs() -> None:
-    for path in [JOBS, RESULTS, STATUS]:
+    for path in [JOBS, RESULTS, STATUS, CLAIMS]:
         path.mkdir(parents=True, exist_ok=True)
 
 
@@ -80,6 +81,18 @@ def read_frontmatter(path: Path) -> dict[str, str]:
         key, value = line.split(":", 1)
         meta[key.strip()] = value.strip().strip('"').strip("'")
     return meta
+
+
+def read_json(path: Path) -> dict:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def claim_path(job_id: str) -> Path:
+    safe = re.sub(r"[^A-Za-z0-9._-]", "-", job_id).strip("-")
+    return CLAIMS / f"{safe}.json"
 
 
 def create_job(args: argparse.Namespace) -> dict:
@@ -138,16 +151,52 @@ def list_jobs(args: argparse.Namespace) -> dict:
         result = RESULTS / f"{path.stem}.result.md"
         if args.pending and result.exists():
             continue
+        claim = read_json(claim_path(path.stem))
+        claimed_by = str(claim.get("assignee", "") or "")
+        if args.available and claimed_by and claimed_by != (args.assignee or ""):
+            continue
         jobs.append({
             "id": path.stem,
             "path": str(path),
             "assignee": meta.get("assignee", ""),
             "front": meta.get("front", ""),
             "status": meta.get("status", ""),
+            "claimed_by": claimed_by,
             "has_result": result.exists(),
             "mtime": dt.datetime.fromtimestamp(path.stat().st_mtime).astimezone().isoformat(timespec="seconds"),
         })
     return {"ok": True, "count": len(jobs), "jobs": jobs}
+
+
+def claim_job(args: argparse.Namespace) -> dict:
+    ensure_dirs()
+    job = JOBS / f"{args.job_id}.md"
+    if not job.exists():
+        return {"ok": False, "error": "job_not_found", "job_id": args.job_id}
+
+    path = claim_path(args.job_id)
+    payload = {
+        "job_id": args.job_id,
+        "assignee": args.assignee,
+        "claimed_at": now_iso(),
+        "host": os.uname().nodename,
+    }
+    try:
+        fd = os.open(str(path), os.O_WRONLY | os.O_CREAT | os.O_EXCL, 0o644)
+    except FileExistsError:
+        existing = read_json(path)
+        return {
+            "ok": existing.get("assignee") == args.assignee,
+            "acquired": False,
+            "job_id": args.job_id,
+            "claimed_by": existing.get("assignee", ""),
+            "claim": existing,
+            "path": str(path),
+        }
+    with os.fdopen(fd, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2, sort_keys=True)
+        fh.write("\n")
+    return {"ok": True, "acquired": True, "job_id": args.job_id, "claim": payload, "path": str(path)}
 
 
 def write_status(args: argparse.Namespace) -> dict:
@@ -174,7 +223,7 @@ def sync(_: argparse.Namespace) -> dict:
     steps.append(run(["git", "status", "--short"]))
     dirty = bool(steps[-1]["stdout"].strip())
     if dirty:
-        steps.append(run(["git", "add", "jobs", "results", "status", "protocol.md", "README.md", "scripts"]))
+        steps.append(run(["git", "add", "jobs", "results", "status", "claims", "protocol.md", "README.md", "WORKER_PERSONAL_XH.md", "AUTHORITY_POLICY.md", "scripts", "templates"]))
         steps.append(run(["git", "commit", "-m", "Update codex bridge queue"]))
     if has_remote:
         steps.append(run(["git", "push"]))
@@ -195,6 +244,10 @@ def main() -> int:
     listp = sub.add_parser("list-jobs")
     listp.add_argument("--pending", action="store_true")
     listp.add_argument("--assignee", help="Only list jobs assigned to this worker.")
+    listp.add_argument("--available", action="store_true", help="Exclude jobs claimed by another assignee.")
+    claimp = sub.add_parser("claim")
+    claimp.add_argument("--job-id", required=True)
+    claimp.add_argument("--assignee", required=True)
     status = sub.add_parser("status")
     status.add_argument("--role", required=True)
     status.add_argument("--status", required=True)
@@ -207,6 +260,8 @@ def main() -> int:
         out = create_job(args)
     elif args.cmd == "list-jobs":
         out = list_jobs(args)
+    elif args.cmd == "claim":
+        out = claim_job(args)
     elif args.cmd == "status":
         out = write_status(args)
     elif args.cmd == "sync":

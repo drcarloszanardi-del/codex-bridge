@@ -7,6 +7,7 @@ Objetivo: coordinar trabajo entre Macs sin depender de IP local, Telegram, AirDr
 ## Estructura
 
 - `jobs/`: pedidos de trabajo.
+- `claims/`: claims livianos para evitar doble procesamiento.
 - `results/`: respuestas del worker.
 - `status/`: heartbeats y estado operativo por maquina/agente.
 - `decisions/`: decisiones acordadas.
@@ -27,4 +28,10 @@ Antes de publicar cambios operativos, ejecutar:
 
 ```bash
 python3 scripts/secret_scan.py
+```
+
+Para tomar un trabajo antes de procesarlo:
+
+```bash
+python3 scripts/bridgectl.py claim --job-id <job_id> --assignee personal-xh
 ```

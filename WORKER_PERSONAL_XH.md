@@ -26,6 +26,12 @@ cd /Users/carloszanardi/Documents/Codex/codex-bridge
 ./scripts/personal_xh_check.sh
 ```
 
+Antes de procesar un job:
+
+```bash
+python3 scripts/bridgectl.py claim --job-id <job_id> --assignee personal-xh
+```
+
 Loop local opcional para monitoreo:
 
 ```bash
