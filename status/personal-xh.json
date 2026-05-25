@@ -72,7 +72,11 @@
     "20260525T122119-ai-tools-apps-skills-models-deep-v1",
     "20260525T122120-presentaciones-ai-pilot-premium-v1",
     "20260525T122121-artifactdraft-telegram-reels-presentaciones-v1",
-    "20260525T122122-pablo-idle-autodelegation-v1"
+    "20260525T122122-pablo-idle-autodelegation-v1",
+    "20260525T122941-clinica-correcciones-a-fixtures-implementacion",
+    "20260525T122941-radar-anti-empty-script-spec",
+    "20260525T122941-reels-dia-patria-assets-and-timeline",
+    "20260525T123025-presentaciones-pilot-pack"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
@@ -81,5 +85,5 @@
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T12:25:04-03:00"
+  "updated_at": "2026-05-25T12:34:53-03:00"
 }
