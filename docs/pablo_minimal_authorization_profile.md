@@ -13,6 +13,11 @@ Pablo no necesita acceso amplio a la Mac. Necesita acceso acotado a:
 - `/Users/carloszanardi/Documents/Codex/codex-bridge`
 - `/Users/carloszanardi/CodexAssets`
 - `/Users/carloszanardi/CodexAssetInbox`
+- `/Users/carloszanardi/CodexPublicablePhotos`
+
+Para trabajo autonomo, preferir `scripts/personal_xh_autonomous_worker.py` instalado con `scripts/install_personal_xh_autonomous_launchd.sh`. Ese worker usa `codex -a never --search exec` con sandbox `workspace-write` y caches internas en `codex-bridge/tmp/pablo-cache`.
+
+`CodexPublicablePhotos` es una carpeta fuente, no una biblioteca viva. Pablo puede revisar y elegir fotos para posteos/reels; no debe borrar, renombrar, corregir ni sobrescribir originales. Si necesita editar, primero copia a `CodexAssetInbox` o al repo.
 
 No necesita:
 
@@ -46,6 +51,7 @@ Autorizar FFmpeg solo si los inputs/outputs están dentro de:
 
 - `/Users/carloszanardi/CodexAssets`
 - `/Users/carloszanardi/CodexAssetInbox`
+- `/Users/carloszanardi/CodexPublicablePhotos` como input solamente
 
 ## Comandos o accesos a rechazar
 
@@ -71,9 +77,20 @@ Rechazar también:
 - borrar originales;
 - publicar en redes.
 
+## Permisos tecnicos aceptables en modo autonomo
+
+El worker puede:
+
+- hacer `git fetch/pull/add/commit/push` dentro de `codex-bridge`;
+- ejecutar `python3`, `uv`, `pip`, `ffmpeg` y `codex exec` dentro del repo;
+- descargar dependencias open source y modelos publicos a `codex-bridge/tmp/pablo-cache`;
+- escribir resultados, claims, status y asset packs seguros dentro del repo.
+
+No debe pedir permisos interactivos si una accion excede ese alcance; debe reportar bloqueo.
+
 ## Ruta operativa segura para reels
 
-1. El Doctor o Pablo coloca material autorizado en `/Users/carloszanardi/CodexAssets/Reels/<proyecto>/`.
+1. El Doctor coloca o exporta material autorizado en `/Users/carloszanardi/CodexPublicablePhotos/` o `/Users/carloszanardi/CodexAssets/Reels/<proyecto>/`.
 2. Pablo crea `manifest.json`.
 3. Pablo corre:
 
