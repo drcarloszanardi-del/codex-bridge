@@ -1,8 +1,8 @@
 {
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Repo local codex-bridge preparado; pendiente remote privado compartido.",
+  "message": "Handshake Git publicado; esperando resultado de personal-xh.",
   "role": "orchestrator",
-  "status": "ready",
-  "updated_at": "2026-05-25T00:55:33-03:00"
+  "status": "waiting_personal_xh",
+  "updated_at": "2026-05-25T01:23:45-03:00"
 }
