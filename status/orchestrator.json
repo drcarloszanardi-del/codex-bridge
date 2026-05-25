@@ -1,8 +1,8 @@
 {
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "El Doctor autoriza a Pablo a aceptar habilitaciones locales necesarias para generar la voz del job REELS 20260525T192345, limitado a Terminal/Codex/Python/dependencias/modelos publicos; no Photos/iCloud/Drive/APIs externas.",
+  "message": "Bloqueo operativo: jobs REELS de voz 20260525T192345 y permiso 20260525T192612 siguen queued sin claim de Pablo; no hay WAV/MP3 nuevo para mux. Se requiere que el worker de Pablo haga pull/procese.",
   "role": "orchestrator",
-  "status": "permission_note_for_pablo_voice_generation",
-  "updated_at": "2026-05-25T19:26:12-03:00"
+  "status": "waiting_pablo_claim_reels_voice_jobs",
+  "updated_at": "2026-05-25T19:42:30-03:00"
 }
