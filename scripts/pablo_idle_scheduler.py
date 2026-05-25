@@ -333,7 +333,9 @@ def main() -> int:
 
     git_steps: list[dict] = []
     if created and args.commit_push:
-        paths = [item["path"] for item in created] + [str(SCHEDULER_STATE)]
+        # The scheduler state lives under tmp/ and is intentionally ignored;
+        # only durable jobs belong in the shared bridge history.
+        paths = [item["path"] for item in created]
         git_steps.append(run_git(["git", "add", *paths]))
         git_steps.append(run_git(["git", "commit", "-m", "Scheduler queued Pablo idle work"]))
         git_steps.append(run_git(["git", "push"]))
