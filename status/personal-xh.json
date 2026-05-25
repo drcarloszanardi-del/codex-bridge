@@ -88,7 +88,8 @@
     "20260525T131149-reels-render-offload-pablo-fast-node-v1",
     "20260525T132057-reel-consulta-columna-preparacion-render-v1",
     "20260525T132450-reel-dia-patria-v2-content-first-rework",
-    "20260525T133010-reel-dia-patria-v2-render-pablo-own-assets"
+    "20260525T133010-reel-dia-patria-v2-render-pablo-own-assets",
+    "20260525T133959-reel-dia-patria-v2-return-premium-gate"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
@@ -97,5 +98,5 @@
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T13:39:37-03:00"
+  "updated_at": "2026-05-25T13:57:07-03:00"
 }

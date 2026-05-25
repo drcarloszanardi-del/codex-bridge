@@ -1,0 +1,31 @@
+{
+  "schema": "codex_asset_manifest.v1",
+  "authorized_root": "/Users/carloszanardi/CodexAssets/Reels/dia_patria_v2",
+  "policy": "own_material_only_no_stock",
+  "items": [
+    {
+      "code": "C01",
+      "file": "selected/C01_cmp_vertical_card.jpeg",
+      "role": "cmp_brand_opening",
+      "privacy_status": "safe",
+      "sensitivity": "non_sensitive",
+      "usage": "opening_visual"
+    },
+    {
+      "code": "C04",
+      "file": "selected/C04_cmp_whatsapp_card.jpeg",
+      "role": "cmp_contact_closing",
+      "privacy_status": "safe",
+      "sensitivity": "non_sensitive",
+      "usage": "closing_contact"
+    },
+    {
+      "code": "V02",
+      "file": "selected/V02_doctor_to_camera.mov",
+      "role": "doctor_visual_source",
+      "privacy_status": "safe_visual_audio_not_used",
+      "sensitivity": "non_sensitive",
+      "usage": "doctor_visual_stills"
+    }
+  ]
+}
