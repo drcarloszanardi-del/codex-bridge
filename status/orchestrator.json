@@ -1,8 +1,8 @@
 {
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Handshake mas dos auditorias XH publicadas; monitor local activo del lado work-mac.",
+  "message": "En cola: revision transversal de mejoras por todos los frentes; el orquestador decidira que incorporar y preparara informe final.",
   "role": "orchestrator",
-  "status": "jobs_queued",
-  "updated_at": "2026-05-25T01:27:08-03:00"
+  "status": "waiting_personal_xh_cross_front_review",
+  "updated_at": "2026-05-25T01:55:47-03:00"
 }
