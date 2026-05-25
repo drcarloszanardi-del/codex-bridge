@@ -82,6 +82,7 @@ no_secrets: true
 - `personal-xh` no debe cambiar el plan global, publicar, enviar, comprar, tocar credenciales ni tomar decisiones finales sin que el orquestador lo integre.
 - Cuando `personal-xh` detecte un riesgo o una oportunidad, debe devolverlo como recomendacion priorizada y accion sugerida.
 - Si hay conflicto entre una recomendacion de `personal-xh` y reglas durables de la Mac de trabajo, manda el orquestador y las reglas durables.
+- La politica de autonomia operativa vive en `AUTHORITY_POLICY.md` y aplica a todos los jobs salvo instruccion mas restrictiva.
 
 ## Sincronizacion
 
