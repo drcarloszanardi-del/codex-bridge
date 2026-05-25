@@ -1,8 +1,8 @@
 {
-  "front": "REELS",
+  "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Pablo idle verificado; nuevo job asignado: 20260525T163832-reels-cmp-standard-ultimo-video-y-locucion.",
+  "message": "Pablo completo Telegram/radares; nuevos jobs seguros asignados: clinica corpus gates y tesis protocolo datos.",
   "role": "orchestrator",
-  "status": "queued_reels_cmp_standard_for_pablo",
-  "updated_at": "2026-05-25T16:39:05-03:00"
+  "status": "queued_next_backlog_for_pablo",
+  "updated_at": "2026-05-25T17:07:41-03:00"
 }
