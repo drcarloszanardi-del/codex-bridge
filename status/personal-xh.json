@@ -76,7 +76,10 @@
     "20260525T122941-clinica-correcciones-a-fixtures-implementacion",
     "20260525T122941-radar-anti-empty-script-spec",
     "20260525T122941-reels-dia-patria-assets-and-timeline",
-    "20260525T123025-presentaciones-pilot-pack"
+    "20260525T123025-presentaciones-pilot-pack",
+    "20260525T124108-ai-tools-pilot-prioritization",
+    "20260525T124108-artifactdraft-implementation-review",
+    "20260525T124108-telegram-quality-scorecard"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
@@ -85,5 +88,5 @@
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T12:34:53-03:00"
+  "updated_at": "2026-05-25T12:44:47-03:00"
 }
