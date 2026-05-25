@@ -65,7 +65,10 @@
     "20260525T111216-telegram-contralor-action-media-arrived-after-response",
     "20260525T111222-telegram-contralor-action-media-arrived-after-response",
     "20260525T111227-telegram-contralor-action-event-handle-error",
-    "20260525T112543-youtubers-auditoria-profunda-con-pack-obligatorio-v2"
+    "20260525T112543-youtubers-auditoria-profunda-con-pack-obligatorio-v2",
+    "20260525T120000-clinica-fixtures-lumbares-v1",
+    "20260525T120001-radares-anti-informe-vacio-v1",
+    "20260525T120325-reel-dia-patria-cmp-premium-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "message": "Pablo/personal-xh disponible. Si no hay jobs activos, asignar mejoras, QA, backlog, arquitectura, sintesis profunda o segunda pasada XH mediante jobs/.",
@@ -74,5 +77,5 @@
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T11:50:06-03:00"
+  "updated_at": "2026-05-25T12:05:10-03:00"
 }
