@@ -11,6 +11,8 @@ Un reel no se acepta por estar renderizado. Codex orquestador debe rechazar cual
 - Pieza silenciosa si se pidio reel publicable.
 - "Preview" presentado como entrega.
 - Solo placas/texto sin video o imagenes propias cuando el Doctor pidio material nuestro.
+- Contact sheet donde los planos humanos se vean oscuros, lavados, mal recortados o con texto diminuto.
+- Cierre que parezca aviso de WhatsApp/folleto de baja calidad en lugar de pieza institucional premium.
 - Asset marcado `needs_crop`, `safe_candidate` o `needs_review` sin recorte/revision resuelta.
 - Contacto incorrecto o ilegible.
 - Falta de QA cuadro a cuadro/contact sheet.
@@ -29,6 +31,7 @@ Un reel no se acepta por estar renderizado. Codex orquestador debe rechazar cual
 8. **Contacto**: `@drcarloszanardi`, `2364384321`, `www.centromedicopellegrini.com.ar`.
 9. **Evidencia**: contact sheet seguro con 8-12 frames y datos tecnicos del MP4.
 10. **Aprobacion**: Codex orquestador lo revisa antes de enviarlo al Doctor.
+11. **Evidencia audiovisual**: si el bridge no puede transportar el MP4 final, Pablo debe entregar proxy seguro o contact sheet suficiente para juzgar ritmo, encuadre y cierre. Un contact sheet pobre falla aunque el manifiesto tecnico pase.
 
 ## Salida minima de Pablo
 

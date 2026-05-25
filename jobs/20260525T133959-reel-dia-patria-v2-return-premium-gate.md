@@ -31,6 +31,7 @@ Leer y cumplir:
 
 - `docs/reels_premium_acceptance_gate.md`
 - `docs/pablo_asset_inbox_protocol.md`
+- `docs/pablo_minimal_authorization_profile.md`
 - `context/fronts/reels_cmp.md`
 
 ## Tarea
