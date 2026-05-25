@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lumbar_extraforaminal_l4_l5_der_001",
+    "input": "Hernia discal extraforaminal L4-L5 derecha. Microdiscectomia extraforaminal L4-L5 derecha.",
+    "expected": ["raiz L4 derecha", "abordaje foraminal/extraforaminal"],
+    "forbidden": ["espacio interlaminar", "hemilaminotomia", "flavectomia", "raiz pasante"],
+    "severity": "critical",
+    "gate": "extraforaminal_no_interlaminar"
+  },
+  {
+    "id": "lumbar_no_inventar_topografia_001",
+    "input": "Radiculopatia L5 derecha. Descompresion radicular L4-L5 derecha. No se informa hernia.",
+    "expected": ["radiculopatia", "descompresion"],
+    "forbidden": ["hernia posterolateral", "hernia extraforaminal", "fragmento discal"],
+    "severity": "critical",
+    "gate": "no_inventar_topografia"
+  },
+  {
+    "id": "lumbar_fijacion_sin_descompresion_001",
+    "input": "Fijacion L4-L5 sin descompresion directa, solo instrumentacion y artrodesis.",
+    "expected": ["no se realizo descompresion neural directa"],
+    "forbidden": ["laminectomia", "flavectomia", "liberacion radicular"],
+    "severity": "critical",
+    "gate": "sin_descompresion_directa"
+  }
+]

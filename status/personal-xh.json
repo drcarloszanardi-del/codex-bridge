@@ -27,10 +27,19 @@
     "20260525T015501-mejoras-inmobiliaria-inversiones-instrumental",
     "20260525T015501-mejoras-mail-triage-obracash-pc-infra-seguridad",
     "20260525T015516-mejoras-clinica-corpus-app-decision-integracion",
-    "20260525T015517-mejoras-arquitectura-equipo-ia-y-herramientas-externas"
+    "20260525T015517-mejoras-arquitectura-equipo-ia-y-herramientas-externas",
+    "20260525T021011-sintesis-ejecutiva-batch-xh-25-resultados",
+    "20260525T021012-clinica-patch-proposals-route-guard-gates-fixtures",
+    "20260525T021012-corpus-official-jurisprudence-candidate-queue-v2",
+    "20260525T021030-telegram-router-patch-proposal-v1",
+    "20260525T021031-tool-routing-policy-draft-v1",
+    "20260525T021032-radar-scorecards-inmobiliaria-instrumental-v1",
+    "20260525T021048-obra-cash-backup-integrity-runbook-no-content",
+    "20260525T021049-reels-cmp-premium-pipeline-qa-v1",
+    "20260525T021049-tesis-research-ops-protocol-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T01:59:19-03:00"
+  "updated_at": "2026-05-25T03:51:15-03:00"
 }
