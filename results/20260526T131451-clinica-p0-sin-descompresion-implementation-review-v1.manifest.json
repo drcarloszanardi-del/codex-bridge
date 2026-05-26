@@ -1,0 +1,20 @@
+{
+  "job_id": "20260526T131451-clinica-p0-sin-descompresion-implementation-review-v1",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "created_at": "2026-05-26T13:29:00-03:00",
+  "verdict": "aceptar segundo P0 en observacion",
+  "recommended_next_action": "agregar CLIN-P0-022 y CLIN-P0-023, rerun core QA, luego crear workorder separado para extraforaminal_no_interlaminar",
+  "additional_fixture_ids": [
+    "CLIN-P0-022-indirect-decompression-not-direct",
+    "CLIN-P0-023-history-section-clear-pass",
+    "CLIN-P0-024-implicit-performed-context-review"
+  ],
+  "third_p0_candidate": "extraforaminal_no_interlaminar",
+  "third_p0_recommendation": "preparar como workorder separado detect-only tras controles de frontera del segundo P0",
+  "template_edits_recommended": "none",
+  "external_actions": "none",
+  "real_patient_data": "none",
+  "confidence": "media-alta"
+}
