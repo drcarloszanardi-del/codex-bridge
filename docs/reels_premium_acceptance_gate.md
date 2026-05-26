@@ -73,6 +73,32 @@ Salida minima para historias:
 - `mobile_legibility: pass/fail`
 - `orchestrator_review_needed: true`
 
+## Reel diario CMP
+
+El objetivo operativo es producir un reel diario solo si hay material real suficiente para sostener calidad premium. La cantidad nunca justifica bajar el piso.
+
+Falla si:
+
+- no tiene al menos dos bloques de video propio o material real autorizado;
+- arranca con logo, placa generica o titulo sin conflicto/beneficio claro;
+- los subtitulos no se leen en 1080x1920 y en preview 540x960;
+- no hay revision de privacidad cuadro a cuadro;
+- no existe manifest de origen/permiso/sanitizacion de assets;
+- usa IA para simular evidencia medica, paciente, quirofano o estudio;
+- no propone 2-3 stories complementarias cuando el reel es publicable.
+
+Salida minima para reel diario:
+
+- `brief_one_sentence`
+- `source_manifest_path`
+- `storyboard_path`
+- `subtitle_status`
+- `privacy_frame_pass`
+- `contact_sheet_path`
+- `final_candidate_path`
+- `stories_companion_plan`
+- `publication_hold: true/false`
+
 ## Salida minima de Pablo
 
 Pablo debe devolver:
