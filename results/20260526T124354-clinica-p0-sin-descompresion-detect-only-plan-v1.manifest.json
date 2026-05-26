@@ -1,0 +1,21 @@
+{
+  "job_id": "20260526T124354-clinica-p0-sin-descompresion-detect-only-plan-v1",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "created_at": "2026-05-26T12:50:00-03:00",
+  "verdict": "integrar segundo P0 detect-only con fail para afirmaciones claras y needs_review para ambiguedad",
+  "gate": "sin_descompresion_directa_bloqueante",
+  "recommended_mode": "fail when direct_decompression=no and direct decompression act is affirmed as performed; needs_review for history/plan/ambiguous; pass for local negation",
+  "minimal_fixture_ids": [
+    "CLIN-P0-014-no-direct-decompression-bad-laminectomy",
+    "CLIN-P0-015-no-direct-decompression-good-negated",
+    "CLIN-P0-016-affirmation-after-negation",
+    "CLIN-P0-018-direct-decompression-declared-pass",
+    "CLIN-P0-021-negation-boundary-bad"
+  ],
+  "template_edits_recommended": "none",
+  "external_actions": "none",
+  "real_patient_data": "none",
+  "confidence": "alta para afirmaciones claras; media para sinonimos y contextos historicos"
+}
