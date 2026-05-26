@@ -1,8 +1,8 @@
 {
-  "front": "CLINICA",
+  "front": "CODEX-OPS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Radares v2 integrados localmente en validator/tests; nuevo job a Pablo: clinica corpus gates hardening v3.",
+  "message": "Integradas observaciones Pablo: radares v2, tesis template_only, clinica corpus policy. Nuevo job a Pablo: auditoria post-integracion.",
   "role": "orchestrator",
   "status": "active",
-  "updated_at": "2026-05-26T00:19:32-03:00"
+  "updated_at": "2026-05-26T00:37:42-03:00"
 }
