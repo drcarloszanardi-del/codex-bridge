@@ -1,0 +1,21 @@
+{
+  "job_id": "20260526T121531-clinica-p0-gates-implementation-review-v1",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "created_at": "2026-05-26T12:18:30-03:00",
+  "verdict": "aceptar en observacion; agregar fixtures de negacion antes del segundo P0",
+  "implementation_review_scope": "workorder and prior bridge results only; app code not inspected",
+  "recommended_next_action": "agregar CLIN-P0-009 a CLIN-P0-012 al gate v1 y rerun core QA",
+  "second_gate_recommendation": "no agregar inmediatamente sin_descompresion_directa_bloqueante; crear follow-up separado detect-only/report-only tras fixtures nuevos",
+  "additional_fixture_ids": [
+    "CLIN-P0-009-negated-topography-mention",
+    "CLIN-P0-010-affirmation-after-missing-source",
+    "CLIN-P0-011-declared-topography-pass",
+    "CLIN-P0-012-differential-discard-pass"
+  ],
+  "external_actions": "none",
+  "real_patient_data": "none",
+  "template_edits_recommended": "none",
+  "confidence": "media-alta"
+}
