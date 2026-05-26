@@ -1,0 +1,108 @@
+{
+  "pack_id": "20260526-cavernoma-intramedular",
+  "created_by": "personal-xh",
+  "asset_policy": "sanitized_derivatives_only_raw_originals_not_committed",
+  "source_folder": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma ",
+  "local_work_folder": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma",
+  "raw_originals_committed": false,
+  "assets": [
+    {
+      "code": "CAV-IMG-001",
+      "filename": "CAV-IMG-001_preop_a_sanitized.jpg",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Iagen preop.jpeg",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-IMG-001_preop_a_sanitized.jpg",
+      "width": 1200,
+      "height": 1600,
+      "type_inferred": "RM/preoperatorio candidato",
+      "identification_risk": "review_identifiers_low_after_metadata_strip",
+      "recommended_use": "preop visual candidate",
+      "original_committed": false,
+      "metadata_note": "PIL rewrite; no EXIF intentionally carried; visual redactions/crops applied where needed"
+    },
+    {
+      "code": "CAV-IMG-002",
+      "filename": "CAV-IMG-002_preop_b_sanitized.jpg",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Imagen preop.jpeg",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-IMG-002_preop_b_sanitized.jpg",
+      "width": 1600,
+      "height": 1200,
+      "type_inferred": "RM/preoperatorio candidato",
+      "identification_risk": "review_identifiers_low_after_metadata_strip",
+      "recommended_use": "alternate preop visual candidate",
+      "original_committed": false,
+      "metadata_note": "PIL rewrite; no EXIF intentionally carried; visual redactions/crops applied where needed"
+    },
+    {
+      "code": "CAV-IMG-003",
+      "filename": "CAV-IMG-003_case_visual_sanitized.jpg",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /15b6b5e8-ee7b-4ad8-a102-a7f92691ead8.jpg",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-IMG-003_case_visual_sanitized.jpg",
+      "width": 1600,
+      "height": 1200,
+      "type_inferred": "imagen clinica/quirurgica candidato",
+      "identification_risk": "review_identifiers",
+      "recommended_use": "supporting visual",
+      "original_committed": false,
+      "metadata_note": "PIL rewrite; no EXIF intentionally carried; visual redactions/crops applied where needed"
+    },
+    {
+      "code": "CAV-IMG-004",
+      "filename": "CAV-IMG-004_case_visual_sanitized.jpg",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /66072eeb-f180-4ef4-be90-553918281123.jpg",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-IMG-004_case_visual_sanitized.jpg",
+      "width": 1599,
+      "height": 899,
+      "type_inferred": "imagen clinica/quirurgica candidato",
+      "identification_risk": "review_identifiers",
+      "recommended_use": "supporting visual",
+      "original_committed": false,
+      "metadata_note": "PIL rewrite; no EXIF intentionally carried; visual redactions/crops applied where needed"
+    },
+    {
+      "code": "CAV-IMG-005",
+      "filename": "CAV-IMG-005_surgical_piece_sanitized.jpg",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Pieza quirurgfica .jpg",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-IMG-005_surgical_piece_sanitized.jpg",
+      "width": 1200,
+      "height": 1600,
+      "type_inferred": "pieza quirurgica",
+      "identification_risk": "high_sensitivity_review_required",
+      "recommended_use": "use only if Doctor/orchestrator approves graphic content",
+      "original_committed": false,
+      "metadata_note": "PIL rewrite; no EXIF intentionally carried; visual redactions/crops applied where needed"
+    },
+    {
+      "code": "CAV-IMG-006",
+      "filename": "CAV-IMG-006_intraop_monitoring_sanitized.jpg",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Monitoreo inraoperaorio.jpg",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-IMG-006_intraop_monitoring_sanitized.jpg",
+      "width": 1600,
+      "height": 1200,
+      "type_inferred": "monitoreo intraoperatorio",
+      "identification_risk": "screen_identifier_review_required",
+      "recommended_use": "technical context, blur/crop if identifiers visible",
+      "original_committed": false,
+      "metadata_note": "PIL rewrite; no EXIF intentionally carried; visual redactions/crops applied where needed"
+    },
+    {
+      "code": "CAV-VID-001",
+      "filename": "CAV-VID-001_postop_control_poster.png",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Video control postoperatorio.mp4",
+      "asset_path": "context/asset_packs/20260526-cavernoma-intramedular/assets/CAV-VID-001_postop_control_poster.png",
+      "width": 288,
+      "height": 512,
+      "type_inferred": "video control postoperatorio",
+      "identification_risk": "video_raw_not_committed_review_audio_metadata",
+      "recommended_use": "poster frame/contact candidate only; raw video remains local",
+      "original_committed": false,
+      "metadata_note": "poster derived from local QuickLook thumbnail; raw mp4 not committed; face redacted"
+    }
+  ],
+  "rules": [
+    "Use only authorized folder and generated derivatives.",
+    "Do not publish or send externally.",
+    "No music.",
+    "Review identifiers before final use.",
+    "Raw medical media remains local."
+  ]
+}
