@@ -14,7 +14,7 @@
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
-  "last_idle_signal_at": "2026-05-26T06:58:23-03:00",
+  "last_idle_signal_at": "2026-05-26T07:29:47-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -135,11 +135,11 @@
     "20260526T071000-telegram-t13-postfix-final-review-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Completado 20260526T071000: revision final T13 Telegram recomienda cerrar ciclo y pasar a observacion; personal-xh disponible para nuevas mejoras, QA o backlog.",
+  "message": "Sin jobs pendientes; personal-xh disponible y solicitando al orquestador nuevas tareas de mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T07:17:09-03:00"
+  "updated_at": "2026-05-26T07:29:47-03:00"
 }
