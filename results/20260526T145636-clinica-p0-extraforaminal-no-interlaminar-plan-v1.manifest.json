@@ -1,0 +1,27 @@
+{
+  "job_id": "20260526T145636-clinica-p0-extraforaminal-no-interlaminar-plan-v1",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "created_at": "2026-05-26T15:16:07-03:00",
+  "verdict": "implementar ahora en modo detect-only/review-only",
+  "gate_id": "extraforaminal_no_interlaminar",
+  "recommended_mode": "detect_only_review_only",
+  "fixture_ids": [
+    "CLIN-P0-025-extraforaminal-bad-interlaminar",
+    "CLIN-P0-026-extraforaminal-good-negated",
+    "CLIN-P0-027-non-extraforaminal-not-applicable",
+    "CLIN-P0-028-extraforaminal-root-limited-review"
+  ],
+  "hard_fail_initial_scope": "topography=extraforaminal plus final operative text plus affirmed interlaminar principal technique",
+  "needs_review_scope": [
+    "mixed approach",
+    "history or plan context",
+    "root table mismatch",
+    "ambiguous nominal mention"
+  ],
+  "template_edits_recommended": "none",
+  "external_actions": "none",
+  "real_patient_data": "none",
+  "confidence": "media-alta"
+}
