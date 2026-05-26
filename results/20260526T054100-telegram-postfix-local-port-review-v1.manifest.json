@@ -1,0 +1,28 @@
+{
+  "job_id": "20260526T054100-telegram-postfix-local-port-review-v1",
+  "worker": "personal-xh",
+  "alias": "Pablo",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "no_external_actions": true,
+  "no_telegram_real_used": true,
+  "no_secrets_opened": true,
+  "patch_files_inspected": false,
+  "stabilization_judgement": "stable_for_this_round",
+  "remaining_p0_risk": "direct ambiguous text plus loose captionless media plus late route correction",
+  "one_next_fixture_if_needed": "T_POSTFIX_013_DIRECT_CAPTIONLESS_MEDIA_LATE_ROUTE_CORRECTION",
+  "recommendation": "leave_branch_quiet_and_observe_unless_real_incident_or_T_POSTFIX_013_is_desired",
+  "sources_used": [
+    "jobs/20260526T054100-telegram-postfix-local-port-review-v1.md",
+    "results/20260526T050800-telegram-postfix-regression-fixtures-v1.result.md",
+    "results/20260526T043200-telegram-postfix-contamination-audit-v1.result.md",
+    "results/20260525T214513-telegram-radar-regression-fixtures-v1.result.md",
+    "results/20260525T124108-telegram-quality-scorecard.result.md",
+    "protocol.md"
+  ],
+  "deliverables": [
+    "results/20260526T054100-telegram-postfix-local-port-review-v1.result.md",
+    "results/20260526T054100-telegram-postfix-local-port-review-v1.manifest.json"
+  ],
+  "confidence": "media_alta"
+}
