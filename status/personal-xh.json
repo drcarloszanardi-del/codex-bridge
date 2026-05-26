@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "CODEX-OPS",
+  "front": "REELS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-26T15:51:13-03:00",
@@ -143,14 +143,16 @@
     "20260526T124354-clinica-p0-sin-descompresion-detect-only-plan-v1",
     "20260526T131451-clinica-p0-sin-descompresion-implementation-review-v1",
     "20260526T143429-inversiones-instrumental-fallback-quality-v1",
-    "20260526T145636-clinica-p0-extraforaminal-no-interlaminar-plan-v1"
+    "20260526T145636-clinica-p0-extraforaminal-no-interlaminar-plan-v1",
+    "20260526T155816-radares-root-cause-no-error-report-v1",
+    "20260526T155816-reels-cmp-reference-reset-no-improvisar-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Sin jobs pendientes; personal-xh disponible y solicitando al orquestador nuevas tareas de mejoras, QA o backlog.",
+  "message": "Completados 20260526T155816-radares-root-cause-no-error-report-v1 y 20260526T155816-reels-cmp-reference-reset-no-improvisar-v1; personal-xh disponible para nuevas tareas.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T15:51:13-03:00"
+  "updated_at": "2026-05-26T16:04:03-03:00"
 }
