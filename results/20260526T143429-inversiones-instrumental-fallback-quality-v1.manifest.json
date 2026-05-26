@@ -1,0 +1,21 @@
+{
+  "job_id": "20260526T143429-inversiones-instrumental-fallback-quality-v1",
+  "worker": "personal-xh",
+  "front": "INVERSIONES",
+  "status": "completed",
+  "created_at": "2026-05-26T14:39:23-03:00",
+  "verdict": "gate correcto como freno, requiere modo fallback_local_watchlist_ready",
+  "deliverables": [
+    "verdict_gate_actual",
+    "fallback_matrix",
+    "risks_limits",
+    "patch_recommended",
+    "next_report_for_inversiones",
+    "single_next_action"
+  ],
+  "recommended_patch": "Agregar local_ref_by_item y fallback_local_watchlist_ready al reporter de inversiones instrumental.",
+  "single_next_action": "Implementar el modo fallback_local_watchlist_ready y rerun del radar con queries obligatorias por cinco familias de instrumental.",
+  "external_actions": "none",
+  "secrets": "none",
+  "confidence": "media-alta"
+}
