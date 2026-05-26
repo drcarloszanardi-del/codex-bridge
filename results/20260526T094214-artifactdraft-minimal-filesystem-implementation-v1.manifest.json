@@ -1,0 +1,20 @@
+{
+  "job_id": "20260526T094214-artifactdraft-minimal-filesystem-implementation-v1",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "created_at": "2026-05-26T09:47:00-03:00",
+  "deliverables": [
+    "proposed_folder_structure",
+    "artifact_json_min_schema",
+    "allowed_states",
+    "receipt_rules",
+    "proposed_small_python_helper",
+    "minimal_fixtures",
+    "orchestrator_first_implementation"
+  ],
+  "recommended_helper": "scripts/artifacts/artifactdraft.py",
+  "external_actions": "none",
+  "recommendation": "Implementar ArtifactDraft como gate local minimalista; delivered solo con recibo real y queued_external solo con QA pass del orquestador.",
+  "confidence": "alta-media"
+}
