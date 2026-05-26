@@ -1,8 +1,8 @@
 {
-  "front": "RADARES",
+  "front": "CLINICA",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Nuevo job asignado a Pablo: hardening anti informe vacio v2; tesis template_only materializado localmente.",
+  "message": "Radares v2 integrados localmente en validator/tests; nuevo job a Pablo: clinica corpus gates hardening v3.",
   "role": "orchestrator",
   "status": "active",
-  "updated_at": "2026-05-25T23:48:56-03:00"
+  "updated_at": "2026-05-26T00:19:32-03:00"
 }
