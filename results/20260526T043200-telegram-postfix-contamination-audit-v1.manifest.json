@@ -1,0 +1,37 @@
+{
+  "job_id": "20260526T043200-telegram-postfix-contamination-audit-v1",
+  "worker": "personal-xh",
+  "alias": "Pablo",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "no_external_actions": true,
+  "no_telegram_real_used": true,
+  "no_secrets_opened": true,
+  "patch_files_inspected": false,
+  "sources_used": [
+    "jobs/20260526T043200-telegram-postfix-contamination-audit-v1.md",
+    "results/20260525T214513-telegram-radar-regression-fixtures-v1.result.md",
+    "results/20260525T164232-telegram-topic-routing-regression-suite-v1.result.md",
+    "results/20260525T124108-telegram-quality-scorecard.result.md",
+    "context/fronts/telegram.md",
+    "protocol.md"
+  ],
+  "deliverables": [
+    "results/20260526T043200-telegram-postfix-contamination-audit-v1.result.md",
+    "results/20260526T043200-telegram-postfix-contamination-audit-v1.manifest.json"
+  ],
+  "top_risks": [
+    "explicit direct front requests may remain in DIRECT if weak-vs-explicit threshold is too strict",
+    "captionless attachments may lose nearby direct request context",
+    "media_group_handled may mask a missing cluster/job unless trace fields are required"
+  ],
+  "recommended_new_gates": [
+    "route_strength",
+    "media_group_handled_requires_trace",
+    "active_route_ttl_and_real_thread",
+    "direct_codex_ops_main_channel_without_general_thread"
+  ],
+  "regression_cases_count": 12,
+  "recommendation": "Add the 12 post-fix pure fixtures before closing the contamination fix.",
+  "confidence": "media_alta"
+}

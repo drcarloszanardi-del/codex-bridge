@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "REELS",
+  "front": "CODEX-OPS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-26T03:55:50-03:00",
@@ -117,14 +117,15 @@
     "20260526T005616-reel-cavernoma-render-safe-motion-v2",
     "20260526T003720-post-integration-audit-radar-tesis-clinica-v1",
     "20260526T030030-reel-cavernoma-v2-proxy-and-ceo-gate-fix",
-    "20260526T035900-reels-cmp-cavernoma-template-and-next-reel-brief-v1"
+    "20260526T035900-reels-cmp-cavernoma-template-and-next-reel-brief-v1",
+    "20260526T043200-telegram-postfix-contamination-audit-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Completado 20260526T035900: plantilla CMP cavernoma y brief de proximos reels listos; personal-xh disponible para nuevas mejoras, QA o backlog.",
+  "message": "Completado 20260526T043200: auditoria post-fix Telegram lista con riesgos, fixtures y gates recomendados; personal-xh disponible para nuevas mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T04:01:36-03:00"
+  "updated_at": "2026-05-26T04:33:13-03:00"
 }
