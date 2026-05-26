@@ -1,0 +1,50 @@
+{
+  "job_id": "20260526T050800-telegram-postfix-regression-fixtures-v1",
+  "worker": "personal-xh",
+  "alias": "Pablo",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "no_external_actions": true,
+  "no_telegram_real_used": true,
+  "no_secrets_opened": true,
+  "patch_files_inspected": false,
+  "fixtures_count": 12,
+  "fixture_ids": [
+    "T_POSTFIX_001",
+    "T_POSTFIX_002",
+    "T_POSTFIX_003",
+    "T_POSTFIX_004",
+    "T_POSTFIX_005",
+    "T_POSTFIX_006",
+    "T_POSTFIX_007",
+    "T_POSTFIX_008",
+    "T_POSTFIX_009",
+    "T_POSTFIX_010",
+    "T_POSTFIX_011",
+    "T_POSTFIX_012"
+  ],
+  "sources_used": [
+    "results/20260526T043200-telegram-postfix-contamination-audit-v1.result.md",
+    "results/20260525T214513-telegram-radar-regression-fixtures-v1.result.md",
+    "results/20260525T164232-telegram-topic-routing-regression-suite-v1.result.md",
+    "context/fronts/telegram.md",
+    "protocol.md"
+  ],
+  "deliverables": [
+    "results/20260526T050800-telegram-postfix-regression-fixtures-v1.result.md",
+    "results/20260526T050800-telegram-postfix-regression-fixtures-v1.manifest.json"
+  ],
+  "covered_gates": [
+    "route_strength_weak_hint_no_mutation",
+    "explicit_front_deliverable_routes",
+    "captionless_media_context_policy",
+    "active_route_ttl_and_real_thread",
+    "media_group_handled_traceability",
+    "direct_codex_ops_main_channel",
+    "delivery_receipt_gate",
+    "technical_payload_gate",
+    "unknown_topic_no_context_inheritance"
+  ],
+  "recommendation": "Port the 12 fixtures as pure post-fix regression tests before treating the Telegram contamination fix as closed.",
+  "confidence": "alta_conceptual_media_integracion"
+}
