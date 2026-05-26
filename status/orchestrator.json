@@ -1,8 +1,8 @@
 {
-  "front": "CODEX-OPS",
+  "front": "RADARES",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Bloqueo operativo: jobs REELS de voz 20260525T192345 y permiso 20260525T192612 siguen queued sin claim de Pablo; no hay WAV/MP3 nuevo para mux. Se requiere que el worker de Pablo haga pull/procese.",
+  "message": "Nuevo job asignado a Pablo: hardening anti informe vacio v2; tesis template_only materializado localmente.",
   "role": "orchestrator",
-  "status": "waiting_pablo_claim_reels_voice_jobs",
-  "updated_at": "2026-05-25T19:42:30-03:00"
+  "status": "active",
+  "updated_at": "2026-05-25T23:48:56-03:00"
 }
