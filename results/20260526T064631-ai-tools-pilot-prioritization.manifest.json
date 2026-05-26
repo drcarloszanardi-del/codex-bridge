@@ -1,0 +1,13 @@
+{
+  "job_id": "20260526T064631-ai-tools-pilot-prioritization",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "top_3_pilots": [
+    "editable_medical_presentation",
+    "notebooklm_source_pack",
+    "cmp_non_sensitive_visual_assets"
+  ],
+  "do_not_buy_yet": ["closed_deck_tools", "automation_with_credentials", "stock_or_video_without_approved_piece"],
+  "confidence": "alta_priorizacion_media_costos"
+}

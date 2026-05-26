@@ -1,0 +1,10 @@
+{
+  "job_id": "20260526T064631-telegram-quality-scorecard",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "score_total": 100,
+  "hard_fails": ["media_buffer_open", "sent_without_message_id", "raw_diff_or_trace", "secret_or_sensitive_data"],
+  "recommended_script": "scripts/qa/score_telegram_response.py",
+  "confidence": "alta_hard_fails_media_weights"
+}

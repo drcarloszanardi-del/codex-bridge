@@ -1,0 +1,9 @@
+{
+  "job_id": "20260526T064631-artifactdraft-implementation-review",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "implementation_scope": ["telegram_long_responses", "reels_cmp", "presentaciones"],
+  "recommended_first_scripts": ["scripts/artifacts/new_artifact.py", "scripts/artifacts/validate_artifact.py"],
+  "confidence": "alta_schema_media_router"
+}
