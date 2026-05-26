@@ -1,0 +1,31 @@
+{
+  "job_id": "20260526T064839-clinica-corpus-gates-backlog-v2",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "created_at": "2026-05-26T06:53:05-03:00",
+  "top_gates": [
+    "consentimiento_especifico_procedimiento",
+    "separacion_diagnostico_indicacion",
+    "campos_minimos_parte_quirurgico",
+    "consistencia_documental_cruzada",
+    "no_invencion_hechos_quirurgicos",
+    "datos_sensibles_minimizacion"
+  ],
+  "official_source_statuses": [
+    "official_verified",
+    "internal_protocol",
+    "doctrine_review",
+    "unverified_do_not_gate"
+  ],
+  "qa_priority": [
+    "validate_corpus_item_schema",
+    "validate_ci_specificity_min_fields",
+    "validate_clinical_document_minimum_fields",
+    "validate_document_consistency_gate",
+    "validate_lumbar_doctor_corrections_v1",
+    "validate_sensitive_data_minimization"
+  ],
+  "recommendation": "Implementar primero schema y P0 documentales; dejar jurisprudencia/doctrina no verificada en review_queue.",
+  "confidence": "media-alta"
+}
