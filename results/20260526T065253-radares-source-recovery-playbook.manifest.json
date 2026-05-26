@@ -1,0 +1,17 @@
+{
+  "job_id": "20260526T065253-radares-source-recovery-playbook",
+  "worker": "personal-xh",
+  "front": "INVERSIONES",
+  "status": "completed",
+  "created_at": "2026-05-26T06:55:46-03:00",
+  "deliverables": [
+    "source_recovery_routes",
+    "front_specific_thresholds",
+    "examples",
+    "automation_hooks",
+    "failure_language_ban"
+  ],
+  "recommended_hook": "scripts/qa/validate_radar_report.py",
+  "recommendation": "Convertir el playbook en checklist y gate obligatorio antes de cerrar radares.",
+  "confidence": "alta-media"
+}

@@ -1,0 +1,17 @@
+{
+  "job_id": "20260526T065253-tesis-protocolo-datos-y-material-audiovisual",
+  "worker": "personal-xh",
+  "front": "TESIS",
+  "status": "completed",
+  "created_at": "2026-05-26T06:55:46-03:00",
+  "recommended_artifacts": [
+    "tesis/variables.md",
+    "tesis/data_collection_protocol.md",
+    "tesis/missing_data_log.csv",
+    "tesis/video_index_template.csv",
+    "tesis/decision_log.md"
+  ],
+  "video_role_default": "contextual_secondary_source",
+  "recommendation": "Fijar variables, fuentes, faltantes y rol del video antes de tocar el borrador base.",
+  "confidence": "alta-media"
+}

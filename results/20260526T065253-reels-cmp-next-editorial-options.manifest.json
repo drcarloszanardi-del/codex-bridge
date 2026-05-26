@@ -1,0 +1,16 @@
+{
+  "job_id": "20260526T065253-reels-cmp-next-editorial-options",
+  "worker": "personal-xh",
+  "front": "REELS",
+  "status": "completed",
+  "created_at": "2026-05-26T06:55:46-03:00",
+  "recommended_next_reel": "Prepararse para la consulta de columna",
+  "public_contact": {
+    "instagram": "@drcarloszanardi",
+    "phone": "2364384321",
+    "web": "www.centromedicopellegrini.com.ar"
+  },
+  "risk_level": "bajo",
+  "recommendation": "Preparar plantilla editable y pedir asset pack minimo propio para consulta de columna.",
+  "confidence": "alta-media"
+}

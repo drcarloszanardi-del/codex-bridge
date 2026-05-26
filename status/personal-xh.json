@@ -128,14 +128,17 @@
     "20260526T064631-ai-tools-pilot-prioritization",
     "20260526T064631-artifactdraft-implementation-review",
     "20260526T064631-telegram-quality-scorecard",
-    "20260526T064839-clinica-corpus-gates-backlog-v2"
+    "20260526T064839-clinica-corpus-gates-backlog-v2",
+    "20260526T065253-radares-source-recovery-playbook",
+    "20260526T065253-reels-cmp-next-editorial-options",
+    "20260526T065253-tesis-protocolo-datos-y-material-audiovisual"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Completado 20260526T064839: backlog de gates medico-legales priorizado; personal-xh disponible para nuevas mejoras, QA o backlog.",
+  "message": "Completados 20260526T065253: playbook de radares, opciones editoriales CMP y protocolo tesis audiovisual; personal-xh disponible para nuevas mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T06:53:05-03:00"
+  "updated_at": "2026-05-26T06:55:46-03:00"
 }
