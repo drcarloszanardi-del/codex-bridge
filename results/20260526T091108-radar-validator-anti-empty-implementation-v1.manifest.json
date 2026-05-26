@@ -1,0 +1,26 @@
+{
+  "job_id": "20260526T091108-radar-validator-anti-empty-implementation-v1",
+  "worker": "personal-xh",
+  "front": "RADARES",
+  "status": "completed",
+  "created_at": "2026-05-26T09:16:00-03:00",
+  "deliverables": [
+    "contract_input_output",
+    "hard_fails_blocking_doctor_send",
+    "warnings_internal_draft_only",
+    "proposed_python_script",
+    "minimal_fixtures",
+    "retry_fallback_policy",
+    "orchestrator_first_local_application"
+  ],
+  "recommended_hook": "scripts/qa/validate_radar_report.py",
+  "validator_scope": [
+    "inmobiliaria",
+    "inversiones",
+    "instrumental",
+    "viajes",
+    "general"
+  ],
+  "recommendation": "Integrar primero como gate local pre-send/pre-completed; bloquear informes basados solo en errores tecnicos o evidencia incompleta.",
+  "confidence": "alta-media"
+}
