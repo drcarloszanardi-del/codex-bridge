@@ -5,6 +5,7 @@ created_by: personal-xh
 front: REELS
 asset_policy: authorized_folder_only_no_raw_commit
 status: ready_for_orchestrator
+updated_at: 2026-05-26T00:48:25-03:00
 no_external_actions: true
 no_secrets: true
 ---
@@ -29,6 +30,29 @@ La carpeta fue localizada por Pablo/personal-xh. Contiene 7 medios utilizables y
 - Antes de publicar o transferir, hacer gate de privacidad: revisar datos visibles, placas, nombres, fechas, identificadores y metadata EXIF.
 - Si Codex necesita el contenido visual real fuera de esta Mac, pedir confirmacion explicita para una copia anonimizada o asignar render/curation a Pablo con estos paths locales.
 - Para el reel final, evitar datos identificables y usar lenguaje educativo, no historia clinica individual.
+
+## overnight_authorization_update
+
+El Doctor pidio dejar autorizaciones ahora para no frenar el trabajo durante la noche. Autorizaciones concedidas a Pablo/personal-xh para este reel, limitadas a la carpeta `Reel Cavernoma ` y a derivados locales:
+
+- Crear y usar carpeta local de trabajo: `/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/`.
+- Generar miniaturas/contact sheet locales con `qlmanage` para revision y QA.
+- Preparar copias derivadas locales con `sips` para quitar/evitar metadata y trabajar sin tocar originales.
+- Renderizar pruebas locales del reel con material de esta carpeta si Codex/orquestador lo asigna.
+- Publicar por bridge manifiestos, jobs, resultados, QA y rutas locales; no publicar originales medicos crudos.
+
+Autorizacion NO concedida automaticamente:
+
+- Subir, commitear o transferir imagenes/videos medicos crudos fuera de esta Mac.
+- Buscar material en Fotos, Drive, Gmail, Telegram, Downloads u otras carpetas.
+- Publicar el reel o enviarlo a terceros.
+
+Estado local ya preparado por Pablo:
+
+- Thumbnails: `/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/qa/thumbs/`
+- Working: `/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/working/`
+- Renders: `/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/renders/`
+- Derivados anonimizables: `/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/`
 
 ## selected_assets
 
@@ -63,9 +87,10 @@ Codex principal debe tomar este manifiesto como handoff de material autorizado y
 - pedido a Pablo para generar contact sheet anonimizada, o
 - pedido a Pablo para renderizar una primera prueba local usando solo estos assets.
 
-Los originales permanecen locales en Pablo hasta nueva autorizacion.
+Los originales permanecen locales en Pablo. Para no frenar el flujo nocturno, el orquestador puede asignar a Pablo curation/render/QA local con estos assets y usar las carpetas `qa`, `working`, `renders` y `sanitized` ya creadas.
 
 ## evidence_paths
 
 - `context/asset_packs/20260526-reel-cavernoma/manifest.md`
 - `/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma `
+- `/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/`
