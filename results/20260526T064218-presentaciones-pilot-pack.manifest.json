@@ -1,0 +1,17 @@
+{
+  "job_id": "20260526T064218-presentaciones-pilot-pack",
+  "worker": "personal-xh",
+  "front": "PRESENTACIONES",
+  "status": "completed",
+  "deliverables": [
+    "results/20260526T064218-presentaciones-pilot-pack.result.md",
+    "results/20260526T064218-presentaciones-pilot-pack.manifest.json"
+  ],
+  "pilot": {
+    "deck_size": "8-10 slides",
+    "editable_required": true,
+    "qa_required": ["render_contact_sheet", "source_traceability", "no_overlap", "sensitive_data_anonymized"]
+  },
+  "recommendation": "Run local Codex + Presentations pilot before paying or adopting external deck tools.",
+  "confidence": "alta_estructura_media_tools"
+}
