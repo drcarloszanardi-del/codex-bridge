@@ -1,0 +1,20 @@
+{
+  "job_id": "20260526T101406-artifactdraft-router-pilot-safe-plan-v1",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "created_at": "2026-05-26T10:22:00-03:00",
+  "deliverables": [
+    "integration_map",
+    "router_min_fields",
+    "state_usage_by_router",
+    "p0_p1_risks",
+    "required_fixtures",
+    "acceptance_criteria",
+    "bounded_patch_plan",
+    "exact_route_discovery_without_assuming"
+  ],
+  "recommendation": "Aplicar ahora de forma parcial en modo local/dry-run; no activar delivered automatico sin recibo real.",
+  "external_actions": "none",
+  "confidence": "alta-media"
+}
