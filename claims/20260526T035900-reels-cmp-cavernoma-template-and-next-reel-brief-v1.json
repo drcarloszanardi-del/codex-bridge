@@ -1,0 +1,12 @@
+{
+  "job_id": "20260526T035900-reels-cmp-cavernoma-template-and-next-reel-brief-v1",
+  "worker": "personal-xh",
+  "alias": "Pablo",
+  "status": "claimed",
+  "claimed_at": "2026-05-26T04:01:36-03:00",
+  "policy": {
+    "no_external_actions": true,
+    "no_raw_media_opened": true,
+    "allowed_context_only": true
+  }
+}

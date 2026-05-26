@@ -1,0 +1,54 @@
+{
+  "job_id": "20260526T035900-reels-cmp-cavernoma-template-and-next-reel-brief-v1",
+  "worker": "personal-xh",
+  "alias": "Pablo",
+  "final_or_preview": "template_and_brief",
+  "pass_premium_gate": "not_applicable",
+  "no_external_actions": true,
+  "no_raw_media_opened": true,
+  "allowed_context_only": true,
+  "sources_used": [
+    "results/20260526T005616-reel-cavernoma-render-safe-motion-v2.result.md",
+    "results/20260526T030030-reel-cavernoma-v2-proxy-and-ceo-gate-fix.result.md",
+    "context/asset_packs/20260526-cavernoma-intramedular/render_contact_sheet_v2b.jpg",
+    "docs/reels_premium_acceptance_gate.md",
+    "context/fronts/reels_cmp.md"
+  ],
+  "deliverables": [
+    "results/20260526T035900-reels-cmp-cavernoma-template-and-next-reel-brief-v1.result.md",
+    "results/20260526T035900-reels-cmp-cavernoma-template-and-next-reel-brief-v1.manifest.json"
+  ],
+  "template": {
+    "duration_target_seconds": "40-60",
+    "required_gates": [
+      "clear_idea_first_3_seconds",
+      "own_authorized_material",
+      "privacy_crop_or_anonymization",
+      "complete_proxy_or_sufficient_visual_evidence",
+      "legible_cmp_closing_contact",
+      "human_final_approval_before_publication"
+    ],
+    "closing_contact": {
+      "instagram": "@drcarloszanardi",
+      "phone": "2364384321",
+      "web": "www.centromedicopellegrini.com.ar"
+    }
+  },
+  "next_reel_ideas": [
+    {
+      "title": "Hernia extraforaminal: cuando la ubicacion cambia la estrategia",
+      "asset_need": "estudio anonimizado, planning/consultorio, quirofano/equipo, seguimiento funcional anonimo"
+    },
+    {
+      "title": "Monitoreo neurofisiologico: operar con informacion en tiempo real",
+      "asset_need": "pantalla de monitoreo anonimizada, setup de quirofano, gesto de equipo/doctor, cierre CMP"
+    },
+    {
+      "title": "Consulta de columna: del sintoma al plan",
+      "asset_need": "doctor en consultorio, explicacion o dibujo, estudio anonimizado, plano no identificatorio"
+    }
+  ],
+  "asset_request_summary": "Pedir paquetes acotados de 6 a 10 archivos propios por reel, sin nombres, fechas, HC, DNI, rostros o audios de pacientes salvo autorizacion especifica.",
+  "recommendation": "Usar la plantilla como base de continuidad para reels clinicos CMP y exigir proxy completo + contact sheet + cierre legible antes del gate final.",
+  "confidence": "alta_para_reglas_y_brief_media_para_extrapolacion"
+}
