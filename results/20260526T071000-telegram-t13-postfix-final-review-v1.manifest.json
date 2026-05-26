@@ -1,0 +1,18 @@
+{
+  "job_id": "20260526T071000-telegram-t13-postfix-final-review-v1",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "created_at": "2026-05-26T07:17:09-03:00",
+  "judgement": "close_cycle_and_observe",
+  "route_correction": "correct_if_limited_to_open_nearby_media_and_explicit_route",
+  "false_positive_risk": "low_to_medium",
+  "do_not_implement": [
+    "ambiguous_phrase_as_reels_route",
+    "route_correction_after_group_closed",
+    "weak_hint_as_route_correction",
+    "duplicate_job_for_same_media_group"
+  ],
+  "recommendation": "Aceptar T13, mantener 13 fixtures como smoke suite y pasar Telegram a observacion.",
+  "confidence": "media-alta"
+}
