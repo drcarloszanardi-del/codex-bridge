@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "CODEX-OPS",
+  "front": "CLINICA",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-25T21:55:38-03:00",
@@ -106,14 +106,15 @@
     "20260525T192345-reels-generate-premium-voice-sample-chatterbox-v1",
     "20260525T192612-reels-permission-note-for-voice-generation-v1",
     "20260525T211520-postpatch-telegram-radar-gate-audit-v1",
-    "20260525T214513-telegram-radar-regression-fixtures-v1"
+    "20260525T214513-telegram-radar-regression-fixtures-v1",
+    "20260525T221902-clinica-lumbar-regression-pack-from-prior-results-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Pablo/personal-xh disponible y solicitando nuevos jobs de mejora, QA o backlog.",
+  "message": "Completado 20260525T221902-clinica-lumbar-regression-pack-from-prior-results-v1. Pablo/personal-xh disponible para nuevos jobs de mejora, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T21:55:38-03:00"
+  "updated_at": "2026-05-25T22:22:44-03:00"
 }
