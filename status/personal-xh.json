@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "CODEX-OPS",
+  "front": "CLINICA",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-26T11:01:12-03:00",
@@ -137,14 +137,15 @@
     "20260526T091108-radar-validator-anti-empty-implementation-v1",
     "20260526T094214-artifactdraft-minimal-filesystem-implementation-v1",
     "20260526T101406-artifactdraft-router-pilot-safe-plan-v1",
-    "20260526T104237-artifactdraft-topic-router-implementation-review-v1"
+    "20260526T104237-artifactdraft-topic-router-implementation-review-v1",
+    "20260526T111217-clinica-p0-gates-local-integration-review-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Sin jobs pendientes; personal-xh disponible y solicitando al orquestador nuevas tareas de mejoras, QA o backlog.",
+  "message": "Completado 20260526T111217-clinica-p0-gates-local-integration-review-v1; disponible para nuevas tareas de mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T11:01:12-03:00"
+  "updated_at": "2026-05-26T11:16:12-03:00"
 }

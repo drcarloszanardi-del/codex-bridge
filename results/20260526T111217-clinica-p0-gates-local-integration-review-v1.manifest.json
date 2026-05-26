@@ -1,0 +1,26 @@
+{
+  "job_id": "20260526T111217-clinica-p0-gates-local-integration-review-v1",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "created_at": "2026-05-26T11:16:12-03:00",
+  "verdict": "integrar primero no_inventar_diagnostico_topografia como hard fail local detect-only",
+  "first_gate_recommended": "no_inventar_diagnostico_topografia",
+  "top_5_p0_gates": [
+    "no_inventar_diagnostico_topografia",
+    "sin_descompresion_directa_bloqueante",
+    "extraforaminal_no_interlaminar",
+    "orden_hemostasia_recuento_cierre",
+    "parche_dural_pre_cierre"
+  ],
+  "minimal_smoke_fixtures": [
+    "CLIN-P0-001-no-inventar-topografia",
+    "CLIN-P0-002-radiculopatia-no-hernia",
+    "CLIN-P0-008-good-minimal"
+  ],
+  "recommended_flag_state": "CLINICA_P0_GATES_DETECT_ONLY=1; hard fail inicial solo para no_inventar_diagnostico_topografia",
+  "external_actions": "none",
+  "real_patient_data": "none",
+  "template_edits_recommended": "none before local QA gate passes",
+  "confidence": "alta para el primer gate; media-alta para el orden del resto de P0"
+}
