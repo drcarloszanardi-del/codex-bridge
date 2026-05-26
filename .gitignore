@@ -9,6 +9,7 @@ private/
 dashboard/state.json
 
 # Pablo asset safety: originals and private media stay local only.
+Reel Cavernoma*/
 context/asset_packs/**/originals/
 context/asset_packs/**/*.mov
 context/asset_packs/**/*.mp4
