@@ -1,0 +1,69 @@
+{
+  "job_id": "20260526T030030-reel-cavernoma-v2-proxy-and-ceo-gate-fix",
+  "created_by": "personal-xh",
+  "final_or_preview": "final_candidate",
+  "pass_premium_gate": true,
+  "decision_editorial": "listo_para_que_lo_vea_el_Doctor_con_aprobacion_final_humana",
+  "render_path_local": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/renders/cmp_reel_cavernoma_intramedular_v2b.mp4",
+  "render_committed_to_bridge": false,
+  "proxy_bridge_path": "context/asset_packs/20260526-cavernoma-intramedular/proxy/cmp_reel_cavernoma_intramedular_v2_proxy_540x960.mp4",
+  "render_contact_sheet_bridge_path": "context/asset_packs/20260526-cavernoma-intramedular/render_contact_sheet_v2b.jpg",
+  "proxy": {
+    "duration_seconds": 46.0,
+    "resolution": "540x960",
+    "fps": 24.0,
+    "size_mb": 6.6,
+    "video_tracks": 1,
+    "audio_tracks": 0,
+    "music": "none"
+  },
+  "local_render": {
+    "duration_seconds": 46.0,
+    "resolution": "1080x1920",
+    "fps": 24.0,
+    "size_mb": 25,
+    "video_tracks": 1,
+    "audio_tracks": 0
+  },
+  "closing_confirmation": {
+    "instagram": "@drcarloszanardi",
+    "phone": "2364384321",
+    "website": "www.centromedicopellegrini.com.ar",
+    "legible": true,
+    "overlap": false
+  },
+  "privacy_by_visual_block": [
+    {
+      "block": "hook",
+      "status": "passed",
+      "reason": "clean institutional slate"
+    },
+    {
+      "block": "preop_mri",
+      "status": "passed_after_crop",
+      "reason": "anatomic crop with opaque brand band; no identifiable header/date/name visible in proxy"
+    },
+    {
+      "block": "or_scene",
+      "status": "passed",
+      "reason": "no frontal identifiable faces"
+    },
+    {
+      "block": "monitoring",
+      "status": "passed",
+      "reason": "technical monitoring view, no patient identifiers used"
+    },
+    {
+      "block": "postop_control",
+      "status": "passed_after_crop",
+      "reason": "lower-body crop only; no face; audio removed"
+    },
+    {
+      "block": "closing",
+      "status": "passed",
+      "reason": "contact line clean and non-overlapping"
+    }
+  ],
+  "raw_originals_committed": false,
+  "external_actions": false
+}
