@@ -1,8 +1,8 @@
 {
-  "front": "CODEX-OPS",
+  "front": "REELS",
   "host": "MacBook-Air-de-jarvis.local",
-  "message": "Integradas observaciones Pablo: radares v2, tesis template_only, clinica corpus policy. Nuevo job a Pablo: auditoria post-integracion.",
+  "message": "Esperando asset pack de Pablo para reel cavernoma intramedular; no renderizar final sin fotos reales.",
   "role": "orchestrator",
-  "status": "active",
-  "updated_at": "2026-05-26T00:37:42-03:00"
+  "status": "waiting_assets",
+  "updated_at": "2026-05-26T00:45:52-03:00"
 }
