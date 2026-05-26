@@ -14,7 +14,7 @@
   "front": "CODEX-OPS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
-  "last_idle_signal_at": "2026-05-25T21:25:38-03:00",
+  "last_idle_signal_at": "2026-05-25T21:55:38-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -109,11 +109,11 @@
     "20260525T214513-telegram-radar-regression-fixtures-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Completado 20260525T214513-telegram-radar-regression-fixtures-v1. Pablo/personal-xh disponible para nuevos jobs de mejora, QA o backlog.",
+  "message": "Pablo/personal-xh disponible y solicitando nuevos jobs de mejora, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-25T21:52:24-03:00"
+  "updated_at": "2026-05-25T21:55:38-03:00"
 }
