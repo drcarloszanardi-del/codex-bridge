@@ -1,0 +1,24 @@
+{
+  "job_id": "20260526T073800-batch-results-priority-triage-v1",
+  "worker": "personal-xh",
+  "front": "CODEX-OPS",
+  "status": "completed",
+  "created_at": "2026-05-26T07:50:10-03:00",
+  "telegram_status": "closed_observation",
+  "top_5_low_risk_high_impact": [
+    "telegram_hard_fails_presend",
+    "artifactdraft_minimal_filesystem",
+    "radar_validator_anti_empty",
+    "clinica_p0_gates_initial",
+    "tesis_empty_templates"
+  ],
+  "needs_human_or_material": [
+    "reels_cmp_assets_and_approval",
+    "tesis_question_outcome_unit_video_role",
+    "clinica_legal_source_review",
+    "external_tool_pilots_with_sanitized_material",
+    "purchases_or_memberships"
+  ],
+  "recommendation": "Integrar primero infraestructura local y gates deterministicos; dejar publicaciones, compras y datos sensibles para decision humana.",
+  "confidence": "alta-media"
+}
