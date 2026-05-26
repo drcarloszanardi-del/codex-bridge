@@ -1,0 +1,14 @@
+{
+  "job_id": "20260526T063207-radar-anti-empty-script-spec",
+  "worker": "personal-xh",
+  "front": "INVERSIONES",
+  "status": "completed",
+  "deliverables": [
+    "results/20260526T063207-radar-anti-empty-script-spec.result.md",
+    "results/20260526T063207-radar-anti-empty-script-spec.manifest.json"
+  ],
+  "script": "scripts/qa/validate_radar_report.py",
+  "statuses": ["completed", "needs_review", "blocked", "delegated_to_pablo"],
+  "recommendation": "Make anti-empty radar validation mandatory before any radar report is marked completed.",
+  "confidence": "alta_schema_media_thresholds"
+}

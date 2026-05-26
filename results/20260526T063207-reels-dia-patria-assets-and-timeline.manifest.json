@@ -1,0 +1,18 @@
+{
+  "job_id": "20260526T063207-reels-dia-patria-assets-and-timeline",
+  "worker": "personal-xh",
+  "front": "REELS",
+  "status": "completed",
+  "deliverables": [
+    "results/20260526T063207-reels-dia-patria-assets-and-timeline.result.md",
+    "results/20260526T063207-reels-dia-patria-assets-and-timeline.manifest.json"
+  ],
+  "duration_target": "40s",
+  "required_contact": {
+    "instagram": "@drcarloszanardi",
+    "phone": "2364384321",
+    "web": "www.centromedicopellegrini.com.ar"
+  },
+  "recommendation": "Use own CMP/Doctor assets; render 40s if at least 5 safe assets exist, otherwise short 25-30s cut.",
+  "confidence": "alta_timeline_media_assets"
+}

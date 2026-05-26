@@ -1,0 +1,21 @@
+{
+  "job_id": "20260526T063207-clinica-correcciones-a-fixtures-implementacion",
+  "worker": "personal-xh",
+  "front": "CLINICA",
+  "status": "completed",
+  "deliverables": [
+    "results/20260526T063207-clinica-correcciones-a-fixtures-implementacion.result.md",
+    "results/20260526T063207-clinica-correcciones-a-fixtures-implementacion.manifest.json"
+  ],
+  "critical_fixtures": [
+    "LUM-DOC-001",
+    "LUM-DOC-002",
+    "LUM-DOC-003",
+    "LUM-DOC-006",
+    "LUM-DOC-007",
+    "LUM-DOC-011",
+    "LUM-DOC-013"
+  ],
+  "recommendation": "Integrate route guard, fixtures, deterministic gates and QA runner as isolated medico-legal patch.",
+  "confidence": "alta_plan_media_paths"
+}
