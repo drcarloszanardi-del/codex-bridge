@@ -1,0 +1,101 @@
+{
+  "job_id": "20260526T005108-reel-cavernoma-premium-safe-derivatives-render-v1",
+  "created_by": "personal-xh",
+  "final_or_preview": "final_candidate",
+  "pass_premium_gate": false,
+  "asset_policy": "authorized_folder_only_safe_derivatives_no_raw_commit",
+  "source_folder": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma ",
+  "local_sanitized_folder": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/",
+  "raw_originals_committed": false,
+  "bridge_paths": {
+    "qa_manifest": "context/asset_packs/20260526-reel-cavernoma-safe/manifest.json",
+    "asset_contact_sheet": "context/asset_packs/20260526-reel-cavernoma-safe/contact_sheet.jpg",
+    "render_contact_sheet": "context/asset_packs/20260526-reel-cavernoma-safe/render_contact_sheet.jpg",
+    "previews_dir": "context/asset_packs/20260526-reel-cavernoma-safe/previews/"
+  },
+  "render": {
+    "local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/renders/cmp_reel_cavernoma_intramedular_v1.mp4",
+    "committed_to_bridge": false,
+    "duration_seconds": 50.0,
+    "resolution": "1080x1920",
+    "video_tracks": 1,
+    "audio_tracks": 0,
+    "music": "none"
+  },
+  "privacy_summary": {
+    "passed": 5,
+    "needs_orchestrator_review": 4,
+    "rejected": 0
+  },
+  "asset_decisions": [
+    {
+      "asset_code": "CAV-IMG-001",
+      "suggested_role": "preop",
+      "privacy_status": "needs_orchestrator_review",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-001_preop_safe.jpg",
+      "reason": "screen metadata redacted; review small text"
+    },
+    {
+      "asset_code": "CAV-IMG-002",
+      "suggested_role": "preop",
+      "privacy_status": "passed",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-002_preop_safe.jpg",
+      "reason": "best preop candidate after redaction"
+    },
+    {
+      "asset_code": "CAV-IMG-003",
+      "suggested_role": "surgical",
+      "privacy_status": "passed",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-003_surgical_safe.jpg",
+      "reason": "no frontal faces visible"
+    },
+    {
+      "asset_code": "CAV-IMG-004",
+      "suggested_role": "context",
+      "privacy_status": "needs_orchestrator_review",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-004_context_safe.jpg",
+      "reason": "faces/inset redacted; crop recommended"
+    },
+    {
+      "asset_code": "CAV-IMG-005",
+      "suggested_role": "surgical",
+      "privacy_status": "needs_orchestrator_review",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-005_surgical_safe.jpg",
+      "reason": "graphic/sensitive but not identifying"
+    },
+    {
+      "asset_code": "CAV-IMG-006",
+      "suggested_role": "monitoring",
+      "privacy_status": "passed",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-006_monitoring_safe.jpg",
+      "reason": "screen channels/header redacted"
+    },
+    {
+      "asset_code": "CAV-VID-001",
+      "suggested_role": "postop/control",
+      "privacy_status": "needs_orchestrator_review",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-VID-001_postop_control_poster_safe.jpg",
+      "reason": "poster has face redacted; raw video not included and must be reviewed before use"
+    },
+    {
+      "asset_code": "CAV-SLATE-001",
+      "suggested_role": "hook",
+      "privacy_status": "passed",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-SLATE-001_hook_safe.jpg",
+      "reason": "generated institutional text slate"
+    },
+    {
+      "asset_code": "CAV-SLATE-002",
+      "suggested_role": "closing",
+      "privacy_status": "passed",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-SLATE-002_closing_safe.jpg",
+      "reason": "generated institutional text slate"
+    }
+  ],
+  "orchestrator_needed": [
+    "Review assets marked needs_orchestrator_review before publication.",
+    "Decide whether to exclude CAV-IMG-005 for graphic sensitivity.",
+    "Approve or revise final institutional contact line.",
+    "Run second editorial pass for premium motion/pace before publication."
+  ]
+}

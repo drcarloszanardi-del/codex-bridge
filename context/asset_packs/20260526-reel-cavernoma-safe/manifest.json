@@ -1,0 +1,132 @@
+{
+  "pack_id": "20260526-reel-cavernoma-safe",
+  "created_by": "personal-xh",
+  "asset_policy": "safe_derivatives_only_no_raw_commit",
+  "source_folder": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma ",
+  "local_sanitized_folder": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized",
+  "raw_originals_committed": false,
+  "music": "none",
+  "assets": [
+    {
+      "asset_code": "CAV-IMG-001",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Iagen preop.jpeg",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-IMG-001_preop_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-001_preop_safe.jpg",
+      "width": 1350,
+      "height": 1800,
+      "privacy_status": "needs_orchestrator_review",
+      "reason": "screen metadata redacted; review small text",
+      "suggested_role": "preop",
+      "type_inferred": "preop"
+    },
+    {
+      "asset_code": "CAV-IMG-002",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Imagen preop.jpeg",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-IMG-002_preop_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-002_preop_safe.jpg",
+      "width": 1800,
+      "height": 1350,
+      "privacy_status": "passed",
+      "reason": "best preop candidate after redaction",
+      "suggested_role": "preop",
+      "type_inferred": "preop"
+    },
+    {
+      "asset_code": "CAV-IMG-003",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /15b6b5e8-ee7b-4ad8-a102-a7f92691ead8.jpg",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-IMG-003_surgical_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-003_surgical_safe.jpg",
+      "width": 1600,
+      "height": 1200,
+      "privacy_status": "passed",
+      "reason": "no frontal faces visible",
+      "suggested_role": "surgical",
+      "type_inferred": "surgical/context"
+    },
+    {
+      "asset_code": "CAV-IMG-004",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /66072eeb-f180-4ef4-be90-553918281123.jpg",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-IMG-004_context_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-004_context_safe.jpg",
+      "width": 1599,
+      "height": 899,
+      "privacy_status": "needs_orchestrator_review",
+      "reason": "faces/inset redacted; crop recommended",
+      "suggested_role": "context",
+      "type_inferred": "surgical/context"
+    },
+    {
+      "asset_code": "CAV-IMG-005",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Pieza quirurgfica .jpg",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-IMG-005_surgical_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-005_surgical_safe.jpg",
+      "width": 1200,
+      "height": 1600,
+      "privacy_status": "needs_orchestrator_review",
+      "reason": "graphic/sensitive but not identifying",
+      "suggested_role": "surgical",
+      "type_inferred": "surgical_piece"
+    },
+    {
+      "asset_code": "CAV-IMG-006",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Monitoreo inraoperaorio.jpg",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-IMG-006_monitoring_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-IMG-006_monitoring_safe.jpg",
+      "width": 1600,
+      "height": 1200,
+      "privacy_status": "passed",
+      "reason": "screen channels/header redacted",
+      "suggested_role": "monitoring",
+      "type_inferred": "monitoring"
+    },
+    {
+      "asset_code": "CAV-VID-001",
+      "source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Video control postoperatorio.mp4",
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-VID-001_postop_control_poster_safe.png",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-VID-001_postop_control_poster_safe.jpg",
+      "width": 288,
+      "height": 512,
+      "privacy_status": "needs_orchestrator_review",
+      "reason": "poster has face redacted; raw video not included and must be reviewed before use",
+      "suggested_role": "postop/control",
+      "type_inferred": "postop video poster"
+    },
+    {
+      "asset_code": "CAV-SLATE-001",
+      "source_local_path": null,
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-SLATE-001_hook_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-SLATE-001_hook_safe.jpg",
+      "width": 1080,
+      "height": 1920,
+      "privacy_status": "passed",
+      "reason": "generated institutional text slate",
+      "suggested_role": "hook",
+      "type_inferred": "generated slate"
+    },
+    {
+      "asset_code": "CAV-SLATE-002",
+      "source_local_path": null,
+      "safe_derivative_local_path": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/sanitized/CAV-SLATE-002_closing_safe.jpg",
+      "bridge_preview_path": "context/asset_packs/20260526-reel-cavernoma-safe/previews/CAV-SLATE-002_closing_safe.jpg",
+      "width": 1080,
+      "height": 1920,
+      "privacy_status": "passed",
+      "reason": "generated institutional text slate",
+      "suggested_role": "closing",
+      "type_inferred": "generated slate"
+    }
+  ],
+  "render_storyboard_asset_codes": [
+    "CAV-SLATE-001",
+    "CAV-IMG-002",
+    "CAV-IMG-003",
+    "CAV-IMG-006",
+    "CAV-VID-001",
+    "CAV-SLATE-002"
+  ],
+  "privacy_summary": {
+    "passed": 5,
+    "needs_orchestrator_review": 4,
+    "rejected": 0
+  }
+}
