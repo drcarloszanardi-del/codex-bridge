@@ -1,0 +1,75 @@
+{
+  "job_id": "20260526T005616-reel-cavernoma-render-safe-motion-v2",
+  "created_by": "personal-xh",
+  "final_or_preview": "final_candidate",
+  "pass_premium_gate": true,
+  "publication_approval_required": true,
+  "asset_policy": "authorized_folder_only_safe_derivatives_and_safe_video_crop",
+  "render_path_local": "/Users/carloszanardi/CodexAssets/Reels/reel_cavernoma/renders/cmp_reel_cavernoma_intramedular_v2.mp4",
+  "render_committed_to_bridge": false,
+  "render_contact_sheet_bridge_path": "context/asset_packs/20260526-cavernoma-intramedular/render_contact_sheet_v2.jpg",
+  "duration_seconds": 46.0,
+  "resolution": "1080x1920",
+  "fps": 24.0,
+  "video_tracks": 1,
+  "audio_tracks": 0,
+  "music": "none",
+  "postop_video": {
+    "source_asset_code": "CAV-VID-001",
+    "raw_source_local_path": "/Users/carloszanardi/Documents/Codex/codex-bridge/Reel Cavernoma /Video control postoperatorio.mp4",
+    "used_in_render": true,
+    "segment_start_seconds": 23.0,
+    "segment_duration_seconds": 7.2,
+    "privacy_method": "lower_body_crop_only",
+    "face_or_full_body_visible": false,
+    "audio_removed": true,
+    "raw_video_committed": false
+  },
+  "assets_used": [
+    {
+      "asset_code": "CAV-SLATE-001",
+      "role": "hook",
+      "privacy_status": "passed"
+    },
+    {
+      "asset_code": "CAV-IMG-002",
+      "role": "preop",
+      "privacy_status": "passed"
+    },
+    {
+      "asset_code": "CAV-IMG-003",
+      "role": "surgical/context",
+      "privacy_status": "passed"
+    },
+    {
+      "asset_code": "CAV-IMG-006",
+      "role": "monitoring",
+      "privacy_status": "passed"
+    },
+    {
+      "asset_code": "CAV-VID-001",
+      "role": "postop/control",
+      "privacy_status": "passed_after_crop"
+    },
+    {
+      "asset_code": "CAV-SLATE-002",
+      "role": "closing",
+      "privacy_status": "passed"
+    }
+  ],
+  "assets_rejected_for_v2": [
+    {
+      "asset_code": "CAV-IMG-004",
+      "reason": "visible redactions and crop risk reduce premium look"
+    },
+    {
+      "asset_code": "CAV-IMG-005",
+      "reason": "graphic surgical piece not needed for public reel"
+    }
+  ],
+  "orchestrator_next_action": [
+    "Review the local MP4 end to end before publication.",
+    "Confirm final contact line in the closing slate.",
+    "Add publication music externally if desired by the Doctor."
+  ]
+}
