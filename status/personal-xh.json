@@ -146,14 +146,15 @@
     "20260526T145636-clinica-p0-extraforaminal-no-interlaminar-plan-v1",
     "20260526T155816-radares-root-cause-no-error-report-v1",
     "20260526T155816-reels-cmp-reference-reset-no-improvisar-v1",
-    "20260526T164745-radares-delivery-guard-post-integration-review-v1"
+    "20260526T164745-radares-delivery-guard-post-integration-review-v1",
+    "20260526T174756-radar-delivery-guard-residual-bypass-audit-v2"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Completado 20260526T174756-radar-delivery-guard-residual-bypass-audit-v2; personal-xh disponible para nuevas tareas.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T17:23:13-03:00"
+  "updated_at": "2026-05-26T17:50:33-03:00"
 }
