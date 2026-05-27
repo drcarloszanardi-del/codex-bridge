@@ -51,6 +51,13 @@ Si el Doctor califica una pieza como mala o no publicable:
 - Revisar contact sheet/video completo con criterio editorial, no solo privacidad/tecnica.
 - Si no hay material propio suficiente, pedir el asset minimo o proponer una pieza institucional alternativa sin simular caso clinico.
 
+Feedback especifico 2026-05-26/27:
+
+- Si el Doctor rechaza un reel por transiciones pobres, exceso de texto descriptivo o baja calidad visual, no intentar salvarlo agregando mas placas o texto.
+- El film debe contar con imagen y ritmo; el texto en pantalla solo ancla ideas, no explica todo.
+- Las transiciones deben sentirse cinematograficas y armonicas, no una sucesion de cortes duros, zooms de foto o plantillas genericas.
+- Para el siguiente intento, preparar direccion editorial nueva con menos texto, mas video real, mejor cadencia visual y evidencia de QA antes de enviarlo.
+
 ## Historias CMP
 
 Las historias institucionales o asociadas al Centro Medico Pellegrini no se aprueban como simples placas personales. Deben tener plantilla CMP reconocible, logo visible, texto legible en celular, contacto exacto y evidencia visual auditable.
