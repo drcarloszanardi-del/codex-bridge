@@ -11,10 +11,10 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "RADARES",
+  "front": "available",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
-  "last_idle_signal_at": "2026-05-27T10:11:17-03:00",
+  "last_idle_signal_at": "2026-05-27T10:41:47-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -183,11 +183,11 @@
     "20260527T103301-radares-residual-guardrails-next-audit-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Job RADARES residual guardrails next audit v1 completado; recomiendo ajustar tests y aceptar en observacion cuando pasen; personal-xh disponible para mejoras, QA o backlog.",
+  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T10:38:30-03:00"
+  "updated_at": "2026-05-27T10:41:47-03:00"
 }
