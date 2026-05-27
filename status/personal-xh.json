@@ -182,14 +182,15 @@
     "20260527T083322-reels-cmp-diario-referencias-storyboard-hoy",
     "20260527T103301-radares-residual-guardrails-next-audit-v1",
     "20260527T110517-clinica-documental-p0-next-implementation-audit-v1",
-    "20260527T113720-clinica-diagnostico-separado-implementation-review-v1"
+    "20260527T113720-clinica-diagnostico-separado-implementation-review-v1",
+    "20260527T120441-clinica-datos-sensibles-minimizados-p0-plan-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Job CLINICA diagnostico separado implementation review completado; recomiendo aceptar en observacion y agregar fixtures DX-011/DX-012; personal-xh disponible para mejoras, QA o backlog.",
+  "message": "Job CLINICA datos sensibles minimizados P0 plan completado; recomiendo integrar report-only con redaccion previa de findings y fixtures PRIV-005..016; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T11:41:00-03:00"
+  "updated_at": "2026-05-27T12:10:00-03:00"
 }
