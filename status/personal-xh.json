@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "CLINICA",
+  "front": "MULTI",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T18:59:46-03:00",
@@ -202,14 +202,17 @@
     "20260527T185433-artifactdraft-implementation-review",
     "20260527T185434-ai-tools-pilot-prioritization",
     "20260527T185434-telegram-quality-scorecard",
-    "20260527T190454-clinica-corpus-gates-backlog-v2"
+    "20260527T190454-clinica-corpus-gates-backlog-v2",
+    "20260527T192159-radares-source-recovery-playbook",
+    "20260527T192159-reels-cmp-next-editorial-options",
+    "20260527T192200-tesis-protocolo-datos-y-material-audiovisual"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Job 20260527T190454 CLINICA completado con backlog de gates corpus medico-legal; personal-xh disponible para mejoras, QA o backlog.",
+  "message": "Jobs 20260527T192159/192200 INVERSIONES/REELS/TESIS completados con playbook, opciones editoriales y protocolo de datos; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T19:20:23-03:00"
+  "updated_at": "2026-05-27T19:26:06-03:00"
 }
