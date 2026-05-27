@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "VIAJES",
+  "front": "REELS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-26T22:28:44-03:00",
@@ -153,14 +153,15 @@
     "20260526T210037-reels-cmp-preparar-workflow-premium-manana-kdenlive",
     "20260526T210200-davinci-resolve-en-mac-de-pablo-instalacion-oficial",
     "20260526T213707-viajes-bayahibe-iberostar-all-inclusive-research-oficial-v1",
-    "20260526T220318-viajes-bayahibe-email-pack-hoteles-all-inclusive-v1"
+    "20260526T220318-viajes-bayahibe-email-pack-hoteles-all-inclusive-v1",
+    "20260526T223347-reels-cmp-slate-diario-premium-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Job REELS slate diario CMP completado; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-26T22:28:44-03:00"
+  "updated_at": "2026-05-26T22:44:30-03:00"
 }
