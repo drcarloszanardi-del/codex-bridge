@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "available",
+  "front": "CLINICA",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T11:13:46-03:00",
@@ -181,14 +181,15 @@
     "20260527T083100-reels-lumbar-v4-premium-peer-review-v1",
     "20260527T083322-reels-cmp-diario-referencias-storyboard-hoy",
     "20260527T103301-radares-residual-guardrails-next-audit-v1",
-    "20260527T110517-clinica-documental-p0-next-implementation-audit-v1"
+    "20260527T110517-clinica-documental-p0-next-implementation-audit-v1",
+    "20260527T113720-clinica-diagnostico-separado-implementation-review-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Job CLINICA diagnostico separado implementation review completado; recomiendo aceptar en observacion y agregar fixtures DX-011/DX-012; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T11:13:46-03:00"
+  "updated_at": "2026-05-27T11:41:00-03:00"
 }
