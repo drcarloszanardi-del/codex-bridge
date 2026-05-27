@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "available",
+  "front": "batch",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T00:47:15-03:00",
@@ -162,14 +162,18 @@
     "20260527T003215-clinica-correcciones-a-fixtures-implementacion",
     "20260527T003215-radar-anti-empty-script-spec",
     "20260527T003215-reels-dia-patria-assets-and-timeline",
-    "20260527T004218-presentaciones-pilot-pack"
+    "20260527T004218-presentaciones-pilot-pack",
+    "20260527T005221-ai-tools-pilot-prioritization",
+    "20260527T005221-artifactdraft-implementation-review",
+    "20260527T005221-telegram-quality-scorecard",
+    "20260527T010224-clinica-corpus-gates-backlog-v2"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Jobs CODEX-OPS/CLINICA completados; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T00:47:15-03:00"
+  "updated_at": "2026-05-27T01:14:00-03:00"
 }
