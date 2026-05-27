@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "available",
+  "front": "PRESENTACIONES",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T18:39:46-03:00",
@@ -197,14 +197,15 @@
     "20260527T170404-telegram-contralor-action-media-only-after-assistant-completion",
     "20260527T183421-clinica-correcciones-a-fixtures-implementacion",
     "20260527T183421-radar-anti-empty-script-spec",
-    "20260527T183421-reels-dia-patria-assets-and-timeline"
+    "20260527T183421-reels-dia-patria-assets-and-timeline",
+    "20260527T184425-presentaciones-pilot-pack"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Job 20260527T184425 PRESENTACIONES completado con pack piloto operativo; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T18:39:46-03:00"
+  "updated_at": "2026-05-27T18:45:32-03:00"
 }
