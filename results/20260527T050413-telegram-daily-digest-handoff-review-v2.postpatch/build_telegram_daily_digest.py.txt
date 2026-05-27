@@ -1,0 +1,411 @@
+#!/usr/bin/env python3
+"""Build a quiet local Telegram observability digest.
+
+The script is intentionally read-only with respect to Telegram: it creates a
+local JSON artifact and, only when action is required, a local notification
+candidate for a separate authorized sender.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+from datetime import datetime, timedelta
+from pathlib import Path
+from typing import Any
+from zoneinfo import ZoneInfo
+
+
+DEFAULT_WORKSPACE = Path("/Users/jarvis/.openclaw/workspace")
+LOCAL_TZ = ZoneInfo("America/Argentina/Buenos_Aires")
+JOB_TS = re.compile(r"^(?P<stamp>\d{8}T\d{6})-.+")
+SECRETISH = re.compile(
+    r"(sk-[A-Za-z0-9_-]+|xox[baprs]-[A-Za-z0-9-]+|BEGIN (RSA|OPENSSH|PRIVATE)|[A-Za-z0-9_]*TOKEN[A-Za-z0-9_]*\s*[:=])",
+    re.I,
+)
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--date", help="Digest date YYYY-MM-DD. Defaults to local today.")
+    parser.add_argument("--window-hours", type=int, default=24)
+    parser.add_argument("--dry-run", action="store_true", help="Compatibility flag; this script never sends.")
+    parser.add_argument("--workspace-root", default=str(DEFAULT_WORKSPACE))
+    parser.add_argument("--now-iso", help="Test hook. ISO datetime with or without timezone.")
+    return parser.parse_args()
+
+
+def now_local(now_iso: str | None) -> datetime:
+    if not now_iso:
+        return datetime.now(LOCAL_TZ)
+    parsed = datetime.fromisoformat(now_iso)
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=LOCAL_TZ)
+    return parsed.astimezone(LOCAL_TZ)
+
+
+def read_json(path: Path) -> dict[str, Any]:
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        return {}
+
+
+def parse_job_time(name: str) -> datetime | None:
+    match = JOB_TS.match(name)
+    if not match:
+        return None
+    try:
+        return datetime.strptime(match.group("stamp"), "%Y%m%dT%H%M%S").replace(tzinfo=LOCAL_TZ)
+    except ValueError:
+        return None
+
+
+def safe_rel(path: Path, root: Path) -> str:
+    try:
+        return str(path.relative_to(root))
+    except ValueError:
+        return str(path)
+
+
+def redact(value: Any) -> Any:
+    if isinstance(value, dict):
+        return {k: redact(v) for k, v in value.items() if "token" not in k.lower() and "secret" not in k.lower()}
+    if isinstance(value, list):
+        return [redact(v) for v in value[:20]]
+    if isinstance(value, str):
+        cleaned = SECRETISH.sub("[redacted]", value)
+        return cleaned[:220]
+    return value
+
+
+def list_files(path: Path, pattern: str) -> list[Path]:
+    if not path.exists():
+        return []
+    return sorted(p for p in path.glob(pattern) if p.is_file())
+
+
+def recent_by_name(paths: list[Path], start: datetime) -> list[Path]:
+    out: list[Path] = []
+    for path in paths:
+        ts = parse_job_time(path.name)
+        if ts and ts >= start:
+            out.append(path)
+    return out
+
+
+def bridge_digest(root: Path, generated_at: datetime, window_hours: int) -> dict[str, Any]:
+    bridge = root / "codex-bridge"
+    jobs_dir = bridge / "jobs"
+    claims_dir = bridge / "claims"
+    results_dir = bridge / "results"
+    start = generated_at - timedelta(hours=window_hours)
+
+    jobs = list_files(jobs_dir, "*.md")
+    claims = list_files(claims_dir, "*.json")
+    results = list_files(results_dir, "*.result.md")
+    result_ids = {p.name.removesuffix(".result.md") for p in results}
+    claim_ids = {p.name.removesuffix(".json") for p in claims}
+    open_jobs = [p for p in jobs if p.name.removesuffix(".md") not in result_ids]
+    claimed_without_result = [p for p in claims if p.name.removesuffix(".json") not in result_ids]
+
+    stale_jobs: list[dict[str, Any]] = []
+    for path in open_jobs:
+        ts = parse_job_time(path.name)
+        if not ts:
+            continue
+        age_hours = (generated_at - ts).total_seconds() / 3600
+        threshold = 1 if "urgente" in path.name.lower() or "p0" in path.name.lower() else 24
+        if age_hours > threshold:
+            stale_jobs.append({"job_id": path.name.removesuffix(".md"), "age_hours": round(age_hours, 1)})
+
+    return {
+        "available": bridge.exists(),
+        "jobs_created": len(recent_by_name(jobs, start)),
+        "runs_completed": len(recent_by_name(results, start)),
+        "open_jobs": len(open_jobs),
+        "claims": len(claims),
+        "claimed_without_result": len(claimed_without_result),
+        "stale_jobs": stale_jobs,
+        "latest_results": [p.name for p in results[-5:]],
+        "claim_ids_without_result": sorted(claim_ids - result_ids)[:20],
+        "evidence_paths": [safe_rel(results[-1], root)] if results else [],
+    }
+
+
+def scorecard_digest(root: Path, generated_at: datetime, window_hours: int) -> dict[str, Any]:
+    start = generated_at - timedelta(hours=window_hours)
+    candidates = []
+    roots_available: list[str] = []
+    for base in [root / "router", root / "state"]:
+        if base.exists():
+            roots_available.append(safe_rel(base, root))
+            candidates.extend(base.rglob("*quality_score*.json"))
+    fail = 0
+    warn = 0
+    evidence: list[str] = []
+    for path in candidates[:500]:
+        try:
+            mtime = datetime.fromtimestamp(path.stat().st_mtime, LOCAL_TZ)
+        except OSError:
+            continue
+        if mtime < start:
+            continue
+        payload = read_json(path)
+        status = str(payload.get("status") or payload.get("overall_status") or "").lower()
+        hard_fails = payload.get("hard_fails") or []
+        warnings = payload.get("warnings") or []
+        if status == "fail" or hard_fails:
+            fail += 1
+            evidence.append(safe_rel(path, root))
+        elif status in {"warn", "warning", "pass_with_warning", "needs_review"} or warnings:
+            warn += 1
+    return {
+        "fail": fail,
+        "warn": warn,
+        "candidate_count": len(candidates),
+        "roots_available": roots_available,
+        "evidence_paths": evidence[:10],
+    }
+
+
+def delivery_digest(root: Path, generated_at: datetime, window_hours: int) -> dict[str, Any]:
+    start = generated_at - timedelta(hours=window_hours)
+    search_roots = [
+        root / "state" / "codex-telegram-direct",
+        root / "state" / "codex_telegram_direct",
+        root / "state" / "telegram",
+        root / "state" / "codex_telegram_outbox",
+        root / "state" / "codex_telegram_channel_contralor",
+    ]
+    roots_available = [safe_rel(base, root) for base in search_roots if base.exists()]
+    deliveries_confirmed = 0
+    missing_receipt = 0
+    pending_outbox = 0
+    evidence: list[str] = []
+    for base in search_roots:
+        if not base.exists():
+            continue
+        for path in list(base.rglob("*.json"))[:1000]:
+            try:
+                if datetime.fromtimestamp(path.stat().st_mtime, LOCAL_TZ) < start:
+                    continue
+            except OSError:
+                continue
+            payload = read_json(path)
+            text = json.dumps(redact(payload), ensure_ascii=False)
+            lower_path = str(path).lower()
+            if "outbox" in lower_path and not payload.get("sent_at"):
+                pending_outbox += 1
+            ok = bool(payload.get("ok") or (payload.get("telegram_response") or {}).get("ok"))
+            message_id = payload.get("message_id")
+            if message_id is None:
+                result = payload.get("result") or (payload.get("telegram_response") or {}).get("result") or {}
+                if isinstance(result, dict):
+                    message_id = result.get("message_id")
+            sentish = any(k in text.lower() for k in ["sent", "delivered", "enviado", "message_id"])
+            if ok and message_id:
+                deliveries_confirmed += 1
+                evidence.append(safe_rel(path, root))
+            elif sentish and not message_id:
+                missing_receipt += 1
+                evidence.append(safe_rel(path, root))
+    return {
+        "deliveries_confirmed": deliveries_confirmed,
+        "delivery_receipt_missing": missing_receipt,
+        "pending_outbox": pending_outbox,
+        "roots_available": roots_available,
+        "evidence_paths": evidence[:10],
+    }
+
+
+def load_statuses(root: Path) -> dict[str, Any]:
+    bridge = root / "codex-bridge"
+    orchestrator = read_json(bridge / "status" / "orchestrator.json")
+    personal = read_json(bridge / "status" / "personal-xh.json")
+    monitor = read_json(root / "state" / "codex_bridge_monitor" / "latest.json")
+    return {
+        "orchestrator": redact(orchestrator),
+        "personal_xh": {
+            "alias": personal.get("alias"),
+            "status": personal.get("status"),
+            "front": personal.get("front"),
+            "idle": personal.get("idle"),
+            "updated_at": personal.get("updated_at"),
+        },
+        "monitor": {
+            "ok": monitor.get("ok"),
+            "checked_at": monitor.get("checked_at"),
+            "new_results_count": monitor.get("new_results_count"),
+            "results_count": monitor.get("results_count"),
+        },
+    }
+
+
+def health_input_coverage(root: Path, scorecard: dict[str, Any], delivery: dict[str, Any]) -> dict[str, Any]:
+    paths = {
+        "bridge": root / "codex-bridge",
+        "bridge_monitor": root / "state" / "codex_bridge_monitor",
+        "telegram_delivery_roots": [root / "state" / "codex-telegram-direct", root / "state" / "codex_telegram_direct", root / "state" / "telegram", root / "state" / "codex_telegram_outbox", root / "state" / "codex_telegram_channel_contralor"],
+        "scorecard_roots": [root / "router", root / "state"],
+    }
+    missing: list[str] = []
+    available: dict[str, Any] = {
+        "bridge": paths["bridge"].exists(),
+        "bridge_monitor": paths["bridge_monitor"].exists(),
+        "telegram_delivery_roots": delivery["roots_available"],
+        "scorecard_roots": scorecard["roots_available"],
+        "scorecard_candidate_count": scorecard["candidate_count"],
+    }
+    if not available["bridge"]:
+        missing.append("bridge")
+    if not available["telegram_delivery_roots"]:
+        missing.append("telegram_delivery_roots")
+    if not available["scorecard_roots"]:
+        missing.append("scorecard_roots")
+    return {
+        "available": available,
+        "coverage_gap": bool(missing),
+        "missing": missing,
+    }
+
+
+def build_digest(root: Path, generated_at: datetime, digest_date: str, window_hours: int) -> dict[str, Any]:
+    bridge = bridge_digest(root, generated_at, window_hours)
+    scorecard = scorecard_digest(root, generated_at, window_hours)
+    delivery = delivery_digest(root, generated_at, window_hours)
+    statuses = load_statuses(root)
+    coverage = health_input_coverage(root, scorecard, delivery)
+
+    action_items: list[dict[str, Any]] = []
+    suppressed_noise: list[str] = []
+    evidence_paths: list[str] = []
+    evidence_paths.extend(bridge["evidence_paths"])
+    evidence_paths.extend(scorecard["evidence_paths"])
+    evidence_paths.extend(delivery["evidence_paths"])
+
+    if not bridge["available"]:
+        action_items.append({"severity": "action_needed", "front": "CODEX-OPS", "item": "codex_bridge_missing"})
+    for stale in bridge["stale_jobs"]:
+        action_items.append({"severity": "action_needed", "front": "CODEX-OPS", "item": "stale_job", **stale})
+    if bridge["claimed_without_result"]:
+        action_items.append(
+            {
+                "severity": "watch",
+                "front": "CODEX-OPS",
+                "item": "claims_without_result",
+                "count": bridge["claimed_without_result"],
+            }
+        )
+    if delivery["delivery_receipt_missing"]:
+        action_items.append(
+            {
+                "severity": "incident",
+                "front": "TELEGRAM",
+                "item": "sent_or_delivered_without_message_id",
+                "count": delivery["delivery_receipt_missing"],
+            }
+        )
+    if delivery["pending_outbox"]:
+        action_items.append(
+            {"severity": "action_needed", "front": "TELEGRAM", "item": "pending_outbox", "count": delivery["pending_outbox"]}
+        )
+    if scorecard["fail"]:
+        action_items.append({"severity": "action_needed", "front": "TELEGRAM", "item": "scorecard_fail", "count": scorecard["fail"]})
+    if scorecard["warn"]:
+        suppressed_noise.append(f"scorecard_warn:{scorecard['warn']}")
+    if coverage["coverage_gap"]:
+        action_items.append(
+            {
+                "severity": "watch",
+                "front": "TELEGRAM",
+                "item": "coverage_gap",
+                "missing": coverage["missing"],
+            }
+        )
+
+    overall_status = "quiet"
+    if any(item["severity"] == "incident" for item in action_items):
+        overall_status = "incident"
+    elif any(item["severity"] == "action_needed" for item in action_items):
+        overall_status = "action_needed"
+    elif any(item["severity"] == "watch" for item in action_items) or scorecard["warn"]:
+        overall_status = "watch"
+
+    should_notify = overall_status in {"incident", "action_needed"}
+    headline = "Sin incidentes accionables."
+    if should_notify:
+        headline = f"{len(action_items)} item(s) requieren revision operativa."
+    elif overall_status == "watch":
+        headline = "Sin accion humana; quedan senales en observacion."
+
+    return {
+        "schema": "telegram_observability_daily_digest.v1",
+        "date": digest_date,
+        "generated_at": generated_at.isoformat(timespec="seconds"),
+        "mode": "notify_candidate" if should_notify else "dry_run",
+        "window_hours": window_hours,
+        "overall_status": overall_status,
+        "should_notify_doctor": should_notify,
+        "notify_reason": None if not should_notify else headline,
+        "headline": headline,
+        "counts": {
+            "events_seen": bridge["jobs_created"] + bridge["runs_completed"],
+            "jobs_created": bridge["jobs_created"],
+            "runs_completed": bridge["runs_completed"],
+            "deliveries_confirmed": delivery["deliveries_confirmed"],
+            "delivery_receipt_missing": delivery["delivery_receipt_missing"],
+            "scorecard_fail": scorecard["fail"],
+            "scorecard_warn": scorecard["warn"],
+            "stale_jobs": len(bridge["stale_jobs"]),
+            "open_jobs": bridge["open_jobs"],
+            "coverage_gap": 1 if coverage["coverage_gap"] else 0,
+        },
+        "fronts": {
+            "TELEGRAM": {"status": "observing", "open_items": [i for i in action_items if i["front"] == "TELEGRAM"]},
+            "CODEX-OPS": {"status": "observing", "open_items": [i for i in action_items if i["front"] == "CODEX-OPS"]},
+            "PABLO": {"status": statuses["personal_xh"]},
+        },
+        "action_items": action_items,
+        "suppressed_noise": suppressed_noise,
+        "evidence_paths": sorted(set(evidence_paths))[:30],
+        "latest_results": bridge["latest_results"],
+        "health": statuses,
+        "health_inputs_available": coverage["available"],
+    }
+
+
+def write_outputs(root: Path, digest: dict[str, Any]) -> Path:
+    out_dir = root / "state" / "telegram_observability" / "daily_digest"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / f"{digest['date']}.json"
+    out_path.write_text(json.dumps(digest, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    candidate = out_dir / f"{digest['date']}.notify_candidate.md"
+    if digest["should_notify_doctor"]:
+        lines = [
+            f"Estado Telegram: {digest['overall_status']}",
+            digest["headline"],
+            f"Acciones: {len(digest['action_items'])}",
+            f"Digest local: {out_path}",
+        ]
+        candidate.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    elif candidate.exists():
+        candidate.unlink()
+    return out_path
+
+
+def main() -> int:
+    args = parse_args()
+    root = Path(args.workspace_root).expanduser().resolve()
+    generated_at = now_local(args.now_iso)
+    digest_date = args.date or generated_at.date().isoformat()
+    digest = build_digest(root, generated_at, digest_date, args.window_hours)
+    out_path = write_outputs(root, digest)
+    print(json.dumps({"ok": True, "path": str(out_path), "overall_status": digest["overall_status"]}, ensure_ascii=False))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
