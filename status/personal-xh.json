@@ -188,14 +188,15 @@
     "20260527T133621-clinica-historia-clinica-minima-p0-plan-v1",
     "20260527T140548-clinica-historia-minima-implementation-review-v1",
     "20260527T143446-clinica-consistencia-diagnostico-indicacion-procedimiento-plan-v1",
-    "20260527T150703-clinica-consistencia-implementation-review-v1"
+    "20260527T150703-clinica-consistencia-implementation-review-v1",
+    "20260527T153504-clinica-consentimiento-especifico-source-pack-plan-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Job CLINICA consistencia implementation review completado; recomiendo aceptar en observacion, sumar fixtures CONSIST-015..020 y avanzar a consentimiento especifico no generico en fase plan/source-pack; personal-xh disponible para mejoras, QA o backlog.",
+  "message": "Job CLINICA consentimiento especifico source-pack plan completado; recomiendo source-pack humano/versionado y fixtures sinteticos antes de implementar validator completo; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T15:14:00-03:00"
+  "updated_at": "2026-05-27T15:49:00-03:00"
 }
