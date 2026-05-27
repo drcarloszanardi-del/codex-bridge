@@ -17,3 +17,18 @@ Actualizado: 2026-05-25.
 ## Regla de seguridad
 
 No modificar plantillas clinicas sin leer baseline/ruta canonica y sin test focal.
+
+## Corpus a gates
+
+El corpus medico-legal debe convertirse primero en gates verificables documentales:
+
+- consentimiento especifico no generico;
+- historia clinica minima completa;
+- diagnostico separado de indicacion;
+- consistencia diagnostico-indicacion-procedimiento;
+- minimizacion de datos sensibles;
+- trazabilidad de implantes/materiales cuando aplique.
+
+Jurisprudencia y doctrina quedan como `advisory` hasta tener fuente oficial, metadatos completos y revision legal. Ninguna fuente no oficial crea hard gate.
+
+Fuente operativa: `results/20260527T010224-clinica-corpus-gates-backlog-v2.result.md`.
