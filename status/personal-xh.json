@@ -14,7 +14,7 @@
   "front": "REELS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
-  "last_idle_signal_at": "2026-05-26T23:58:45-03:00",
+  "last_idle_signal_at": "2026-05-27T00:08:45-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -161,11 +161,11 @@
     "20260527T000329-reels-cmp-daily-premium-operating-system-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Job REELS daily premium operating system completado; personal-xh disponible para mejoras, QA o backlog.",
+  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T00:05:10-03:00"
+  "updated_at": "2026-05-27T00:08:45-03:00"
 }
