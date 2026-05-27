@@ -11,10 +11,10 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "CLINICA",
+  "front": "available",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
-  "last_idle_signal_at": "2026-05-27T06:23:46-03:00",
+  "last_idle_signal_at": "2026-05-27T06:44:16-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -178,11 +178,11 @@
     "20260527T063553-clinica-next-documental-p0-gate-plan-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "Job CLINICA next documental P0 gate plan v1 completado; recomiendo diagnostico_separado_de_indicacion detect-only; personal-xh disponible para mejoras, QA o backlog.",
+  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T06:40:30-03:00"
+  "updated_at": "2026-05-27T06:44:16-03:00"
 }
