@@ -1,0 +1,69 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import subprocess
+import tempfile
+from pathlib import Path
+
+
+WORKSPACE = Path("/Users/jarvis/.openclaw/workspace")
+SCRIPT = WORKSPACE / "scripts/ops/build_telegram_daily_digest.py"
+
+
+def run_digest(root: Path, *extra: str) -> dict:
+    completed = subprocess.run(
+        [
+            "/usr/bin/python3",
+            str(SCRIPT),
+            "--workspace-root",
+            str(root),
+            "--date",
+            "2026-05-27",
+            "--now-iso",
+            "2026-05-27T06:00:00-03:00",
+            "--dry-run",
+            *extra,
+        ],
+        check=True,
+        text=True,
+        capture_output=True,
+    )
+    return json.loads(completed.stdout)
+
+
+def test_quiet_digest() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        (root / "codex-bridge/jobs").mkdir(parents=True)
+        (root / "codex-bridge/results").mkdir(parents=True)
+        (root / "codex-bridge/claims").mkdir(parents=True)
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["ok"] is True
+        assert digest["overall_status"] == "quiet"
+        assert digest["should_notify_doctor"] is False
+        assert not (root / "state/telegram_observability/daily_digest/2026-05-27.notify_candidate.md").exists()
+
+
+def test_stale_job_creates_notify_candidate() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        jobs = root / "codex-bridge/jobs"
+        jobs.mkdir(parents=True)
+        (root / "codex-bridge/results").mkdir(parents=True)
+        (root / "codex-bridge/claims").mkdir(parents=True)
+        (jobs / "20260526T000000-radar-p0-stale.md").write_text("# stale\n", encoding="utf-8")
+        result = run_digest(root, "--window-hours", "48")
+        digest_path = root / "state/telegram_observability/daily_digest/2026-05-27.json"
+        digest = json.loads(digest_path.read_text())
+        assert result["overall_status"] == "action_needed"
+        assert digest["counts"]["stale_jobs"] == 1
+        assert digest["should_notify_doctor"] is True
+        assert (root / "state/telegram_observability/daily_digest/2026-05-27.notify_candidate.md").exists()
+
+
+if __name__ == "__main__":
+    test_quiet_digest()
+    test_stale_job_creates_notify_candidate()
+    print(json.dumps({"ok": True, "tests": 2}, ensure_ascii=False))

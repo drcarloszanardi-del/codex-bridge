@@ -1,0 +1,5 @@
+$ /usr/bin/python3 -B -m py_compile scripts/ops/build_telegram_daily_digest.py tests/ops/test_telegram_daily_digest_builder.py
+$ /usr/bin/python3 -B tests/ops/test_telegram_daily_digest_builder.py
+{"ok": true, "tests": 2}
+$ /usr/bin/python3 -B scripts/ops/build_telegram_daily_digest.py --date 2026-05-27 --window-hours 24 --dry-run
+{"ok": true, "path": "/Users/jarvis/.openclaw/workspace/state/telegram_observability/daily_digest/2026-05-27.json", "overall_status": "quiet"}

@@ -1,0 +1,76 @@
+{
+  "action_items": [],
+  "counts": {
+    "deliveries_confirmed": 0,
+    "delivery_receipt_missing": 0,
+    "events_seen": 106,
+    "jobs_created": 53,
+    "open_jobs": 0,
+    "runs_completed": 53,
+    "scorecard_fail": 0,
+    "scorecard_warn": 0,
+    "stale_jobs": 0
+  },
+  "date": "2026-05-27",
+  "evidence_paths": [
+    "codex-bridge/results/20260527T040311-telegram-observability-digest-sanity-v1.result.md"
+  ],
+  "fronts": {
+    "CODEX-OPS": {
+      "open_items": [],
+      "status": "observing"
+    },
+    "PABLO": {
+      "status": {
+        "alias": "Pablo",
+        "front": "available",
+        "idle": true,
+        "status": "available",
+        "updated_at": "2026-05-27T04:15:16-03:00"
+      }
+    },
+    "TELEGRAM": {
+      "open_items": [],
+      "status": "observing"
+    }
+  },
+  "generated_at": "2026-05-27T04:36:33-03:00",
+  "headline": "Sin incidentes accionables.",
+  "health": {
+    "monitor": {
+      "checked_at": "2026-05-27T04:35:21-03:00",
+      "new_results_count": 0,
+      "ok": true,
+      "results_count": 157
+    },
+    "orchestrator": {
+      "front": "REELS",
+      "host": "MacBook-Air-de-jarvis.local",
+      "message": "Reel lumbar en hold; Pablo entrego Daily Reel OS v1 y quedo integrado como criterio editorial interno.",
+      "role": "orchestrator",
+      "status": "active",
+      "updated_at": "2026-05-27T00:34:26-03:00"
+    },
+    "personal_xh": {
+      "alias": "Pablo",
+      "front": "available",
+      "idle": true,
+      "status": "available",
+      "updated_at": "2026-05-27T04:15:16-03:00"
+    }
+  },
+  "latest_results": [
+    "20260527T011700-radares-source-recovery-playbook.result.md",
+    "20260527T011700-reels-cmp-next-editorial-options.result.md",
+    "20260527T011700-tesis-protocolo-datos-y-material-audiovisual.result.md",
+    "20260527T030306-clinica-documental-p0-gates-detect-only-plan-v1.result.md",
+    "20260527T040311-telegram-observability-digest-sanity-v1.result.md"
+  ],
+  "mode": "dry_run",
+  "notify_reason": null,
+  "overall_status": "quiet",
+  "schema": "telegram_observability_daily_digest.v1",
+  "should_notify_doctor": false,
+  "suppressed_noise": [],
+  "window_hours": 24
+}
