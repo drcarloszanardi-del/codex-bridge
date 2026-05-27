@@ -1,0 +1,178 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import subprocess
+import tempfile
+from pathlib import Path
+
+
+WORKSPACE = Path("/Users/jarvis/.openclaw/workspace")
+SCRIPT = WORKSPACE / "scripts/ops/build_telegram_daily_digest.py"
+
+
+def run_digest(root: Path, *extra: str) -> dict:
+    completed = subprocess.run(
+        [
+            "/usr/bin/python3",
+            str(SCRIPT),
+            "--workspace-root",
+            str(root),
+            "--date",
+            "2026-05-27",
+            "--now-iso",
+            "2026-05-27T06:00:00-03:00",
+            "--dry-run",
+            *extra,
+        ],
+        check=True,
+        text=True,
+        capture_output=True,
+    )
+    return json.loads(completed.stdout)
+
+
+def seed_bridge(root: Path) -> None:
+    (root / "codex-bridge/jobs").mkdir(parents=True)
+    (root / "codex-bridge/results").mkdir(parents=True)
+    (root / "codex-bridge/claims").mkdir(parents=True)
+
+
+def seed_telegram_inputs(root: Path) -> None:
+    (root / "state/codex_telegram_outbox").mkdir(parents=True)
+    (root / "state/codex_telegram_channel_contralor").mkdir(parents=True)
+    (root / "state/codex_bridge_monitor").mkdir(parents=True)
+
+
+def test_quiet_digest() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["ok"] is True
+        assert digest["overall_status"] == "quiet"
+        assert digest["should_notify_doctor"] is False
+        assert not (root / "state/telegram_observability/daily_digest/2026-05-27.notify_candidate.md").exists()
+
+
+def test_stale_job_creates_notify_candidate() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        jobs = root / "codex-bridge/jobs"
+        (jobs / "20260526T000000-radar-p0-stale.md").write_text("# stale\n", encoding="utf-8")
+        result = run_digest(root, "--window-hours", "48")
+        digest_path = root / "state/telegram_observability/daily_digest/2026-05-27.json"
+        digest = json.loads(digest_path.read_text())
+        assert result["overall_status"] == "action_needed"
+        assert digest["counts"]["stale_jobs"] == 1
+        assert digest["should_notify_doctor"] is True
+        assert (root / "state/telegram_observability/daily_digest/2026-05-27.notify_candidate.md").exists()
+
+
+def test_missing_coverage_is_watch_without_notify() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["overall_status"] == "watch"
+        assert digest["counts"]["coverage_gap"] == 1
+        assert digest["should_notify_doctor"] is False
+        assert not (root / "state/telegram_observability/daily_digest/2026-05-27.notify_candidate.md").exists()
+
+
+def test_sent_without_message_id_is_incident() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        (root / "state/codex_telegram_outbox/outbox_sent_without_receipt.json").write_text(
+            json.dumps({"sent": True, "ok": True, "payload": "redacted"}),
+            encoding="utf-8",
+        )
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["overall_status"] == "incident"
+        assert digest["counts"]["delivery_receipt_missing"] == 1
+        assert digest["should_notify_doctor"] is True
+        assert (root / "state/telegram_observability/daily_digest/2026-05-27.notify_candidate.md").exists()
+
+
+def test_pending_outbox_without_sent_at_is_not_missing_receipt() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        (root / "state/codex_telegram_outbox/pending.json").write_text(
+            json.dumps({"sent_at": None, "payload": "queued"}),
+            encoding="utf-8",
+        )
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["overall_status"] == "action_needed"
+        assert digest["counts"]["delivery_receipt_missing"] == 0
+        assert any(item["item"] == "pending_outbox" for item in digest["action_items"])
+
+
+def test_channel_contralor_health_ok_is_not_delivery_missing_receipt() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        (root / "state/codex_telegram_channel_contralor/last.json").write_text(
+            json.dumps({"ok": True, "checked_at": "2026-05-27T06:00:00-0300"}),
+            encoding="utf-8",
+        )
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["overall_status"] == "quiet"
+        assert digest["counts"]["delivery_receipt_missing"] == 0
+        assert "state/codex_telegram_channel_contralor" in digest["health_inputs_available"]["telegram_health_roots"]
+
+
+def test_scorecard_fail_is_action_needed() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        score = root / "router/runs/abc/quality_score.json"
+        score.parent.mkdir(parents=True)
+        score.write_text(json.dumps({"status": "fail", "hard_fails": ["raw_trace_or_diff_or_secret_like_text"]}), encoding="utf-8")
+        result = run_digest(root)
+        digest = json.loads((root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text())
+        assert result["overall_status"] == "action_needed"
+        assert digest["counts"]["scorecard_fail"] == 1
+        assert digest["should_notify_doctor"] is True
+
+
+def test_redaction_removes_secret_like_text_from_digest() -> None:
+    with tempfile.TemporaryDirectory() as td:
+        root = Path(td)
+        seed_bridge(root)
+        seed_telegram_inputs(root)
+        (root / "codex-bridge/status").mkdir(parents=True)
+        (root / "codex-bridge/status/orchestrator.json").write_text(
+            json.dumps({"message": "TOKEN=abc123 and sk-test-secret should not survive"}),
+            encoding="utf-8",
+        )
+        run_digest(root)
+        raw = (root / "state/telegram_observability/daily_digest/2026-05-27.json").read_text()
+        assert "TOKEN=abc123" not in raw
+        assert "sk-test-secret" not in raw
+        assert "[redacted]" in raw
+
+
+if __name__ == "__main__":
+    test_quiet_digest()
+    test_stale_job_creates_notify_candidate()
+    test_missing_coverage_is_watch_without_notify()
+    test_sent_without_message_id_is_incident()
+    test_pending_outbox_without_sent_at_is_not_missing_receipt()
+    test_channel_contralor_health_ok_is_not_delivery_missing_receipt()
+    test_scorecard_fail_is_action_needed()
+    test_redaction_removes_secret_like_text_from_digest()
+    print(json.dumps({"ok": True, "tests": 8}, ensure_ascii=False))

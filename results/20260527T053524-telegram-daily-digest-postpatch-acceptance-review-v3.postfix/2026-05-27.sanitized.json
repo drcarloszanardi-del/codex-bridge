@@ -1,0 +1,92 @@
+{
+  "action_items": [],
+  "counts": {
+    "coverage_gap": 0,
+    "deliveries_confirmed": 0,
+    "delivery_receipt_missing": 0,
+    "events_seen": 102,
+    "jobs_created": 51,
+    "open_jobs": 0,
+    "runs_completed": 51,
+    "scorecard_fail": 0,
+    "scorecard_warn": 0,
+    "stale_jobs": 0
+  },
+  "date": "2026-05-27",
+  "evidence_paths": [
+    "codex-bridge/results/20260527T053524-telegram-daily-digest-postpatch-acceptance-review-v3.result.md"
+  ],
+  "fronts": {
+    "CODEX-OPS": {
+      "open_items": [],
+      "status": "observing"
+    },
+    "PABLO": {
+      "status": {
+        "alias": "Pablo",
+        "front": "available",
+        "idle": true,
+        "status": "available",
+        "updated_at": "2026-05-27T06:23:46-03:00"
+      }
+    },
+    "TELEGRAM": {
+      "open_items": [],
+      "status": "observing"
+    }
+  },
+  "generated_at": "2026-05-27T06:34:55-03:00",
+  "headline": "Sin incidentes accionables.",
+  "health": {
+    "monitor": {
+      "checked_at": "2026-05-27T06:34:07-03:00",
+      "new_results_count": 0,
+      "ok": true,
+      "results_count": 160
+    },
+    "orchestrator": {
+      "front": "REELS",
+      "host": "MacBook-Air-de-jarvis.local",
+      "message": "Reel lumbar en hold; Pablo entrego Daily Reel OS v1 y quedo integrado como criterio editorial interno.",
+      "role": "orchestrator",
+      "status": "active",
+      "updated_at": "2026-05-27T00:34:26-03:00"
+    },
+    "personal_xh": {
+      "alias": "Pablo",
+      "front": "available",
+      "idle": true,
+      "status": "available",
+      "updated_at": "2026-05-27T06:23:46-03:00"
+    }
+  },
+  "health_inputs_available": {
+    "bridge": true,
+    "bridge_monitor": true,
+    "scorecard_candidate_count": 0,
+    "scorecard_roots": [
+      "state"
+    ],
+    "telegram_delivery_roots": [
+      "state/codex_telegram_outbox"
+    ],
+    "telegram_health_roots": [
+      "state/codex_telegram_channel_contralor",
+      "state/telegram_attachment_contralor"
+    ]
+  },
+  "latest_results": [
+    "20260527T030306-clinica-documental-p0-gates-detect-only-plan-v1.result.md",
+    "20260527T040311-telegram-observability-digest-sanity-v1.result.md",
+    "20260527T043725-telegram-daily-digest-implementation-review-v1.result.md",
+    "20260527T050413-telegram-daily-digest-handoff-review-v2.result.md",
+    "20260527T053524-telegram-daily-digest-postpatch-acceptance-review-v3.result.md"
+  ],
+  "mode": "dry_run",
+  "notify_reason": null,
+  "overall_status": "quiet",
+  "schema": "telegram_observability_daily_digest.v1",
+  "should_notify_doctor": false,
+  "suppressed_noise": [],
+  "window_hours": 24
+}
