@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "REELS",
+  "front": "batch",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T00:08:45-03:00",
@@ -158,14 +158,17 @@
     "20260526T230315-radares-delivery-guard-residual-night-audit-v3",
     "20260526T230823-reels-cmp-low-text-transition-quality-reset-v1",
     "20260526T233419-reels-lumbar-cinematic-v3-shotlist-and-gate-review",
-    "20260527T000329-reels-cmp-daily-premium-operating-system-v1"
+    "20260527T000329-reels-cmp-daily-premium-operating-system-v1",
+    "20260527T003215-clinica-correcciones-a-fixtures-implementacion",
+    "20260527T003215-radar-anti-empty-script-spec",
+    "20260527T003215-reels-dia-patria-assets-and-timeline"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Jobs batch 20260527T003215 completados; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T00:08:45-03:00"
+  "updated_at": "2026-05-27T00:37:30-03:00"
 }
