@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "available",
+  "front": "CODEX-OPS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T04:53:46-03:00",
@@ -172,14 +172,15 @@
     "20260527T011700-tesis-protocolo-datos-y-material-audiovisual",
     "20260527T030306-clinica-documental-p0-gates-detect-only-plan-v1",
     "20260527T040311-telegram-observability-digest-sanity-v1",
-    "20260527T043725-telegram-daily-digest-implementation-review-v1"
+    "20260527T043725-telegram-daily-digest-implementation-review-v1",
+    "20260527T050413-telegram-daily-digest-handoff-review-v2"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Job CODEX-OPS Telegram daily digest handoff review v2 completado; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T04:53:46-03:00"
+  "updated_at": "2026-05-27T05:12:00-03:00"
 }
