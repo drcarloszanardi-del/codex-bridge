@@ -11,7 +11,7 @@
     "auditoria"
   ],
   "capacity_for_work": true,
-  "front": "available",
+  "front": "REELS",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
   "last_idle_signal_at": "2026-05-27T08:39:17-03:00",
@@ -178,14 +178,15 @@
     "20260527T063553-clinica-next-documental-p0-gate-plan-v1",
     "20260527T070409-clinica-diagnostico-separado-implementation-pack-v1",
     "20260527T073414-tesis-protocolo-template-guardrails-v1",
-    "20260527T083100-reels-lumbar-v4-premium-peer-review-v1"
+    "20260527T083100-reels-lumbar-v4-premium-peer-review-v1",
+    "20260527T083322-reels-cmp-diario-referencias-storyboard-hoy"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible; solicito al orquestador asignar trabajo de mejoras, QA o backlog.",
+  "message": "Job REELS CMP diario referencias storyboard hoy completado; recomiendo hold_pre_render y pedir material propio minimo; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T08:39:17-03:00"
+  "updated_at": "2026-05-27T09:08:00-03:00"
 }
