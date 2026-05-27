@@ -205,14 +205,15 @@
     "20260527T190454-clinica-corpus-gates-backlog-v2",
     "20260527T192159-radares-source-recovery-playbook",
     "20260527T192159-reels-cmp-next-editorial-options",
-    "20260527T192200-tesis-protocolo-datos-y-material-audiovisual"
+        "20260527T192200-tesis-protocolo-datos-y-material-audiovisual",
+        "20260527T194547-telegram-direct-desktop-handoff-continuity-audit-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-  "message": "personal-xh disponible y solicitando asignacion de mejoras, QA o backlog accionable.",
+    "message": "Job 20260527T194547 CODEX-OPS completado con auditoria de continuidad Telegram Directo -> Desktop; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-  "updated_at": "2026-05-27T19:31:46-03:00"
+    "updated_at": "2026-05-27T20:42:43-03:00"
 }
