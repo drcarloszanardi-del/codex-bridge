@@ -4,6 +4,17 @@ Pack listo para revision humana. Incluye borradores formales para pedir cotizaci
 
 Uso recomendado: copiar solo despues de completar los campos entre corchetes y validar por el orquestador/VIAJES. No afirma reserva, no inicia hold y no contiene credenciales.
 
+## coverage_table
+
+| Bloque solicitado | Estado | Evidencia / salida |
+|---|---|---|
+| Borrador Catalonia Grand Costa Mujeres | Completo | Ver `draft_catalonia_email` |
+| Borrador RIU Dunamar y RIU Palace Costa Mujeres | Completo | Ver `draft_riu_email` |
+| Checklist de datos del Doctor antes de enviar | Completo | Ver `doctor_checklist_before_sending` |
+| Texto corto para Aerolineas directo 16/24 y 16/25 | Completo | Ver `aerolineas_quote_text` |
+| Sin datos personales reales ni afirmacion de reserva | Cumplido | Se usan campos entre corchetes y clausulas "solo cotizacion" |
+| Evidencia, inferencia y opinion separadas | Cumplido | Ver `evidence_paths`, `recommendation` y `confidence` |
+
 ## draft_catalonia_email
 
 Asunto: Solicitud de cotizacion - Costa Mujeres 17 al 24/07/2026 - 5 pasajeros / 2 habitaciones
@@ -133,6 +144,14 @@ Esta consulta es solo para cotizacion. No autoriza compra, emision, reserva ni h
 - Regla de decision: si Aerolineas directo queda hasta USD 850-900 pp, puede defenderse por comodidad; si queda cerca de USD 1.155 pp, defender solo como upgrade, no como ahorro.
 - Para vuelos que llegan temprano, hotel debe confirmar si permite uso de instalaciones antes del check-in.
 - Para regreso 25/07, hotel debe confirmar late checkout/day-use o noche extra.
+
+## recommendation
+
+Revisar humanamente los campos entre corchetes antes de copiar. Enviar primero pedidos hoteleros para confirmar precio final, habitaciones conectadas/adyacentes y condiciones de early check-in/late checkout. En paralelo, pedir cotizacion humana de Aerolineas para 16/24 y 16/25, pero no presentar el directo como precio cerrado hasta tener total final por persona, equipaje incluido y condiciones.
+
+## confidence
+
+Alta para la utilidad del pack documental: cubre todos los pedidos del job y no requiere acciones externas. Media para datos economicos usados como contexto porque dependen de los resultados previos y de cotizaciones futuras; por eso el texto pide validacion formal y no afirma disponibilidad ni reserva.
 
 ## risks_limits
 
