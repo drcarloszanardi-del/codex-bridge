@@ -212,14 +212,15 @@
         "20260527T223530-clinica-protocolo-secuencia-hemostasia-detect-only-plan-v1",
         "20260527T225200-clinica-hemostasia-secuencia-implementation-review-v1",
         "20260527T230844-clinica-hemostasia-secuencia-postfixture-review-v2",
-        "20260527T231641-clinica-ayudantes-no-duplicar-cirujano-review-v1"
+        "20260527T231641-clinica-ayudantes-no-duplicar-cirujano-review-v1",
+        "20260527T232903-clinica-ayudantes-no-duplicar-implementation-review-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-    "message": "Job 20260527T231641 CLINICA completado con propuesta detect-only para evitar duplicar cirujano en Ayudantes; personal-xh disponible para mejoras, QA o backlog.",
+    "message": "Job 20260527T232903 CLINICA completado con revision de implementacion del gate ayudantes_no_duplican_cirujano; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-    "updated_at": "2026-05-27T23:19:33-03:00"
+    "updated_at": "2026-05-27T23:29:43-03:00"
 }
