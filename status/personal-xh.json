@@ -14,7 +14,7 @@
   "front": "MULTI",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
-  "last_idle_signal_at": "2026-05-28T00:55:10-03:00",
+  "last_idle_signal_at": "2026-05-28T01:26:05-03:00",
   "last_completed_jobs": [
     "20260525T012344-handshake-personal-codex",
     "20260525T012657-auditoria-telegram-contexto-global",
@@ -225,11 +225,11 @@
         "20260528T010945-viajes-costa-mujeres-vuelos-hoteles-all-inclusive-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-    "message": "Job 20260528T010945 VIAJES completado con comparativa Costa Mujeres/Cancun all inclusive y vuelos; personal-xh disponible para mejoras, QA o backlog.",
+    "message": "personal-xh disponible y solicitando asignacion de mejoras, QA o backlog accionable.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-    "updated_at": "2026-05-28T01:18:42-03:00"
+    "updated_at": "2026-05-28T01:26:05-03:00"
 }
