@@ -217,14 +217,15 @@
         "20260527T233900-clinica-next-p0-gates-prioritization-after-ayudantes-v1",
         "20260527T235024-clinica-trazabilidad-materiales-implementation-review-v1",
         "20260527T235753-clinica-trazabilidad-materiales-frontier-fixtures-v2",
-        "20260528T000957-clinica-trazabilidad-frontier-implementation-review-v1"
+        "20260528T000957-clinica-trazabilidad-frontier-implementation-review-v1",
+        "20260528T001728-telegram-direct-last-user-turn-null-audit-v1"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-    "message": "Job 20260528T000957 CLINICA completado con revision de implementacion de fixtures frontera de trazabilidad_implantes_materiales; personal-xh disponible para mejoras, QA o backlog.",
+    "message": "Job 20260528T001728 TELEGRAM completado con auditoria de last_user_turn nulo y contrato de patch monotono; personal-xh disponible para mejoras, QA o backlog.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-    "updated_at": "2026-05-28T00:14:34-03:00"
+    "updated_at": "2026-05-28T00:19:31-03:00"
 }
