@@ -241,14 +241,15 @@
         "20260528T073409-viajes-costa-mujeres-email-blockers-safe-check-v1",
         "20260528T123710-clinica-correcciones-a-fixtures-implementacion",
         "20260528T123712-radar-anti-empty-script-spec",
-        "20260528T123714-reels-dia-patria-assets-and-timeline"
+        "20260528T123714-reels-dia-patria-assets-and-timeline",
+        "20260528T124721-presentaciones-pilot-pack"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-    "message": "personal-xh completo 3 jobs asignados y vuelve a estar disponible para mejoras, QA o backlog accionable.",
+    "message": "personal-xh completo 20260528T124721-presentaciones-pilot-pack y vuelve a estar disponible para mejoras, QA o backlog accionable.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
   "requesting_work": true,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
   "status": "available",
-    "updated_at": "2026-05-28T12:42:18-03:00"
+    "updated_at": "2026-05-28T12:47:48-03:00"
 }
