@@ -10,7 +10,7 @@
     "arquitectura",
     "auditoria"
   ],
-  "capacity_for_work": true,
+  "capacity_for_work": false,
   "front": "MULTI",
   "host": "MacBook-Air-de-Carlos.local",
   "idle": true,
@@ -252,11 +252,13 @@
         "20260528T132759-tesis-protocolo-datos-y-material-audiovisual"
   ],
   "local_repo": "/Users/carloszanardi/Documents/Codex/codex-bridge",
-    "message": "personal-xh disponible: asignar mejoras, QA o backlog accionable.",
+    "message": "personal-xh suspendido por control de consumo de Codex; no asignar trabajos hasta reactivacion explicita.",
   "preferred_assignment_mode": "orchestrator_creates_job_in_jobs_assigned_to_personal-xh",
-  "requesting_work": true,
+  "requesting_work": false,
   "requesting_work_since": "2026-05-25T11:50:06-03:00",
   "role": "personal-xh",
-  "status": "available",
-    "updated_at": "2026-05-28T14:38:19-03:00"
+  "status": "suspended",
+    "suspended": true,
+    "suspended_reason": "manual suspension to stop bridge polling/autonomous Codex credit usage",
+    "updated_at": "2026-05-29T18:09:42-03:00"
 }

@@ -19,6 +19,7 @@ CLAIMS = ROOT / "claims"
 STATUS = ROOT / "status"
 TMP = ROOT / "tmp"
 LOCK = TMP / "personal_xh_autonomous_worker.lock"
+SUSPENSION_FILE = ROOT / "BRIDGE_SUSPENDED"
 PUBLICABLE_PHOTOS = Path.home() / "CodexPublicablePhotos"
 SAFE_ASSET_DIRS = [
     Path.home() / "CodexAssets",
@@ -321,6 +322,10 @@ def commit_and_push(message: str) -> None:
 
 def process_once(args: argparse.Namespace) -> int:
     TMP.mkdir(parents=True, exist_ok=True)
+    if SUSPENSION_FILE.exists():
+        print("Bridge suspended: BRIDGE_SUSPENDED exists. No autonomous job processing.")
+        return 0
+
     with LOCK.open("w", encoding="utf-8") as lock:
         try:
             fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)

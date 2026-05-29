@@ -1,0 +1,10 @@
+Codex bridge suspended on 2026-05-29.
+
+Reason:
+- Prevent unintended Codex credit usage from recurring heartbeats, bridge polling,
+  autonomous jobs, or long-context Desktop App turns.
+
+Operational rule:
+- Do not run personal-xh polling or autonomous processing while this file exists.
+- Resume only after an explicit human request and after replacing xhigh/heartbeat
+  defaults with cheaper, bounded settings.
